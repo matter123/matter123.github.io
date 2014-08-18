@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['c',['c',['../classhal_1_1ostream.html#a1ffac2887b152385b40a1ea5c15f9b6a',1,'hal::ostream']]],
+  ['callbacks',['callbacks',['../namespacehal.html#a79c69e0ed9f8f741df559ac229a448d9',1,'hal']]],
+  ['chars',['chars',['../namespacestd.html#a35f0bd681a78f8a7077d674cc4473474',1,'std']]],
+  ['chars_5flow',['chars_low',['../namespacestd.html#a4735342d5b34f7589e5455cd5439e6ed',1,'std']]],
+  ['cindex',['cindex',['../classkernel_1_1test.html#ae782162a81d63c0340b607ad38994f96',1,'kernel::test']]],
+  ['code',['code',['../structcpu__state.html#a84213d5c56030de14af51b73666c5571',1,'cpu_state']]],
+  ['code_5fsegment',['code_segment',['../structx64_1_1idt__entry.html#a211f1778f248c19fed1e3e7123c7cb90',1,'x64::idt_entry::code_segment()'],['../structx86_1_1idt__entry.html#a1b7e3803dd8db36d34faecac343284d1',1,'x86::idt_entry::code_segment()']]],
+  ['color',['color',['../classhal_1_1ConsoleColor.html#a953651c5be82d2a2ba422445581acdce',1,'hal::ConsoleColor']]],
+  ['colordef',['ColorDef',['../namespacehal.html#add26cb88ca66687a6c364ae2467b6551',1,'hal']]],
+  ['count',['count',['../namespacex86__64.html#a400047baf98b949833df227c907d7a1e',1,'x86_64::count()'],['../namespacehal.html#a5480a292d2e7a8631d1c4712058078a9',1,'hal::count()']]],
+  ['cout',['cout',['../namespacehal.html#a313e0ab6d0735538fa42c52df5b947b8',1,'hal']]],
+  ['cr0',['cr0',['../structcpu__state.html#a6cb22fcc7c0ef7c1e23c2118e728a476',1,'cpu_state']]],
+  ['cr2',['cr2',['../structcpu__state.html#ab05344fbb0edbab9ad475438bc7f855a',1,'cpu_state']]],
+  ['cr3',['cr3',['../structcpu__state.html#a17ad088db0b0d2cde970064d62dde02f',1,'cpu_state']]],
+  ['cr4',['cr4',['../structcpu__state.html#ac94b85a4c081c974a343d5cd2783c9e6',1,'cpu_state']]],
+  ['cs',['cs',['../structcpu__state.html#aa7a7ee085e6d2fc267857d8147d6cb61',1,'cpu_state']]],
+  ['cyan',['CYAN',['../namespacestd_1_1TC.html#ae18f558965edbeefd106f1c9e58d06eb',1,'std::TC']]]
+];

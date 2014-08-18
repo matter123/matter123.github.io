@@ -1,0 +1,4 @@
+<map id="x64::IDTR" name="x64::IDTR">
+<area shape="rect" id="node2" href="$structx64_1_1IDT.html" title="x64::IDT" alt="" coords="22,96,97,123"/>
+<area shape="rect" id="node3" href="$structx64_1_1idt__entry.html" title="x64::idt_entry" alt="" coords="5,5,115,32"/>
+</map>
