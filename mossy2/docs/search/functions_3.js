@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['enable_5finterrupts',['enable_interrupts',['../namespacehal.html#a1b306056ca8456973d83e8852fd8f76a',1,'hal']]],
-  ['encode_5fchar',['encode_char',['../utf8_8h.html#acad7e1fa7fc888d1ab74731bc3df0d88',1,'encode_char(uint32_t code_point, char *buffer):&#160;utf8.c'],['../utf8_8c.html#adf040cbe4cd920129db86c905b18eb19',1,'encode_char(uint32_t cp, char *b):&#160;utf8.c']]],
-  ['encode_5ffive',['encode_five',['../utf8_8h.html#a94eb5369ad64d9ac457d9b9ba35ca0be',1,'encode_five(uint32_t code_point, char *buffer):&#160;utf8.c'],['../utf8_8c.html#aab5ae3e75c4eae23600f71fd1dee9ebb',1,'encode_five(uint32_t cp, char *b):&#160;utf8.c']]],
-  ['enter_5fbc',['enter_bc',['../namespacekernel_1_1bootconsole.html#a9ef033a79100b085e42b06754a8f8e79',1,'kernel::bootconsole']]],
-  ['error',['error',['../namespacestd.html#aee8638f52a45c25eb67c04e273db960a',1,'std']]]
+  ['debug',['debug',['../namespacestd.html#a25b422e2a18c02cd925f693e65550a18',1,'std']]],
+  ['debug_5freport_5flevel',['debug_report_level',['../namespacestd.html#a0c72e3e140c77750bcf74174f57ef9c7',1,'std']]],
+  ['decode_5fchar',['decode_char',['../utf8_8h.html#ac859a73f89520ff054de75f2fb986020',1,'decode_char(const char *c):&#160;utf8.c'],['../utf8_8c.html#ac859a73f89520ff054de75f2fb986020',1,'decode_char(const char *c):&#160;utf8.c']]],
+  ['disable_5finterrupts',['disable_interrupts',['../namespacehal.html#a59a7cd4b190f6f957e3ecfc0028485ca',1,'hal']]],
+  ['dumb_5fmerge',['dumb_merge',['../namespacekernel.html#abda890eb0224f932543b2848fba64ffd',1,'kernel']]],
+  ['dump_5fregs',['dump_regs',['../namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc',1,'hal']]]
 ];

@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['y',['y',['../namespacehal.html#a887f8a6e544e3a5dbd390535fc410b6d',1,'hal']]],
-  ['yellow',['YELLOW',['../namespacestd_1_1TC.html#a43a2da8cf6ba73efb2658584e625a2b5',1,'std::TC']]]
+  ['x',['x',['../namespacehal.html#a1cad533f81b1d2d53f9f474f77a1449c',1,'hal']]],
+  ['x64',['x64',['../namespacex64.html',1,'']]],
+  ['x86',['x86',['../namespacex86.html',1,'']]],
+  ['x86_5f64',['x86_64',['../namespacex86__64.html',1,'']]]
 ];

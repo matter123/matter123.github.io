@@ -1,26 +1,6 @@
 var searchData=
 [
-  ['a',['a',['../namespacehal.html#a237b1f423463b7ea9b815092982295ea',1,'hal']]],
-  ['accessed',['accessed',['../structx64_1_1recursive__paging_1_1pte.html#a934af8959ce0da08df67db68da0ec51c',1,'x64::recursive_paging::pte::accessed()'],['../structx64_1_1recursive__paging_1_1pde.html#a20ae5eb69c68f723babad53ed9d697c1',1,'x64::recursive_paging::pde::accessed()'],['../structx64_1_1recursive__paging_1_1pdpte.html#a77f264847eedb39b8c967e0934a55243',1,'x64::recursive_paging::pdpte::accessed()'],['../structx64_1_1recursive__paging_1_1pml4e.html#a4974e0bf05a9021e053b92a778791890',1,'x64::recursive_paging::pml4e::accessed()'],['../structx86_1_1recursive__paging_1_1pde.html#a2b28cd76b501a414ae56af2627898860',1,'x86::recursive_paging::pde::accessed()'],['../structx86_1_1recursive__paging_1_1pte.html#a2e78198f00976f5d7de4f080e3c9d6fd',1,'x86::recursive_paging::pte::accessed()']]],
-  ['add_5ffree_5fpage',['add_free_page',['../namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6',1,'x86_64']]],
-  ['add_5fphys_5fmem_5farch',['add_phys_mem_arch',['../namespacehal.html#a3949c3c672c8731a6624f705dbe84cb9',1,'hal']]],
-  ['add_5fphys_5fmem_5fvendor',['add_phys_mem_vendor',['../namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc',1,'hal']]],
-  ['add_5fphys_5fregion',['add_phys_region',['../namespacehal.html#af8c5fec085a04b661ba95ff255cc8254',1,'hal::add_phys_region(uint64_t start, uint64_t len, mem_type type)'],['../namespacehal.html#a999cca0fe332310d9926a431173149f9',1,'hal::add_phys_region(int count)']]],
-  ['add_5freg_5fcount',['add_reg_count',['../namespacehal.html#a89cdc01ae184c786c326bb83cf17a785',1,'hal::add_reg_count()'],['../namespacehal.html#a89cdc01ae184c786c326bb83cf17a785',1,'hal::add_reg_count()']]],
-  ['add_5ftask',['add_task',['../namespacex64.html#a2e167daad9888ab7dcc6c5f642817cc4',1,'x64::add_task()'],['../namespacex86.html#a7e13d82dbbdae0292a9dd8eef4feb5ab',1,'x86::add_task()'],['../namespacekernel.html#aa08668900a1fce0bf4a29be9ec85ee8b',1,'kernel::add_task()']]],
-  ['add_5fvirt_5fmem_5farch',['add_virt_mem_arch',['../namespacehal.html#aaedd544c8d9fe4a3c4a5060a541186fe',1,'hal']]],
-  ['add_5fvirt_5fmem_5fvendor',['add_virt_mem_vendor',['../namespacehal.html#a3967389502235d4afbd3dd03911e82b1',1,'hal']]],
-  ['add_5fvirt_5fregion',['add_virt_region',['../namespacehal.html#a2cf30f5cd953ae5539089abc3007fbbd',1,'hal::add_virt_region(uint64_t start, uint64_t len, mem_type type)'],['../namespacehal.html#a640002963c71b7f311ddf99f187a5db7',1,'hal::add_virt_region(int count)']]],
-  ['addr',['addr',['../structx64_1_1recursive__paging_1_1pte.html#a35578c02817d702e0b37299428a66f51',1,'x64::recursive_paging::pte::addr()'],['../structx64_1_1recursive__paging_1_1pde.html#a695e4f02d5b4a827a509a5504e770256',1,'x64::recursive_paging::pde::addr()'],['../structx64_1_1recursive__paging_1_1pdpte.html#a2990d8869536dada6ef098da40901fa6',1,'x64::recursive_paging::pdpte::addr()'],['../structx64_1_1recursive__paging_1_1pml4e.html#a5cb3bcfcaa80afa064b0aa414b458497',1,'x64::recursive_paging::pml4e::addr()'],['../structx86_1_1recursive__paging_1_1pde.html#aba9f9e2a511e2e3f603bd6720bada2db',1,'x86::recursive_paging::pde::addr()'],['../structx86_1_1recursive__paging_1_1pte.html#aa38fa9b72d9eac44b6ec6ee327277aed',1,'x86::recursive_paging::pte::addr()'],['../structhal_1_1multiboot__mmap__ent.html#ae5b5f24eb3d279512c1fd1350ac0e78d',1,'hal::multiboot_mmap_ent::addr()'],['../structhal_1_1multiboot__fb.html#a4b0f708829ee84b1a41ed8d2eae12cee',1,'hal::multiboot_fb::addr()']]],
-  ['address',['address',['../namespacehal.html#aca6d362afe774d4a4453df3ba637f215',1,'hal::address()'],['../namespacehal.html#a4013e509947e7228aef455038ba1c82a',1,'hal::address(16, 2, 2, sizeof(uintreg_t)*2)']]],
-  ['alloc_5ffunc',['alloc_func',['../classx64_1_1recursive__paging.html#a450f42166b3dd1342b8497b3af71dfb4',1,'x64::recursive_paging::alloc_func()'],['../classx86_1_1recursive__paging.html#a4cffa17864bc8a6e7daa86d8b6db7aa1',1,'x86::recursive_paging::alloc_func()']]],
-  ['arch_2eh',['arch.h',['../arch_8h.html',1,'']]],
-  ['arrows',['arrows',['../namespacehal.html#a50b01fe133ad35cb54870ce8066e0144',1,'hal']]],
-  ['asctime',['asctime',['../time_8h.html#a68a0e9d22417dfcf9c0be64261352e64',1,'asctime(const struct tm *timeptr):&#160;time.h'],['../time_8cpp.html#ae3b8c29a35f3137802c32e8e54ed8e6d',1,'asctime(const tm *timeptr):&#160;time.cpp']]],
-  ['assert',['assert',['../namespacestd.html#ac5cd6c10f3b85540626b27f1e00cd30d',1,'std']]],
-  ['atof',['atof',['../stdlib_8h.html#a5aff941a8b7b49b2e7160449a3d413fc',1,'stdlib.h']]],
-  ['atoi',['atoi',['../stdlib_8h.html#aec327ac88a4cd588e82a8b0ac752b089',1,'atoi(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#aec327ac88a4cd588e82a8b0ac752b089',1,'atoi(const char *str):&#160;stdlib.cpp']]],
-  ['atol',['atol',['../stdlib_8h.html#ad92c5a918e5bcd89416deb3b64fb46ee',1,'atol(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#ad92c5a918e5bcd89416deb3b64fb46ee',1,'atol(const char *str):&#160;stdlib.cpp']]],
-  ['atoll',['atoll',['../stdlib_8h.html#a53e8d1f366b7581b51b222c2e02aa765',1,'atoll(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#a53e8d1f366b7581b51b222c2e02aa765',1,'atoll(const char *str):&#160;stdlib.cpp']]],
-  ['avil',['avil',['../classhal_1_1mem__type.html#a478c82ed5f0695e167d3b7ad78e7773e',1,'hal::mem_type']]]
+  ['_5f_5fcxa_5fatexit',['__cxa_atexit',['../ABI_8c.html#ad86c1efc281116a661ae2470e47e24b6',1,'ABI.c']]],
+  ['_5f_5fcxa_5ffinalize',['__cxa_finalize',['../ABI_8c.html#aa8622fa1c28f360ea05bc97063d192b3',1,'ABI.c']]],
+  ['_5f_5fdso_5fhandle',['__dso_handle',['../ABI_8c.html#a19df960d2907e9c08a720ae7683e632c',1,'ABI.c']]]
 ];

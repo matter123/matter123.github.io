@@ -1,8 +1,12 @@
 var searchData=
 [
-  ['w_5fmalloc',['w_malloc',['../namespacehal.html#a70f151d3bf2b559ed7e4045be1c76171',1,'hal::w_malloc(size_t s)'],['../namespacehal.html#a5f2d8143eeb1ef13dfa915d4ad595cb0',1,'hal::w_malloc(size_t s, size_t alignment)']]],
-  ['wait_5ffor_5fint',['wait_for_int',['../namespacehal.html#a251c88f3d1923667dcfc161656bcc6fa',1,'hal']]],
-  ['width',['width',['../namespacehal.html#aa9329e80a6a5dbb16f38855aa7999b0d',1,'hal']]],
-  ['wksp_5fbegin',['wksp_begin',['../namespacehal.html#a6487ba4be75874e36c21a667e61300b8',1,'hal']]],
-  ['wrmsr',['wrmsr',['../cpu__stuff_8h.html#a368f08346121290f513a26011e0f68f8',1,'cpu_stuff.h']]]
+  ['ulltoa',['ulltoa',['../stdlib_8h.html#ae7e665b2cd7db799a932a8745e34d821',1,'ulltoa(unsigned long long value, char *str, int base):&#160;stdlib.cpp'],['../stdlib_8cpp.html#ae7e665b2cd7db799a932a8745e34d821',1,'ulltoa(unsigned long long value, char *str, int base):&#160;stdlib.cpp']]],
+  ['ultoa',['ultoa',['../stdlib_8h.html#abcb262a9b96810d8483a665d6100f813',1,'ultoa(unsigned long value, char *str, int base):&#160;stdlib.cpp'],['../stdlib_8cpp.html#abcb262a9b96810d8483a665d6100f813',1,'ultoa(unsigned long value, char *str, int base):&#160;stdlib.cpp']]],
+  ['unlock',['unlock',['../classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78',1,'kernel::mutex']]],
+  ['unmap',['unmap',['../classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8',1,'x64::recursive_paging::unmap()'],['../classx86_1_1recursive__paging.html#a871862e18fdee0f1c310d96d3033daa8',1,'x86::recursive_paging::unmap()']]],
+  ['unmap_5fvirt_5fcur',['unmap_virt_cur',['../namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd',1,'hal']]],
+  ['unmap_5fvirt_5fphys_5fcur',['unmap_virt_phys_cur',['../namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9',1,'hal']]],
+  ['unmask',['unmask',['../namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec',1,'pc']]],
+  ['use_5firq',['use_irq',['../namespacepc.html#aa4e1730438b454c96e7a2256e74e399a',1,'pc']]],
+  ['utoa',['utoa',['../stdlib_8h.html#a5a74d28d5863f08790d9457b84994276',1,'utoa(unsigned int value, char *str, int base):&#160;stdlib.cpp'],['../stdlib_8cpp.html#a5a74d28d5863f08790d9457b84994276',1,'utoa(unsigned int value, char *str, int base):&#160;stdlib.cpp']]]
 ];

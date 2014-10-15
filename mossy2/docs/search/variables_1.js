@@ -1,17 +1,13 @@
 var searchData=
 [
-  ['b',['b',['../classhal_1_1ostream.html#aec1cb245bc6ef8eefa6071b5a9657cc9',1,'hal::ostream::b()'],['../namespacehal.html#a4fed10c299a524bd601f718c8fabf46b',1,'hal::b()']]],
-  ['backcolor',['backcolor',['../classhal_1_1ConsoleColor.html#afce1559e08bce3314d36b235563c080a',1,'hal::ConsoleColor::backcolor()'],['../namespacestd_1_1TC.html#ab81e1da35492fc12c9afa4ba3f4a7029',1,'std::TC::BACKCOLOR()']]],
-  ['base',['base',['../structx64_1_1IDTR.html#a98b7b7d7b56a458f92446111e8021abe',1,'x64::IDTR::base()'],['../classx64_1_1recursive__paging.html#a8d2b037fed46c292b0228dea560022ec',1,'x64::recursive_paging::base()'],['../structx86_1_1IDTR.html#a92830f21d42a31f8a1681523168ed0a7',1,'x86::IDTR::base()'],['../classhal_1_1ios__base.html#aa563c131a11053d83bdc8328079bdf9e',1,'hal::ios_base::base()']]],
-  ['big',['big',['../structx86_1_1recursive__paging_1_1pde.html#a37fc2b3130542c3a3331563ad7a6e6ff',1,'x86::recursive_paging::pde']]],
-  ['bin',['bin',['../namespacehal.html#afc2d55fad65f51740246f2324b5a843a',1,'hal']]],
-  ['bitmap',['bitmap',['../namespacekernel.html#ac2785caed558fc14275ab3bc3ec84ddb',1,'kernel']]],
-  ['black',['BLACK',['../namespacestd_1_1TC.html#a368e55b3e3649ec56d2598e7366f98fa',1,'std::TC']]],
-  ['blue',['blue',['../structhal_1_1multiboot__palette.html#ae0affb38d3c27f754196171a35104a6f',1,'hal::multiboot_palette::blue()'],['../namespacestd_1_1TC.html#a4c6b5b12ed2c662a5ac79437c62f3ad8',1,'std::TC::BLUE()']]],
-  ['blue_5fmask',['blue_mask',['../structhal_1_1multiboot__ci__1.html#a381104e218061f1e62c33e7da7cc08cf',1,'hal::multiboot_ci_1']]],
-  ['blue_5fpos',['blue_pos',['../structhal_1_1multiboot__ci__1.html#af068765927bba819bc6735b443adf63a',1,'hal::multiboot_ci_1']]],
-  ['bootinfo',['bootinfo',['../classhal_1_1mem__type.html#a101fab5aa776135084026642be8511cb',1,'hal::mem_type']]],
-  ['bpp',['bpp',['../structhal_1_1multiboot__fb.html#a93653682ea0eb51497760c31f99dabdc',1,'hal::multiboot_fb']]],
-  ['buf',['buf',['../namespacestd_1_1TC.html#a6bb6f38882ea438ca58b0e352899b8a1',1,'std::TC']]],
-  ['byte_5forder',['byte_order',['../namespacehal.html#af25009464e4501d3c509c87f19dbb842',1,'hal']]]
+  ['a',['a',['../namespacehal.html#a237b1f423463b7ea9b815092982295ea',1,'hal']]],
+  ['accessed',['accessed',['../structx64_1_1recursive__paging_1_1pte.html#a934af8959ce0da08df67db68da0ec51c',1,'x64::recursive_paging::pte::accessed()'],['../structx64_1_1recursive__paging_1_1pde.html#a20ae5eb69c68f723babad53ed9d697c1',1,'x64::recursive_paging::pde::accessed()'],['../structx64_1_1recursive__paging_1_1pdpte.html#a77f264847eedb39b8c967e0934a55243',1,'x64::recursive_paging::pdpte::accessed()'],['../structx64_1_1recursive__paging_1_1pml4e.html#a4974e0bf05a9021e053b92a778791890',1,'x64::recursive_paging::pml4e::accessed()'],['../structx86_1_1recursive__paging_1_1pde.html#a2b28cd76b501a414ae56af2627898860',1,'x86::recursive_paging::pde::accessed()'],['../structx86_1_1recursive__paging_1_1pte.html#a2e78198f00976f5d7de4f080e3c9d6fd',1,'x86::recursive_paging::pte::accessed()']]],
+  ['active',['active',['../structkernel_1_1thread__info.html#a4f9fb3042103866acbd5e51ca0c97305',1,'kernel::thread_info::active()'],['../namespacekernel.html#a89aca0ec442e8cc5c136f6b52b349d92',1,'kernel::active()']]],
+  ['add_5freg_5fcount',['add_reg_count',['../namespacehal.html#a89cdc01ae184c786c326bb83cf17a785',1,'hal::add_reg_count()'],['../namespacehal.html#a89cdc01ae184c786c326bb83cf17a785',1,'hal::add_reg_count()']]],
+  ['addr',['addr',['../structx64_1_1recursive__paging_1_1pte.html#a35578c02817d702e0b37299428a66f51',1,'x64::recursive_paging::pte::addr()'],['../structx64_1_1recursive__paging_1_1pde.html#a695e4f02d5b4a827a509a5504e770256',1,'x64::recursive_paging::pde::addr()'],['../structx64_1_1recursive__paging_1_1pdpte.html#a2990d8869536dada6ef098da40901fa6',1,'x64::recursive_paging::pdpte::addr()'],['../structx64_1_1recursive__paging_1_1pml4e.html#a5cb3bcfcaa80afa064b0aa414b458497',1,'x64::recursive_paging::pml4e::addr()'],['../structx86_1_1recursive__paging_1_1pde.html#aba9f9e2a511e2e3f603bd6720bada2db',1,'x86::recursive_paging::pde::addr()'],['../structx86_1_1recursive__paging_1_1pte.html#aa38fa9b72d9eac44b6ec6ee327277aed',1,'x86::recursive_paging::pte::addr()'],['../structhal_1_1multiboot__mmap__ent.html#ae5b5f24eb3d279512c1fd1350ac0e78d',1,'hal::multiboot_mmap_ent::addr()'],['../structhal_1_1multiboot__fb.html#a4b0f708829ee84b1a41ed8d2eae12cee',1,'hal::multiboot_fb::addr()']]],
+  ['address',['address',['../namespacehal.html#aca6d362afe774d4a4453df3ba637f215',1,'hal']]],
+  ['alloc_5ffunc',['alloc_func',['../classx64_1_1recursive__paging.html#a450f42166b3dd1342b8497b3af71dfb4',1,'x64::recursive_paging::alloc_func()'],['../classx86_1_1recursive__paging.html#a4cffa17864bc8a6e7daa86d8b6db7aa1',1,'x86::recursive_paging::alloc_func()']]],
+  ['arr',['arr',['../classstd_1_1vector.html#a6387ed945e047406fb39025e7dc7736c',1,'std::vector']]],
+  ['arrows',['arrows',['../namespacehal.html#a50b01fe133ad35cb54870ce8066e0144',1,'hal']]],
+  ['avil',['avil',['../classhal_1_1mem__type.html#a478c82ed5f0695e167d3b7ad78e7773e',1,'hal::mem_type']]]
 ];

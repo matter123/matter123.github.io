@@ -1,9 +1,10 @@
 var searchData=
 [
-  ['global',['global',['../structx64_1_1recursive__paging_1_1pte.html#a9abd500434b5594a5e058093ee222282',1,'x64::recursive_paging::pte::global()'],['../structx86_1_1recursive__paging_1_1pte.html#ade52bf4f2a624b783b9132e93d1ad2e8',1,'x86::recursive_paging::pte::global()']]],
-  ['greek',['greek',['../namespacehal.html#a93d5ab78e9575eadcf4717002617d93b',1,'hal']]],
-  ['green',['green',['../structhal_1_1multiboot__palette.html#a40672fa8f46fe87247de770d391d03e1',1,'hal::multiboot_palette::green()'],['../namespacestd_1_1TC.html#a279c81dcd0d56697a90b52cd46daf6f2',1,'std::TC::GREEN()']]],
-  ['green_5fmask',['green_mask',['../structhal_1_1multiboot__ci__1.html#ad63dcac068d1fb6508f4f6e990b19a71',1,'hal::multiboot_ci_1']]],
-  ['green_5fpos',['green_pos',['../structhal_1_1multiboot__ci__1.html#a40b3b5546e1ac5bf40bae8308f064b6b',1,'hal::multiboot_ci_1']]],
-  ['gs',['gs',['../structcpu__state.html#aeb40d6b7fb70644873f1a6a63f275158',1,'cpu_state']]]
+  ['firmware',['firmware',['../classhal_1_1mem__type.html#ae22f51f1f76275a16f9eca84ba52fe29',1,'hal::mem_type']]],
+  ['free',['free',['../structkernel_1_1HEAD.html#ab2bf2ae287b06c12787225971657a32b',1,'kernel::HEAD']]],
+  ['free_5fcount',['free_count',['../classkernel_1_1semaphore.html#a4e9d80312310f90a7a99399c5ffb4aa9',1,'kernel::semaphore']]],
+  ['freq',['freq',['../namespacehal.html#aebee1c755b55e96b98e48974c3c1aefa',1,'hal']]],
+  ['fs',['fs',['../structcpu__state.html#a0fc1d3c22b185f549b0371e28ddaaa02',1,'cpu_state']]],
+  ['full',['FULL',['../namespacekernel.html#ada83f94b13aca263c0fd8779cd2cdb70',1,'kernel']]],
+  ['funcs',['funcs',['../namespacepc.html#a14ccd0da56c54524d4a97f2437a52c60',1,'pc']]]
 ];

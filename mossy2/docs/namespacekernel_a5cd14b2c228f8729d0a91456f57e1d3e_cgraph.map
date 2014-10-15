@@ -1,0 +1,5 @@
+<map id="kernel::init_kstacks" name="kernel::init_kstacks">
+<area shape="rect" id="node2" href="$namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="200,5,393,32"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="203,56,390,83"/>
+<area shape="rect" id="node4" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="259,107,335,133"/>
+</map>

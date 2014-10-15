@@ -1,0 +1,20 @@
+<map id="kernel::panic" name="kernel::panic">
+<area shape="rect" id="node2" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="157,157,357,184"/>
+<area shape="rect" id="node10" href="$classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="176,6,339,47"/>
+<area shape="rect" id="node12" href="$classx64_1_1recursive__paging.html#aa2d2b1f726c92101e1d7c65327fdc8ea" title="x64::recursive_paging\l::locate" alt="" coords="176,85,339,126"/>
+<area shape="rect" id="node14" href="$classx86_1_1recursive__paging.html#a48963a9fae102dec3e46473b21b72931" title="x86::recursive_paging::map" alt="" coords="157,259,357,285"/>
+<area shape="rect" id="node16" href="$namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="172,208,343,235"/>
+<area shape="rect" id="node19" href="$namespacekernel.html#aa38f4bf0908256f59d09f52a167625bd" title="kernel::panic" alt="" coords="205,309,309,336"/>
+<area shape="rect" id="node3" href="$namespacex64.html#a8a5dc9f93520822862cd5dd6d4be58ff" title="x64::handle" alt="" coords="452,157,549,184"/>
+<area shape="rect" id="node8" href="$namespacehal.html#aa477aac835558177ef108118f601d96f" title="hal::map_free_to_virt_cur" alt="" coords="407,208,594,235"/>
+<area shape="rect" id="node9" href="$namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="405,107,596,133"/>
+<area shape="rect" id="node4" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="658,208,781,235"/>
+<area shape="rect" id="node5" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="867,157,969,184"/>
+<area shape="rect" id="node7" href="$namespacex64.html#a548325823392c253f009aa8cc6996a25" title="x64::pre_init_handle" alt="" coords="843,208,993,235"/>
+<area shape="rect" id="node6" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1041,157,1168,184"/>
+<area shape="rect" id="node11" href="$namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="407,5,594,32"/>
+<area shape="rect" id="node13" href="$namespacehal.html#aa6d7cec673e4a4ea06601327ba2642b9" title="hal::phys_from_virt" alt="" coords="427,56,574,83"/>
+<area shape="rect" id="node15" href="$namespacex86.html#a6b3aa6f0451258a109582e3b6b467156" title="x86::handle" alt="" coords="452,360,549,387"/>
+<area shape="rect" id="node17" href="$namespacex86.html#ad2d07eef22e17f45585b7b9a3adbe1c0" title="x86::init_paging" alt="" coords="439,309,562,336"/>
+<area shape="rect" id="node18" href="$namespacex86.html#a3cfeb4786c0f6d7ed25756cfa2e75783" title="x86::pre_init_handle" alt="" coords="644,309,795,336"/>
+</map>

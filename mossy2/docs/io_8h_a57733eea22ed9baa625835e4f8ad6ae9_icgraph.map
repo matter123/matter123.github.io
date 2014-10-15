@@ -1,0 +1,8 @@
+<map id="io_wait" name="io_wait">
+<area shape="rect" id="node2" href="$namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="266,5,355,32"/>
+<area shape="rect" id="node5" href="$namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec" title="pc::unmask" alt="" coords="120,56,217,83"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="561,31,681,57"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="729,31,856,57"/>
+<area shape="rect" id="node6" href="$namespacepc.html#aa4e1730438b454c96e7a2256e74e399a" title="pc::use_irq" alt="" coords="265,56,356,83"/>
+<area shape="rect" id="node7" href="$namespacehal.html#ac062d1cf22c32480482c2b42fad48791" title="hal::timer_init" alt="" coords="404,56,513,83"/>
+</map>

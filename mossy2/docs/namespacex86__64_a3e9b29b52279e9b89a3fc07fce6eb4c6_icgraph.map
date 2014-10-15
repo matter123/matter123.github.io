@@ -1,0 +1,6 @@
+<map id="x86_64::add_free_page" name="x86_64::add_free_page">
+<area shape="rect" id="node2" href="$namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd" title="hal::unmap_virt_cur" alt="" coords="227,5,376,32"/>
+<area shape="rect" id="node3" href="$namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="239,56,363,83"/>
+<area shape="rect" id="node4" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="424,56,527,83"/>
+<area shape="rect" id="node5" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="575,56,701,83"/>
+</map>

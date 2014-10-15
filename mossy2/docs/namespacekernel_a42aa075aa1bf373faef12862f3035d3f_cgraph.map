@@ -1,0 +1,11 @@
+<map id="kernel::add_task" name="kernel::add_task">
+<area shape="rect" id="node2" href="$classstd_1_1vector.html#aa4a0dc23165160c65740e7f866f0432b" title="std::vector::push_back" alt="" coords="183,132,351,159"/>
+<area shape="rect" id="node3" href="$stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be" title="realloc" alt="" coords="399,132,463,159"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="511,5,623,32"/>
+<area shape="rect" id="node5" href="$namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="701,31,797,57"/>
+<area shape="rect" id="node6" href="$namespacekernel.html#abf20922f3940efb87c628f39b6f18039" title="kernel::free" alt="" coords="519,107,615,133"/>
+<area shape="rect" id="node7" href="$namespacekernel.html#abda890eb0224f932543b2848fba64ffd" title="kernel::dumb_merge" alt="" coords="671,132,827,159"/>
+<area shape="rect" id="node8" href="$namespacekernel.html#a6e4897103f6c207a9c2531daf8634859" title="kernel::scoot" alt="" coords="514,208,619,235"/>
+<area shape="rect" id="node10" href="$string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="527,259,606,285"/>
+<area shape="rect" id="node9" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="702,208,795,235"/>
+</map>

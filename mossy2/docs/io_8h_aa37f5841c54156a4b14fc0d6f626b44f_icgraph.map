@@ -1,0 +1,18 @@
+<map id="outb" name="outb">
+<area shape="rect" id="node2" href="$namespacehal.html#af51a986a8f578845948a4f527673b609" title="hal::program_vga" alt="" coords="104,115,239,141"/>
+<area shape="rect" id="node3" href="$namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="478,196,567,223"/>
+<area shape="rect" id="node6" href="$namespacepc.html#ae73a2df6a33fa032b29f0a25b4718582" title="pc::callback" alt="" coords="123,165,220,192"/>
+<area shape="rect" id="node15" href="$namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec" title="pc::unmask" alt="" coords="123,275,220,301"/>
+<area shape="rect" id="node17" href="$namespacehal.html#ac062d1cf22c32480482c2b42fad48791" title="hal::timer_init" alt="" coords="468,275,577,301"/>
+<area shape="rect" id="node4" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="651,208,771,235"/>
+<area shape="rect" id="node5" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="839,107,965,133"/>
+<area shape="rect" id="node7" href="$namespacehal.html#ad2c7992c296068c99785f4e6ccf65441" title="hal::register_int" alt="" coords="289,56,411,83"/>
+<area shape="rect" id="node14" href="$namespacehal.html#ad8570f9e46ffd27f074117cb374f8107" title="hal::install_timer\l_callback" alt="" coords="287,158,413,199"/>
+<area shape="rect" id="node8" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="461,132,584,159"/>
+<area shape="rect" id="node11" href="$namespacex86.html#ad2d07eef22e17f45585b7b9a3adbe1c0" title="x86::init_paging" alt="" coords="461,5,584,32"/>
+<area shape="rect" id="node13" href="$namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631" title="kernel::init_scheduler" alt="" coords="632,56,791,83"/>
+<area shape="rect" id="node9" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="660,107,763,133"/>
+<area shape="rect" id="node10" href="$namespacex64.html#a548325823392c253f009aa8cc6996a25" title="x64::pre_init_handle" alt="" coords="636,157,787,184"/>
+<area shape="rect" id="node12" href="$namespacex86.html#a3cfeb4786c0f6d7ed25756cfa2e75783" title="x86::pre_init_handle" alt="" coords="636,5,787,32"/>
+<area shape="rect" id="node16" href="$namespacepc.html#aa4e1730438b454c96e7a2256e74e399a" title="pc::use_irq" alt="" coords="305,275,395,301"/>
+</map>

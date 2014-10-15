@@ -1,0 +1,7 @@
+<map id="std::max" name="std::max">
+<area shape="rect" id="node2" href="$namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="366,5,490,32"/>
+<area shape="rect" id="node5" href="$namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="132,56,305,83"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="551,5,653,32"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="701,5,828,32"/>
+<area shape="rect" id="node6" href="$namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd" title="hal::unmap_virt_cur" alt="" coords="353,56,503,83"/>
+</map>

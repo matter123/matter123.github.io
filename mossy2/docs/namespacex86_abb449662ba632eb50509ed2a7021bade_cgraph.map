@@ -1,0 +1,10 @@
+<map id="x86::create_task" name="x86::create_task">
+<area shape="rect" id="node2" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="195,5,271,32"/>
+<area shape="rect" id="node3" href="$namespacekernel.html#a682f4fe5c50c6a33f9ae1d14e98e20b8" title="kernel::func" alt="" coords="184,56,283,83"/>
+<area shape="rect" id="node4" href="$classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f" title="kernel::mutex::lock" alt="" coords="339,29,485,56"/>
+<area shape="rect" id="node8" href="$classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78" title="kernel::mutex::unlock" alt="" coords="331,81,493,108"/>
+<area shape="rect" id="node5" href="$classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702" title="kernel::semaphore::wait" alt="" coords="541,27,720,53"/>
+<area shape="rect" id="node6" href="$classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="768,29,945,56"/>
+<area shape="rect" id="node7" href="$classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="768,81,945,108"/>
+<area shape="rect" id="node9" href="$classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4" title="kernel::semaphore::\lsignal" alt="" coords="555,78,706,119"/>
+</map>

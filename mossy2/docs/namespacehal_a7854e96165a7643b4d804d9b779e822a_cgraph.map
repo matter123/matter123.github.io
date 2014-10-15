@@ -1,0 +1,6 @@
+<map id="hal::print_boot_msg" name="hal::print_boot_msg">
+<area shape="rect" id="node2" href="$namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="203,5,288,32"/>
+<area shape="rect" id="node3" href="$namespacehal.html#aa9329e80a6a5dbb16f38855aa7999b0d" title="hal::width" alt="" coords="203,56,287,83"/>
+<area shape="rect" id="node4" href="$namespacehal.html#af08b2c49fc695d8a9b5dd132c92d7b7b" title="hal::halt" alt="" coords="209,107,282,133"/>
+<area shape="rect" id="node5" href="$namespacehal.html#a59a7cd4b190f6f957e3ecfc0028485ca" title="hal::disable_interrupts" alt="" coords="336,107,499,133"/>
+</map>

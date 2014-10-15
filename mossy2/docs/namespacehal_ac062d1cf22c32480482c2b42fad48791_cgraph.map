@@ -1,0 +1,15 @@
+<map id="hal::timer_init" name="hal::timer_init">
+<area shape="rect" id="node2" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="504,5,555,32"/>
+<area shape="rect" id="node3" href="$namespacepc.html#aa4e1730438b454c96e7a2256e74e399a" title="pc::use_irq" alt="" coords="163,56,253,83"/>
+<area shape="rect" id="node14" href="$namespacehal.html#ac56357cf360822759aa913232c24ada7" title="hal::tick" alt="" coords="172,107,244,133"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a682f4fe5c50c6a33f9ae1d14e98e20b8" title="kernel::func" alt="" coords="301,157,400,184"/>
+<area shape="rect" id="node11" href="$namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec" title="pc::unmask" alt="" coords="302,56,399,83"/>
+<area shape="rect" id="node5" href="$classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f" title="kernel::mutex::lock" alt="" coords="456,157,603,184"/>
+<area shape="rect" id="node9" href="$classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78" title="kernel::mutex::unlock" alt="" coords="448,209,611,236"/>
+<area shape="rect" id="node6" href="$classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702" title="kernel::semaphore::wait" alt="" coords="659,155,837,181"/>
+<area shape="rect" id="node7" href="$classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="885,157,1063,184"/>
+<area shape="rect" id="node8" href="$classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="885,209,1063,236"/>
+<area shape="rect" id="node10" href="$classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4" title="kernel::semaphore::\lsignal" alt="" coords="673,206,823,247"/>
+<area shape="rect" id="node12" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="727,80,769,107"/>
+<area shape="rect" id="node13" href="$io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9" title="io_wait" alt="" coords="496,56,563,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="kernel::semaphore::signal" name="kernel::semaphore::signal">
+<area shape="rect" id="node2" href="$classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="204,5,381,32"/>
+<area shape="rect" id="node3" href="$classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="204,56,381,83"/>
+</map>

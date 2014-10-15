@@ -1,0 +1,18 @@
+<map id="pc::init_pic" name="pc::init_pic">
+<area shape="rect" id="node2" href="$namespacehal.html#a9171645550c7ad1ab28040ef2bcc4d97" title="hal::reserve_range" alt="" coords="143,5,285,32"/>
+<area shape="rect" id="node4" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="594,157,645,184"/>
+<area shape="rect" id="node5" href="$io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9" title="io_wait" alt="" coords="181,208,247,235"/>
+<area shape="rect" id="node7" href="$namespacehal.html#ad2c7992c296068c99785f4e6ccf65441" title="hal::register_int" alt="" coords="153,56,275,83"/>
+<area shape="rect" id="node9" href="$namespacepc.html#ae73a2df6a33fa032b29f0a25b4718582" title="pc::callback" alt="" coords="378,107,475,133"/>
+<area shape="rect" id="node3" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="587,5,652,32"/>
+<area shape="rect" id="node6" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="406,208,447,235"/>
+<area shape="rect" id="node8" href="$namespacehal.html#a16f789679c3fc054ae684c1e57a24f9c" title="hal::register_asm_sub_int" alt="" coords="333,56,520,83"/>
+<area shape="rect" id="node10" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="568,56,671,83"/>
+<area shape="rect" id="node11" href="$namespacekernel.html#a682f4fe5c50c6a33f9ae1d14e98e20b8" title="kernel::func" alt="" coords="570,107,669,133"/>
+<area shape="rect" id="node12" href="$classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f" title="kernel::mutex::lock" alt="" coords="727,77,873,104"/>
+<area shape="rect" id="node16" href="$classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78" title="kernel::mutex::unlock" alt="" coords="719,132,881,159"/>
+<area shape="rect" id="node13" href="$classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702" title="kernel::semaphore::wait" alt="" coords="929,75,1108,101"/>
+<area shape="rect" id="node14" href="$classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="1156,129,1333,156"/>
+<area shape="rect" id="node15" href="$classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="1156,77,1333,104"/>
+<area shape="rect" id="node17" href="$classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4" title="kernel::semaphore::\lsignal" alt="" coords="943,126,1094,167"/>
+</map>

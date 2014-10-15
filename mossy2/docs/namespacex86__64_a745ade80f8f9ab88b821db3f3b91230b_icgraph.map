@@ -1,0 +1,11 @@
+<map id="x86_64::get_free_page" name="x86_64::get_free_page">
+<area shape="rect" id="node2" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="473,56,595,83"/>
+<area shape="rect" id="node6" href="$namespacex64.html#a8a5dc9f93520822862cd5dd6d4be58ff" title="x64::handle" alt="" coords="269,81,366,108"/>
+<area shape="rect" id="node7" href="$namespacehal.html#aa477aac835558177ef108118f601d96f" title="hal::map_free_to_virt_cur" alt="" coords="224,132,411,159"/>
+<area shape="rect" id="node8" href="$namespacex86.html#ad2d07eef22e17f45585b7b9a3adbe1c0" title="x86::init_paging" alt="" coords="256,183,379,209"/>
+<area shape="rect" id="node10" href="$namespacex86.html#a6b3aa6f0451258a109582e3b6b467156" title="x86::handle" alt="" coords="269,233,366,260"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="681,5,784,32"/>
+<area shape="rect" id="node5" href="$namespacex64.html#a548325823392c253f009aa8cc6996a25" title="x64::pre_init_handle" alt="" coords="657,56,808,83"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="856,5,983,32"/>
+<area shape="rect" id="node9" href="$namespacex86.html#a3cfeb4786c0f6d7ed25756cfa2e75783" title="x86::pre_init_handle" alt="" coords="459,183,609,209"/>
+</map>

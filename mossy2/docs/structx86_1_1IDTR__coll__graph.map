@@ -1,4 +1,4 @@
 <map id="x86::IDTR" name="x86::IDTR">
-<area shape="rect" id="node2" href="$structx86_1_1IDT.html" title="x86::IDT" alt="" coords="22,96,97,123"/>
-<area shape="rect" id="node3" href="$structx86_1_1idt__entry.html" title="x86::idt_entry" alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node2" href="$structx86_1_1IDT.html" title="x86::IDT" alt="" coords="23,95,99,121"/>
+<area shape="rect" id="node3" href="$structx86_1_1idt__entry.html" title="x86::idt_entry" alt="" coords="5,5,116,32"/>
 </map>

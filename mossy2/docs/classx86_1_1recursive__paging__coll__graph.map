@@ -1,7 +1,7 @@
 <map id="x86::recursive_paging" name="x86::recursive_paging">
-<area shape="rect" id="node2" href="$unionx86_1_1recursive__paging_1_1pt.html" title="x86::recursive_paging::pt" alt="" coords="300,45,484,72"/>
-<area shape="rect" id="node6" href="$structx86_1_1recursive__paging_1_1page__map.html" title="x86::recursive_paging\l::page_map" alt="" coords="592,107,755,149"/>
+<area shape="rect" id="node2" href="$unionx86_1_1recursive__paging_1_1pt.html" title="x86::recursive_paging::pt" alt="" coords="299,45,483,72"/>
+<area shape="rect" id="node6" href="$structx86_1_1recursive__paging_1_1page__map.html" title="x86::recursive_paging\l::page_map" alt="" coords="589,107,752,149"/>
 <area shape="rect" id="node3" href="$structx86_1_1recursive__paging_1_1pte.html" title="x86::recursive_paging::pte" alt="" coords="7,16,199,43"/>
-<area shape="rect" id="node4" href="$unionx86_1_1recursive__paging_1_1pd.html" title="x86::recursive_paging::pd" alt="" coords="299,175,485,201"/>
+<area shape="rect" id="node4" href="$unionx86_1_1recursive__paging_1_1pd.html" title="x86::recursive_paging::pd" alt="" coords="297,175,484,201"/>
 <area shape="rect" id="node5" href="$structx86_1_1recursive__paging_1_1pde.html" title="x86::recursive_paging::pde" alt="" coords="5,213,200,240"/>
 </map>

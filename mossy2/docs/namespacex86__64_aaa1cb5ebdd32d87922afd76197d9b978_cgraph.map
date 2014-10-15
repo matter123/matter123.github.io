@@ -1,0 +1,7 @@
+<map id="x86_64::init_pfa" name="x86_64::init_pfa">
+<area shape="rect" id="node2" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="241,5,317,32"/>
+<area shape="rect" id="node3" href="$namespacestd.html#afdb0985300047fc04bb3e2af35aee342" title="std::max" alt="" coords="428,132,507,159"/>
+<area shape="rect" id="node4" href="$namespacehal.html#abf959e9066eb0c121085f8dda7495f4f" title="hal::get_phys_mem_regions" alt="" coords="177,107,380,133"/>
+<area shape="rect" id="node5" href="$namespacehal.html#a9427442fe04656ce29bdcc40c004d87a" title="hal::get_phys_mem_region" alt="" coords="181,157,377,184"/>
+<area shape="rect" id="node6" href="$namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="192,208,365,235"/>
+</map>

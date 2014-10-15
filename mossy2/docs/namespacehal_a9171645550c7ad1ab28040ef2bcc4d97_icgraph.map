@@ -1,0 +1,5 @@
+<map id="hal::reserve_range" name="hal::reserve_range">
+<area shape="rect" id="node2" href="$namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="196,5,285,32"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="333,5,453,32"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="501,5,628,32"/>
+</map>

@@ -1,16 +1,15 @@
 var searchData=
 [
-  ['page_5falign',['page_align',['../namespacehal.html#ad8d37887f71f5ca1ff2440f2a97512c8',1,'hal']]],
-  ['paging_5fready',['paging_ready',['../namespacex64.html#ab3f41b6c905fa03a19be14e0a5f000a0',1,'x64::paging_ready()'],['../namespacex86.html#ae66fdff887eb0aa5c239781f52e83906',1,'x86::paging_ready()']]],
-  ['panic',['panic',['../namespacekernel.html#a96562ec4e1b4b4de264153555975b989',1,'kernel::panic() __attribute__((noreturn))'],['../namespacekernel.html#aa38f4bf0908256f59d09f52a167625bd',1,'kernel::panic(uint32_t code) __attribute__((noreturn))'],['../namespacekernel.html#a06e4bb2a4c3c1b84eb40150ee3268f41',1,'kernel::panic(const char *msg) __attribute__((noreturn))'],['../namespacekernel.html#ab5cf9b81e08d7fe019f846f38ce94424',1,'kernel::panic(const char *file, uint32_t line) __attribute__((noreturn))']]],
-  ['pd_5foff',['PD_OFF',['../namespacex64.html#a00c8a9f318395cc325de125463652976',1,'x64']]],
-  ['pdpt_5foff',['PDPT_OFF',['../namespacex64.html#af05bdba8caec9bdd104d08dbce354941',1,'x64']]],
-  ['phys_5ffrom_5fvirt',['phys_from_virt',['../namespacehal.html#aa6d7cec673e4a4ea06601327ba2642b9',1,'hal']]],
-  ['pml4_5foff',['PML4_OFF',['../namespacex64.html#a17d0ad570be106167f3587ae21b31324',1,'x64']]],
-  ['pre_5finit_5fhandle',['pre_init_handle',['../namespacex64.html#a548325823392c253f009aa8cc6996a25',1,'x64::pre_init_handle()'],['../namespacex86.html#a3cfeb4786c0f6d7ed25756cfa2e75783',1,'x86::pre_init_handle()']]],
-  ['print',['print',['../classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306',1,'hal::ostream']]],
-  ['print_5fboot_5fmsg',['print_boot_msg',['../namespacehal.html#a7854e96165a7643b4d804d9b779e822a',1,'hal']]],
-  ['printc',['printc',['../namespacehal.html#adf343534a8f851c0f34d612d474d48c4',1,'hal::printc(ConsoleColor c, const char *glyph)'],['../namespacehal.html#a3470f9ff1d6a545749c4c39ff47c9677',1,'hal::printc(ConsoleColor c, unsigned char let)']]],
-  ['program_5fvga',['program_vga',['../namespacehal.html#af51a986a8f578845948a4f527673b609',1,'hal']]],
-  ['pt_5foff',['PT_OFF',['../namespacex64.html#af20e210d736078ef94fe38662edf4535',1,'x64']]]
+  ['operator_20delete',['operator delete',['../new_8h.html#a41d83e8020f1d841b254be6ebeda92d2',1,'operator delete(void *, void *):&#160;new.h'],['../heap_8cpp.html#a86107594327f3a001230df9802cd4422',1,'operator delete(void *p):&#160;heap.cpp']]],
+  ['operator_20delete_5b_5d',['operator delete[]',['../new_8h.html#afea8decef8f286c8d73c89a1a81d4555',1,'operator delete[](void *, void *):&#160;new.h'],['../heap_8cpp.html#aaa8d8403dca7d813a59dd1f07728349d',1,'operator delete[](void *p):&#160;heap.cpp']]],
+  ['operator_20new',['operator new',['../new_8h.html#a0a32ddebc54410cf59dec423c0b0791b',1,'operator new(size_t, void *p):&#160;new.h'],['../heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719',1,'operator new(size_t size):&#160;heap.cpp']]],
+  ['operator_20new_5b_5d',['operator new[]',['../new_8h.html#a7f5a0f061d65c77264411a2914503659',1,'operator new[](size_t, void *p):&#160;new.h'],['../heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f',1,'operator new[](size_t size):&#160;heap.cpp']]],
+  ['operator_3c_3c',['operator&lt;&lt;',['../classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e',1,'hal::ostream::operator&lt;&lt;(char c)'],['../classhal_1_1ostream.html#a9aac736bd6ad1b6348a172b442d38b85',1,'hal::ostream::operator&lt;&lt;(const char *s)'],['../classhal_1_1ostream.html#acddd4c1882c50f73b6f08796904abb87',1,'hal::ostream::operator&lt;&lt;(int i)'],['../classhal_1_1ostream.html#a86bce4f8b1b7dbfaa9893ce273c872e6',1,'hal::ostream::operator&lt;&lt;(unsigned u)'],['../classhal_1_1ostream.html#a43166a25b267c736f55168ed5c2e07f0',1,'hal::ostream::operator&lt;&lt;(long l)'],['../classhal_1_1ostream.html#ab09d9b232bec1e32e8aa8efb5d1029c3',1,'hal::ostream::operator&lt;&lt;(unsigned long ul)'],['../classhal_1_1ostream.html#a31219b0b1c082a02057af157fad6ea64',1,'hal::ostream::operator&lt;&lt;(long long ll)'],['../classhal_1_1ostream.html#a11b2e4ef83632af3188a26f2b70181a2',1,'hal::ostream::operator&lt;&lt;(unsigned long long ull)'],['../classhal_1_1ostream.html#ad2c5b6e7c08e20dd148d710738e38ab9',1,'hal::ostream::operator&lt;&lt;(const void *p)'],['../classhal_1_1ostream.html#ac671ab5b2efffd39fa2a5784982183a5',1,'hal::ostream::operator&lt;&lt;(ios_base b)'],['../classhal_1_1ostream.html#ac1ce1ad31d22419532752c1bfaf9b3b6',1,'hal::ostream::operator&lt;&lt;(ConsoleColor c)']]],
+  ['operator_3d',['operator=',['../classstd_1_1vector.html#ab65953c23bf3f917f5d72497fa00f691',1,'std::vector']]],
+  ['operator_3d_3d',['operator==',['../classhal_1_1mem__type.html#adaa531e0e90059c0e221c0db79d4082e',1,'hal::mem_type']]],
+  ['operator_5b_5d',['operator[]',['../classstd_1_1vector.html#a4db5ea49cfba951fc38b2ddc792b47bb',1,'std::vector']]],
+  ['ostream',['ostream',['../classhal_1_1ostream.html#ace23587cede0306756b4f6610f49e3e9',1,'hal::ostream::ostream()'],['../classhal_1_1ostream.html#adedc54a26b833d53c0c774e68b20e017',1,'hal::ostream::ostream(ConsoleColor c)']]],
+  ['outb',['outb',['../io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f',1,'io.h']]],
+  ['outl',['outl',['../io_8h.html#a6d6ba720cbd995ee57852a8f6dba937c',1,'io.h']]],
+  ['outw',['outw',['../io_8h.html#aa4265e8a86864fa07906645dfb8b5152',1,'io.h']]]
 ];

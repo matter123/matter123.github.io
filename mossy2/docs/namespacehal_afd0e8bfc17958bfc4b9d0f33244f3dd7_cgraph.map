@@ -1,0 +1,9 @@
+<map id="hal::map_phys_to_virt_cur" name="hal::map_phys_to_virt_cur">
+<area shape="rect" id="node2" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="244,132,444,159"/>
+<area shape="rect" id="node3" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="499,5,603,32"/>
+<area shape="rect" id="node4" href="$namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="492,56,611,83"/>
+<area shape="rect" id="node5" href="$namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="500,107,603,133"/>
+<area shape="rect" id="node6" href="$namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="501,157,602,184"/>
+<area shape="rect" id="node7" href="$namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="497,208,605,235"/>
+<area shape="rect" id="node8" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="513,259,589,285"/>
+</map>

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['zero',['zero',['../structx64_1_1idt__entry.html#ad4d1ae39da5521802c99163b1ce0f450',1,'x64::idt_entry::zero()'],['../structx64_1_1recursive__paging_1_1pde.html#aa6daf8deac5e3a58aca1b0a5f5ef9424',1,'x64::recursive_paging::pde::zero()'],['../structx64_1_1recursive__paging_1_1pdpte.html#ae1de8f84d67ab76f72ce4bc3ea95149f',1,'x64::recursive_paging::pdpte::zero()'],['../structx64_1_1recursive__paging_1_1pml4e.html#a4de796152ac8bac2830e12c5cb1af07a',1,'x64::recursive_paging::pml4e::zero()'],['../structx86_1_1idt__entry.html#ab48d349997f709f8e577fc94d14270a3',1,'x86::idt_entry::zero()'],['../structx86_1_1recursive__paging_1_1pde.html#a088656bc6f40b7c92ae27c42c5b43511',1,'x86::recursive_paging::pde::zero()'],['../structx86_1_1recursive__paging_1_1pte.html#aae74ca180866cc7074eabc9bc11f733e',1,'x86::recursive_paging::pte::zero()']]]
+  ['y',['y',['../namespacehal.html#a887f8a6e544e3a5dbd390535fc410b6d',1,'hal']]],
+  ['yellow',['YELLOW',['../namespacestd_1_1TC.html#a43a2da8cf6ba73efb2658584e625a2b5',1,'std::TC']]]
 ];

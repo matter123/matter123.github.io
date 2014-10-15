@@ -14,5 +14,6 @@ var searchData=
   ['multiboot_5fmodule',['multiboot_module',['../structhal_1_1multiboot__module.html',1,'hal']]],
   ['multiboot_5fpalette',['multiboot_palette',['../structhal_1_1multiboot__palette.html',1,'hal']]],
   ['multiboot_5ftag',['multiboot_tag',['../structhal_1_1multiboot__tag.html',1,'hal']]],
-  ['multiboot_5fvbe',['multiboot_vbe',['../structhal_1_1multiboot__vbe.html',1,'hal']]]
+  ['multiboot_5fvbe',['multiboot_vbe',['../structhal_1_1multiboot__vbe.html',1,'hal']]],
+  ['mutex',['mutex',['../classkernel_1_1mutex.html',1,'kernel']]]
 ];

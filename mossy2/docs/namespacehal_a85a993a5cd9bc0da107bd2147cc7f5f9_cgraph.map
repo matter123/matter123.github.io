@@ -1,0 +1,8 @@
+<map id="hal::unmap_virt_phys_cur" name="hal::unmap_virt_phys_cur">
+<area shape="rect" id="node2" href="$classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="240,99,403,141"/>
+<area shape="rect" id="node3" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="458,5,562,32"/>
+<area shape="rect" id="node4" href="$namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="451,56,569,83"/>
+<area shape="rect" id="node5" href="$namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="459,107,561,133"/>
+<area shape="rect" id="node6" href="$namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="459,157,561,184"/>
+<area shape="rect" id="node7" href="$namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="456,208,564,235"/>
+</map>

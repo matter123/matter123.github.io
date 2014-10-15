@@ -1,0 +1,15 @@
+<map id="kernel::free" name="kernel::free">
+<area shape="rect" id="node2" href="$classstd_1_1vector.html#a509a9f5dea0e174964013aee4c21f5d5" title="std::vector::~vector" alt="" coords="157,5,307,32"/>
+<area shape="rect" id="node3" href="$classstd_1_1vector.html#a664fd21a292777c8e7ab227d2c6e10bd" title="std::vector::vector" alt="" coords="162,56,302,83"/>
+<area shape="rect" id="node4" href="$classstd_1_1vector.html#ab65953c23bf3f917f5d72497fa00f691" title="std::vector::operator=" alt="" coords="149,107,315,133"/>
+<area shape="rect" id="node5" href="$namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="176,157,288,184"/>
+<area shape="rect" id="node13" href="$heap_8cpp.html#a86107594327f3a001230df9802cd4422" title="operator delete" alt="" coords="171,208,293,235"/>
+<area shape="rect" id="node14" href="$heap_8cpp.html#aaa8d8403dca7d813a59dd1f07728349d" title="operator delete[]" alt="" coords="167,259,297,285"/>
+<area shape="rect" id="node6" href="$classstd_1_1vector.html#aa4a0dc23165160c65740e7f866f0432b" title="std::vector::push_back" alt="" coords="363,157,531,184"/>
+<area shape="rect" id="node7" href="$test_8cpp.html#a2edadf23dba309e5902af6c6dc829482" title="a" alt="" coords="635,81,673,108"/>
+<area shape="rect" id="node8" href="$namespacekernel.html#a6b9618378102ed5b3f14c28d49c7f62c" title="kernel::schedule" alt="" coords="591,132,717,159"/>
+<area shape="rect" id="node9" href="$namespacekernel.html#a42aa075aa1bf373faef12862f3035d3f" title="kernel::add_task" alt="" coords="589,183,719,209"/>
+<area shape="rect" id="node12" href="$namespacekernel.html#a0cbe8332e0d4a97342c3d6b987c97af4" title="kernel::schedule_int" alt="" coords="579,233,729,260"/>
+<area shape="rect" id="node10" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="984,208,1111,235"/>
+<area shape="rect" id="node11" href="$namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631" title="kernel::init_scheduler" alt="" coords="777,233,936,260"/>
+</map>

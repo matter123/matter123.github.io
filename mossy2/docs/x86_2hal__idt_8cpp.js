@@ -13,5 +13,9 @@ var x86_2hal__idt_8cpp =
     [ "release_range", "x86_2hal__idt_8cpp.html#ab079723d74cc6fd63bb43e6a4996d4b5", null ],
     [ "reserve_range", "x86_2hal__idt_8cpp.html#a9171645550c7ad1ab28040ef2bcc4d97", null ],
     [ "wait_for_int", "x86_2hal__idt_8cpp.html#a251c88f3d1923667dcfc161656bcc6fa", null ],
+    [ "c_int", "x86_2hal__idt_8cpp.html#ad8102c7dd0e0443cc7ff9c38d8a9e8b2", null ],
+    [ "in_int", "x86_2hal__idt_8cpp.html#a142c14efc746a8d8b7d69412e694b16f", null ],
+    [ "in_interrupt", "x86_2hal__idt_8cpp.html#a545de0e9b9d080190df049fa73f4c339", null ],
+    [ "interrupt_count", "x86_2hal__idt_8cpp.html#a1dce0e7aa4a52b310f9090964b7da0b0", null ],
     [ "PACKED", "x86_2hal__idt_8cpp.html#a2b2a12d540d499c3cb2d8ee1836612d8", null ]
 ];

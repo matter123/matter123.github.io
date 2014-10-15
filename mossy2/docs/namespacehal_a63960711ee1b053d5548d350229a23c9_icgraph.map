@@ -1,0 +1,7 @@
+<map id="hal::fix_mmap" name="hal::fix_mmap">
+<area shape="rect" id="node2" href="$namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="168,5,315,32"/>
+<area shape="rect" id="node5" href="$namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="173,56,310,83"/>
+<area shape="rect" id="node3" href="$namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="363,5,480,32"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="528,31,655,57"/>
+<area shape="rect" id="node6" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="370,56,473,83"/>
+</map>

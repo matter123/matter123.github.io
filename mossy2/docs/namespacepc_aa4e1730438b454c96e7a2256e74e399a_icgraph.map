@@ -1,0 +1,5 @@
+<map id="pc::use_irq" name="pc::use_irq">
+<area shape="rect" id="node2" href="$namespacehal.html#ac062d1cf22c32480482c2b42fad48791" title="hal::timer_init" alt="" coords="144,5,253,32"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="301,5,421,32"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="469,5,596,32"/>
+</map>

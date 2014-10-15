@@ -1,0 +1,10 @@
+<map id="kernel::scoot" name="kernel::scoot">
+<area shape="rect" id="node2" href="$namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="159,81,271,108"/>
+<area shape="rect" id="node3" href="$classstd_1_1vector.html#aa4a0dc23165160c65740e7f866f0432b" title="std::vector::push_back" alt="" coords="319,81,487,108"/>
+<area shape="rect" id="node4" href="$test_8cpp.html#a2edadf23dba309e5902af6c6dc829482" title="a" alt="" coords="591,5,629,32"/>
+<area shape="rect" id="node5" href="$namespacekernel.html#a6b9618378102ed5b3f14c28d49c7f62c" title="kernel::schedule" alt="" coords="547,56,673,83"/>
+<area shape="rect" id="node6" href="$namespacekernel.html#a42aa075aa1bf373faef12862f3035d3f" title="kernel::add_task" alt="" coords="545,107,675,133"/>
+<area shape="rect" id="node9" href="$namespacekernel.html#a0cbe8332e0d4a97342c3d6b987c97af4" title="kernel::schedule_int" alt="" coords="535,157,685,184"/>
+<area shape="rect" id="node7" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="940,132,1067,159"/>
+<area shape="rect" id="node8" href="$namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631" title="kernel::init_scheduler" alt="" coords="733,157,892,184"/>
+</map>

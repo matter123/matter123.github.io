@@ -1,0 +1,8 @@
+<map id="hal::split" name="hal::split">
+<area shape="rect" id="node2" href="$namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="128,31,243,57"/>
+<area shape="rect" id="node3" href="$namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="291,5,437,32"/>
+<area shape="rect" id="node6" href="$namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="295,56,433,83"/>
+<area shape="rect" id="node4" href="$namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="485,5,603,32"/>
+<area shape="rect" id="node5" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="651,31,777,57"/>
+<area shape="rect" id="node7" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="493,56,595,83"/>
+</map>

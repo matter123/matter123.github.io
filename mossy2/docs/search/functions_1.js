@@ -1,15 +1,21 @@
 var searchData=
 [
-  ['call_5fhandle',['call_handle',['../namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807',1,'hal']]],
-  ['callback',['callback',['../namespacepc.html#ae73a2df6a33fa032b29f0a25b4718582',1,'pc']]],
-  ['calloc',['calloc',['../stdlib_8h.html#a7b3d8b7cea59b137b167878ec88eb8d6',1,'calloc():&#160;heap.cpp'],['../namespacekernel.html#ad79749380c8e9f3dbb4ef8f90f29d9b7',1,'kernel::calloc()']]],
-  ['can_5fadjust_5fstart',['can_adjust_start',['../classhal_1_1mem__type.html#acc5dec7de212819bdd480af8a5582771',1,'hal::mem_type']]],
-  ['can_5fgrow',['can_grow',['../classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea',1,'hal::mem_type']]],
-  ['can_5fshrink',['can_shrink',['../classhal_1_1mem__type.html#a6b2a69eb8adfc8afa581f67d756db880',1,'hal::mem_type']]],
-  ['char_5fcopy',['char_copy',['../utf8_8h.html#a3276f08e39dbdf3e6132627b501ca7c7',1,'char_copy(char *str, const char *c):&#160;utf8.c'],['../utf8_8c.html#a3276f08e39dbdf3e6132627b501ca7c7',1,'char_copy(char *str, const char *c):&#160;utf8.c']]],
-  ['cls',['cls',['../namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d',1,'hal::cls()'],['../namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1',1,'std::cls()']]],
-  ['combine',['combine',['../classhal_1_1ios__base.html#aaf2aeba0ba7971c7fc7dc07c6bdbf705',1,'hal::ios_base']]],
-  ['consolecolor',['ConsoleColor',['../classhal_1_1ConsoleColor.html#aa1cec28e936b5f9cfa39d382ba97770a',1,'hal::ConsoleColor::ConsoleColor(int foreground, int background)'],['../classhal_1_1ConsoleColor.html#a59aac80166a17cfe198ddecba97dfc94',1,'hal::ConsoleColor::ConsoleColor()']]],
-  ['cpuid',['cpuid',['../cpu__stuff_8h.html#ae95c9bac436fc0c33204e878437fba46',1,'cpu_stuff.h']]],
-  ['create_5ftask',['create_task',['../namespacex64.html#a2b4bca1424e526f1921046272e173be2',1,'x64::create_task()'],['../namespacex86.html#abb449662ba632eb50509ed2a7021bade',1,'x86::create_task()'],['../namespacekernel.html#aef193c7a03622478771adeebfadd0177',1,'kernel::create_task()']]]
+  ['a',['a',['../test_8cpp.html#a2edadf23dba309e5902af6c6dc829482',1,'test.cpp']]],
+  ['acquire',['acquire',['../classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7',1,'kernel::spinlock']]],
+  ['add_5ffree_5fpage',['add_free_page',['../namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6',1,'x86_64']]],
+  ['add_5fphys_5fmem_5farch',['add_phys_mem_arch',['../namespacehal.html#a3949c3c672c8731a6624f705dbe84cb9',1,'hal']]],
+  ['add_5fphys_5fmem_5fvendor',['add_phys_mem_vendor',['../namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc',1,'hal']]],
+  ['add_5fphys_5fregion',['add_phys_region',['../namespacehal.html#af8c5fec085a04b661ba95ff255cc8254',1,'hal::add_phys_region(uint64_t start, uint64_t len, mem_type type)'],['../namespacehal.html#a999cca0fe332310d9926a431173149f9',1,'hal::add_phys_region(int count)']]],
+  ['add_5ftask',['add_task',['../namespacex64.html#a2e167daad9888ab7dcc6c5f642817cc4',1,'x64::add_task()'],['../namespacex86.html#a7e13d82dbbdae0292a9dd8eef4feb5ab',1,'x86::add_task()'],['../namespacekernel.html#a42aa075aa1bf373faef12862f3035d3f',1,'kernel::add_task()']]],
+  ['add_5fvirt_5fmem_5farch',['add_virt_mem_arch',['../namespacehal.html#aaedd544c8d9fe4a3c4a5060a541186fe',1,'hal']]],
+  ['add_5fvirt_5fmem_5fvendor',['add_virt_mem_vendor',['../namespacehal.html#a3967389502235d4afbd3dd03911e82b1',1,'hal']]],
+  ['add_5fvirt_5fregion',['add_virt_region',['../namespacehal.html#a2cf30f5cd953ae5539089abc3007fbbd',1,'hal::add_virt_region(uint64_t start, uint64_t len, mem_type type)'],['../namespacehal.html#a640002963c71b7f311ddf99f187a5db7',1,'hal::add_virt_region(int count)']]],
+  ['address',['address',['../namespacehal.html#a4013e509947e7228aef455038ba1c82a',1,'hal']]],
+  ['asctime',['asctime',['../time_8h.html#a68a0e9d22417dfcf9c0be64261352e64',1,'asctime(const struct tm *timeptr):&#160;time.h'],['../time_8cpp.html#ae3b8c29a35f3137802c32e8e54ed8e6d',1,'asctime(const tm *timeptr):&#160;time.cpp']]],
+  ['assert',['assert',['../namespacestd.html#ac5cd6c10f3b85540626b27f1e00cd30d',1,'std']]],
+  ['at',['at',['../classstd_1_1vector.html#af3013d3f21f5f3fdeed90ea6629691a1',1,'std::vector']]],
+  ['atof',['atof',['../stdlib_8h.html#a5aff941a8b7b49b2e7160449a3d413fc',1,'stdlib.h']]],
+  ['atoi',['atoi',['../stdlib_8h.html#aec327ac88a4cd588e82a8b0ac752b089',1,'atoi(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#aec327ac88a4cd588e82a8b0ac752b089',1,'atoi(const char *str):&#160;stdlib.cpp']]],
+  ['atol',['atol',['../stdlib_8h.html#ad92c5a918e5bcd89416deb3b64fb46ee',1,'atol(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#ad92c5a918e5bcd89416deb3b64fb46ee',1,'atol(const char *str):&#160;stdlib.cpp']]],
+  ['atoll',['atoll',['../stdlib_8h.html#a53e8d1f366b7581b51b222c2e02aa765',1,'atoll(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#a53e8d1f366b7581b51b222c2e02aa765',1,'atoll(const char *str):&#160;stdlib.cpp']]]
 ];

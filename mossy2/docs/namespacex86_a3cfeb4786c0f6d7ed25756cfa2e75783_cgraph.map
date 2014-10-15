@@ -1,0 +1,24 @@
+<map id="x86::pre_init_handle" name="x86::pre_init_handle">
+<area shape="rect" id="node2" href="$namespacehal.html#a7854e96165a7643b4d804d9b779e822a" title="hal::print_boot_msg" alt="" coords="204,81,353,108"/>
+<area shape="rect" id="node7" href="$namespacex86.html#ad2d07eef22e17f45585b7b9a3adbe1c0" title="x86::init_paging" alt="" coords="217,187,340,213"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="444,5,529,32"/>
+<area shape="rect" id="node4" href="$namespacehal.html#aa9329e80a6a5dbb16f38855aa7999b0d" title="hal::width" alt="" coords="445,56,529,83"/>
+<area shape="rect" id="node5" href="$namespacehal.html#af08b2c49fc695d8a9b5dd132c92d7b7b" title="hal::halt" alt="" coords="450,107,523,133"/>
+<area shape="rect" id="node6" href="$namespacehal.html#a59a7cd4b190f6f957e3ecfc0028485ca" title="hal::disable_interrupts" alt="" coords="632,107,795,133"/>
+<area shape="rect" id="node8" href="$namespacehal.html#ad2c7992c296068c99785f4e6ccf65441" title="hal::register_int" alt="" coords="426,157,547,184"/>
+<area shape="rect" id="node21" href="$classx86_1_1recursive__paging.html#ae08058ef5695ad6402c2df7afe858cea" title="x86::recursive_paging\l::init" alt="" coords="405,209,568,250"/>
+<area shape="rect" id="node22" href="$namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="401,275,572,301"/>
+<area shape="rect" id="node9" href="$namespacehal.html#a16f789679c3fc054ae684c1e57a24f9c" title="hal::register_asm_sub_int" alt="" coords="620,157,807,184"/>
+<area shape="rect" id="node11" href="$namespacepc.html#ae73a2df6a33fa032b29f0a25b4718582" title="pc::callback" alt="" coords="665,216,762,243"/>
+<area shape="rect" id="node10" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="873,136,939,163"/>
+<area shape="rect" id="node12" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="855,187,957,213"/>
+<area shape="rect" id="node13" href="$namespacekernel.html#a682f4fe5c50c6a33f9ae1d14e98e20b8" title="kernel::func" alt="" coords="857,237,955,264"/>
+<area shape="rect" id="node20" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="881,288,931,315"/>
+<area shape="rect" id="node14" href="$classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f" title="kernel::mutex::lock" alt="" coords="1013,208,1160,235"/>
+<area shape="rect" id="node18" href="$classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78" title="kernel::mutex::unlock" alt="" coords="1005,263,1168,289"/>
+<area shape="rect" id="node15" href="$classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702" title="kernel::semaphore::wait" alt="" coords="1216,205,1395,232"/>
+<area shape="rect" id="node16" href="$classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="1443,208,1620,235"/>
+<area shape="rect" id="node17" href="$classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="1443,260,1620,287"/>
+<area shape="rect" id="node19" href="$classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4" title="kernel::semaphore::\lsignal" alt="" coords="1230,257,1381,298"/>
+<area shape="rect" id="node23" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="661,275,765,301"/>
+</map>

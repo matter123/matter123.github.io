@@ -1,9 +1,14 @@
 var searchData=
 [
-  ['ne',['ne',['../namespacehal.html#a416da68cc2ec66f96f4113987feb38cb',1,'hal']]],
-  ['next',['next',['../structkernel_1_1HEAD.html#ae4bba89b1eed1907e3bb281ad4c584f4',1,'kernel::HEAD::next()'],['../namespacex64.html#a6ed756e4fb1b3ebdc6ecc489957a679a',1,'x64::next()'],['../namespacex86.html#a514f3154661e25cac130ae69696360d9',1,'x86::next()']]],
-  ['no_5fcache',['no_cache',['../structx64_1_1recursive__paging_1_1pte.html#a8aba8c4de1b9105eef014c130e12e782',1,'x64::recursive_paging::pte::no_cache()'],['../structx64_1_1recursive__paging_1_1pde.html#a1d676fafde638f77c2d2e9755176b7d0',1,'x64::recursive_paging::pde::no_cache()'],['../structx64_1_1recursive__paging_1_1pdpte.html#a664e0f5dec19dee2762ebdb12dc2b21c',1,'x64::recursive_paging::pdpte::no_cache()'],['../structx64_1_1recursive__paging_1_1pml4e.html#adb4572069048bcec3328ea187c5d259f',1,'x64::recursive_paging::pml4e::no_cache()'],['../structx86_1_1recursive__paging_1_1pde.html#a7cc89958ef3a1f4fa4cb83368316f796',1,'x86::recursive_paging::pde::no_cache()'],['../structx86_1_1recursive__paging_1_1pte.html#a524d6839490402d1b29a04402d6c2e6b',1,'x86::recursive_paging::pte::no_cache()']]],
-  ['no_5fexist',['no_exist',['../classhal_1_1mem__type.html#ac4b070efda19fd5aa6ca5eb5a7460391',1,'hal::mem_type']]],
-  ['num_5fcolor',['num_color',['../structhal_1_1multiboot__ci__0.html#a6b8cd1e54a0a6307c93f4721e788289c',1,'hal::multiboot_ci_0']]],
-  ['nx',['nx',['../structx64_1_1recursive__paging_1_1pte.html#a86519a0216e3682ff74615cafaf1ac85',1,'x64::recursive_paging::pte::nx()'],['../structx64_1_1recursive__paging_1_1pde.html#a081de24da86d0a7d4e7cd773c9b2617d',1,'x64::recursive_paging::pde::nx()'],['../structx64_1_1recursive__paging_1_1pdpte.html#a6878400b7fb81e88f26aac943129db02',1,'x64::recursive_paging::pdpte::nx()'],['../structx64_1_1recursive__paging_1_1pml4e.html#a8e3435d32fda37c4abbbf84237727b77',1,'x64::recursive_paging::pml4e::nx()']]]
+  ['m',['m',['../namespacekernel.html#aa6d0626ffa554c978350d339c74ab61b',1,'kernel']]],
+  ['magenta',['MAGENTA',['../namespacestd_1_1TC.html#a2f7c0f1615ecdc2fceb4adeb717ff960',1,'std::TC']]],
+  ['magic',['magic',['../structkernel_1_1HEAD.html#a9830aec9e696af31276ff66bbc20c991',1,'kernel::HEAD']]],
+  ['master',['master',['../structx86_1_1recursive__paging_1_1page__map.html#a907d805cc44150174aa49d8d3de8058c',1,'x86::recursive_paging::page_map']]],
+  ['min_5fdigits',['min_digits',['../classhal_1_1ios__base.html#a5a46b3f64298ace043721544b8f0a0f2',1,'hal::ios_base']]],
+  ['mnemonic',['mnemonic',['../structcpu__state.html#a1e45c1630c1ce6248eee4d1fdac0ec05',1,'cpu_state']]],
+  ['mod_5fend',['mod_end',['../structhal_1_1multiboot__module.html#a87846fb9ef070811ac6e6abaed2cf768',1,'hal::multiboot_module']]],
+  ['mod_5fsize',['mod_size',['../structkernel_1_1mboot__module__t.html#a617e18c82d7ec1ba5ad74a1659e53d69',1,'kernel::mboot_module_t']]],
+  ['mod_5fstart',['mod_start',['../structhal_1_1multiboot__module.html#a6d1029f3da9287ca3a5902255a641a69',1,'hal::multiboot_module::mod_start()'],['../structkernel_1_1mboot__module__t.html#ae54674cf837e5c4f3a5f7c0e0654f332',1,'kernel::mboot_module_t::mod_start()']]],
+  ['mods',['mods',['../namespacehal.html#a296e618d3f553ca51a04b6f0a05b4ed1',1,'hal']]],
+  ['mon',['mon',['../namespacehal.html#aa2111c1c5b3e144f220e7109bbccc206',1,'hal']]]
 ];

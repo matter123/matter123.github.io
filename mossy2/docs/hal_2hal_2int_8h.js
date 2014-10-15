@@ -11,6 +11,5 @@ var hal_2hal_2int_8h =
     [ "register_int", "hal_2hal_2int_8h.html#ad2c7992c296068c99785f4e6ccf65441", null ],
     [ "release_range", "hal_2hal_2int_8h.html#ab079723d74cc6fd63bb43e6a4996d4b5", null ],
     [ "reserve_range", "hal_2hal_2int_8h.html#a9171645550c7ad1ab28040ef2bcc4d97", null ],
-    [ "wait_for_int", "hal_2hal_2int_8h.html#a251c88f3d1923667dcfc161656bcc6fa", null ],
-    [ "FULL", "hal_2hal_2int_8h.html#ae19215eca54022ec03cf033ff3255bee", null ]
+    [ "wait_for_int", "hal_2hal_2int_8h.html#a251c88f3d1923667dcfc161656bcc6fa", null ]
 ];
