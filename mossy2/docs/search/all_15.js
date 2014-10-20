@@ -1,17 +1,12 @@
 var searchData=
 [
-  ['w_5fmalloc',['w_malloc',['../namespacehal.html#a70f151d3bf2b559ed7e4045be1c76171',1,'hal::w_malloc(size_t s)'],['../namespacehal.html#a5f2d8143eeb1ef13dfa915d4ad595cb0',1,'hal::w_malloc(size_t s, size_t alignment)']]],
-  ['wait',['wait',['../classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702',1,'kernel::semaphore']]],
-  ['wait_5ffor_5fint',['wait_for_int',['../namespacehal.html#a251c88f3d1923667dcfc161656bcc6fa',1,'hal']]],
-  ['wait_5fon',['wait_on',['../structkernel_1_1thread__info.html#a576fc23a578a19eaffe8ddd467784f24',1,'kernel::thread_info::wait_on()'],['../namespacekernel.html#a6cb97d942e53c9efa85d476ce61fd077',1,'kernel::wait_on()']]],
-  ['waiting',['waiting',['../structkernel_1_1thread__info.html#a6322ce11cbaf6383349710960d063dbc',1,'kernel::thread_info']]],
-  ['white',['WHITE',['../namespacestd_1_1TC.html#a0beddad35cef86ba56550e10891eca25',1,'std::TC']]],
-  ['width',['width',['../structhal_1_1multiboot__fb.html#ae639493db017cd1189a138ffe1834e38',1,'hal::multiboot_fb::width()'],['../namespacehal.html#aa9329e80a6a5dbb16f38855aa7999b0d',1,'hal::width()']]],
-  ['wksp_5fbegin',['wksp_begin',['../namespacehal.html#a6487ba4be75874e36c21a667e61300b8',1,'hal']]],
-  ['wksp_5fptr',['wksp_ptr',['../namespacehal.html#a3c042457574611be205733d9c538619b',1,'hal']]],
-  ['workspace_2ecpp',['workspace.cpp',['../workspace_8cpp.html',1,'']]],
-  ['workspace_2eh',['workspace.h',['../workspace_8h.html',1,'']]],
-  ['write',['write',['../structhal_1_1page__opt.html#af866fe6123ae8f0862689e987b2cce7d',1,'hal::page_opt']]],
-  ['write_5fthrough',['write_through',['../structx64_1_1recursive__paging_1_1pte.html#a540a99bfffa24a3df0be24a600af777e',1,'x64::recursive_paging::pte::write_through()'],['../structx64_1_1recursive__paging_1_1pde.html#a43900297c7e07645bf55cd0db86be5e8',1,'x64::recursive_paging::pde::write_through()'],['../structx64_1_1recursive__paging_1_1pdpte.html#accb5021cf9162ac41dc23751074bec71',1,'x64::recursive_paging::pdpte::write_through()'],['../structx64_1_1recursive__paging_1_1pml4e.html#a8c112ece57f2248aa78592130cc147c8',1,'x64::recursive_paging::pml4e::write_through()'],['../structx86_1_1recursive__paging_1_1pde.html#abc5f12ad2620a18db86919d4c9e988d9',1,'x86::recursive_paging::pde::write_through()'],['../structx86_1_1recursive__paging_1_1pte.html#a77bbaf41999bcb072c5a2d8dbca404bd',1,'x86::recursive_paging::pte::write_through()']]],
-  ['wrmsr',['wrmsr',['../cpu__stuff_8h.html#a368f08346121290f513a26011e0f68f8',1,'cpu_stuff.h']]]
+  ['vbe_5fcontrol_5finfo',['vbe_control_info',['../structhal_1_1multiboot__vbe.html#a886d19f26fd2fbb9df166a1f26fd42b7',1,'hal::multiboot_vbe']]],
+  ['vbe_5finterface_5flen',['vbe_interface_len',['../structhal_1_1multiboot__vbe.html#a264885e25c3777471bf03004fa733a55',1,'hal::multiboot_vbe']]],
+  ['vbe_5finterface_5foff',['vbe_interface_off',['../structhal_1_1multiboot__vbe.html#aaf4e12ccb4acfabeab936ad768ac889b',1,'hal::multiboot_vbe']]],
+  ['vbe_5finterface_5fseg',['vbe_interface_seg',['../structhal_1_1multiboot__vbe.html#a5552652373e0eb04f903dd162ab28fad',1,'hal::multiboot_vbe']]],
+  ['vbe_5fmode',['vbe_mode',['../structhal_1_1multiboot__vbe.html#a6e78cb8876ca594dc600abddf14f0da1',1,'hal::multiboot_vbe']]],
+  ['vbe_5fmode_5finfo',['vbe_mode_info',['../structhal_1_1multiboot__vbe.html#a70d8ba0ab169e57bfcb77819d7cde963',1,'hal::multiboot_vbe']]],
+  ['vendor_2eh',['vendor.h',['../vendor_8h.html',1,'']]],
+  ['videobuffer',['videobuffer',['../classhal_1_1mem__type.html#a13a0a1bd0466875c10a637fbd2018dbf',1,'hal::mem_type']]],
+  ['vmmap_2ecpp',['vmmap.cpp',['../vmmap_8cpp.html',1,'']]]
 ];

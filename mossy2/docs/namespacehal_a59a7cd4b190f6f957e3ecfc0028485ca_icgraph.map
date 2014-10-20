@@ -1,14 +1,9 @@
 <map id="hal::disable_interrupts" name="hal::disable_interrupts">
-<area shape="rect" id="node2" href="$namespacehal.html#af08b2c49fc695d8a9b5dd132c92d7b7b" title="hal::halt" alt="" coords="216,81,289,108"/>
-<area shape="rect" id="node3" href="$namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc" title="hal::add_phys_mem_vendor" alt="" coords="337,19,541,45"/>
-<area shape="rect" id="node7" href="$namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="379,81,499,108"/>
-<area shape="rect" id="node8" href="$namespacehal.html#a7854e96165a7643b4d804d9b779e822a" title="hal::print_boot_msg" alt="" coords="365,157,514,184"/>
-<area shape="rect" id="node4" href="$namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="591,5,738,32"/>
-<area shape="rect" id="node5" href="$namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="791,56,908,83"/>
-<area shape="rect" id="node6" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1127,183,1253,209"/>
-<area shape="rect" id="node9" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="967,208,1070,235"/>
-<area shape="rect" id="node10" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="959,284,1079,311"/>
-<area shape="rect" id="node11" href="$namespacex64.html#a548325823392c253f009aa8cc6996a25" title="x64::pre_init_handle" alt="" coords="589,208,740,235"/>
-<area shape="rect" id="node13" href="$namespacex86.html#a3cfeb4786c0f6d7ed25756cfa2e75783" title="x86::pre_init_handle" alt="" coords="589,107,740,133"/>
-<area shape="rect" id="node12" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="788,208,911,235"/>
+<area shape="rect" id="node2" href="$namespacehal.html#af08b2c49fc695d8a9b5dd132c92d7b7b" title="hal::halt" alt="" coords="216,56,289,83"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc" title="hal::add_phys_mem_vendor" alt="" coords="337,5,541,32"/>
+<area shape="rect" id="node7" href="$namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="379,56,499,83"/>
+<area shape="rect" id="node8" href="$namespacehal.html#a7854e96165a7643b4d804d9b779e822a" title="hal::print_boot_msg" alt="" coords="365,107,514,133"/>
+<area shape="rect" id="node4" href="$namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="589,5,736,32"/>
+<area shape="rect" id="node5" href="$namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="784,5,901,32"/>
+<area shape="rect" id="node6" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="949,5,1076,32"/>
 </map>

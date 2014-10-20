@@ -79,6 +79,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="globals_func.html"><span>Functions</span></a></li>
       <li><a href="globals_vars.html"><span>Variables</span></a></li>
       <li><a href="globals_type.html"><span>Typedefs</span></a></li>
+      <li><a href="globals_enum.html"><span>Enumerations</span></a></li>
+      <li><a href="globals_eval.html"><span>Enumerator</span></a></li>
     </ul>
   </div>
   <div id="navrow4" class="tabs3">
@@ -168,13 +170,19 @@ $(document).ready(function(){initNavTree('globals_i.html','');});
 <li>IS_SET()
 : <a class="el" href="x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378">hal_idt.cpp</a>
 </li>
+<li>is_single_encoding()
+: <a class="el" href="unicode_8cpp.html#a21dfb20ab40adcabdd783d7937cb4525">unicode.cpp</a>
+</li>
 <li>isalnum()
 : <a class="el" href="ctype_8cpp.html#adf38e126f73a010f30af76db2a28c6e1">ctype.cpp</a>
 , <a class="el" href="ctype_8h.html#adf38e126f73a010f30af76db2a28c6e1">ctype.h</a>
 </li>
 <li>isalpha()
-: <a class="el" href="ctype_8h.html#a25908ae63aac2df990634e1ae5bd14d9">ctype.h</a>
-, <a class="el" href="ctype_8cpp.html#a25908ae63aac2df990634e1ae5bd14d9">ctype.cpp</a>
+: <a class="el" href="ctype_8cpp.html#a25908ae63aac2df990634e1ae5bd14d9">ctype.cpp</a>
+, <a class="el" href="ctype_8h.html#a25908ae63aac2df990634e1ae5bd14d9">ctype.h</a>
+</li>
+<li>isascii()
+: <a class="el" href="unicode_8cpp.html#a7c22f583e945ade8987732c6fd2509c2">unicode.cpp</a>
 </li>
 <li>isblank()
 : <a class="el" href="ctype_8cpp.html#aea4929b1b41f1a6d723e0312b1f050ed">ctype.cpp</a>
@@ -197,24 +205,24 @@ $(document).ready(function(){initNavTree('globals_i.html','');});
 , <a class="el" href="ctype_8h.html#a7b8f652a0423a80922dd89d8829db5f2">ctype.h</a>
 </li>
 <li>isprint()
-: <a class="el" href="ctype_8cpp.html#a99355d8f0fb41ec43effb95189db0ed4">ctype.cpp</a>
-, <a class="el" href="ctype_8h.html#a99355d8f0fb41ec43effb95189db0ed4">ctype.h</a>
+: <a class="el" href="ctype_8h.html#a99355d8f0fb41ec43effb95189db0ed4">ctype.h</a>
+, <a class="el" href="ctype_8cpp.html#a99355d8f0fb41ec43effb95189db0ed4">ctype.cpp</a>
 </li>
 <li>ispunct()
 : <a class="el" href="ctype_8cpp.html#af29554b3ec04ea7684482bffed5dbce6">ctype.cpp</a>
 , <a class="el" href="ctype_8h.html#af29554b3ec04ea7684482bffed5dbce6">ctype.h</a>
 </li>
 <li>isspace()
-: <a class="el" href="ctype_8h.html#a56be4166e4673843042a548a7f513dbc">ctype.h</a>
-, <a class="el" href="ctype_8cpp.html#a56be4166e4673843042a548a7f513dbc">ctype.cpp</a>
+: <a class="el" href="ctype_8cpp.html#a56be4166e4673843042a548a7f513dbc">ctype.cpp</a>
+, <a class="el" href="ctype_8h.html#a56be4166e4673843042a548a7f513dbc">ctype.h</a>
 </li>
 <li>isupper()
 : <a class="el" href="ctype_8h.html#adadd6582d46775aab6a51e29d16d9f77">ctype.h</a>
 , <a class="el" href="ctype_8cpp.html#adadd6582d46775aab6a51e29d16d9f77">ctype.cpp</a>
 </li>
 <li>isxdigit()
-: <a class="el" href="ctype_8cpp.html#adaf3aadefe3fc4fb07b6be0d7b880f53">ctype.cpp</a>
-, <a class="el" href="ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53">ctype.h</a>
+: <a class="el" href="ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53">ctype.h</a>
+, <a class="el" href="ctype_8cpp.html#adaf3aadefe3fc4fb07b6be0d7b880f53">ctype.cpp</a>
 </li>
 <li>itoa()
 : <a class="el" href="stdlib_8h.html#ab42640268f26e065efd044cfe80591bd">stdlib.h</a>
@@ -226,7 +234,7 @@ $(document).ready(function(){initNavTree('globals_i.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Oct 14 2014 20:50:53 for MOSSY 2 by
+    <li class="footer">Generated on Mon Oct 20 2014 16:00:03 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

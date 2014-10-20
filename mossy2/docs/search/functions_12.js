@@ -1,4 +1,9 @@
 var searchData=
 [
-  ['vector',['vector',['../classstd_1_1vector.html#a28bc52a71220cbf4f2be5549487bc2ca',1,'std::vector::vector(int init_cap=10)'],['../classstd_1_1vector.html#a664fd21a292777c8e7ab227d2c6e10bd',1,'std::vector::vector(const vector&lt; T &gt; &amp;x)']]]
+  ['w_5fmalloc',['w_malloc',['../namespacehal.html#a70f151d3bf2b559ed7e4045be1c76171',1,'hal::w_malloc(size_t s)'],['../namespacehal.html#a5f2d8143eeb1ef13dfa915d4ad595cb0',1,'hal::w_malloc(size_t s, size_t alignment)']]],
+  ['wait',['wait',['../classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702',1,'kernel::semaphore']]],
+  ['wait_5ffor_5fint',['wait_for_int',['../namespacehal.html#a251c88f3d1923667dcfc161656bcc6fa',1,'hal']]],
+  ['width',['width',['../namespacehal.html#aa9329e80a6a5dbb16f38855aa7999b0d',1,'hal']]],
+  ['wksp_5fbegin',['wksp_begin',['../namespacehal.html#a6487ba4be75874e36c21a667e61300b8',1,'hal']]],
+  ['wrmsr',['wrmsr',['../cpu__stuff_8h.html#a368f08346121290f513a26011e0f68f8',1,'cpu_stuff.h']]]
 ];

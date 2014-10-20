@@ -1,7 +1,7 @@
 var searchData=
 [
   ['schedule',['schedule',['../namespacex64.html#a5fc0a2351d2c5635a733a5210abff18c',1,'x64::schedule()'],['../namespacex86.html#a2b02fb78e74909d0c0cecc295843bff3',1,'x86::schedule()'],['../namespacekernel.html#a6b9618378102ed5b3f14c28d49c7f62c',1,'kernel::schedule()']]],
-  ['schedule_5fint',['schedule_int',['../namespacekernel.html#a0cbe8332e0d4a97342c3d6b987c97af4',1,'kernel']]],
+  ['schedule_5fint',['schedule_int',['../namespacekernel.html#a865bd2d3ec3c8114028c1e552cb852d3',1,'kernel']]],
   ['scoot',['scoot',['../namespacekernel.html#a6e4897103f6c207a9c2531daf8634859',1,'kernel']]],
   ['scroll',['scroll',['../namespacehal.html#ad49d2e8377a31906bc4dc84f255817f8',1,'hal::scroll()'],['../namespacehal.html#a0e4347fbf6da02162c9005900ad503b5',1,'hal::scroll(int lines)']]],
   ['semaphore',['semaphore',['../classkernel_1_1semaphore.html#aeab884aeb097e2311953687d438f73c6',1,'kernel::semaphore']]],
@@ -9,7 +9,6 @@ var searchData=
   ['set_5freg',['set_reg',['../arch_8h.html#ad2a5fe557c248b09971b07873319494c',1,'arch.h']]],
   ['set_5fstack_5fpointer',['set_stack_pointer',['../arch_8h.html#aaaf27f035afe8c9427ad611c2d30de00',1,'arch.h']]],
   ['signal',['signal',['../classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4',1,'kernel::semaphore']]],
-  ['size',['size',['../classstd_1_1vector.html#abf60cd4d33bbf79ef4a4d45b0e178368',1,'std::vector']]],
   ['sort',['sort',['../namespacehal.html#ad231ce640650f0ef67962ff41f7b5014',1,'hal']]],
   ['split',['split',['../namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1',1,'hal::split()'],['../namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70',1,'kernel::split()']]],
   ['srand',['srand',['../stdlib_8h.html#a83a727cc697aea22e24cad5f39198dd2',1,'stdlib.h']]],

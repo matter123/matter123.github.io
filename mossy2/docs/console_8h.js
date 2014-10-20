@@ -8,6 +8,7 @@ var console_8h =
     [ "get_x", "console_8h.html#a34772573cabcacc96a7bba54a50d05ef", null ],
     [ "get_y", "console_8h.html#a31d59e79f7e92e7f61913a54f4228396", null ],
     [ "height", "console_8h.html#a601082757b3228e73d4f45d8cad38530", null ],
+    [ "print_boot_msg", "console_8h.html#ae21f395a9732aff65b70f56dc8a7ed8b", null ],
     [ "print_boot_msg", "console_8h.html#a7854e96165a7643b4d804d9b779e822a", null ],
     [ "printc", "console_8h.html#adf343534a8f851c0f34d612d474d48c4", null ],
     [ "scroll", "console_8h.html#a0e4347fbf6da02162c9005900ad503b5", null ],

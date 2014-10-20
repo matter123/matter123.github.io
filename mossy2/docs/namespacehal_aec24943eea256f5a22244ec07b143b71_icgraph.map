@@ -1,0 +1,11 @@
+<map id="hal::register_int" name="hal::register_int">
+<area shape="rect" id="node2" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="193,56,315,83"/>
+<area shape="rect" id="node6" href="$namespacex86.html#ad2d07eef22e17f45585b7b9a3adbe1c0" title="x86::init_paging" alt="" coords="193,107,315,133"/>
+<area shape="rect" id="node8" href="$namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631" title="kernel::init_scheduler" alt="" coords="175,157,333,184"/>
+<area shape="rect" id="node9" href="$namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="209,208,299,235"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="405,5,508,32"/>
+<area shape="rect" id="node5" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="381,56,532,83"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="580,95,707,121"/>
+<area shape="rect" id="node7" href="$namespacex86.html#ab9e4d0e4571d9531648f20c875120f08" title="x86::pre_init_handle" alt="" coords="381,107,532,133"/>
+<area shape="rect" id="node10" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="397,183,517,209"/>
+</map>

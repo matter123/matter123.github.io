@@ -1,10 +1,21 @@
 var searchData=
 [
-  ['unused',['unused',['../structx64_1_1recursive__paging_1_1pte.html#a8be89ca3d3f7c7d00371c2b5b0c0f082',1,'x64::recursive_paging::pte::unused()'],['../structx64_1_1recursive__paging_1_1pde.html#a613609600d2494c5206eb88764c524b0',1,'x64::recursive_paging::pde::unused()'],['../structx64_1_1recursive__paging_1_1pdpte.html#af74726147989b1a211e12764076fd6f1',1,'x64::recursive_paging::pdpte::unused()'],['../structx64_1_1recursive__paging_1_1pml4e.html#ae2ecdb1e6f74b699dcb62aec38edf91e',1,'x64::recursive_paging::pml4e::unused()'],['../structx86_1_1recursive__paging_1_1pde.html#a7ffdf133275136bc9eaf2b08de01757e',1,'x86::recursive_paging::pde::unused()'],['../structx86_1_1recursive__paging_1_1pte.html#af4c8e319b050e3ceed965461558cbafc',1,'x86::recursive_paging::pte::unused()']]],
-  ['unused_5f1',['unused_1',['../structx64_1_1recursive__paging_1_1pte.html#a95470f0ee749146d31840e45f9135bce',1,'x64::recursive_paging::pte::unused_1()'],['../structx64_1_1recursive__paging_1_1pde.html#ad17a3f394efb1bc7f9d92e9c8bf4d8ac',1,'x64::recursive_paging::pde::unused_1()'],['../structx64_1_1recursive__paging_1_1pdpte.html#a60a7f17c5884680ebbb9237990a95f9c',1,'x64::recursive_paging::pdpte::unused_1()'],['../structx64_1_1recursive__paging_1_1pml4e.html#aca3a8bff11022088b0e6f65998294338',1,'x64::recursive_paging::pml4e::unused_1()']]],
-  ['uppercase',['uppercase',['../classhal_1_1ios__base.html#a5ac3b511d87973aeee4e9869d89b6194',1,'hal::ios_base']]],
-  ['used',['used',['../namespacehal.html#a9607a4fd1b14ec7277d8552fbecdb495',1,'hal']]],
-  ['user',['user',['../structx64_1_1recursive__paging_1_1pte.html#a1eeb87c2ce324562544bca81821dc5d3',1,'x64::recursive_paging::pte::user()'],['../structx64_1_1recursive__paging_1_1pde.html#ac6cffd065b314f6b1d4d87b586d86bde',1,'x64::recursive_paging::pde::user()'],['../structx64_1_1recursive__paging_1_1pdpte.html#a745f39c6aa76a4127bcb3ad176d8f2bf',1,'x64::recursive_paging::pdpte::user()'],['../structx64_1_1recursive__paging_1_1pml4e.html#a54a369df1499d95450efdcc6636f3fb6',1,'x64::recursive_paging::pml4e::user()'],['../structx86_1_1recursive__paging_1_1pde.html#a6f75b376d4209661cdd615aae078453a',1,'x86::recursive_paging::pde::user()'],['../structx86_1_1recursive__paging_1_1pte.html#aeff86255edd53938201f648d73774875',1,'x86::recursive_paging::pte::user()'],['../structhal_1_1page__opt.html#a52e922dd76e0ea49189cb92fbfcefb87',1,'hal::page_opt::user()']]],
-  ['user_5fstack',['user_stack',['../structkernel_1_1thread__info.html#aab7eecafd33f2c336e6edc8789ab80ad',1,'kernel::thread_info']]],
-  ['userspace',['userspace',['../classhal_1_1mem__type.html#a7cc209e2d99e23e96a1e3d406099f145',1,'hal::mem_type']]]
+  ['tables',['tables',['../structx86_1_1recursive__paging_1_1page__map.html#a5c1f4ec2e5f209f54e1fe364b9532ab2',1,'x86::recursive_paging::page_map']]],
+  ['tag_5fcount',['tag_count',['../structhal_1_1mem__regs.html#aba8cce5267fdf387ae6dc812aeb07f77',1,'hal::mem_regs::tag_count()'],['../namespacehal.html#a0fcb61b4fd39571623db4e47c6e3e3fd',1,'hal::tag_count()']]],
+  ['tags',['tags',['../namespacehal.html#a7b854378277fe7cd46e642ec5e7331bb',1,'hal']]],
+  ['tasks',['tasks',['../namespacex64.html#a9912e716207b08f893a31b24cf33e826',1,'x64::tasks()'],['../namespacex86.html#a21ab1c9329e6764a80872379e722aefe',1,'x86::tasks()']]],
+  ['timers',['timers',['../namespacehal.html#acdb82900cdc508dca4b957f6eb1ccb31',1,'hal']]],
+  ['tm_5fhour',['tm_hour',['../structtm.html#a3e7ca4e37f1abcaf56b8a916c38eb9fe',1,'tm']]],
+  ['tm_5fisdst',['tm_isdst',['../structtm.html#a5645ca0580c8ab2c24f6c2965d9c9f9c',1,'tm']]],
+  ['tm_5fmday',['tm_mday',['../structtm.html#ab8d8904bad43b0c8b96e61941c5b5310',1,'tm']]],
+  ['tm_5fmin',['tm_min',['../structtm.html#af414eb7c86cc3099595211eee4d4211b',1,'tm']]],
+  ['tm_5fmon',['tm_mon',['../structtm.html#a112ac36fa2f593777138a417cf031e17',1,'tm']]],
+  ['tm_5fsec',['tm_sec',['../structtm.html#a4d098a9a5c03a00b2ee61e10851de81e',1,'tm']]],
+  ['tm_5fwday',['tm_wday',['../structtm.html#afe81a8c46f1c693c43f259b288859f4f',1,'tm']]],
+  ['tm_5fyday',['tm_yday',['../structtm.html#a93a0ba77cc23796df84405dcbcc57eb1',1,'tm']]],
+  ['tm_5fyear',['tm_year',['../structtm.html#a33adf78fd6476b2120ce3b9c4a852053',1,'tm']]],
+  ['tmpa',['tmpa',['../time_8cpp.html#aca5b3929941620e29066999b705754f4',1,'time.cpp']]],
+  ['total_5fstacks',['total_stacks',['../namespacekernel.html#ac978c9b7cb028a9fae3b2a83268cf6f8',1,'kernel']]],
+  ['type',['type',['../structx64_1_1idt__entry.html#a052c5c66d3d1322502efb76d1bdb3301',1,'x64::idt_entry::type()'],['../structx86_1_1idt__entry.html#a6bdd0f35897c41136e0e5636ea3105c7',1,'x86::idt_entry::type()'],['../structhal_1_1mem__region.html#ac5acda9383dbab42becee55f04688d8f',1,'hal::mem_region::type()'],['../structhal_1_1multiboot__tag.html#a99dd1022ce626f22ce20513fe8847ae3',1,'hal::multiboot_tag::type()'],['../structhal_1_1multiboot__mmap__ent.html#a6b0b125d606f31ea9bba95c3cb1f4ea4',1,'hal::multiboot_mmap_ent::type()'],['../structhal_1_1multiboot__fb.html#a524d38ae7884149b5934a4640daafe25',1,'hal::multiboot_fb::type()']]],
+  ['types',['types',['../namespacehal.html#acc806b20f1bb82541b1118eb5e011847',1,'hal::types()'],['../namespacehal.html#acc806b20f1bb82541b1118eb5e011847',1,'hal::types()'],['../namespacehal.html#a4cda54dff12b082b800005de462a5cfb',1,'hal::types()']]]
 ];

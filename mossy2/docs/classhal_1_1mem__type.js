@@ -6,6 +6,7 @@ var classhal_1_1mem__type =
     [ "can_grow", "classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea", null ],
     [ "can_shrink", "classhal_1_1mem__type.html#a6b2a69eb8adfc8afa581f67d756db880", null ],
     [ "is_more_restrictive", "classhal_1_1mem__type.html#aa1f57cd09c12a0eb963c8809a720bb0b", null ],
+    [ "operator=", "classhal_1_1mem__type.html#a5d301d71368e758a1cbc90b552cd5c7e", null ],
     [ "operator==", "classhal_1_1mem__type.html#adaa531e0e90059c0e221c0db79d4082e", null ],
     [ "to_u64", "classhal_1_1mem__type.html#a36a965ca7e2bced083acbdc5eff7b7af", null ],
     [ "avil", "classhal_1_1mem__type.html#a478c82ed5f0695e167d3b7ad78e7773e", null ],

@@ -1,13 +1,6 @@
 <map id="pc::use_irq" name="pc::use_irq">
-<area shape="rect" id="node2" href="$namespacekernel.html#a682f4fe5c50c6a33f9ae1d14e98e20b8" title="kernel::func" alt="" coords="144,61,243,88"/>
-<area shape="rect" id="node9" href="$namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec" title="pc::unmask" alt="" coords="145,137,242,164"/>
-<area shape="rect" id="node3" href="$classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f" title="kernel::mutex::lock" alt="" coords="299,9,445,36"/>
-<area shape="rect" id="node7" href="$classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78" title="kernel::mutex::unlock" alt="" coords="291,61,453,88"/>
-<area shape="rect" id="node4" href="$classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702" title="kernel::semaphore::wait" alt="" coords="501,5,680,32"/>
-<area shape="rect" id="node5" href="$classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="728,8,905,35"/>
-<area shape="rect" id="node6" href="$classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="728,60,905,87"/>
-<area shape="rect" id="node8" href="$classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4" title="kernel::semaphore::\lsignal" alt="" coords="515,57,666,98"/>
-<area shape="rect" id="node10" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="570,144,611,171"/>
-<area shape="rect" id="node11" href="$io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9" title="io_wait" alt="" coords="339,112,405,139"/>
-<area shape="rect" id="node12" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="347,213,397,240"/>
+<area shape="rect" id="node2" href="$namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec" title="pc::unmask" alt="" coords="144,31,241,57"/>
+<area shape="rect" id="node3" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="404,5,445,32"/>
+<area shape="rect" id="node4" href="$io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9" title="io_wait" alt="" coords="289,31,356,57"/>
+<area shape="rect" id="node5" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="297,81,348,108"/>
 </map>

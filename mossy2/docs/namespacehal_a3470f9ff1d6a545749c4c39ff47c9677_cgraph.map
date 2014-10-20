@@ -1,4 +1,6 @@
 <map id="hal::printc" name="hal::printc">
 <area shape="rect" id="node2" href="$namespacehal.html#ad49d2e8377a31906bc4dc84f255817f8" title="hal::scroll" alt="" coords="168,5,251,32"/>
 <area shape="rect" id="node3" href="$classhal_1_1ConsoleColor.html#aaea530857cb01b9321e20345ab86569f" title="hal::ConsoleColor::\lgetColor" alt="" coords="139,57,280,98"/>
+<area shape="rect" id="node4" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="189,123,230,149"/>
+<area shape="rect" id="node5" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="184,173,235,200"/>
 </map>

@@ -121,6 +121,8 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structx86_1_1IDTR.html">x86::IDTR</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structx86_1_1trampoline.html">x86::trampoline</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
 Namespaces</h2></td></tr>
@@ -139,10 +141,10 @@ Functions</h2></td></tr>
 <tr class="separator:afc7c86db5f36388e59b4c16a84b3316f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acf368f22e14933f89937e01f35ee68a4"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#acf368f22e14933f89937e01f35ee68a4">hal::get_max_interrupt</a> ()</td></tr>
 <tr class="separator:acf368f22e14933f89937e01f35ee68a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2c7992c296068c99785f4e6ccf65441"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#ad2c7992c296068c99785f4e6ccf65441">hal::register_int</a> (uint16_t int_num, int_callback callback, <a class="el" href="namespacehal.html#a0a093e6625d0d605b9096345537d8a2f">hal::interrupt_type</a> type, bool user)</td></tr>
-<tr class="separator:ad2c7992c296068c99785f4e6ccf65441"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16f789679c3fc054ae684c1e57a24f9c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a16f789679c3fc054ae684c1e57a24f9c">hal::register_asm_sub_int</a> (uint16_t int_num, uintptr_t addr, interrupt_type type, bool user)</td></tr>
-<tr class="separator:a16f789679c3fc054ae684c1e57a24f9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec24943eea256f5a22244ec07b143b71"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#aec24943eea256f5a22244ec07b143b71">hal::register_int</a> (uint16_t int_num, int_callback callback, int type, bool user)</td></tr>
+<tr class="separator:aec24943eea256f5a22244ec07b143b71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3facdd934c180b17e39931a3590e06c8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a3facdd934c180b17e39931a3590e06c8">hal::register_asm_sub_int</a> (uint16_t int_num, uintptr_t addr, int type, bool user)</td></tr>
+<tr class="separator:a3facdd934c180b17e39931a3590e06c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9171645550c7ad1ab28040ef2bcc4d97"><td class="memItemLeft" align="right" valign="top">idt_range&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a9171645550c7ad1ab28040ef2bcc4d97">hal::reserve_range</a> (uint16_t count, uint16_t min_count, bool aligned)</td></tr>
 <tr class="separator:a9171645550c7ad1ab28040ef2bcc4d97"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab079723d74cc6fd63bb43e6a4996d4b5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#ab079723d74cc6fd63bb43e6a4996d4b5">hal::release_range</a> (idt_range range)</td></tr>
@@ -151,11 +153,13 @@ Functions</h2></td></tr>
 <tr class="separator:a251c88f3d1923667dcfc161656bcc6fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a02550387ade2b6f824ab5c7b0a8a4807"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807">hal::call_handle</a> (<a class="el" href="structcpu__state.html">cpu_state</a> *state)</td></tr>
 <tr class="separator:a02550387ade2b6f824ab5c7b0a8a4807"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a97308e3fdacd2f8240ba76e010e274"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a7a97308e3fdacd2f8240ba76e010e274">hal::fail_fast</a> (<a class="el" href="structcpu__state.html">cpu_state</a> *state)</td></tr>
+<tr class="separator:a7a97308e3fdacd2f8240ba76e010e274"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a2b2a12d540d499c3cb2d8ee1836612d8"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structx86_1_1idt__entry.html">x86::idt_entry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacex86.html#a2b2a12d540d499c3cb2d8ee1836612d8">x86::PACKED</a></td></tr>
-<tr class="separator:a2b2a12d540d499c3cb2d8ee1836612d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60d5fde6a39e19169422fa346f6877fa"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structx86_1_1idt__entry.html">x86::idt_entry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacex86.html#a60d5fde6a39e19169422fa346f6877fa">x86::PACKED</a></td></tr>
+<tr class="separator:a60d5fde6a39e19169422fa346f6877fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a142c14efc746a8d8b7d69412e694b16f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="x86_2hal__idt_8cpp.html#a142c14efc746a8d8b7d69412e694b16f">in_int</a></td></tr>
 <tr class="separator:a142c14efc746a8d8b7d69412e694b16f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a545de0e9b9d080190df049fa73f4c339"><td class="memItemLeft" align="right" valign="top">bool *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="x86_2hal__idt_8cpp.html#a545de0e9b9d080190df049fa73f4c339">in_interrupt</a> =&amp;<a class="el" href="x86_2hal__idt_8cpp.html#a142c14efc746a8d8b7d69412e694b16f">in_int</a></td></tr>
@@ -263,7 +267,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_70d5e250c66d001b18da37689179cade.html">arch</a></li><li class="navelem"><a class="el" href="dir_821359b7c7689d1fc53689b7ab64838f.html">x86</a></li><li class="navelem"><a class="el" href="x86_2hal__idt_8cpp.html">hal_idt.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 14 2014 20:50:53 for MOSSY 2 by
+    <li class="footer">Generated on Mon Oct 20 2014 16:00:02 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

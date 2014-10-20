@@ -31,7 +31,6 @@ var searchData=
   ['get_5frbp',['get_rbp',['../x64_2stackframe_8cpp.html#a005c3482b92a828cd688d714fe706183',1,'stackframe.cpp']]],
   ['get_5freg',['get_reg',['../arch_8h.html#a70da18acf65c837e4927ff9bbc5fb86b',1,'get_reg(cpu_state *s, uint8_t reg):&#160;hal.cpp'],['../arch_2x64_2hal_8cpp.html#a70da18acf65c837e4927ff9bbc5fb86b',1,'get_reg(cpu_state *s, uint8_t reg):&#160;hal.cpp'],['../arch_2x86_2hal_8cpp.html#a70da18acf65c837e4927ff9bbc5fb86b',1,'get_reg(cpu_state *s, uint8_t reg):&#160;hal.cpp']]],
   ['get_5freg_5fcount',['get_reg_count',['../arch_8h.html#af3db02628c42460e4a97d7b9bac92c05',1,'get_reg_count():&#160;hal.cpp'],['../arch_2x64_2hal_8cpp.html#af3db02628c42460e4a97d7b9bac92c05',1,'get_reg_count():&#160;hal.cpp'],['../arch_2x86_2hal_8cpp.html#af3db02628c42460e4a97d7b9bac92c05',1,'get_reg_count():&#160;hal.cpp']]],
-  ['get_5fself',['get_self',['../namespacekernel.html#aa7dc85db3c41819627bea1f5a2e0924d',1,'kernel']]],
   ['get_5fstack',['get_stack',['../namespacekernel.html#a06a8e1bc1b0d7a650aba26bd76f95a4e',1,'kernel']]],
   ['get_5fstack_5fpointer',['get_stack_pointer',['../arch_8h.html#aedd9619fc6862b9952567bbe5b1bd5d3',1,'arch.h']]],
   ['get_5ftag',['get_tag',['../namespacehal.html#abea6f4be3270077bbff27c081d400527',1,'hal']]],

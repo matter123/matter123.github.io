@@ -1,8 +1,0 @@
-<map id="std::vector::push_back" name="std::vector::push_back">
-<area shape="rect" id="node2" href="$test_8cpp.html#a2edadf23dba309e5902af6c6dc829482" title="a" alt="" coords="277,5,316,32"/>
-<area shape="rect" id="node3" href="$namespacekernel.html#a6b9618378102ed5b3f14c28d49c7f62c" title="kernel::schedule" alt="" coords="233,56,360,83"/>
-<area shape="rect" id="node4" href="$namespacekernel.html#a42aa075aa1bf373faef12862f3035d3f" title="kernel::add_task" alt="" coords="232,107,361,133"/>
-<area shape="rect" id="node7" href="$namespacekernel.html#a0cbe8332e0d4a97342c3d6b987c97af4" title="kernel::schedule_int" alt="" coords="221,157,372,184"/>
-<area shape="rect" id="node5" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="627,132,753,159"/>
-<area shape="rect" id="node6" href="$namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631" title="kernel::init_scheduler" alt="" coords="420,157,579,184"/>
-</map>

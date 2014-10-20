@@ -1,5 +1,5 @@
 <map id="is_char_equal" name="is_char_equal">
-<area shape="rect" id="node2" href="$string_8c.html#ac16a3eebd6c7e7e48d5a70b49403ba40" title="mbscmp" alt="" coords="167,5,245,32"/>
+<area shape="rect" id="node2" href="$string_8c.html#ac16a3eebd6c7e7e48d5a70b49403ba40" title="compares str1 and str2 " alt="" coords="167,5,245,32"/>
 <area shape="rect" id="node3" href="$string_8c.html#a5c83f53d0b02b599d0578a2da24329fd" title="mbsncmp" alt="" coords="163,56,249,83"/>
 <area shape="rect" id="node4" href="$string_8c.html#ac76c2d8a6f97ba0b841d8ae347352dc2" title="mbschr" alt="" coords="171,107,241,133"/>
 <area shape="rect" id="node5" href="$string_8c.html#a674165b8b544a5fc278dc3bfdeef1e20" title="mbscspn" alt="" coords="166,157,246,184"/>

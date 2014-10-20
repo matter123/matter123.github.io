@@ -8,7 +8,7 @@ var searchData=
   ['hal_5fidt_2ecpp',['hal_idt.cpp',['../x64_2hal__idt_8cpp.html',1,'']]],
   ['hal_5fidt_2ecpp',['hal_idt.cpp',['../x86_2hal__idt_8cpp.html',1,'']]],
   ['halt',['halt',['../namespacehal.html#af08b2c49fc695d8a9b5dd132c92d7b7b',1,'hal']]],
-  ['handle',['handle',['../namespacex64.html#a8a5dc9f93520822862cd5dd6d4be58ff',1,'x64::handle()'],['../namespacex86.html#a6b3aa6f0451258a109582e3b6b467156',1,'x86::handle()']]],
+  ['handle',['handle',['../namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad',1,'x64::handle()'],['../namespacex86.html#a10c082b8e1777d420325e9ac096278f1',1,'x86::handle()']]],
   ['handle_5feoi',['handle_eoi',['../namespacepc.html#a8c1c62801253d1a3da00a8717dc1d205',1,'pc']]],
   ['has_5fuser_5fstack',['has_user_stack',['../structkernel_1_1thread__info.html#a2608735fd1cff360cb5abfb63bc28234',1,'kernel::thread_info']]],
   ['head',['HEAD',['../structkernel_1_1HEAD.html',1,'kernel']]],

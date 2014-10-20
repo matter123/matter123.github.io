@@ -1,12 +1,5 @@
 <map id="hal::width" name="hal::width">
-<area shape="rect" id="node2" href="$namespacehal.html#a7854e96165a7643b4d804d9b779e822a" title="hal::print_boot_msg" alt="" coords="137,158,287,185"/>
-<area shape="rect" id="node10" href="$namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="151,260,273,286"/>
-<area shape="rect" id="node3" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="711,108,814,134"/>
-<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="869,82,996,109"/>
-<area shape="rect" id="node5" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="535,209,655,236"/>
-<area shape="rect" id="node6" href="$namespacex64.html#a548325823392c253f009aa8cc6996a25" title="x64::pre_init_handle" alt="" coords="335,158,485,185"/>
-<area shape="rect" id="node8" href="$namespacex86.html#a3cfeb4786c0f6d7ed25756cfa2e75783" title="x86::pre_init_handle" alt="" coords="335,260,485,286"/>
-<area shape="rect" id="node9" href="$namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="704,6,821,33"/>
-<area shape="rect" id="node7" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="533,158,656,185"/>
-<area shape="rect" id="node11" href="$namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="350,310,470,337"/>
+<area shape="rect" id="node2" href="$namespacehal.html#a7854e96165a7643b4d804d9b779e822a" title="hal::print_boot_msg" alt="" coords="137,5,287,32"/>
+<area shape="rect" id="node3" href="$namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="151,56,273,83"/>
+<area shape="rect" id="node4" href="$namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="335,56,455,83"/>
 </map>

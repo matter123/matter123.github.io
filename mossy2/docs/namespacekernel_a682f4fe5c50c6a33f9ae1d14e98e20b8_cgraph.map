@@ -1,8 +1,0 @@
-<map id="kernel::func" name="kernel::func">
-<area shape="rect" id="node2" href="$classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f" title="kernel::mutex::lock" alt="" coords="160,8,307,35"/>
-<area shape="rect" id="node6" href="$classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78" title="kernel::mutex::unlock" alt="" coords="152,60,315,87"/>
-<area shape="rect" id="node3" href="$classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702" title="kernel::semaphore::wait" alt="" coords="363,5,541,32"/>
-<area shape="rect" id="node4" href="$classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="589,8,767,35"/>
-<area shape="rect" id="node5" href="$classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="589,60,767,87"/>
-<area shape="rect" id="node7" href="$classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4" title="kernel::semaphore::\lsignal" alt="" coords="377,57,527,98"/>
-</map>

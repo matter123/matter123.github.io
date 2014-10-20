@@ -28,7 +28,9 @@ var NAVTREE =
         [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", "globals_func" ],
         [ "Variables", "globals_vars.html", "globals_vars" ],
-        [ "Typedefs", "globals_type.html", null ]
+        [ "Typedefs", "globals_type.html", null ],
+        [ "Enumerations", "globals_enum.html", null ],
+        [ "Enumerator", "globals_eval.html", null ]
       ] ]
     ] ]
   ] ]
@@ -38,11 +40,11 @@ var NAVTREEINDEX =
 [
 "ABI_8c.html",
 "arch_2x86__64_2int_8h.html#ab0571dc84def3a678ca83699fc8b9a74",
-"console_8h.html#adf343534a8f851c0f34d612d474d48c4",
-"kstacks_8h.html#a816dd7de50b298f7da316313ab00c594",
-"string_8h.html#a008e171a518fe0e0352f31b245e03875",
-"structx64_1_1recursive__paging_1_1pte.html#a8aba8c4de1b9105eef014c130e12e782",
-"x86_2paging_8cpp.html#aa477aac835558177ef108118f601d96f"
+"ctype_8cpp.html#a7b8f652a0423a80922dd89d8829db5f2",
+"mem__region_8cpp.html#ad79442f103afec48a964fc97e94046a9",
+"string_8h.html#a7a82515b5d377be04817715c5465b647",
+"structx86_1_1idt__entry.html#a4a3e6a2556ddca9c64600f5553d093a5",
+"x86_2idt_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['a',['a',['../test_8cpp.html#a2edadf23dba309e5902af6c6dc829482',1,'test.cpp']]],
   ['acquire',['acquire',['../classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7',1,'kernel::spinlock']]],
   ['add_5ffree_5fpage',['add_free_page',['../namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6',1,'x86_64']]],
   ['add_5fphys_5fmem_5farch',['add_phys_mem_arch',['../namespacehal.html#a3949c3c672c8731a6624f705dbe84cb9',1,'hal']]],
@@ -13,7 +12,6 @@ var searchData=
   ['address',['address',['../namespacehal.html#a4013e509947e7228aef455038ba1c82a',1,'hal']]],
   ['asctime',['asctime',['../time_8h.html#a68a0e9d22417dfcf9c0be64261352e64',1,'asctime(const struct tm *timeptr):&#160;time.h'],['../time_8cpp.html#ae3b8c29a35f3137802c32e8e54ed8e6d',1,'asctime(const tm *timeptr):&#160;time.cpp']]],
   ['assert',['assert',['../namespacestd.html#ac5cd6c10f3b85540626b27f1e00cd30d',1,'std']]],
-  ['at',['at',['../classstd_1_1vector.html#af3013d3f21f5f3fdeed90ea6629691a1',1,'std::vector']]],
   ['atof',['atof',['../stdlib_8h.html#a5aff941a8b7b49b2e7160449a3d413fc',1,'stdlib.h']]],
   ['atoi',['atoi',['../stdlib_8h.html#aec327ac88a4cd588e82a8b0ac752b089',1,'atoi(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#aec327ac88a4cd588e82a8b0ac752b089',1,'atoi(const char *str):&#160;stdlib.cpp']]],
   ['atol',['atol',['../stdlib_8h.html#ad92c5a918e5bcd89416deb3b64fb46ee',1,'atol(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#ad92c5a918e5bcd89416deb3b64fb46ee',1,'atol(const char *str):&#160;stdlib.cpp']]],

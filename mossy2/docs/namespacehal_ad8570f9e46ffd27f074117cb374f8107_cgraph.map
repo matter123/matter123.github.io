@@ -1,12 +1,5 @@
 <map id="hal::install_timer_callback" name="hal::install_timer_callback">
-<area shape="rect" id="node2" href="$namespacepc.html#ae73a2df6a33fa032b29f0a25b4718582" title="pc::callback" alt="" coords="180,56,277,83"/>
+<area shape="rect" id="node2" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="180,31,277,57"/>
 <area shape="rect" id="node3" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="325,5,428,32"/>
-<area shape="rect" id="node4" href="$namespacekernel.html#a682f4fe5c50c6a33f9ae1d14e98e20b8" title="kernel::func" alt="" coords="327,56,426,83"/>
-<area shape="rect" id="node11" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="351,107,402,133"/>
-<area shape="rect" id="node5" href="$classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f" title="kernel::mutex::lock" alt="" coords="484,31,631,57"/>
-<area shape="rect" id="node9" href="$classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78" title="kernel::mutex::unlock" alt="" coords="476,83,639,109"/>
-<area shape="rect" id="node6" href="$classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702" title="kernel::semaphore::wait" alt="" coords="687,28,865,55"/>
-<area shape="rect" id="node7" href="$classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="913,31,1091,57"/>
-<area shape="rect" id="node8" href="$classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="913,83,1091,109"/>
-<area shape="rect" id="node10" href="$classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4" title="kernel::semaphore::\lsignal" alt="" coords="701,79,851,121"/>
+<area shape="rect" id="node4" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="351,56,402,83"/>
 </map>

@@ -1,10 +1,10 @@
 <map id="get_creg" name="get_creg">
-<area shape="rect" id="node2" href="$namespacex64.html#a8a5dc9f93520822862cd5dd6d4be58ff" title="x64::handle" alt="" coords="144,56,241,83"/>
-<area shape="rect" id="node7" href="$namespacex86.html#a6b3aa6f0451258a109582e3b6b467156" title="x86::handle" alt="" coords="144,107,241,133"/>
+<area shape="rect" id="node2" href="$namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="144,56,241,83"/>
+<area shape="rect" id="node7" href="$namespacex86.html#a10c082b8e1777d420325e9ac096278f1" title="x86::handle" alt="" coords="144,107,241,133"/>
 <area shape="rect" id="node8" href="$namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="132,157,253,184"/>
 <area shape="rect" id="node3" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="301,56,424,83"/>
 <area shape="rect" id="node4" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="496,5,599,32"/>
-<area shape="rect" id="node6" href="$namespacex64.html#a548325823392c253f009aa8cc6996a25" title="x64::pre_init_handle" alt="" coords="472,56,623,83"/>
+<area shape="rect" id="node6" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="472,56,623,83"/>
 <area shape="rect" id="node5" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="671,5,797,32"/>
 <area shape="rect" id="node9" href="$namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="303,157,423,184"/>
 </map>

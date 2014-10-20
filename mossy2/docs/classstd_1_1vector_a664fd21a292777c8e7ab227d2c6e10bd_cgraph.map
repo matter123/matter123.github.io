@@ -1,7 +1,0 @@
-<map id="std::vector::vector" name="std::vector::vector">
-<area shape="rect" id="node2" href="$stdlib_8h.html#afbedc913aa4651b3c3b4b3aecd9b4711" title="free" alt="" coords="209,5,257,32"/>
-<area shape="rect" id="node4" href="$stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="201,56,265,83"/>
-<area shape="rect" id="node6" href="$string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="193,107,272,133"/>
-<area shape="rect" id="node3" href="$namespacekernel.html#abda890eb0224f932543b2848fba64ffd" title="kernel::dumb_merge" alt="" coords="320,5,476,32"/>
-<area shape="rect" id="node5" href="$namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="350,56,446,83"/>
-</map>

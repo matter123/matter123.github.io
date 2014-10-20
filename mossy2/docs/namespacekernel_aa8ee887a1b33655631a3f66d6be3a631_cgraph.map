@@ -1,29 +1,10 @@
 <map id="kernel::init_scheduler" name="kernel::init_scheduler">
-<area shape="rect" id="node2" href="$namespacekernel.html#a42aa075aa1bf373faef12862f3035d3f" title="kernel::add_task" alt="" coords="223,127,352,154"/>
-<area shape="rect" id="node12" href="$namespacehal.html#ad2c7992c296068c99785f4e6ccf65441" title="hal::register_int" alt="" coords="227,317,348,343"/>
-<area shape="rect" id="node25" href="$namespacekernel.html#a0cbe8332e0d4a97342c3d6b987c97af4" title="kernel::schedule_int" alt="" coords="212,203,363,230"/>
-<area shape="rect" id="node3" href="$classstd_1_1vector.html#aa4a0dc23165160c65740e7f866f0432b" title="std::vector::push_back" alt="" coords="420,114,588,141"/>
-<area shape="rect" id="node4" href="$stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be" title="realloc" alt="" coords="665,114,729,141"/>
-<area shape="rect" id="node5" href="$namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="821,38,933,65"/>
-<area shape="rect" id="node6" href="$namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="1048,26,1144,53"/>
-<area shape="rect" id="node7" href="$namespacekernel.html#abf20922f3940efb87c628f39b6f18039" title="kernel::free" alt="" coords="829,139,925,166"/>
-<area shape="rect" id="node8" href="$namespacekernel.html#abda890eb0224f932543b2848fba64ffd" title="kernel::dumb_merge" alt="" coords="1018,102,1174,129"/>
-<area shape="rect" id="node9" href="$namespacekernel.html#a6e4897103f6c207a9c2531daf8634859" title="kernel::scoot" alt="" coords="825,190,930,217"/>
-<area shape="rect" id="node11" href="$string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="838,241,917,267"/>
-<area shape="rect" id="node10" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="1049,190,1143,217"/>
-<area shape="rect" id="node13" href="$namespacehal.html#a16f789679c3fc054ae684c1e57a24f9c" title="hal::register_asm_sub_int" alt="" coords="411,317,597,343"/>
-<area shape="rect" id="node15" href="$namespacepc.html#ae73a2df6a33fa032b29f0a25b4718582" title="pc::callback" alt="" coords="455,393,553,419"/>
-<area shape="rect" id="node14" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="664,303,729,330"/>
-<area shape="rect" id="node16" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="645,354,748,381"/>
-<area shape="rect" id="node17" href="$namespacekernel.html#a682f4fe5c50c6a33f9ae1d14e98e20b8" title="kernel::func" alt="" coords="647,405,746,431"/>
-<area shape="rect" id="node24" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="671,455,722,482"/>
-<area shape="rect" id="node18" href="$classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f" title="kernel::mutex::lock" alt="" coords="804,430,951,457"/>
-<area shape="rect" id="node22" href="$classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78" title="kernel::mutex::unlock" alt="" coords="796,375,959,402"/>
-<area shape="rect" id="node19" href="$classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702" title="kernel::semaphore::wait" alt="" coords="1007,431,1185,458"/>
-<area shape="rect" id="node20" href="$classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="1233,375,1411,402"/>
-<area shape="rect" id="node21" href="$classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="1233,427,1411,454"/>
-<area shape="rect" id="node23" href="$classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4" title="kernel::semaphore::\lsignal" alt="" coords="1021,365,1171,407"/>
-<area shape="rect" id="node26" href="$arch_8h.html#a70da18acf65c837e4927ff9bbc5fb86b" title="get_reg" alt="" coords="469,165,539,191"/>
-<area shape="rect" id="node27" href="$classstd_1_1vector.html#af3013d3f21f5f3fdeed90ea6629691a1" title="std::vector::at" alt="" coords="448,215,560,242"/>
-<area shape="rect" id="node28" href="$namespacehal.html#a19733e5a1a5319869f72f44774aeac1e" title="hal::magic_break" alt="" coords="438,266,570,293"/>
+<area shape="rect" id="node2" href="$namespacekernel.html#a42aa075aa1bf373faef12862f3035d3f" title="kernel::add_task" alt="" coords="223,5,352,32"/>
+<area shape="rect" id="node3" href="$namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="227,56,348,83"/>
+<area shape="rect" id="node9" href="$namespacekernel.html#a865bd2d3ec3c8114028c1e552cb852d3" title="kernel::schedule_int" alt="" coords="212,107,363,133"/>
+<area shape="rect" id="node4" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="411,31,597,57"/>
+<area shape="rect" id="node6" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="455,81,553,108"/>
+<area shape="rect" id="node5" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="664,31,729,57"/>
+<area shape="rect" id="node7" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="645,81,748,108"/>
+<area shape="rect" id="node8" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="671,132,722,159"/>
 </map>

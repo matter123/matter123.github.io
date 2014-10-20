@@ -119,12 +119,10 @@ Namespaces</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a0cbe8332e0d4a97342c3d6b987c97af4"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#a0cbe8332e0d4a97342c3d6b987c97af4">kernel::schedule_int</a> (int level, <a class="el" href="structcpu__state.html">cpu_state</a> *s)</td></tr>
-<tr class="separator:a0cbe8332e0d4a97342c3d6b987c97af4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a865bd2d3ec3c8114028c1e552cb852d3"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#a865bd2d3ec3c8114028c1e552cb852d3">kernel::schedule_int</a> (<a class="el" href="structcpu__state.html">cpu_state</a> *s)</td></tr>
+<tr class="separator:a865bd2d3ec3c8114028c1e552cb852d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6b9618378102ed5b3f14c28d49c7f62c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structcpu__state.html">cpu_state</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#a6b9618378102ed5b3f14c28d49c7f62c">kernel::schedule</a> (<a class="el" href="structcpu__state.html">cpu_state</a> *s)</td></tr>
 <tr class="separator:a6b9618378102ed5b3f14c28d49c7f62c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa7dc85db3c41819627bea1f5a2e0924d"><td class="memItemLeft" align="right" valign="top">thread_info *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#aa7dc85db3c41819627bea1f5a2e0924d">kernel::get_self</a> ()</td></tr>
-<tr class="separator:aa7dc85db3c41819627bea1f5a2e0924d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a42aa075aa1bf373faef12862f3035d3f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#a42aa075aa1bf373faef12862f3035d3f">kernel::add_task</a> (thread_info *t)</td></tr>
 <tr class="separator:a42aa075aa1bf373faef12862f3035d3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa8ee887a1b33655631a3f66d6be3a631"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631">kernel::init_scheduler</a> (thread_info *cur_task)</td></tr>
@@ -132,18 +130,8 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a236d9ba627fb07f967c80e54704a83c1"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classstd_1_1vector.html">std::vector</a><br class="typebreak" />
-&lt; thread_info * &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#a236d9ba627fb07f967c80e54704a83c1">kernel::blocked</a></td></tr>
-<tr class="separator:a236d9ba627fb07f967c80e54704a83c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89aca0ec442e8cc5c136f6b52b349d92"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classstd_1_1vector.html">std::vector</a><br class="typebreak" />
-&lt; thread_info * &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#a89aca0ec442e8cc5c136f6b52b349d92">kernel::active</a></td></tr>
-<tr class="separator:a89aca0ec442e8cc5c136f6b52b349d92"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3babdc5fdde30833bf1efaedd97fb960"><td class="memItemLeft" align="right" valign="top">static uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#a3babdc5fdde30833bf1efaedd97fb960">kernel::current</a> =0</td></tr>
-<tr class="separator:a3babdc5fdde30833bf1efaedd97fb960"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afa148d05e51d7847edb108cf991d3b17"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#afa148d05e51d7847edb108cf991d3b17">kernel::init</a> =false</td></tr>
 <tr class="separator:afa148d05e51d7847edb108cf991d3b17"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6cb97d942e53c9efa85d476ce61fd077"><td class="memItemLeft" align="right" valign="top">static void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacekernel.html#a6cb97d942e53c9efa85d476ce61fd077">kernel::wait_on</a></td></tr>
-<tr class="separator:a6cb97d942e53c9efa85d476ce61fd077"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -151,7 +139,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_220d2bd384b446346a1cdcf02b1b2295.html">sys</a></li><li class="navelem"><a class="el" href="scheduler_8cpp.html">scheduler.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 14 2014 20:50:53 for MOSSY 2 by
+    <li class="footer">Generated on Mon Oct 20 2014 16:00:02 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

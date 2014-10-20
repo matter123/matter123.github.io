@@ -1,6 +1,0 @@
-<map id="x64::handle" name="x64::handle">
-<area shape="rect" id="node2" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="151,56,273,83"/>
-<area shape="rect" id="node3" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="345,5,448,32"/>
-<area shape="rect" id="node5" href="$namespacex64.html#a548325823392c253f009aa8cc6996a25" title="x64::pre_init_handle" alt="" coords="321,56,472,83"/>
-<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="520,5,647,32"/>
-</map>

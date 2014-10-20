@@ -107,7 +107,6 @@ $(document).ready(function(){initNavTree('hal_2hal_2int_8h.html','');});
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">int.h File Reference</div>  </div>
@@ -126,24 +125,17 @@ Namespaces</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a3cec36c454109a907b0f2ef2719270e3"><td class="memItemLeft" align="right" valign="top">typedef bool(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a3cec36c454109a907b0f2ef2719270e3">hal::int_callback</a> )(int level, <a class="el" href="structcpu__state.html">cpu_state</a> *cpu)</td></tr>
-<tr class="separator:a3cec36c454109a907b0f2ef2719270e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a0a093e6625d0d605b9096345537d8a2f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a0a093e6625d0d605b9096345537d8a2f">hal::interrupt_type</a> { <a class="el" href="namespacehal.html#a0a093e6625d0d605b9096345537d8a2fae4f6cc451ba78d948de807794f120f5a">hal::NON_REENTRANT</a>, 
-<a class="el" href="namespacehal.html#a0a093e6625d0d605b9096345537d8a2faa33fe1aa2c8a46cb35ba11a492abede6">hal::REENTRANT</a>
- }</td></tr>
-<tr class="separator:a0a093e6625d0d605b9096345537d8a2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19c7a8cead20bdcf199c4912364bc526"><td class="memItemLeft" align="right" valign="top">typedef void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a19c7a8cead20bdcf199c4912364bc526">hal::int_callback</a> )(<a class="el" href="structcpu__state.html">cpu_state</a> *cpu)</td></tr>
+<tr class="separator:a19c7a8cead20bdcf199c4912364bc526"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:acf368f22e14933f89937e01f35ee68a4"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#acf368f22e14933f89937e01f35ee68a4">hal::get_max_interrupt</a> ()</td></tr>
 <tr class="separator:acf368f22e14933f89937e01f35ee68a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2c7992c296068c99785f4e6ccf65441"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#ad2c7992c296068c99785f4e6ccf65441">hal::register_int</a> (uint16_t int_num, int_callback callback, <a class="el" href="namespacehal.html#a0a093e6625d0d605b9096345537d8a2f">hal::interrupt_type</a> type, bool user)</td></tr>
-<tr class="separator:ad2c7992c296068c99785f4e6ccf65441"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16f789679c3fc054ae684c1e57a24f9c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a16f789679c3fc054ae684c1e57a24f9c">hal::register_asm_sub_int</a> (uint16_t int_num, uintptr_t addr, interrupt_type type, bool user)</td></tr>
-<tr class="separator:a16f789679c3fc054ae684c1e57a24f9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec24943eea256f5a22244ec07b143b71"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#aec24943eea256f5a22244ec07b143b71">hal::register_int</a> (uint16_t int_num, int_callback callback, int type, bool user)</td></tr>
+<tr class="separator:aec24943eea256f5a22244ec07b143b71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3facdd934c180b17e39931a3590e06c8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a3facdd934c180b17e39931a3590e06c8">hal::register_asm_sub_int</a> (uint16_t int_num, uintptr_t addr, int type, bool user)</td></tr>
+<tr class="separator:a3facdd934c180b17e39931a3590e06c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9171645550c7ad1ab28040ef2bcc4d97"><td class="memItemLeft" align="right" valign="top">idt_range&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#a9171645550c7ad1ab28040ef2bcc4d97">hal::reserve_range</a> (uint16_t count, uint16_t min_count, bool aligned)</td></tr>
 <tr class="separator:a9171645550c7ad1ab28040ef2bcc4d97"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab079723d74cc6fd63bb43e6a4996d4b5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacehal.html#ab079723d74cc6fd63bb43e6a4996d4b5">hal::release_range</a> (idt_range range)</td></tr>
@@ -157,7 +149,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_4ce6a7f885e2866a554ba9e7335035f1.html">hal</a></li><li class="navelem"><a class="el" href="dir_291e645265fdb42fb7bfa9c7ef507489.html">hal</a></li><li class="navelem"><a class="el" href="hal_2hal_2int_8h.html">int.h</a></li>
-    <li class="footer">Generated on Tue Oct 14 2014 20:50:53 for MOSSY 2 by
+    <li class="footer">Generated on Mon Oct 20 2014 16:00:02 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

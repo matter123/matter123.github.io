@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['fail_5ffast',['fail_fast',['../namespacehal.html#a7a97308e3fdacd2f8240ba76e010e274',1,'hal']]],
   ['fill',['fill',['../namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2',1,'hal']]],
   ['firmware',['firmware',['../classhal_1_1mem__type.html#ae22f51f1f76275a16f9eca84ba52fe29',1,'hal::mem_type']]],
   ['fix_5fmmap',['fix_mmap',['../namespacehal.html#a63960711ee1b053d5548d350229a23c9',1,'hal::fix_mmap()'],['../namespacehal.html#a63960711ee1b053d5548d350229a23c9',1,'hal::fix_mmap()']]],
@@ -11,6 +12,5 @@ var searchData=
   ['frommsb',['fromMSB',['../namespacehal.html#aacecddabc9e49eedc26f3d3b268548d0',1,'hal']]],
   ['fs',['fs',['../structcpu__state.html#a0fc1d3c22b185f549b0371e28ddaaa02',1,'cpu_state']]],
   ['full',['FULL',['../namespacekernel.html#ada83f94b13aca263c0fd8779cd2cdb70',1,'kernel']]],
-  ['func',['func',['../namespacekernel.html#a682f4fe5c50c6a33f9ae1d14e98e20b8',1,'kernel']]],
   ['funcs',['funcs',['../namespacepc.html#a14ccd0da56c54524d4a97f2437a52c60',1,'pc']]]
 ];

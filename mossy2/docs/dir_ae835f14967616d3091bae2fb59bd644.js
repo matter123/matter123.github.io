@@ -4,6 +4,5 @@ var dir_ae835f14967616d3091bae2fb59bd644 =
     [ "ctype.cpp", "ctype_8cpp.html", "ctype_8cpp" ],
     [ "stdlib.cpp", "stdlib_8cpp.html", "stdlib_8cpp" ],
     [ "string.c", "string_8c.html", "string_8c" ],
-    [ "time.cpp", "time_8cpp.html", "time_8cpp" ],
-    [ "utf8.c", "utf8_8c.html", "utf8_8c" ]
+    [ "time.cpp", "time_8cpp.html", "time_8cpp" ]
 ];
