@@ -8,6 +8,7 @@ var searchData=
   ['set_5fmon',['set_mon',['../time_8cpp.html#a92e17d55930effdd8b42ef998f1549fd',1,'time.cpp']]],
   ['set_5freg',['set_reg',['../arch_8h.html#ad2a5fe557c248b09971b07873319494c',1,'arch.h']]],
   ['set_5fstack_5fpointer',['set_stack_pointer',['../arch_8h.html#aaaf27f035afe8c9427ad611c2d30de00',1,'arch.h']]],
+  ['setup_5fvga',['setup_vga',['../namespacehal.html#a7d3c247ac77d91f21f529e56737f341e',1,'hal']]],
   ['signal',['signal',['../classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4',1,'kernel::semaphore']]],
   ['sort',['sort',['../namespacehal.html#ad231ce640650f0ef67962ff41f7b5014',1,'hal']]],
   ['split',['split',['../namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1',1,'hal::split()'],['../namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70',1,'kernel::split()']]],

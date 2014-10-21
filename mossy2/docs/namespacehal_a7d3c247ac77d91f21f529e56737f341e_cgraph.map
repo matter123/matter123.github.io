@@ -1,0 +1,7 @@
+<map id="hal::setup_vga" name="hal::setup_vga">
+<area shape="rect" id="node2" href="$namespacehal.html#aa2b7786b42bd5908466754e21839b89e" title="hal::get_tag_count" alt="" coords="173,5,315,32"/>
+<area shape="rect" id="node3" href="$namespacehal.html#abea6f4be3270077bbff27c081d400527" title="hal::get_tag" alt="" coords="195,56,293,83"/>
+<area shape="rect" id="node4" href="$namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="169,107,319,133"/>
+<area shape="rect" id="node5" href="$namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="367,81,452,108"/>
+<area shape="rect" id="node6" href="$string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="376,132,443,159"/>
+</map>

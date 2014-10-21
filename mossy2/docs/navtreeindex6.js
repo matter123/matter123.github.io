@@ -1,5 +1,7 @@
 var NAVTREEINDEX6 =
 {
+"x86_2hal__idt_8cpp.html#aec24943eea256f5a22244ec07b143b71":[3,0,1,0,1,1,11],
+"x86_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378":[3,0,1,0,1,1,8],
 "x86_2hal__idt_8cpp.html#afc7c86db5f36388e59b4c16a84b3316f":[3,0,1,0,1,1,7],
 "x86_2idt_8h.html":[3,0,1,0,1,2],
 "x86_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f":[3,0,1,0,1,2,0],

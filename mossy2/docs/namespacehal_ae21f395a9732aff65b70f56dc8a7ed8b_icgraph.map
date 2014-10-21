@@ -1,15 +1,16 @@
 <map id="hal::print_boot_msg" name="hal::print_boot_msg">
-<area shape="rect" id="node2" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="942,91,1045,118"/>
-<area shape="rect" id="node4" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="572,306,692,332"/>
-<area shape="rect" id="node5" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="203,52,353,79"/>
-<area shape="rect" id="node7" href="$namespacex86.html#ab9e4d0e4571d9531648f20c875120f08" title="x86::pre_init_handle" alt="" coords="203,356,353,383"/>
-<area shape="rect" id="node8" href="$namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="935,227,1052,254"/>
-<area shape="rect" id="node9" href="$namespacehal.html#a6487ba4be75874e36c21a667e61300b8" title="hal::wksp_begin" alt="" coords="215,179,341,206"/>
-<area shape="rect" id="node3" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1100,227,1227,254"/>
-<area shape="rect" id="node6" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="401,52,524,79"/>
-<area shape="rect" id="node10" href="$namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="425,103,500,130"/>
-<area shape="rect" id="node11" href="$namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="575,154,689,180"/>
-<area shape="rect" id="node14" href="$namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="431,154,494,180"/>
-<area shape="rect" id="node12" href="$namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="740,198,887,224"/>
-<area shape="rect" id="node13" href="$namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="745,122,882,148"/>
+<area shape="rect" id="node2" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="942,93,1045,120"/>
+<area shape="rect" id="node4" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="572,308,692,335"/>
+<area shape="rect" id="node5" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="203,55,353,81"/>
+<area shape="rect" id="node7" href="$namespacex86.html#ab9e4d0e4571d9531648f20c875120f08" title="x86::pre_init_handle" alt="" coords="203,409,353,436"/>
+<area shape="rect" id="node8" href="$namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="574,359,690,385"/>
+<area shape="rect" id="node9" href="$namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="935,257,1052,284"/>
+<area shape="rect" id="node10" href="$namespacehal.html#a6487ba4be75874e36c21a667e61300b8" title="hal::wksp_begin" alt="" coords="215,181,341,208"/>
+<area shape="rect" id="node3" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1100,283,1227,309"/>
+<area shape="rect" id="node6" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="401,55,524,81"/>
+<area shape="rect" id="node11" href="$namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="425,105,500,132"/>
+<area shape="rect" id="node12" href="$namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="575,156,689,183"/>
+<area shape="rect" id="node15" href="$namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="431,156,494,183"/>
+<area shape="rect" id="node13" href="$namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="740,200,887,227"/>
+<area shape="rect" id="node14" href="$namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="745,124,882,151"/>
 </map>
