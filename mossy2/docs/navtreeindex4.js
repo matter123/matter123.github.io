@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"string_8h.html#a71663781d2aaf48be73d6a9a0cedb0de":[3,0,0,0,0,3,20],
 "string_8h.html#a7a82515b5d377be04817715c5465b647":[3,0,0,0,0,3,22],
 "string_8h.html#a8cb460f64c449f2a9b9b7a40569ce0fe":[3,0,0,0,0,3,34],
 "string_8h.html#a91c52c43f254c0a5f086f5e1093e3235":[3,0,0,0,0,3,32],
@@ -20,7 +21,7 @@ var NAVTREEINDEX4 =
 "string_8h.html#ae8628c986b70205d34a160d2fb740680":[3,0,0,0,0,3,14],
 "string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1":[3,0,0,0,0,3,13],
 "string_8h.html#af9c752e157fb19960a4381cffd582fb8":[3,0,0,0,0,3,2],
-"struct_8h.html":[3,0,1,4,0,5],
+"struct_8h.html":[3,0,1,4,0,6],
 "structcpu__state.html":[2,0,5],
 "structcpu__state.html#a0788749cbade5c0730bf75890446ad93":[2,0,5,28],
 "structcpu__state.html#a0af4e716f8861cb5d0a25f75f609c8cc":[2,0,5,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "structx86_1_1IDTR.html#a3550e4bf11ef30f9fe39cb0413ff1cf4":[2,0,4,2,1],
 "structx86_1_1IDTR.html#a92830f21d42a31f8a1681523168ed0a7":[2,0,4,2,0],
 "structx86_1_1idt__entry.html":[2,0,4,1],
-"structx86_1_1idt__entry.html#a1b7e3803dd8db36d34faecac343284d1":[2,0,4,1,0],
-"structx86_1_1idt__entry.html#a2af55e9c8cfa1baa9024e89117b8c0ec":[2,0,4,1,2]
+"structx86_1_1idt__entry.html#a1b7e3803dd8db36d34faecac343284d1":[2,0,4,1,0]
 };
