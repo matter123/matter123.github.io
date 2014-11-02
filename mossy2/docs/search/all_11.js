@@ -42,6 +42,7 @@ var searchData=
   ['resv_5fstate',['resv_state',['../structkernel_1_1thread__info.html#a369ff5642e560b8919ba534707d360d6',1,'kernel::thread_info']]],
   ['rflags',['rflags',['../structcpu__state.html#ab2cdafb7d8d85e2c251ceff7dc48353a',1,'cpu_state']]],
   ['rip',['rip',['../structcpu__state.html#aedf337188fd0e9d0e582287e10b8e4f1',1,'cpu_state::rip()'],['../structhal_1_1stack__frame.html#ad59c0fe2dc1ba878647e7899c43837db',1,'hal::stack_frame::rip()']]],
+  ['rsdp_2eh',['rsdp.h',['../rsdp_8h.html',1,'']]],
   ['rsi',['rsi',['../structcpu__state.html#a912e2db17309aa3738cecce250852ff8',1,'cpu_state']]],
   ['rsp',['rsp',['../structcpu__state.html#a20bea1cb6c0dbc0c87814665c0f9d997',1,'cpu_state']]],
   ['rsv',['rsv',['../structhal_1_1multiboot__fb.html#abba9b2b1ecece905ee08f2d61b36c948',1,'hal::multiboot_fb']]],
