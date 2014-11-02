@@ -1,4 +1,5 @@
 var acpi_8h =
 [
-    [ "init_acpi_tables", "acpi_8h.html#a6d5268baf4b932156cf932de1b0c2ee0", null ]
+    [ "get_version", "acpi_8h.html#a8802784d12e92bd1c9f3a6dc3c2c1e5a", null ],
+    [ "init_tables", "acpi_8h.html#a238f748510f850070cbaf5265d033f5d", null ]
 ];

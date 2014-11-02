@@ -4,6 +4,7 @@ var searchData=
   ['abi_2ec',['ABI.c',['../ABI_8c.html',1,'']]],
   ['abs_5fjmp',['abs_jmp',['../structx64_1_1trampoline.html#a6733eacecf915cbba794285266d6dcdd',1,'x64::trampoline::abs_jmp()'],['../structx86_1_1trampoline.html#a49136dedd439b31438dbf9fb448bd47f',1,'x86::trampoline::abs_jmp()']]],
   ['accessed',['accessed',['../structx64_1_1recursive__paging_1_1pte.html#a934af8959ce0da08df67db68da0ec51c',1,'x64::recursive_paging::pte::accessed()'],['../structx64_1_1recursive__paging_1_1pde.html#a20ae5eb69c68f723babad53ed9d697c1',1,'x64::recursive_paging::pde::accessed()'],['../structx64_1_1recursive__paging_1_1pdpte.html#a77f264847eedb39b8c967e0934a55243',1,'x64::recursive_paging::pdpte::accessed()'],['../structx64_1_1recursive__paging_1_1pml4e.html#a4974e0bf05a9021e053b92a778791890',1,'x64::recursive_paging::pml4e::accessed()'],['../structx86_1_1recursive__paging_1_1pde.html#a2b28cd76b501a414ae56af2627898860',1,'x86::recursive_paging::pde::accessed()'],['../structx86_1_1recursive__paging_1_1pte.html#a2e78198f00976f5d7de4f080e3c9d6fd',1,'x86::recursive_paging::pte::accessed()']]],
+  ['acpi',['acpi',['../namespaceacpi.html',1,'']]],
   ['acpi_2eh',['acpi.h',['../acpi_8h.html',1,'']]],
   ['acpi_5fos_2eh',['acpi_os.h',['../acpi__os_8h.html',1,'']]],
   ['acquire',['acquire',['../classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7',1,'kernel::spinlock']]],
@@ -30,5 +31,7 @@ var searchData=
   ['atoi',['atoi',['../stdlib_8h.html#aec327ac88a4cd588e82a8b0ac752b089',1,'atoi(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#aec327ac88a4cd588e82a8b0ac752b089',1,'atoi(const char *str):&#160;stdlib.cpp']]],
   ['atol',['atol',['../stdlib_8h.html#ad92c5a918e5bcd89416deb3b64fb46ee',1,'atol(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#ad92c5a918e5bcd89416deb3b64fb46ee',1,'atol(const char *str):&#160;stdlib.cpp']]],
   ['atoll',['atoll',['../stdlib_8h.html#a53e8d1f366b7581b51b222c2e02aa765',1,'atoll(const char *str):&#160;stdlib.cpp'],['../stdlib_8cpp.html#a53e8d1f366b7581b51b222c2e02aa765',1,'atoll(const char *str):&#160;stdlib.cpp']]],
-  ['avil',['avil',['../classhal_1_1mem__type.html#a478c82ed5f0695e167d3b7ad78e7773e',1,'hal::mem_type']]]
+  ['avil',['avil',['../classhal_1_1mem__type.html#a478c82ed5f0695e167d3b7ad78e7773e',1,'hal::mem_type']]],
+  ['os',['os',['../namespaceacpi_1_1os.html',1,'acpi']]],
+  ['tables',['tables',['../namespaceacpi_1_1tables.html',1,'acpi']]]
 ];

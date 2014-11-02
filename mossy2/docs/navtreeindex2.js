@@ -1,5 +1,7 @@
 var NAVTREEINDEX2 =
 {
+"cpu__stuff_8h.html#ae95c9bac436fc0c33204e878437fba46":[4,0,1,0,2,0,0],
+"ctype_8cpp.html":[4,0,0,1,1],
 "ctype_8cpp.html#a0008a4e8e7889734dc1d83297de07158":[4,0,0,1,1,3],
 "ctype_8cpp.html#a25908ae63aac2df990634e1ae5bd14d9":[4,0,0,1,1,1],
 "ctype_8cpp.html#a3fa45b35c8abf67a950b6d3d4063dede":[4,0,0,1,1,4],
@@ -48,10 +50,12 @@ var NAVTREEINDEX2 =
 "dir_291e645265fdb42fb7bfa9c7ef507489.html":[4,0,1,2,0],
 "dir_469590fa3792927175a3ef254e19d19c.html":[4,0,1,0,0],
 "dir_4ce6a7f885e2866a554ba9e7335035f1.html":[4,0,1,2],
+"dir_55efdac51eb02fbf53a42746866aaf22.html":[4,0,0,0,1],
 "dir_56ddbf8fab763785d4949bb2ff83f051.html":[4,0,1,6,0],
 "dir_621db5898c7d6b6e69972e5b815b8265.html":[4,0,0,0],
 "dir_6719ab1f1f7655efc2fa43f7eb574fd1.html":[4,0,0],
 "dir_68267d1309a1af8e8297ef4c3efbcdba.html":[4,0,1],
+"dir_6ec380582fa05fa59ead783a84c59029.html":[4,0,0,0,1,0],
 "dir_70d5e250c66d001b18da37689179cade.html":[4,0,1,0],
 "dir_821359b7c7689d1fc53689b7ab64838f.html":[4,0,1,0,1],
 "dir_90da97247338d9e3ac7f8bf7df478e67.html":[4,0,1,6],
@@ -162,15 +166,14 @@ var NAVTREEINDEX2 =
 "globals_t.html":[4,1,0,16],
 "globals_type.html":[4,1,3],
 "globals_u.html":[4,1,0,17],
-"globals_vars.html":[4,1,2],
 "globals_vars.html":[4,1,2,0],
+"globals_vars.html":[4,1,2],
 "globals_vars_c.html":[4,1,2,1],
 "globals_vars_e.html":[4,1,2,2],
 "globals_vars_i.html":[4,1,2,3],
 "globals_vars_k.html":[4,1,2,4],
 "globals_vars_p.html":[4,1,2,5],
-"globals_vars_r.html":[4,1,2,6],
-"globals_vars_t.html":[4,1,2,7],
+"globals_vars_t.html":[4,1,2,6],
 "globals_w.html":[4,1,0,18],
 "hal_2console_8cpp.html":[4,0,1,2,1],
 "hal_2console_8cpp.html#a313e0ab6d0735538fa42c52df5b947b8":[4,0,1,2,1,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX2 =
 "kstacks_8cpp.html#ac2785caed558fc14275ab3bc3ec84ddb":[4,0,1,5,2,5],
 "kstacks_8cpp.html#ac978c9b7cb028a9fae3b2a83268cf6f8":[4,0,1,5,2,8],
 "kstacks_8cpp.html#ad86be952c729f377aa41042510027c1b":[4,0,1,5,2,7],
-"kstacks_8h.html":[4,0,1,5,0,1],
-"kstacks_8h.html#a06a8e1bc1b0d7a650aba26bd76f95a4e":[4,0,1,5,0,1,3],
-"kstacks_8h.html#a1d9c0ce5fcaf1370c1895e740ac798f1":[4,0,1,5,0,1,2],
-"kstacks_8h.html#a5b15a439c9fd2854756fa49827ca2877":[4,0,1,5,0,1,0]
+"kstacks_8h.html":[4,0,1,5,0,1]
 };

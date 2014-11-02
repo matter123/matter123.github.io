@@ -4,5 +4,5 @@ var searchData=
   ['x64',['x64',['../namespacex64.html',1,'']]],
   ['x86',['x86',['../namespacex86.html',1,'']]],
   ['x86_5f64',['x86_64',['../namespacex86__64.html',1,'']]],
-  ['xsdtaddr',['XSDTaddr',['../structRSDP20.html#af0050781d1a6574e49c152b0384800e6',1,'RSDP20']]]
+  ['xsdtaddr',['XSDTaddr',['../structacpi_1_1tables_1_1RSDP20.html#a289b1528445e4586153aedf156ecf6e4',1,'acpi::tables::RSDP20']]]
 ];

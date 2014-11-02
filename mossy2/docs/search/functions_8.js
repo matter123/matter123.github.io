@@ -2,7 +2,6 @@ var searchData=
 [
   ['inb',['inb',['../io_8h.html#a0223c8898dfec29069879dc51076e28a',1,'io.h']]],
   ['init',['init',['../classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350',1,'x64::recursive_paging::init()'],['../classx86_1_1recursive__paging.html#ae08058ef5695ad6402c2df7afe858cea',1,'x86::recursive_paging::init()']]],
-  ['init_5facpi_5ftables',['init_acpi_tables',['../namespaceapci.html#a6d5268baf4b932156cf932de1b0c2ee0',1,'apci']]],
   ['init_5farch',['init_arch',['../namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1',1,'hal']]],
   ['init_5fcolors',['init_colors',['../namespacestd_1_1TC.html#a514531cc90d35dea6c3a30f38209908f',1,'std::TC']]],
   ['init_5fexec',['init_exec',['../namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc',1,'kernel']]],
@@ -14,6 +13,7 @@ var searchData=
   ['init_5fphys_5fmem',['init_phys_mem',['../namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff',1,'hal']]],
   ['init_5fpic',['init_pic',['../namespacepc.html#a37c2c289036e54bffc2cffa12758103b',1,'pc']]],
   ['init_5fscheduler',['init_scheduler',['../namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631',1,'kernel']]],
+  ['init_5ftables',['init_tables',['../namespaceapci.html#a238f748510f850070cbaf5265d033f5d',1,'apci']]],
   ['init_5ftype',['init_type',['../namespacehal.html#a1aac65ed011c32ed5cab5baba89626a8',1,'hal']]],
   ['init_5fvendor',['init_vendor',['../namespacehal.html#a97343ef7c03081ee4ccab69625ab607c',1,'hal']]],
   ['init_5fvirt_5fmem',['init_virt_mem',['../namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449',1,'hal']]],

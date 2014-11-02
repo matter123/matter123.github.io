@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.8"/>
-<title>MOSSY 2: RSDP20 Struct Reference</title>
+<title>MOSSY 2: acpi::tables::RSDP Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -86,7 +86,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
 </div>
 <script type="text/javascript">
-$(document).ready(function(){initNavTree('structRSDP20.html','');});
+$(document).ready(function(){initNavTree('structacpi_1_1tables_1_1RSDP.html','');});
 </script>
 <div id="doc-content">
 <!-- window showing the filter options -->
@@ -106,89 +106,82 @@ $(document).ready(function(){initNavTree('structRSDP20.html','');});
 <div class="header">
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
-<a href="structRSDP20-members.html">List of all members</a>  </div>
+<a href="structacpi_1_1tables_1_1RSDP-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">RSDP20 Struct Reference</div>  </div>
+<div class="title">acpi::tables::RSDP Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &lt;rsdp.h&gt;</code></p>
-<div class="dynheader">
-Collaboration diagram for RSDP20:</div>
-<div class="dyncontent">
-<div class="center"><img src="structRSDP20__coll__graph.png" border="0" usemap="#RSDP20_coll__map" alt="Collaboration graph"/></div>
-<map name="RSDP20_coll__map" id="RSDP20_coll__map">
-<area shape="rect" id="node2" href="structRSDP.html" title="RSDP" alt="" coords="13,5,71,32"/></map>
-<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ac02759e0d158675af53ec0b3640e8ca9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structRSDP.html">RSDP</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRSDP20.html#ac02759e0d158675af53ec0b3640e8ca9">begin</a></td></tr>
-<tr class="separator:ac02759e0d158675af53ec0b3640e8ca9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7050154f81f4a4857d6a6db9239f7525"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRSDP20.html#a7050154f81f4a4857d6a6db9239f7525">length</a></td></tr>
-<tr class="separator:a7050154f81f4a4857d6a6db9239f7525"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af0050781d1a6574e49c152b0384800e6"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRSDP20.html#af0050781d1a6574e49c152b0384800e6">XSDTaddr</a></td></tr>
-<tr class="separator:af0050781d1a6574e49c152b0384800e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a367cdd47056054c4f98da4d2adaaecdb"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRSDP20.html#a367cdd47056054c4f98da4d2adaaecdb">ext_checksum</a></td></tr>
-<tr class="separator:a367cdd47056054c4f98da4d2adaaecdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a377427f48872f5cf6fe164ece9ef70dd"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRSDP20.html#a377427f48872f5cf6fe164ece9ef70dd">resv</a> [3]</td></tr>
-<tr class="separator:a377427f48872f5cf6fe164ece9ef70dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41a5584cb9e5df47283d7c16ccf562e8"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structacpi_1_1tables_1_1RSDP.html#a41a5584cb9e5df47283d7c16ccf562e8">sig</a> [8]</td></tr>
+<tr class="separator:a41a5584cb9e5df47283d7c16ccf562e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af558ed5916044cbee6a4dc9f6c8b18b4"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structacpi_1_1tables_1_1RSDP.html#af558ed5916044cbee6a4dc9f6c8b18b4">checksum</a></td></tr>
+<tr class="separator:af558ed5916044cbee6a4dc9f6c8b18b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefa195895d29a8bc0ce70845bcde03a4"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structacpi_1_1tables_1_1RSDP.html#aefa195895d29a8bc0ce70845bcde03a4">OEMID</a> [6]</td></tr>
+<tr class="separator:aefa195895d29a8bc0ce70845bcde03a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36250f9431930a2fab80af058434c8a9"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structacpi_1_1tables_1_1RSDP.html#a36250f9431930a2fab80af058434c8a9">revision</a></td></tr>
+<tr class="separator:a36250f9431930a2fab80af058434c8a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8e6f74ec2c8147621e276d6865da3bf"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structacpi_1_1tables_1_1RSDP.html#ab8e6f74ec2c8147621e276d6865da3bf">RSDTaddr</a></td></tr>
+<tr class="separator:ab8e6f74ec2c8147621e276d6865da3bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a class="anchor" id="ac02759e0d158675af53ec0b3640e8ca9"></a>
+<a class="anchor" id="af558ed5916044cbee6a4dc9f6c8b18b4"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="structRSDP.html">RSDP</a> RSDP20::begin</td>
+          <td class="memname">uint8_t acpi::tables::RSDP::checksum</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a class="anchor" id="a367cdd47056054c4f98da4d2adaaecdb"></a>
+<a class="anchor" id="aefa195895d29a8bc0ce70845bcde03a4"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">uint8_t RSDP20::ext_checksum</td>
+          <td class="memname">char acpi::tables::RSDP::OEMID[6]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a class="anchor" id="a7050154f81f4a4857d6a6db9239f7525"></a>
+<a class="anchor" id="a36250f9431930a2fab80af058434c8a9"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t RSDP20::length</td>
+          <td class="memname">uint8_t acpi::tables::RSDP::revision</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a class="anchor" id="a377427f48872f5cf6fe164ece9ef70dd"></a>
+<a class="anchor" id="ab8e6f74ec2c8147621e276d6865da3bf"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">uint8_t RSDP20::resv[3]</td>
+          <td class="memname">uint32_t acpi::tables::RSDP::RSDTaddr</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a class="anchor" id="af0050781d1a6574e49c152b0384800e6"></a>
+<a class="anchor" id="a41a5584cb9e5df47283d7c16ccf562e8"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">uint64_t RSDP20::XSDTaddr</td>
+          <td class="memname">char acpi::tables::RSDP::sig[8]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -203,8 +196,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="structRSDP20.html">RSDP20</a></li>
-    <li class="footer">Generated on Sun Nov 2 2014 14:00:02 for MOSSY 2 by
+    <li class="navelem"><a class="el" href="namespaceacpi.html">acpi</a></li><li class="navelem"><a class="el" href="namespaceacpi_1_1tables.html">tables</a></li><li class="navelem"><a class="el" href="structacpi_1_1tables_1_1RSDP.html">RSDP</a></li>
+    <li class="footer">Generated on Sun Nov 2 2014 14:30:02 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

@@ -13,7 +13,7 @@ var searchData=
   ['chars',['chars',['../namespacestd.html#a35f0bd681a78f8a7077d674cc4473474',1,'std']]],
   ['chars_5flow',['chars_low',['../namespacestd.html#a4735342d5b34f7589e5455cd5439e6ed',1,'std']]],
   ['check',['check',['../classkernel_1_1spinlock.html#a38b6c9e986c9753e1cef4285d35be198',1,'kernel::spinlock']]],
-  ['checksum',['checksum',['../structRSDP.html#ace3d191ff6b98ce01e53e00f70b9467b',1,'RSDP']]],
+  ['checksum',['checksum',['../structacpi_1_1tables_1_1RSDP.html#af558ed5916044cbee6a4dc9f6c8b18b4',1,'acpi::tables::RSDP']]],
   ['cls',['cls',['../namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d',1,'hal::cls()'],['../namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1',1,'std::cls()']]],
   ['code',['code',['../structcpu__state.html#a84213d5c56030de14af51b73666c5571',1,'cpu_state']]],
   ['code_5fsegment',['code_segment',['../structx64_1_1idt__entry.html#a211f1778f248c19fed1e3e7123c7cb90',1,'x64::idt_entry::code_segment()'],['../structx86_1_1idt__entry.html#a1b7e3803dd8db36d34faecac343284d1',1,'x86::idt_entry::code_segment()']]],
