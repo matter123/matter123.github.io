@@ -1,5 +1,13 @@
 var NAVTREEINDEX6 =
 {
+"workspace_8h.html#a5f2d8143eeb1ef13dfa915d4ad595cb0":[4,0,1,2,0,10,1],
+"workspace_8h.html#a6487ba4be75874e36c21a667e61300b8":[4,0,1,2,0,10,2],
+"workspace_8h.html#a70f151d3bf2b559ed7e4045be1c76171":[4,0,1,2,0,10,0],
+"x64_2hal__idt_8cpp.html":[4,0,1,0,0,1],
+"x64_2hal__idt_8cpp.html#a02550387ade2b6f824ab5c7b0a8a4807":[4,0,1,0,0,1,4],
+"x64_2hal__idt_8cpp.html#a251c88f3d1923667dcfc161656bcc6fa":[4,0,1,0,0,1,14],
+"x64_2hal__idt_8cpp.html#a3facdd934c180b17e39931a3590e06c8":[4,0,1,0,0,1,10],
+"x64_2hal__idt_8cpp.html#a4601cbebb9f7feab2ff11156c37326c2":[4,0,1,0,0,1,17],
 "x64_2hal__idt_8cpp.html#a49616695dc8ee5c4ddb93f26bb0fd46b":[4,0,1,0,0,1,9],
 "x64_2hal__idt_8cpp.html#a73c7118d6be652c3a2b33b5cceaaba32":[4,0,1,0,0,1,16],
 "x64_2hal__idt_8cpp.html#a79c69e0ed9f8f741df559ac229a448d9":[4,0,1,0,0,1,15],

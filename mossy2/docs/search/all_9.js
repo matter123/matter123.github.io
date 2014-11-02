@@ -17,6 +17,7 @@ var searchData=
   ['in_5finterrupt',['in_interrupt',['../x86_2hal__idt_8cpp.html#a545de0e9b9d080190df049fa73f4c339',1,'hal_idt.cpp']]],
   ['inb',['inb',['../io_8h.html#a0223c8898dfec29069879dc51076e28a',1,'io.h']]],
   ['init',['init',['../classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350',1,'x64::recursive_paging::init()'],['../classx86_1_1recursive__paging.html#ae08058ef5695ad6402c2df7afe858cea',1,'x86::recursive_paging::init()'],['../namespacex64.html#a575557386534fb9cd595d7427a71e225',1,'x64::init()'],['../namespacex86.html#a097f25f0a93b122e21ab7ebf7115434d',1,'x86::init()'],['../namespacekernel.html#afa148d05e51d7847edb108cf991d3b17',1,'kernel::init()']]],
+  ['init_5facpi_5fos',['init_acpi_os',['../namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11',1,'acpi::os']]],
   ['init_5farch',['init_arch',['../namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1',1,'hal']]],
   ['init_5fcolors',['init_colors',['../namespacestd_1_1TC.html#a514531cc90d35dea6c3a30f38209908f',1,'std::TC']]],
   ['init_5fexec',['init_exec',['../namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc',1,'kernel']]],

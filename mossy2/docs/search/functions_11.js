@@ -2,6 +2,7 @@ var searchData=
 [
   ['ulltoa',['ulltoa',['../stdlib_8h.html#ae7e665b2cd7db799a932a8745e34d821',1,'ulltoa(unsigned long long value, char *str, int base):&#160;stdlib.cpp'],['../stdlib_8cpp.html#ae7e665b2cd7db799a932a8745e34d821',1,'ulltoa(unsigned long long value, char *str, int base):&#160;stdlib.cpp']]],
   ['ultoa',['ultoa',['../stdlib_8h.html#abcb262a9b96810d8483a665d6100f813',1,'ultoa(unsigned long value, char *str, int base):&#160;stdlib.cpp'],['../stdlib_8cpp.html#abcb262a9b96810d8483a665d6100f813',1,'ultoa(unsigned long value, char *str, int base):&#160;stdlib.cpp']]],
+  ['unget_5fphys',['unget_phys',['../namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7',1,'acpi::os']]],
   ['unlock',['unlock',['../classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78',1,'kernel::mutex']]],
   ['unmap',['unmap',['../classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8',1,'x64::recursive_paging::unmap()'],['../classx86_1_1recursive__paging.html#a871862e18fdee0f1c310d96d3033daa8',1,'x86::recursive_paging::unmap()']]],
   ['unmap_5fvirt_5fcur',['unmap_virt_cur',['../namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd',1,'hal']]],

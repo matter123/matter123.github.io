@@ -12,6 +12,7 @@ var searchData=
   ['stack_5fstart',['stack_start',['../namespacekernel.html#a6be8a41112d379cb44810ec132f56966',1,'kernel']]],
   ['stacks_5ftaken',['stacks_taken',['../namespacekernel.html#ad86be952c729f377aa41042510027c1b',1,'kernel']]],
   ['start',['start',['../structhal_1_1idt__range.html#a95f641b8ea8e76caffde1e19489a7fe5',1,'hal::idt_range::start()'],['../structhal_1_1mem__region.html#a08985d298adf99ca9dbcbf39de08f9c7',1,'hal::mem_region::start()'],['../namespacekernel.html#a6361939678d3cb7efde8130184ff13aa',1,'kernel::start()']]],
+  ['start_5floc',['start_loc',['../namespaceacpi_1_1os.html#adb6adf8b7cf6cdb1d1017d10e51a2760',1,'acpi::os']]],
   ['string',['string',['../structhal_1_1multiboot__command.html#a47b62e8c7b462fc252a238ce214e8b9d',1,'hal::multiboot_command::string()'],['../structhal_1_1multiboot__module.html#a6744e433dba2e86a71ab23c3359a276c',1,'hal::multiboot_module::string()'],['../structkernel_1_1mboot__module__t.html#ae6be63aa07c118ab13b9e213839da4de',1,'kernel::mboot_module_t::string()']]],
   ['sys_5fstack',['sys_stack',['../namespacekernel.html#a2f1574c6da833f803022d7206ffb2e00',1,'kernel']]]
 ];

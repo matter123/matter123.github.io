@@ -1,4 +1,5 @@
 var rsdp_8cpp =
 [
-    [ "find_rsdp", "rsdp_8cpp.html#a347cade76c8ba55c617e7e83fe674cae", null ]
+    [ "do_checksum", "rsdp_8cpp.html#a00915672c26a495f941c8fa9c74879a6", null ],
+    [ "find_rsdp", "rsdp_8cpp.html#ad78c5772490b78fc49991c95c6b2c90e", null ]
 ];

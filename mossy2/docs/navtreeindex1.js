@@ -1,5 +1,12 @@
 var NAVTREEINDEX1 =
 {
+"arch_2x86__64_2int_8h.html#aa319099a7d7c350989b8f0ccfc5d897a":[4,0,1,0,2,1,109],
+"arch_2x86__64_2int_8h.html#aa3532a13a12a04dbb10e601b75cc4fe1":[4,0,1,0,2,1,123],
+"arch_2x86__64_2int_8h.html#aa49343c33fe3cbf67cb78364eddd9757":[4,0,1,0,2,1,145],
+"arch_2x86__64_2int_8h.html#aa5b0dabc98320ca5a1b688d96dcb4bcb":[4,0,1,0,2,1,125],
+"arch_2x86__64_2int_8h.html#aa86fa526d61dc7e191c16ee047c7b448":[4,0,1,0,2,1,66],
+"arch_2x86__64_2int_8h.html#aa8edb97fff7da13249a3d31e4fb30b9b":[4,0,1,0,2,1,127],
+"arch_2x86__64_2int_8h.html#aa8f19f3d8a84d418bb37d2aa4f96f6b9":[4,0,1,0,2,1,224],
 "arch_2x86__64_2int_8h.html#aa980f2d1a79c96dc3ec52f99e194facf":[4,0,1,0,2,1,207],
 "arch_2x86__64_2int_8h.html#aaa64254bd7507c42ec6cb0095a745a73":[4,0,1,0,2,1,115],
 "arch_2x86__64_2int_8h.html#aac290f46e54122968a6a70f5a61075fa":[4,0,1,0,2,1,227],
@@ -105,10 +112,10 @@ var NAVTREEINDEX1 =
 "arch_8h.html#aedd9619fc6862b9952567bbe5b1bd5d3":[4,0,1,0,3,14],
 "arch_8h.html#af296de571c32f67f3813862d1d50231f":[4,0,1,0,3,6],
 "arch_8h.html#af3db02628c42460e4a97d7b9bac92c05":[4,0,1,0,3,13],
-"begin_8cpp.html":[4,0,1,7],
-"begin_8cpp.html#a21c0a30384cfb2cff51904a5fd2822fc":[4,0,1,7,0],
-"begin_8cpp.html#a2f1574c6da833f803022d7206ffb2e00":[4,0,1,7,2],
-"begin_8cpp.html#a7d3c247ac77d91f21f529e56737f341e":[4,0,1,7,1],
+"begin_8cpp.html":[4,0,1,8],
+"begin_8cpp.html#a21c0a30384cfb2cff51904a5fd2822fc":[4,0,1,8,0],
+"begin_8cpp.html#a2f1574c6da833f803022d7206ffb2e00":[4,0,1,8,2],
+"begin_8cpp.html#a7d3c247ac77d91f21f529e56737f341e":[4,0,1,8,1],
 "boot64_8inc.html":[4,0,1,1,1],
 "boot86_8inc.html":[4,0,1,1,2],
 "bootconsole_8h.html":[4,0,1,3,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX1 =
 "console_8h.html#ad49d2e8377a31906bc4dc84f255817f8":[4,0,1,2,0,1,12],
 "console_8h.html#adf343534a8f851c0f34d612d474d48c4":[4,0,1,2,0,1,10],
 "console_8h.html#ae21f395a9732aff65b70f56dc8a7ed8b":[4,0,1,2,0,1,8],
-"conv_8hpp.html":[4,0,0,1,0,0],
-"conv_8hpp.html#a0c9af6d56d382dd024287f009ab1e13d":[4,0,0,1,0,0,1],
-"conv_8hpp.html#a35f0bd681a78f8a7077d674cc4473474":[4,0,0,1,0,0,2],
-"conv_8hpp.html#a4735342d5b34f7589e5455cd5439e6ed":[4,0,0,1,0,0,3],
-"conv_8hpp.html#a48baa81cb509054ae53168ca5b0fda96":[4,0,0,1,0,0,0],
-"cpu__stuff_8h.html":[4,0,1,0,2,0],
-"cpu__stuff_8h.html#a368f08346121290f513a26011e0f68f8":[4,0,1,0,2,0,2],
-"cpu__stuff_8h.html#a6fa28502e33e305c4335fe3032dc7799":[4,0,1,0,2,0,1]
+"conv_8hpp.html":[4,0,0,1,0,0]
 };

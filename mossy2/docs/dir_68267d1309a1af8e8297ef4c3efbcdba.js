@@ -7,5 +7,6 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "stdlib", "dir_c2f24a5303e07ecee1a447ad8ca3cd94.html", "dir_c2f24a5303e07ecee1a447ad8ca3cd94" ],
     [ "sys", "dir_220d2bd384b446346a1cdcf02b1b2295.html", "dir_220d2bd384b446346a1cdcf02b1b2295" ],
     [ "vendor", "dir_90da97247338d9e3ac7f8bf7df478e67.html", "dir_90da97247338d9e3ac7f8bf7df478e67" ],
+    [ "acpi_os.cpp", "acpi__os_8cpp.html", "acpi__os_8cpp" ],
     [ "begin.cpp", "begin_8cpp.html", "begin_8cpp" ]
 ];

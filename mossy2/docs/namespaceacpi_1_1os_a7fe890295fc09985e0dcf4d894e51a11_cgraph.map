@@ -1,0 +1,4 @@
+<map id="acpi::os::init_acpi_os" name="acpi::os::init_acpi_os">
+<area shape="rect" id="node2" href="$namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="207,5,400,32"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="210,56,397,83"/>
+</map>

@@ -4,6 +4,7 @@ var searchData=
   ['uintreg_5ft',['uintreg_t',['../arch_8h.html#a49f251171bfd1b5c2a19ae258ce40198',1,'arch.h']]],
   ['ulltoa',['ulltoa',['../stdlib_8h.html#ae7e665b2cd7db799a932a8745e34d821',1,'ulltoa(unsigned long long value, char *str, int base):&#160;stdlib.cpp'],['../stdlib_8cpp.html#ae7e665b2cd7db799a932a8745e34d821',1,'ulltoa(unsigned long long value, char *str, int base):&#160;stdlib.cpp']]],
   ['ultoa',['ultoa',['../stdlib_8h.html#abcb262a9b96810d8483a665d6100f813',1,'ultoa(unsigned long value, char *str, int base):&#160;stdlib.cpp'],['../stdlib_8cpp.html#abcb262a9b96810d8483a665d6100f813',1,'ultoa(unsigned long value, char *str, int base):&#160;stdlib.cpp']]],
+  ['unget_5fphys',['unget_phys',['../namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7',1,'acpi::os']]],
   ['unicode_2ecpp',['unicode.cpp',['../unicode_8cpp.html',1,'']]],
   ['unicode_2eh',['unicode.h',['../unicode_8h.html',1,'']]],
   ['unknown',['UNKNOWN',['../unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a6ce26a62afab55d7606ad4e92428b30c',1,'unicode.h']]],

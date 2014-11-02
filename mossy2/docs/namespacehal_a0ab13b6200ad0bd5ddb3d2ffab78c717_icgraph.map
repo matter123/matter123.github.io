@@ -1,4 +1,5 @@
 <map id="hal::get_virt_mem_regions" name="hal::get_virt_mem_regions">
-<area shape="rect" id="node2" href="$namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42" title="kernel::heap_init" alt="" coords="256,5,384,32"/>
-<area shape="rect" id="node3" href="$namespacekernel.html#a5cd14b2c228f8729d0a91456f57e1d3e" title="kernel::init_kstacks" alt="" coords="247,56,393,83"/>
+<area shape="rect" id="node2" href="$namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11" title="acpi::os::init_acpi_os" alt="" coords="247,5,400,32"/>
+<area shape="rect" id="node3" href="$namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42" title="kernel::heap_init" alt="" coords="259,56,387,83"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a5cd14b2c228f8729d0a91456f57e1d3e" title="kernel::init_kstacks" alt="" coords="250,107,397,133"/>
 </map>

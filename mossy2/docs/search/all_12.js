@@ -36,6 +36,7 @@ var searchData=
   ['stackframe_2eh',['stackframe.h',['../stackframe_8h.html',1,'']]],
   ['stacks_5ftaken',['stacks_taken',['../namespacekernel.html#ad86be952c729f377aa41042510027c1b',1,'kernel']]],
   ['start',['start',['../structhal_1_1idt__range.html#a95f641b8ea8e76caffde1e19489a7fe5',1,'hal::idt_range::start()'],['../structhal_1_1mem__region.html#a08985d298adf99ca9dbcbf39de08f9c7',1,'hal::mem_region::start()'],['../namespacekernel.html#a6361939678d3cb7efde8130184ff13aa',1,'kernel::start()']]],
+  ['start_5floc',['start_loc',['../namespaceacpi_1_1os.html#adb6adf8b7cf6cdb1d1017d10e51a2760',1,'acpi::os']]],
   ['std',['std',['../namespacestd.html',1,'']]],
   ['stdlib_2ecpp',['stdlib.cpp',['../stdlib_8cpp.html',1,'']]],
   ['stdlib_2eh',['stdlib.h',['../stdlib_8h.html',1,'']]],

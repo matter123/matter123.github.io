@@ -104,7 +104,8 @@ $(document).ready(function(){initNavTree('namespaceacpi_1_1os.html','');});
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">acpi::os Namespace Reference</div>  </div>
 </div><!--header-->
@@ -112,8 +113,19 @@ $(document).ready(function(){initNavTree('namespaceacpi_1_1os.html','');});
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:a7fe890295fc09985e0dcf4d894e51a11"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11">init_acpi_os</a> ()</td></tr>
+<tr class="separator:a7fe890295fc09985e0dcf4d894e51a11"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba566b3f498ee416bde70a6d52271d2c"><td class="memItemLeft" align="right" valign="top">uintptr_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceacpi_1_1os.html#aba566b3f498ee416bde70a6d52271d2c">get_virt_phys</a> (uintptr_t phys, uintptr_t len)</td></tr>
 <tr class="separator:aba566b3f498ee416bde70a6d52271d2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0cdb498f84308d92c7dfb232638ca1c7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7">unget_phys</a> (uintptr_t phys, uintptr_t len, uintptr_t virt)</td></tr>
+<tr class="separator:a0cdb498f84308d92c7dfb232638ca1c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:aaa02bf3a23b409a4a56d7352f741288f"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceacpi_1_1os.html#aaa02bf3a23b409a4a56d7352f741288f">bitmap</a> [128]</td></tr>
+<tr class="separator:aaa02bf3a23b409a4a56d7352f741288f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb6adf8b7cf6cdb1d1017d10e51a2760"><td class="memItemLeft" align="right" valign="top">uintptr_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceacpi_1_1os.html#adb6adf8b7cf6cdb1d1017d10e51a2760">start_loc</a></td></tr>
+<tr class="separator:adb6adf8b7cf6cdb1d1017d10e51a2760"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a class="anchor" id="aba566b3f498ee416bde70a6d52271d2c"></a>
@@ -145,9 +157,90 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespaceacpi_1_1os_aba566b3f498ee416bde70a6d52271d2c_icgraph.png" border="0" usemap="#namespaceacpi_1_1os_aba566b3f498ee416bde70a6d52271d2c_icgraph" alt=""/></div>
 <map name="namespaceacpi_1_1os_aba566b3f498ee416bde70a6d52271d2c_icgraph" id="namespaceacpi_1_1os_aba566b3f498ee416bde70a6d52271d2c_icgraph">
-<area shape="rect" id="node2" href="namespaceacpi_1_1tables.html#a347cade76c8ba55c617e7e83fe674cae" title="acpi::tables::find_rsdp" alt="" coords="220,5,383,32"/></map>
+<area shape="rect" id="node2" href="namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="220,5,383,32"/></map>
 </div>
 </p>
+
+</div>
+</div>
+<a class="anchor" id="a7fe890295fc09985e0dcf4d894e51a11"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool acpi::os::init_acpi_os </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceacpi_1_1os_a7fe890295fc09985e0dcf4d894e51a11_cgraph.png" border="0" usemap="#namespaceacpi_1_1os_a7fe890295fc09985e0dcf4d894e51a11_cgraph" alt=""/></div>
+<map name="namespaceacpi_1_1os_a7fe890295fc09985e0dcf4d894e51a11_cgraph" id="namespaceacpi_1_1os_a7fe890295fc09985e0dcf4d894e51a11_cgraph">
+<area shape="rect" id="node2" href="namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="207,5,400,32"/><area shape="rect" id="node3" href="namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="210,56,397,83"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a0cdb498f84308d92c7dfb232638ca1c7"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void acpi::os::unget_phys </td>
+          <td>(</td>
+          <td class="paramtype">uintptr_t&#160;</td>
+          <td class="paramname"><em>phys</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uintptr_t&#160;</td>
+          <td class="paramname"><em>len</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uintptr_t&#160;</td>
+          <td class="paramname"><em>virt</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a class="anchor" id="aaa02bf3a23b409a4a56d7352f741288f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t acpi::os::bitmap[128]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="adb6adf8b7cf6cdb1d1017d10e51a2760"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uintptr_t acpi::os::start_loc</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -157,7 +250,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceacpi.html">acpi</a></li><li class="navelem"><a class="el" href="namespaceacpi_1_1os.html">os</a></li>
-    <li class="footer">Generated on Sun Nov 2 2014 15:00:01 for MOSSY 2 by
+    <li class="footer">Generated on Sun Nov 2 2014 15:30:02 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

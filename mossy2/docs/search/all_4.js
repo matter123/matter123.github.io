@@ -20,6 +20,7 @@ var searchData=
   ['dl_5fwarning',['dl_warning',['../namespacestd.html#a5aa5422365f41125cf66691158bb8affa3ab0470f9edf976586f8f201aedd9a12',1,'std']]],
   ['dma',['dma',['../classhal_1_1mem__type.html#a59d123703cee2eb048d031248506642d',1,'hal::mem_type']]],
   ['dmagenta',['DMAGENTA',['../namespacestd_1_1TC.html#a941f31212771f08291a099a2e564c6b9',1,'std::TC']]],
+  ['do_5fchecksum',['do_checksum',['../namespaceacpi_1_1tables.html#a00915672c26a495f941c8fa9c74879a6',1,'acpi::tables']]],
   ['dpl',['DPL',['../structx64_1_1idt__entry.html#a62fcdab9b93fe80094127d9ad3ed6deb',1,'x64::idt_entry::DPL()'],['../structx86_1_1idt__entry.html#a91be00c432196d1b720218548ed2d45b',1,'x86::idt_entry::DPL()']]],
   ['dred',['DRED',['../namespacestd_1_1TC.html#acf842507bf13e9a5a60e6ab2a615f966',1,'std::TC']]],
   ['ds',['ds',['../structcpu__state.html#a43ff6e955efa9e891ed865172b97589b',1,'cpu_state']]],

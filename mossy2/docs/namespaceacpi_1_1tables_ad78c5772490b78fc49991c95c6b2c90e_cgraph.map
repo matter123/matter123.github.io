@@ -1,0 +1,5 @@
+<map id="acpi::tables::find_rsdp" name="acpi::tables::find_rsdp">
+<area shape="rect" id="node2" href="$namespaceacpi_1_1os.html#aba566b3f498ee416bde70a6d52271d2c" title="acpi::os::get_virt_phys" alt="" coords="229,5,395,32"/>
+<area shape="rect" id="node3" href="$string_8h.html#a1e7d61eb280250fb55dce370ba1a1709" title="compares the bytes of ptr1 and ptr2 " alt="" coords="270,56,354,83"/>
+<area shape="rect" id="node4" href="$namespaceacpi_1_1tables.html#a00915672c26a495f941c8fa9c74879a6" title="acpi::tables::do_checksum" alt="" coords="216,107,408,133"/>
+</map>

@@ -6,7 +6,7 @@ var searchData=
   ['begin',['begin',['../structacpi_1_1tables_1_1RSDP20.html#a240791add12be015dbbe4c654b7051b8',1,'acpi::tables::RSDP20::begin()'],['../structx64_1_1trampoline.html#a45f78d854a5d9d166efdb6da7c104cd0',1,'x64::trampoline::begin()'],['../structx86_1_1trampoline.html#a0006cfeaa2b434725cd265e1301f238d',1,'x86::trampoline::begin()']]],
   ['big',['big',['../structx86_1_1recursive__paging_1_1pde.html#a37fc2b3130542c3a3331563ad7a6e6ff',1,'x86::recursive_paging::pde']]],
   ['bin',['bin',['../namespacehal.html#afc2d55fad65f51740246f2324b5a843a',1,'hal']]],
-  ['bitmap',['bitmap',['../namespacekernel.html#ac2785caed558fc14275ab3bc3ec84ddb',1,'kernel']]],
+  ['bitmap',['bitmap',['../namespaceacpi_1_1os.html#aaa02bf3a23b409a4a56d7352f741288f',1,'acpi::os::bitmap()'],['../namespacekernel.html#ac2785caed558fc14275ab3bc3ec84ddb',1,'kernel::bitmap()']]],
   ['black',['BLACK',['../namespacestd_1_1TC.html#a368e55b3e3649ec56d2598e7366f98fa',1,'std::TC']]],
   ['blue',['blue',['../structhal_1_1multiboot__palette.html#ae0affb38d3c27f754196171a35104a6f',1,'hal::multiboot_palette::blue()'],['../namespacestd_1_1TC.html#a4c6b5b12ed2c662a5ac79437c62f3ad8',1,'std::TC::BLUE()']]],
   ['blue_5fmask',['blue_mask',['../structhal_1_1multiboot__ci__1.html#a381104e218061f1e62c33e7da7cc08cf',1,'hal::multiboot_ci_1']]],

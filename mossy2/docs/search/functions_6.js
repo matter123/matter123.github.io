@@ -36,7 +36,6 @@ var searchData=
   ['get_5ftag',['get_tag',['../namespacehal.html#abea6f4be3270077bbff27c081d400527',1,'hal']]],
   ['get_5ftag_5fcount',['get_tag_count',['../namespacehal.html#aa2b7786b42bd5908466754e21839b89e',1,'hal']]],
   ['get_5ftimer_5ffreq',['get_timer_freq',['../namespacehal.html#a71322183a6079a24e315ec9d5ec78e6c',1,'hal']]],
-  ['get_5fversion',['get_version',['../namespaceapci.html#a8802784d12e92bd1c9f3a6dc3c2c1e5a',1,'apci']]],
   ['get_5fvirt_5fmem_5fregion',['get_virt_mem_region',['../namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1',1,'hal']]],
   ['get_5fvirt_5fmem_5fregions',['get_virt_mem_regions',['../namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717',1,'hal']]],
   ['get_5fvirt_5fphys',['get_virt_phys',['../namespaceacpi_1_1os.html#aba566b3f498ee416bde70a6d52271d2c',1,'acpi::os']]],
