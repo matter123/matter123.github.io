@@ -1,7 +1,0 @@
-<map id="ApDumpTableBuffer" name="ApDumpTableBuffer">
-<area shape="rect" id="node2" href="$apdump_8c.html#a558bb07e70d758227bd82bb21fb91a4e" title="ApDumpAllTables" alt="" coords="227,5,361,32"/>
-<area shape="rect" id="node4" href="$apdump_8c.html#aff059752e1fada2e591cc9df9f34170b" title="ApDumpTableByAddress" alt="" coords="204,56,384,83"/>
-<area shape="rect" id="node5" href="$apdump_8c.html#a0ceca638f2a1168dda164238fc37882d" title="ApDumpTableByName" alt="" coords="211,107,377,133"/>
-<area shape="rect" id="node6" href="$apdump_8c.html#a7bd4f6f85c234f30e75f2db0053f61fb" title="ApDumpTableFromFile" alt="" coords="213,157,375,184"/>
-<area shape="rect" id="node3" href="$apmain_8c.html#ab086c331a3a7490e26194882e95236a3" title="for" alt="" coords="432,81,472,108"/>
-</map>

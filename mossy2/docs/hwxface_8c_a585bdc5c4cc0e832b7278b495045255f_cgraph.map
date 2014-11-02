@@ -1,9 +1,0 @@
-<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
-<area shape="rect" id="node2" href="$acpiosxf_8h.html#a670d056982184c18fe4e21b5ec59e199" title="AcpiOsWritePort" alt="" coords="615,22,741,49"/>
-<area shape="rect" id="node3" href="$achware_8h.html#ad6df206d998ed4ed6094a0a4e6ce4c20" title="AcpiHwWrite" alt="" coords="213,73,316,99"/>
-<area shape="rect" id="node4" href="$achware_8h.html#a196789617ed934c4a8ccc5bfa9722cd8" title="AcpiHwValidateRegister" alt="" coords="364,22,537,49"/>
-<area shape="rect" id="node5" href="$acpiosxf_8h.html#aabe95b60e5b2215f8e6c68865f2c3c2f" title="AcpiOsWriteMemory" alt="" coords="375,73,527,99"/>
-<area shape="rect" id="node6" href="$achware_8h.html#a80c11a16d90573982198c81dfa1e18e3" title="AcpiHwWritePort" alt="" coords="386,123,515,150"/>
-<area shape="rect" id="node8" href="$acutils_8h.html#afb74c096e61c011ddb2c2cb9d6409a41" title="AcpiUtGetRegionName" alt="" coords="366,174,535,201"/>
-<area shape="rect" id="node7" href="$hwvalid_8c.html#a2fccc7c13b13d678632d462648fd07b7" title="AcpiHwValidateIoRequest" alt="" coords="585,123,771,150"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="asl_resource_info" name="asl_resource_info">
-<area shape="rect" id="node2" href="$unionacpi__parse__object.html" title="acpi_parse_object" alt="" coords="153,95,291,121"/>
-<area shape="rect" id="node4" href="$structacpi__parse__obj__asl.html" title="acpi_parse_obj_asl" alt="" coords="219,199,361,225"/>
-<area shape="rect" id="node3" href="$structacpi__parse__obj__common.html" title="acpi_parse_obj_common" alt="" coords="31,5,213,32"/>
-<area shape="rect" id="node5" href="$structacpi__parse__obj__named.html" title="acpi_parse_obj_named" alt="" coords="237,5,407,32"/>
-</map>

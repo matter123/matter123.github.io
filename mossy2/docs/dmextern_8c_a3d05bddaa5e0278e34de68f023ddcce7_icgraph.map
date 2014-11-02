@@ -1,9 +1,0 @@
-<map id="AcpiDmAddOpToExternalList" name="AcpiDmAddOpToExternalList">
-<area shape="rect" id="node2" href="$adwalk_8c.html#a230a2bd780c5ca0830187371def5a2d2" title="AcpiDmFindOrphanDescending" alt="" coords="257,5,476,32"/>
-<area shape="rect" id="node5" href="$adwalk_8c.html#a7aab75dc21177984dcc90527f5184069" title="AcpiDmXrefDescendingOp" alt="" coords="271,56,463,83"/>
-<area shape="rect" id="node7" href="$dswload_8c.html#a71cc6b9f5f9f3e7f194291ccaa32f48e" title="AcpiDsLoad1BeginOp" alt="" coords="287,107,446,133"/>
-<area shape="rect" id="node3" href="$adwalk_8c.html#a5eb4455931b2966fa673f08b35edfa8d" title="AcpiDmFindOrphanMethods" alt="" coords="550,5,749,32"/>
-<area shape="rect" id="node4" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="823,31,969,57"/>
-<area shape="rect" id="node6" href="$adwalk_8c.html#aa0284a1c1ce0d4327f0c301053b9feba" title="AcpiDmCrossReferenceNamespace" alt="" coords="524,56,775,83"/>
-<area shape="rect" id="node8" href="$dswload_8c.html#a16cd18c28b7457fc30aa9c7654ece498" title="ACPI_MODULE_NAME" alt="" coords="569,107,729,133"/>
-</map>

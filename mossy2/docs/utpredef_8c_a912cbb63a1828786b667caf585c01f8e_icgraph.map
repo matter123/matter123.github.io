@@ -1,8 +1,0 @@
-<map id="AcpiUtGetNextPredefinedMethod" name="AcpiUtGetNextPredefinedMethod">
-<area shape="rect" id="node2" href="$utpredef_8c.html#ab13ca2026c2e3ad3ad5476d381096e82" title="AcpiUtMatchPredefinedMethod" alt="" coords="288,31,508,57"/>
-<area shape="rect" id="node3" href="$nseval_8c.html#a757d9e28ba64867c0e1d1e8b70e9b645" title="ACPI_MODULE_NAME" alt="" coords="566,5,726,32"/>
-<area shape="rect" id="node4" href="$ahdecode_8c.html#ac0cba837be645fe5b77be294b32ea2a2" title="AhDisplayPredefinedInfo" alt="" coords="556,56,736,83"/>
-<area shape="rect" id="node5" href="$ahdecode_8c.html#ad05c0f1ff8734cf717a3df3f05b9ece7" title="AhDisplayPredefinedName" alt="" coords="784,56,979,83"/>
-<area shape="rect" id="node6" href="$ahdecode_8c.html#a2c0591b9342d850144b773dbe0fd95f0" title="AhFindPredefinedNames" alt="" coords="1027,56,1205,83"/>
-<area shape="rect" id="node7" href="$ahmain_8c.html#a3cdc49afe6f0baea9d6629ce21b2b771" title="main" alt="" coords="1253,56,1308,83"/>
-</map>

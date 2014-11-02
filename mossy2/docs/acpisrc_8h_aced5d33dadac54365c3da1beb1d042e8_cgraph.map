@@ -1,6 +1,0 @@
-<map id="AsRemoveSpacesAfterPeriod" name="AsRemoveSpacesAfterPeriod">
-<area shape="rect" id="node2" href="$string_8h.html#a9b8955ed78305a9f68e032415a62e285" title="strstr" alt="" coords="294,5,350,32"/>
-<area shape="rect" id="node3" href="$acpisrc_8h.html#a5cf523192da880ad5fb1b2715dd82f81" title="AsReplaceData" alt="" coords="263,56,381,83"/>
-<area shape="rect" id="node4" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="447,31,505,57"/>
-<area shape="rect" id="node5" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="429,81,523,108"/>
-</map>

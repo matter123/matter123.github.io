@@ -1,6 +1,0 @@
-<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
-<area shape="rect" id="node2" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="272,5,321,32"/>
-<area shape="rect" id="node3" href="$acutils_8h.html#ae8d4590e0342fc7e3e71b0ff676007f3" title="AcpiUtShortDivide" alt="" coords="227,56,366,83"/>
-<area shape="rect" id="node4" href="$acpiosxf_8h.html#ac311ac97cb1dbf409feec249058d0537" title="AcpiOsUnmapMemory" alt="" coords="213,107,380,133"/>
-<area shape="rect" id="node5" href="$acpiosxf_8h.html#a1fae7131b07b0af4ddeb969d6ab08fbc" title="AcpiOsMapMemory" alt="" coords="223,157,370,184"/>
-</map>

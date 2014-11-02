@@ -1,9 +1,0 @@
-<map id="AbComputeChecksum" name="AbComputeChecksum">
-<area shape="rect" id="node2" href="$abcompare_8c.html#ad6d12e557c18c306f65aab1915290e32" title="AbValidateHeader" alt="" coords="221,5,359,32"/>
-<area shape="rect" id="node5" href="$abcompare_8c.html#a66b245eb995bb914922b7f0c8d96f312" title="AbPrintHeaderInfo" alt="" coords="220,56,360,83"/>
-<area shape="rect" id="node6" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="231,107,349,133"/>
-<area shape="rect" id="node7" href="$abcompare_8c.html#a742ef807797ceb059ad1cdc73fe76302" title="AcpiTbSumTable" alt="" coords="227,157,353,184"/>
-<area shape="rect" id="node8" href="$acpiosxf_8h.html#aa3baac772ec8f5df4a49d97e39bfb307" title="AcpiOsFree" alt="" coords="243,208,337,235"/>
-<area shape="rect" id="node3" href="$acutils_8h.html#a99614f7e75aa829c5a46c93d53f4c818" title="AcpiUtValidAcpiName" alt="" coords="408,5,568,32"/>
-<area shape="rect" id="node4" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="616,5,767,32"/>
-</map>

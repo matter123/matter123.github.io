@@ -1,6 +1,0 @@
-<map id="AcpiHwGetBitRegisterInfo" name="AcpiHwGetBitRegisterInfo">
-<area shape="rect" id="node2" href="$hwsleep_8c.html#aa4a433f6c7bcd24d45f80ca3ebea8ee1" title="ACPI_MODULE_NAME" alt="" coords="251,5,411,32"/>
-<area shape="rect" id="node3" href="$hwsleep_8c.html#af62e01b05ab2f54be568739d22fff62b" title="AcpiHwLegacyWakePrep" alt="" coords="240,56,421,83"/>
-<area shape="rect" id="node5" href="$hwxface_8c.html#a7849ed7ee30f4305c7efe0cec55bbf06" title="ACPI_EXPORT_SYMBOL" alt="" coords="245,107,416,133"/>
-<area shape="rect" id="node4" href="$hwxfsleep_8c.html#aa9721418f76ca9280276e892c7978ce7" title="ACPI_MODULE_NAME" alt="" coords="469,56,629,83"/>
-</map>

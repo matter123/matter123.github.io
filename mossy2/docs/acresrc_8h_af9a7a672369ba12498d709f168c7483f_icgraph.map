@@ -1,9 +1,0 @@
-<map id="AcpiRsMoveData" name="AcpiRsMoveData">
-<area shape="rect" id="node2" href="$rsmisc_8c.html#ae17459e4bf924394b1a7298e1036b51c" title="ACPI_MODULE_NAME" alt="" coords="211,5,371,32"/>
-<area shape="rect" id="node3" href="$rsmisc_8c.html#a08bae373757ad3cdcb98a4d1cdec14a8" title="AcpiRsConvertResourceToAml" alt="" coords="184,56,399,83"/>
-<area shape="rect" id="node4" href="$rsaddr_8c.html#aecd318b4ec9ec05c4f66a92def86b454" title="AcpiRsSetAddressCommon" alt="" coords="459,56,656,83"/>
-<area shape="rect" id="node5" href="$rslist_8c.html#a1ba6577ced7f8603c296d754735b2a2a" title="AcpiRsConvertResourcesToAml" alt="" coords="447,107,668,133"/>
-<area shape="rect" id="node6" href="$rscreate_8c.html#ae8b9e1fbbb749f36f33c7cb8cb3f88f6" title="AcpiRsCreateAmlResources" alt="" coords="716,107,915,133"/>
-<area shape="rect" id="node7" href="$rsutils_8c.html#a999f6d98ebe49bc0a32a6596e5738ead" title="AcpiRsSetSrsMethodData" alt="" coords="963,107,1148,133"/>
-<area shape="rect" id="node8" href="$rsxface_8c.html#a883dfee3aa686baf720c838e2c8d5767" title="ACPI_EXPORT_SYMBOL" alt="" coords="1196,107,1367,133"/>
-</map>

@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['semaphore',['semaphore',['../classkernel_1_1semaphore.html',1,'kernel']]],
-  ['spinlock',['spinlock',['../classkernel_1_1spinlock.html',1,'kernel']]],
-  ['stack_5fframe',['stack_frame',['../structhal_1_1stack__frame.html',1,'hal']]]
+  ['thread_5finfo',['thread_info',['../structkernel_1_1thread__info.html',1,'kernel']]],
+  ['tm',['tm',['../structtm.html',1,'']]],
+  ['trampoline',['trampoline',['../structx64_1_1trampoline.html',1,'x64']]],
+  ['trampoline',['trampoline',['../structx86_1_1trampoline.html',1,'x86']]]
 ];

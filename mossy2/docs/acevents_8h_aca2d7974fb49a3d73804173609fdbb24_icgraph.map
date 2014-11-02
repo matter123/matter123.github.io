@@ -1,6 +1,0 @@
-<map id="AcpiEvInitializeRegion" name="AcpiEvInitializeRegion">
-<area shape="rect" id="node2" href="$dsopcode_8c.html#a289aa1b4cd38003b159ce081b884182f" title="ACPI_MODULE_NAME" alt="" coords="213,5,373,32"/>
-<area shape="rect" id="node3" href="$dswload2_8c.html#a7a6cec04ec1029549e5b5fcc8ecffb07" title="AcpiDsLoad2EndOp" alt="" coords="220,56,367,83"/>
-<area shape="rect" id="node4" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="432,31,571,57"/>
-<area shape="rect" id="node5" href="$dswload_8c.html#a16cd18c28b7457fc30aa9c7654ece498" title="ACPI_MODULE_NAME" alt="" coords="421,81,581,108"/>
-</map>

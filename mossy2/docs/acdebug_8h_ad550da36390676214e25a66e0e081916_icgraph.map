@@ -1,5 +1,0 @@
-<map id="AcpiDbDisplayStatistics" name="AcpiDbDisplayStatistics">
-<area shape="rect" id="node2" href="$utalloc_8c.html#a1928aed7a3d72cb181f35831c16a12b5" title="AcpiUtDeleteCaches" alt="" coords="225,5,379,32"/>
-<area shape="rect" id="node3" href="$utinit_8c.html#a4c67375418edc8c708db838e947c71a3" title="AcpiUtSubsystemShutdown" alt="" coords="427,5,627,32"/>
-<area shape="rect" id="node4" href="$utxface_8c.html#a97de22c9cd594c0e92eac442cdb06bc9" title="ACPI_MODULE_NAME" alt="" coords="675,5,835,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="AsConvertToLineFeeds" name="AsConvertToLineFeeds">
-<area shape="rect" id="node2" href="$string_8h.html#a9b8955ed78305a9f68e032415a62e285" title="strstr" alt="" coords="251,5,307,32"/>
-<area shape="rect" id="node3" href="$acpisrc_8h.html#a5cf523192da880ad5fb1b2715dd82f81" title="AsReplaceData" alt="" coords="220,56,339,83"/>
-<area shape="rect" id="node4" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="404,31,463,57"/>
-<area shape="rect" id="node5" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="387,81,480,108"/>
-</map>

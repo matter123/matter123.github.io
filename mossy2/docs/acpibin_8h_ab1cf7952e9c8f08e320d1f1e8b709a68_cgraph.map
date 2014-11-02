@@ -1,7 +1,0 @@
-<map id="AbCompareAmlFiles" name="AbCompareAmlFiles">
-<area shape="rect" id="node2" href="$abcompare_8c.html#ad6d12e557c18c306f65aab1915290e32" title="AbValidateHeader" alt="" coords="209,5,346,32"/>
-<area shape="rect" id="node5" href="$abcompare_8c.html#a578a06b59efd29eec235176302b64ef7" title="AbPrintHeadersInfo" alt="" coords="204,56,351,83"/>
-<area shape="rect" id="node6" href="$string_8h.html#a1e7d61eb280250fb55dce370ba1a1709" title="compares the bytes of ptr1 and ptr2 " alt="" coords="235,107,319,133"/>
-<area shape="rect" id="node3" href="$acutils_8h.html#a99614f7e75aa829c5a46c93d53f4c818" title="AcpiUtValidAcpiName" alt="" coords="399,5,559,32"/>
-<area shape="rect" id="node4" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="607,5,757,32"/>
-</map>

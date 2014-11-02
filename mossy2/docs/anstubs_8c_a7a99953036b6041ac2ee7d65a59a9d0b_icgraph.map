@@ -1,8 +1,0 @@
-<map id="AcpiDsGetRegionArguments" name="AcpiDsGetRegionArguments">
-<area shape="rect" id="node2" href="$exconfig_8c.html#ae6e89eb59483dedba9174568ac4f37bb" title="AcpiExLoadOp" alt="" coords="279,5,393,32"/>
-<area shape="rect" id="node5" href="$exfldio_8c.html#a00e7de04d79dd5099ffe512ea8ea784e" title="ACPI_MODULE_NAME" alt="" coords="256,56,416,83"/>
-<area shape="rect" id="node6" href="$nsinit_8c.html#a17eb3137b46cce5ceeb5f43350be5248" title="AcpiNsInitOneObject" alt="" coords="259,107,413,133"/>
-<area shape="rect" id="node3" href="$exoparg1_8c.html#a3e9cab33e2e78974a0b519f2cba1d67e" title="AcpiExOpcode_1A_1T_0R" alt="" coords="464,5,649,32"/>
-<area shape="rect" id="node4" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="697,5,857,32"/>
-<area shape="rect" id="node7" href="$nsinit_8c.html#a67a7545569a1d8efdfb8e104b7f33498" title="ACPI_MODULE_NAME" alt="" coords="477,107,637,133"/>
-</map>

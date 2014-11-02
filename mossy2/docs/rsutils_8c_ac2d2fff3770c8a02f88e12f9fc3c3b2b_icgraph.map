@@ -1,8 +1,0 @@
-<map id="AcpiRsSetResourceHeader" name="AcpiRsSetResourceHeader">
-<area shape="rect" id="node2" href="$rsmisc_8c.html#a08bae373757ad3cdcb98a4d1cdec14a8" title="AcpiRsConvertResourceToAml" alt="" coords="245,5,460,32"/>
-<area shape="rect" id="node3" href="$rsaddr_8c.html#aecd318b4ec9ec05c4f66a92def86b454" title="AcpiRsSetAddressCommon" alt="" coords="520,5,717,32"/>
-<area shape="rect" id="node4" href="$rslist_8c.html#a1ba6577ced7f8603c296d754735b2a2a" title="AcpiRsConvertResourcesToAml" alt="" coords="508,56,729,83"/>
-<area shape="rect" id="node5" href="$rscreate_8c.html#ae8b9e1fbbb749f36f33c7cb8cb3f88f6" title="AcpiRsCreateAmlResources" alt="" coords="777,56,976,83"/>
-<area shape="rect" id="node6" href="$rsutils_8c.html#a999f6d98ebe49bc0a32a6596e5738ead" title="AcpiRsSetSrsMethodData" alt="" coords="1024,56,1209,83"/>
-<area shape="rect" id="node7" href="$rsxface_8c.html#a883dfee3aa686baf720c838e2c8d5767" title="ACPI_EXPORT_SYMBOL" alt="" coords="1257,56,1428,83"/>
-</map>

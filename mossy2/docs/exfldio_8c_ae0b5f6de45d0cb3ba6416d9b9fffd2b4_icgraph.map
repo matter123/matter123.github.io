@@ -1,8 +1,0 @@
-<map id="AcpiExRegisterOverflow" name="AcpiExRegisterOverflow">
-<area shape="rect" id="node2" href="$exfldio_8c.html#a58ed8662377c4ffa1f3067d7ee0bc9d3" title="AcpiExFieldDatumIo" alt="" coords="228,81,377,108"/>
-<area shape="rect" id="node3" href="$exfldio_8c.html#ad928704be2dcf39b2746f90a5352ede4" title="AcpiExWriteWithUpdateRule" alt="" coords="425,5,627,32"/>
-<area shape="rect" id="node6" href="$exfldio_8c.html#a63e101da19415614a29a5fc7f252c8ba" title="AcpiExExtractFromField" alt="" coords="441,107,611,133"/>
-<area shape="rect" id="node4" href="$exfldio_8c.html#a8be6d663bd08d6405d94ad17f4b6aae3" title="AcpiExInsertIntoField" alt="" coords="691,31,846,57"/>
-<area shape="rect" id="node5" href="$exfield_8c.html#ae834ac9c29d3bc3f0dea8eb289393563" title="AcpiExWriteDataToField" alt="" coords="911,31,1081,57"/>
-<area shape="rect" id="node7" href="$exfield_8c.html#a700a9a20911cb29ae0bdacd6de782747" title="AcpiExReadDataFromField" alt="" coords="675,107,863,133"/>
-</map>

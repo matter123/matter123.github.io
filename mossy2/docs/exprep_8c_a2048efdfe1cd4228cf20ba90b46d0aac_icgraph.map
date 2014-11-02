@@ -1,7 +1,0 @@
-<map id="AcpiExDecodeFieldAccess" name="AcpiExDecodeFieldAccess">
-<area shape="rect" id="node2" href="$exprep_8c.html#ae370760f2720ddb4c2add86472085dfd" title="AcpiExPrepCommonFieldObject" alt="" coords="240,31,463,57"/>
-<area shape="rect" id="node3" href="$dsopcode_8c.html#aaf1129529259d78c5ce090860f59adfb" title="AcpiDsInitBufferField" alt="" coords="513,5,666,32"/>
-<area shape="rect" id="node6" href="$exprep_8c.html#a52edde5a3bd15ce2c8c7ffa081ecc6fe" title="AcpiExPrepFieldValue" alt="" coords="511,56,668,83"/>
-<area shape="rect" id="node4" href="$dsopcode_8c.html#a4b5e29aefc641231c3645e2e50ce4d33" title="AcpiDsEvalBufferFieldOperands" alt="" coords="716,5,939,32"/>
-<area shape="rect" id="node5" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="987,5,1125,32"/>
-</map>

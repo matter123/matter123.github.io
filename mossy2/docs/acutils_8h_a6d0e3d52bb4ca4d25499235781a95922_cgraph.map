@@ -1,8 +1,0 @@
-<map id="AcpiUtTraceStr" name="AcpiUtTraceStr">
-<area shape="rect" id="node2" href="$utdebug_8c.html#ad1e1ca83815b2c2502aefffcc03d34ef" title="AcpiUtTrackStackPtr" alt="" coords="169,31,321,57"/>
-<area shape="rect" id="node3" href="$utdebug_8c.html#aae597ee8952f602d256f79151f41ca9f" title="AcpiDebugPrint" alt="" coords="185,81,305,108"/>
-<area shape="rect" id="node4" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="387,5,534,32"/>
-<area shape="rect" id="node5" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="411,56,511,83"/>
-<area shape="rect" id="node6" href="$utdebug_8c.html#aae7dc6568bffa71007df399751a701dc" title="AcpiUtTrimFunctionName" alt="" coords="369,107,552,133"/>
-<area shape="rect" id="node7" href="$acpiosxf_8h.html#a8059c5cfc81389e4281056dfa8edb477" title="AcpiOsVprintf" alt="" coords="406,157,515,184"/>
-</map>

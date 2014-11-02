@@ -1,5 +1,0 @@
-<map id="AcpiExSystemResetEvent" name="AcpiExSystemResetEvent">
-<area shape="rect" id="node2" href="$acpiosxf_8h.html#a28f2b4fa0a29418b228fa8ce027fd211" title="AcpiOsCreateSemaphore" alt="" coords="240,5,423,32"/>
-<area shape="rect" id="node3" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="307,56,356,83"/>
-<area shape="rect" id="node4" href="$acpiosxf_8h.html#aaf3d02c5093171001946df452d623926" title="AcpiOsDeleteSemaphore" alt="" coords="240,107,423,133"/>
-</map>

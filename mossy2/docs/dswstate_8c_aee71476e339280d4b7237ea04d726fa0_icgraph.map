@@ -1,9 +1,0 @@
-<map id="AcpiDsDeleteWalkState" name="AcpiDsDeleteWalkState">
-<area shape="rect" id="node2" href="$dsargs_8c.html#a68725a4fbc8daec7a112d6d65692d03b" title="ACPI_MODULE_NAME" alt="" coords="459,5,619,32"/>
-<area shape="rect" id="node3" href="$dsmethod_8c.html#a7258edde68b9f7f300031a1bd3d42c63" title="AcpiDsCallControlMethod" alt="" coords="227,31,409,57"/>
-<area shape="rect" id="node4" href="$psparse_8c.html#aa3fa02017bde9a180cac40f78ba4da79" title="AcpiPsParseAml" alt="" coords="256,81,380,108"/>
-<area shape="rect" id="node7" href="$psxface_8c.html#a5deb05e87edeac32fc40a9cc6a4d0185" title="AcpiPsExecuteMethod" alt="" coords="457,132,621,159"/>
-<area shape="rect" id="node5" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="486,81,593,108"/>
-<area shape="rect" id="node6" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="676,81,823,108"/>
-<area shape="rect" id="node8" href="$nseval_8c.html#a757d9e28ba64867c0e1d1e8b70e9b645" title="ACPI_MODULE_NAME" alt="" coords="669,132,829,159"/>
-</map>

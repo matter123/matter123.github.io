@@ -1,6 +1,0 @@
-<map id="AcpiOsCreateCache" name="AcpiOsCreateCache">
-<area shape="rect" id="node2" href="$utalloc_8c.html#a62e8d4e5d15336b9b230ccea43d42d03" title="AcpiUtCreateCaches" alt="" coords="203,31,357,57"/>
-<area shape="rect" id="node3" href="$utinit_8c.html#ac9857867ecb8565c75b0f5a7411d2c78" title="AcpiUtInitGlobals" alt="" coords="405,31,536,57"/>
-<area shape="rect" id="node4" href="$adisasm_8c.html#a415cf0c57b8bc5abf47fdd734c400629" title="AdInitialize" alt="" coords="619,5,709,32"/>
-<area shape="rect" id="node5" href="$utxfinit_8c.html#af8fcc9bdce4b1bdafc36f3c247586ab0" title="ACPI_MODULE_NAME" alt="" coords="584,56,744,83"/>
-</map>

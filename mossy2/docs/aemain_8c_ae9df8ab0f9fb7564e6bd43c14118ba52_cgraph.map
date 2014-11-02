@@ -1,8 +1,0 @@
-<map id="AeDoOptions" name="AeDoOptions">
-<area shape="rect" id="node2" href="$acapps_8h.html#ac814057aacba59e4afa604ce6c5df9a3" title="AcpiGetopt" alt="" coords="179,5,272,32"/>
-<area shape="rect" id="node3" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="196,56,255,83"/>
-<area shape="rect" id="node4" href="$string_8h.html#a7a82515b5d377be04817715c5465b647" title="copies chars from src to dest " alt="" coords="194,107,257,133"/>
-<area shape="rect" id="node5" href="$aemain_8c.html#ad96d407a911fbb914fa8e4cfbf2faf0f" title="usage" alt="" coords="195,157,256,184"/>
-<area shape="rect" id="node6" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="201,208,250,235"/>
-<area shape="rect" id="node7" href="$acpiosxf_8h.html#a7e9216238baf2092085bbcf417944515" title="AcpiOsTerminate" alt="" coords="160,259,291,285"/>
-</map>

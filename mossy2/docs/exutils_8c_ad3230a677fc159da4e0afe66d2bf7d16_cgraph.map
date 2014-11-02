@@ -1,6 +1,0 @@
-<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
-<area shape="rect" id="node2" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="213,56,365,83"/>
-<area shape="rect" id="node3" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="423,5,570,32"/>
-<area shape="rect" id="node4" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="413,56,580,83"/>
-<area shape="rect" id="node5" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="419,107,574,133"/>
-</map>

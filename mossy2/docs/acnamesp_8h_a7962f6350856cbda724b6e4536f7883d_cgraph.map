@@ -1,6 +1,0 @@
-<map id="AcpiNsInstallNode" name="AcpiNsInstallNode">
-<area shape="rect" id="node2" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="192,5,352,32"/>
-<area shape="rect" id="node5" href="$acutils_8h.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="194,56,350,83"/>
-<area shape="rect" id="node3" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="400,5,543,32"/>
-<area shape="rect" id="node4" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="591,5,741,32"/>
-</map>

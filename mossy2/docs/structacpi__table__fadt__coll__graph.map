@@ -1,4 +1,0 @@
-<map id="acpi_table_fadt" name="acpi_table_fadt">
-<area shape="rect" id="node2" href="$structacpi__generic__address.html" title="acpi_generic_address" alt="" coords="5,5,165,32"/>
-<area shape="rect" id="node3" href="$structacpi__table__header.html" title="acpi_table_header" alt="" coords="189,5,328,32"/>
-</map>

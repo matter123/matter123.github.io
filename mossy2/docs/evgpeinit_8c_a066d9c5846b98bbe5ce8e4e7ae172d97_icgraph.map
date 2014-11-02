@@ -1,7 +1,0 @@
-<map id="AcpiEvMatchGpeMethod" name="AcpiEvMatchGpeMethod">
-<area shape="rect" id="node2" href="$evgpeblk_8c.html#afe94dbbcc8ee48873194f8659b47cc4b" title="AcpiEvCreateGpeBlock" alt="" coords="232,56,401,83"/>
-<area shape="rect" id="node5" href="$evgpeinit_8c.html#a3b6f8e77621d1f3291a45397a6eef370" title="AcpiEvUpdateGpes" alt="" coords="244,107,389,133"/>
-<area shape="rect" id="node3" href="$evgpeinit_8c.html#af0df18fb6133996049300f35f5d94cd7" title="ACPI_MODULE_NAME" alt="" coords="455,5,615,32"/>
-<area shape="rect" id="node4" href="$evxfgpe_8c.html#a33c5c4191f48a451a88532987328df3d" title="ACPI_EXPORT_SYMBOL" alt="" coords="449,56,620,83"/>
-<area shape="rect" id="node6" href="$exconfig_8c.html#a79ee0c49330efc1267ac7e9cbddbec3c" title="ACPI_MODULE_NAME" alt="" coords="455,107,615,133"/>
-</map>

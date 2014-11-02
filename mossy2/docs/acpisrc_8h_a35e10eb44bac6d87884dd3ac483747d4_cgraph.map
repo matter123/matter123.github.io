@@ -1,9 +1,0 @@
-<map id="AsBracesOnSameLine" name="AsBracesOnSameLine">
-<area shape="rect" id="node2" href="$string_8h.html#a9b8955ed78305a9f68e032415a62e285" title="strstr" alt="" coords="249,5,305,32"/>
-<area shape="rect" id="node3" href="$acpisrc_8h.html#a754459d26b75ca04a6a032a6d3c9b127" title="AsSkipPastChar" alt="" coords="216,56,339,83"/>
-<area shape="rect" id="node4" href="$string_8h.html#a6666865e6caf66fd05d4b8bd6c074cd2" title="strncmp" alt="" coords="240,107,315,133"/>
-<area shape="rect" id="node5" href="$ctype_8cpp.html#a3fa45b35c8abf67a950b6d3d4063dede" title="isdigit" alt="" coords="248,157,307,184"/>
-<area shape="rect" id="node6" href="$acpisrc_8h.html#a5cf523192da880ad5fb1b2715dd82f81" title="AsReplaceData" alt="" coords="218,208,337,235"/>
-<area shape="rect" id="node7" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="404,183,463,209"/>
-<area shape="rect" id="node8" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="387,233,480,260"/>
-</map>

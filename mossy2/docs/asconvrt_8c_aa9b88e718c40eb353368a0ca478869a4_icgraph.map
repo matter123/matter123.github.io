@@ -1,7 +1,0 @@
-<map id="AsConvertToLineFeeds" name="AsConvertToLineFeeds">
-<area shape="rect" id="node2" href="$asfile_8c.html#a35ebf6536519a5ec7f2353950bcc1871" title="AsGetFile" alt="" coords="220,31,301,57"/>
-<area shape="rect" id="node3" href="$asfile_8c.html#ab210bf21de7f0e842f0ec09d0b8492fc" title="AsProcessOneFile" alt="" coords="349,31,484,57"/>
-<area shape="rect" id="node4" href="$asfile_8c.html#a88e4d20222a73d0fd8d24d1013491478" title="AsDoWildcard" alt="" coords="532,5,643,32"/>
-<area shape="rect" id="node6" href="$asmain_8c.html#a3cdc49afe6f0baea9d6629ce21b2b771" title="main" alt="" coords="853,31,908,57"/>
-<area shape="rect" id="node5" href="$asfile_8c.html#a75e9b83e726f8e95aec53a32501aca67" title="AsProcessTree" alt="" coords="691,5,805,32"/>
-</map>

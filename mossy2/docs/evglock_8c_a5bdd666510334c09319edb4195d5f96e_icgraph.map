@@ -1,6 +1,0 @@
-<map id="AcpiEvGlobalLockHandler" name="AcpiEvGlobalLockHandler">
-<area shape="rect" id="node2" href="$evglock_8c.html#ad8518e36f47acb46a89df790397bc51c" title="AcpiEvRemoveGlobalLockHandler" alt="" coords="239,5,477,32"/>
-<area shape="rect" id="node3" href="$evmisc_8c.html#adf84bc79b3a471ea03a15ce0b3319140" title="AcpiEvTerminate" alt="" coords="525,5,655,32"/>
-<area shape="rect" id="node4" href="$utinit_8c.html#a4c67375418edc8c708db838e947c71a3" title="AcpiUtSubsystemShutdown" alt="" coords="703,5,903,32"/>
-<area shape="rect" id="node5" href="$utxface_8c.html#a97de22c9cd594c0e92eac442cdb06bc9" title="ACPI_MODULE_NAME" alt="" coords="951,5,1111,32"/>
-</map>

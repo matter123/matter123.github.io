@@ -1,5 +1,0 @@
-<map id="AcpiOsSignal" name="AcpiOsSignal">
-<area shape="rect" id="node2" href="$dscontrol_8c.html#ad7d40ec16c2dfeb23ae3c82d1904fcd3" title="AcpiDsExecEndControlOp" alt="" coords="157,5,343,32"/>
-<area shape="rect" id="node4" href="$exoparg3_8c.html#a2c45cd7910ad1a1248dea9e0702f964d" title="ACPI_MODULE_NAME" alt="" coords="170,56,330,83"/>
-<area shape="rect" id="node3" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="391,5,529,32"/>
-</map>

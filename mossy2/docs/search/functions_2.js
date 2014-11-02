@@ -9,7 +9,6 @@ var searchData=
   ['char_5fcopy',['char_copy',['../utf8_8h.html#a3276f08e39dbdf3e6132627b501ca7c7',1,'char_copy(char *str, const char *c):&#160;utf8.c'],['../utf8_8c.html#a3276f08e39dbdf3e6132627b501ca7c7',1,'char_copy(char *str, const char *c):&#160;utf8.c']]],
   ['check',['check',['../classkernel_1_1spinlock.html#a38b6c9e986c9753e1cef4285d35be198',1,'kernel::spinlock']]],
   ['cls',['cls',['../namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d',1,'hal::cls()'],['../namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1',1,'std::cls()']]],
-  ['cmgetfilesize',['CmGetFileSize',['../acapps_8h.html#a25d027abab0591a6ea0f48906dfe842c',1,'acapps.h']]],
   ['combine',['combine',['../classhal_1_1ios__base.html#aaf2aeba0ba7971c7fc7dc07c6bdbf705',1,'hal::ios_base']]],
   ['consolecolor',['ConsoleColor',['../classhal_1_1ConsoleColor.html#aa1cec28e936b5f9cfa39d382ba97770a',1,'hal::ConsoleColor::ConsoleColor(int foreground, int background)'],['../classhal_1_1ConsoleColor.html#a59aac80166a17cfe198ddecba97dfc94',1,'hal::ConsoleColor::ConsoleColor()']]],
   ['convert',['convert',['../unicode_8h.html#a2b88e13e718326fcab2c717bbef7ae5d',1,'unicode.h']]],

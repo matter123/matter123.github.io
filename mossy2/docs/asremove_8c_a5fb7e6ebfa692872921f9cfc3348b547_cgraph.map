@@ -1,6 +1,0 @@
-<map id="AsCleanupSpecialMacro" name="AsCleanupSpecialMacro">
-<area shape="rect" id="node2" href="$string_8h.html#a9b8955ed78305a9f68e032415a62e285" title="strstr" alt="" coords="261,5,317,32"/>
-<area shape="rect" id="node3" href="$acpisrc_8h.html#a1218f19f9358f907bf09867b45d7ebc0" title="AsRemoveData" alt="" coords="228,56,351,83"/>
-<area shape="rect" id="node4" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="416,31,475,57"/>
-<area shape="rect" id="node5" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="399,81,492,108"/>
-</map>

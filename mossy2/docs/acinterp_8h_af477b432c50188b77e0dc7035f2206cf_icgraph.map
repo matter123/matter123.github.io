@@ -1,9 +1,0 @@
-<map id="AcpiExReleaseMutexObject" name="AcpiExReleaseMutexObject">
-<area shape="rect" id="node2" href="$evxface_8c.html#afd1262300fc93d24965df31907907c70" title="ACPI_EXPORT_SYMBOL" alt="" coords="257,5,427,32"/>
-<area shape="rect" id="node3" href="$exmutex_8c.html#a64e9d966d3d3c73538d47b34358bcdad" title="AcpiExReleaseMutex" alt="" coords="265,56,419,83"/>
-<area shape="rect" id="node6" href="$exutils_8c.html#a9105290f4a5a3a944b0d5a3866da7dbc" title="AcpiExReleaseGlobalLock" alt="" coords="249,107,435,133"/>
-<area shape="rect" id="node4" href="$exoparg1_8c.html#aa03253bcf485cd0b5407e6b568666669" title="AcpiExOpcode_1A_0T_0R" alt="" coords="484,56,669,83"/>
-<area shape="rect" id="node5" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="719,56,879,83"/>
-<area shape="rect" id="node7" href="$exfield_8c.html#a700a9a20911cb29ae0bdacd6de782747" title="AcpiExReadDataFromField" alt="" coords="483,107,671,133"/>
-<area shape="rect" id="node8" href="$exfield_8c.html#ae834ac9c29d3bc3f0dea8eb289393563" title="AcpiExWriteDataToField" alt="" coords="491,157,662,184"/>
-</map>

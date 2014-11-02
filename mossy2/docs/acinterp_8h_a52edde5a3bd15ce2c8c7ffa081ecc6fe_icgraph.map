@@ -1,9 +1,0 @@
-<map id="AcpiExPrepFieldValue" name="AcpiExPrepFieldValue">
-<area shape="rect" id="node2" href="$dsfield_8c.html#a32abee9b8b91e24ed635dc30f9a3cfd2" title="AcpiDsGetFieldNames" alt="" coords="211,56,373,83"/>
-<area shape="rect" id="node3" href="$dsfield_8c.html#a1046401ba6b53fc64e12046488ad0d6a" title="AcpiDsCreateField" alt="" coords="439,5,577,32"/>
-<area shape="rect" id="node7" href="$dsfield_8c.html#a5d9f98a2596a0c58cec8712b325e0e49" title="AcpiDsCreateBankField" alt="" coords="423,56,593,83"/>
-<area shape="rect" id="node8" href="$dsfield_8c.html#a796eef5a37a0303549395b3c4de3e3d6" title="AcpiDsCreateIndexField" alt="" coords="421,107,595,133"/>
-<area shape="rect" id="node4" href="$dswload2_8c.html#a7a6cec04ec1029549e5b5fcc8ecffb07" title="AcpiDsLoad2EndOp" alt="" coords="643,56,789,83"/>
-<area shape="rect" id="node5" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="848,31,987,57"/>
-<area shape="rect" id="node6" href="$dswload_8c.html#a16cd18c28b7457fc30aa9c7654ece498" title="ACPI_MODULE_NAME" alt="" coords="837,81,997,108"/>
-</map>

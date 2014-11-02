@@ -1,7 +1,0 @@
-<map id="AsRemoveEmptyBlocks" name="AsRemoveEmptyBlocks">
-<area shape="rect" id="node2" href="$acpisrc_8h.html#ad1b35845839bc2e81bf976c19d51bd3e" title="AsSkipUntilChar" alt="" coords="228,5,352,32"/>
-<area shape="rect" id="node3" href="$acpisrc_8h.html#a1218f19f9358f907bf09867b45d7ebc0" title="AsRemoveData" alt="" coords="229,56,351,83"/>
-<area shape="rect" id="node6" href="$acpisrc_8h.html#a5fc48a908b113e6b28468299297c1506" title="AsPrint" alt="" coords="257,107,323,133"/>
-<area shape="rect" id="node4" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="417,31,476,57"/>
-<area shape="rect" id="node5" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="400,81,493,108"/>
-</map>

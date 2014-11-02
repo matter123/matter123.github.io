@@ -1,6 +1,0 @@
-<map id="AcpiTbGetOwnerId" name="AcpiTbGetOwnerId">
-<area shape="rect" id="node2" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="226,5,333,32"/>
-<area shape="rect" id="node4" href="$dsinit_8c.html#a646796368156a358aaa122075b7d610a" title="AcpiDsInitializeObjects" alt="" coords="196,56,363,83"/>
-<area shape="rect" id="node5" href="$exconfig_8c.html#a79ee0c49330efc1267ac7e9cbddbec3c" title="ACPI_MODULE_NAME" alt="" coords="199,107,359,133"/>
-<area shape="rect" id="node3" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="411,5,557,32"/>
-</map>

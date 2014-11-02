@@ -1,9 +1,0 @@
-<map id="AcpiExDumpOperands" name="AcpiExDumpOperands">
-<area shape="rect" id="node2" href="$exdump_8c.html#a97c5a4bb261a76403437739b8dc4f34d" title="AcpiExDumpOperand" alt="" coords="220,132,379,159"/>
-<area shape="rect" id="node3" href="$acutils_8h.html#a32401b4d319df7f28c181246a30a02ce" title="AcpiUtGetDescriptorName" alt="" coords="427,5,619,32"/>
-<area shape="rect" id="node4" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="667,157,767,184"/>
-<area shape="rect" id="node5" href="$acutils_8h.html#a5ddaa21503bf5071a95a3e55fdb20023" title="AcpiUtGetReferenceName" alt="" coords="427,107,618,133"/>
-<area shape="rect" id="node6" href="$acutils_8h.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="445,157,601,184"/>
-<area shape="rect" id="node7" href="$acutils_8h.html#afb74c096e61c011ddb2c2cb9d6409a41" title="AcpiUtGetRegionName" alt="" coords="438,208,607,235"/>
-<area shape="rect" id="node8" href="$acutils_8h.html#a7ab97705961d561c6501a39447a4a21e" title="AcpiUtPrintString" alt="" coords="457,259,588,285"/>
-</map>

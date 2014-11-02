@@ -1,6 +1,0 @@
-<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
-<area shape="rect" id="node2" href="$acutils_8h.html#af45c755b649ff6808a6b1dcf08fb898b" title="AcpiUtCreateControlState" alt="" coords="213,5,400,32"/>
-<area shape="rect" id="node5" href="$acutils_8h.html#ae6cc5a988c45a2765e6d0638c87e0bfb" title="AcpiUtPushGenericState" alt="" coords="217,56,396,83"/>
-<area shape="rect" id="node3" href="$utstate_8c.html#a1007334913adfd3d3a64e8373a863084" title="AcpiUtCreateGenericState" alt="" coords="448,5,639,32"/>
-<area shape="rect" id="node4" href="$acpiosxf_8h.html#a3aeec4a3020b07475a5b9a4a5b0bbf15" title="AcpiOsAcquireObject" alt="" coords="687,5,841,32"/>
-</map>

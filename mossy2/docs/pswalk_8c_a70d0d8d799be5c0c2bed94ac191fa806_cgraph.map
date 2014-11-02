@@ -1,6 +1,0 @@
-<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
-<area shape="rect" id="node2" href="$acparser_8h.html#a8d1a516f154f17265622551d6ee1722b" title="AcpiPsGetArg" alt="" coords="213,5,323,32"/>
-<area shape="rect" id="node3" href="$acparser_8h.html#aa1b7a588e67ed57a6bb5110c6560f260" title="AcpiPsFreeOp" alt="" coords="213,56,323,83"/>
-<area shape="rect" id="node4" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="425,31,474,57"/>
-<area shape="rect" id="node5" href="$acpiosxf_8h.html#a194106ebbaa12443e59d042b26a7af3b" title="AcpiOsReleaseObject" alt="" coords="371,81,528,108"/>
-</map>

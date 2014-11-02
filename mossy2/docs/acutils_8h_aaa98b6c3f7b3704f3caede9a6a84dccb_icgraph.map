@@ -1,8 +1,0 @@
-<map id="AcpiUtExecute_STA" name="AcpiUtExecute_STA">
-<area shape="rect" id="node2" href="$nsinit_8c.html#a9cc4d2d8cdc0d18383b0d60404b1338b" title="AcpiNsInitOneDevice" alt="" coords="207,5,363,32"/>
-<area shape="rect" id="node5" href="$nsxfeval_8c.html#ab70cd284f5072c23827d954ff7e8273a" title="ACPI_EXPORT_SYMBOL" alt="" coords="200,56,371,83"/>
-<area shape="rect" id="node6" href="$nsxfname_8c.html#a20ba0b547d3d1fbfa92b15fe521fc0a8" title="AcpiGetObjectInfo" alt="" coords="216,107,355,133"/>
-<area shape="rect" id="node3" href="$nsinit_8c.html#a3c822653ec3fa545913fb03081d37701" title="AcpiNsInitializeDevices" alt="" coords="419,5,588,32"/>
-<area shape="rect" id="node4" href="$utxfinit_8c.html#aff07638eb248fd1bb82da748549ea4f0" title="ACPI_EXPORT_SYMBOL_INIT" alt="" coords="636,5,839,32"/>
-<area shape="rect" id="node7" href="$nsdumpdv_8c.html#a28e09bf7756fd9775bd99d7e3616a84d" title="ACPI_MODULE_NAME" alt="" coords="423,107,583,133"/>
-</map>

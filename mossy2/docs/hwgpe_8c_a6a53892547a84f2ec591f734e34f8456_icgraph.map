@@ -1,6 +1,0 @@
-<map id="AcpiHwDisableAllGpes" name="AcpiHwDisableAllGpes">
-<area shape="rect" id="node2" href="$evxfgpe_8c.html#a1a55910eeeca1577d72688481dcb1eeb" title="ACPI_EXPORT_SYMBOL" alt="" coords="219,5,389,32"/>
-<area shape="rect" id="node3" href="$hwsleep_8c.html#aa4a433f6c7bcd24d45f80ca3ebea8ee1" title="ACPI_MODULE_NAME" alt="" coords="224,56,384,83"/>
-<area shape="rect" id="node4" href="$hwsleep_8c.html#ac7a7a0377af84d5b5fbf242d4635a25d" title="AcpiHwLegacyWake" alt="" coords="228,107,380,133"/>
-<area shape="rect" id="node5" href="$hwxfsleep_8c.html#aa9721418f76ca9280276e892c7978ce7" title="ACPI_MODULE_NAME" alt="" coords="437,107,597,133"/>
-</map>

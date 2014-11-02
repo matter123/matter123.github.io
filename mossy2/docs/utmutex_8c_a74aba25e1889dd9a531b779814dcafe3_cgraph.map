@@ -1,6 +1,0 @@
-<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
-<area shape="rect" id="node2" href="$utmutex_8c.html#ab8d1b2dceeea7360bc538ad9d982630e" title="AcpiUtCreateMutex" alt="" coords="219,5,365,32"/>
-<area shape="rect" id="node3" href="$acpiosxf_8h.html#a69c61369f5e0146f5348343a98dfd689" title="AcpiOsCreateMutex" alt="" coords="419,31,568,57"/>
-<area shape="rect" id="node4" href="$acpiosxf_8h.html#a0fc3d972318f90c4dd8415ab43d6f879" title="AcpiOsCreateLock" alt="" coords="223,107,361,133"/>
-<area shape="rect" id="node5" href="$acutils_8h.html#a3951a472e4af6e2a1f78480cf36c9f29" title="AcpiUtCreateRwLock" alt="" coords="213,157,371,184"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="AcpiExResolveOperands" name="AcpiExResolveOperands">
-<area shape="rect" id="node2" href="$dsopcode_8c.html#a4b5e29aefc641231c3645e2e50ce4d33" title="AcpiDsEvalBufferFieldOperands" alt="" coords="235,5,457,32"/>
-<area shape="rect" id="node3" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="520,107,659,133"/>
-<area shape="rect" id="node4" href="$dsopcode_8c.html#a8a1a2ceb847f08e1c4fcbd4a20fc58d9" title="AcpiDsEvalRegionOperands" alt="" coords="247,107,445,133"/>
-<area shape="rect" id="node5" href="$dsopcode_8c.html#a3ddd5df02d8bacf2b9842121d690e969" title="AcpiDsEvalTableRegionOperands" alt="" coords="231,157,461,184"/>
-<area shape="rect" id="node6" href="$dsopcode_8c.html#ac83c7a9ad6fbc05139395602b311da4c" title="AcpiDsEvalDataObjectOperands" alt="" coords="233,208,459,235"/>
-<area shape="rect" id="node7" href="$exoparg1_8c.html#ab693e242f7c0a710093515164485a353" title="AcpiExOpcode_1A_0T_1R" alt="" coords="253,259,439,285"/>
-<area shape="rect" id="node8" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="509,259,669,285"/>
-</map>

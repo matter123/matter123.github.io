@@ -1,5 +1,0 @@
-<map id="AcpiEvCreateGpeInfoBlocks" name="AcpiEvCreateGpeInfoBlocks">
-<area shape="rect" id="node2" href="$evgpeblk_8c.html#afe94dbbcc8ee48873194f8659b47cc4b" title="AcpiEvCreateGpeBlock" alt="" coords="255,31,424,57"/>
-<area shape="rect" id="node3" href="$evgpeinit_8c.html#af0df18fb6133996049300f35f5d94cd7" title="ACPI_MODULE_NAME" alt="" coords="477,5,637,32"/>
-<area shape="rect" id="node4" href="$evxfgpe_8c.html#a33c5c4191f48a451a88532987328df3d" title="ACPI_EXPORT_SYMBOL" alt="" coords="472,56,643,83"/>
-</map>

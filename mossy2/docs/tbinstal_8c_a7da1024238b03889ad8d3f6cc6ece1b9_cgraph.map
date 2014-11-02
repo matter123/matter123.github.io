@@ -1,6 +1,0 @@
-<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
-<area shape="rect" id="node2" href="$actables_8h.html#aeaa732040b88787f73c16e590ed74395" title="AcpiTbAcquireTable" alt="" coords="214,5,361,32"/>
-<area shape="rect" id="node4" href="$actables_8h.html#a30d6951e99718a4a2754509159b87549" title="AcpiTbReleaseTable" alt="" coords="213,56,361,83"/>
-<area shape="rect" id="node3" href="$acpiosxf_8h.html#a1fae7131b07b0af4ddeb969d6ab08fbc" title="AcpiOsMapMemory" alt="" coords="419,5,566,32"/>
-<area shape="rect" id="node5" href="$acpiosxf_8h.html#ac311ac97cb1dbf409feec249058d0537" title="AcpiOsUnmapMemory" alt="" coords="409,56,576,83"/>
-</map>

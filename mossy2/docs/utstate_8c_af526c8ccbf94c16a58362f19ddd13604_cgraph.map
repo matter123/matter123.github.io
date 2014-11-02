@@ -1,5 +1,0 @@
-<map id="AcpiUtCreateThreadState" name="AcpiUtCreateThreadState">
-<area shape="rect" id="node2" href="$utstate_8c.html#a1007334913adfd3d3a64e8373a863084" title="AcpiUtCreateGenericState" alt="" coords="240,5,431,32"/>
-<area shape="rect" id="node4" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="262,56,409,83"/>
-<area shape="rect" id="node3" href="$acpiosxf_8h.html#a3aeec4a3020b07475a5b9a4a5b0bbf15" title="AcpiOsAcquireObject" alt="" coords="479,5,633,32"/>
-</map>

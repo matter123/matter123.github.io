@@ -1,8 +1,7 @@
 <map id="hal::register_int" name="hal::register_int">
-<area shape="rect" id="node2" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="175,19,361,45"/>
-<area shape="rect" id="node4" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="219,95,317,121"/>
+<area shape="rect" id="node2" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="175,5,361,32"/>
+<area shape="rect" id="node4" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="219,56,317,83"/>
 <area shape="rect" id="node3" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="428,5,493,32"/>
 <area shape="rect" id="node5" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="409,56,512,83"/>
-<area shape="rect" id="node6" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="436,107,485,133"/>
-<area shape="rect" id="node7" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="435,157,486,184"/>
+<area shape="rect" id="node6" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="435,107,486,133"/>
 </map>

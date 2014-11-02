@@ -1,5 +1,0 @@
-<map id="ACPI_EXPORT_SYMBOL" name="ACPI_EXPORT_SYMBOL">
-<area shape="rect" id="node2" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="234,5,389,32"/>
-<area shape="rect" id="node3" href="$acutils_8h.html#a78d5c79c6da2dfdc3373c173b0e236b9" title="AcpiUtRemoveInterface" alt="" coords="224,56,399,83"/>
-<area shape="rect" id="node4" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="233,107,389,133"/>
-</map>

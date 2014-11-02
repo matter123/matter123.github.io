@@ -1,8 +1,0 @@
-<map id="AcpiDmWalkParseTree" name="AcpiDmWalkParseTree">
-<area shape="rect" id="node2" href="$adwalk_8c.html#a1a81db59240c062e573398e96f1297cd" title="ACPI_MODULE_NAME" alt="" coords="264,5,424,32"/>
-<area shape="rect" id="node3" href="$adwalk_8c.html#a5eb4455931b2966fa673f08b35edfa8d" title="AcpiDmFindOrphanMethods" alt="" coords="245,56,443,83"/>
-<area shape="rect" id="node5" href="$adwalk_8c.html#ad807ad8513e6cbe4c56f57be6a93c78c" title="AcpiDmFinishNamespaceLoad" alt="" coords="237,107,451,133"/>
-<area shape="rect" id="node6" href="$adwalk_8c.html#aa0284a1c1ce0d4327f0c301053b9feba" title="AcpiDmCrossReferenceNamespace" alt="" coords="219,157,469,184"/>
-<area shape="rect" id="node7" href="$adwalk_8c.html#aec34648aacfced2a885d20ab17d4439e" title="AcpiDmConvertResourceIndexes" alt="" coords="227,208,461,235"/>
-<area shape="rect" id="node4" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="517,132,664,159"/>
-</map>

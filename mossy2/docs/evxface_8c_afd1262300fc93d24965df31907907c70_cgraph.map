@@ -1,6 +1,0 @@
-<map id="ACPI_EXPORT_SYMBOL" name="ACPI_EXPORT_SYMBOL">
-<area shape="rect" id="node2" href="$acinterp_8h.html#af477b432c50188b77e0dc7035f2206cf" title="AcpiExReleaseMutexObject" alt="" coords="224,56,420,83"/>
-<area shape="rect" id="node3" href="$acinterp_8h.html#a54d691369b78548695b34383179b31ab" title="AcpiExUnlinkMutex" alt="" coords="488,5,633,32"/>
-<area shape="rect" id="node4" href="$evglock_8c.html#a3850de06d9b0bb987c5c5afaf1e1551b" title="AcpiEvReleaseGlobalLock" alt="" coords="468,56,653,83"/>
-<area shape="rect" id="node5" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="701,81,857,108"/>
-</map>

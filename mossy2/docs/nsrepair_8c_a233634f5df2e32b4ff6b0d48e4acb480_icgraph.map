@@ -1,8 +1,0 @@
-<map id="AcpiNsWrapWithPackage" name="AcpiNsWrapWithPackage">
-<area shape="rect" id="node2" href="$nsprepkg_8c.html#a0a6bb3330909d6035599b9cfeb64b80e" title="ACPI_MODULE_NAME" alt="" coords="1157,93,1317,120"/>
-<area shape="rect" id="node3" href="$nsrepair_8c.html#a0c2308cc9dce8ba48922399898c34fe8" title="AcpiNsSimpleRepair" alt="" coords="236,68,385,95"/>
-<area shape="rect" id="node4" href="$nspredef_8c.html#aa4f7ff3e89f2867c426bab45122a4dce" title="AcpiNsCheckObjectType" alt="" coords="433,81,611,108"/>
-<area shape="rect" id="node5" href="$nspredef_8c.html#a0f9606fcbf2c8589c8e28cede1ad2d23" title="ACPI_MODULE_NAME" alt="" coords="689,43,849,69"/>
-<area shape="rect" id="node6" href="$nsprepkg_8c.html#a7b65f9d4c8b36d012cc2a90fbbe15030" title="AcpiNsCheckPackageList" alt="" coords="927,93,1109,120"/>
-<area shape="rect" id="node7" href="$nsprepkg_8c.html#a85fea3c7ff42f33622fdfadd151f646d" title="AcpiNsCheckPackageElements" alt="" coords="659,144,879,171"/>
-</map>

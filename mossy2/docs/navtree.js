@@ -29,9 +29,9 @@ var NAVTREE =
         [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", "globals_func" ],
         [ "Variables", "globals_vars.html", "globals_vars" ],
-        [ "Typedefs", "globals_type.html", "globals_type" ],
+        [ "Typedefs", "globals_type.html", null ],
         [ "Enumerations", "globals_enum.html", null ],
-        [ "Enumerator", "globals_eval.html", "globals_eval" ]
+        [ "Enumerator", "globals_eval.html", null ]
       ] ]
     ] ]
   ] ]
@@ -40,38 +40,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "ABI_8c.html",
-"acdisasm_8h.html#a6e94b5e811ccf28163b30fee81604caca46771fe2a84d5224ded489a28c7aaff1",
-"acdispat_8h.html#a7a99953036b6041ac2ee7d65a59a9d0b",
-"achware_8h.html#a80c11a16d90573982198c81dfa1e18e3",
-"acnamesp_8h.html#af1ac10c31f5b490a7e90b1d2fc0876d2",
-"acpisrc_8h.html#a7ca5b7a4722acd8a4ecd69db650a23b5",
-"acresrc_8h.html#a759b9809ebe4729865156636439cce91",
-"actbl1_8h.html#a882579395adda51473a79df79159a6c1a12dd03f1a6b53320d719d364678a8333",
-"actbl3_8h.html#a6fb6541135a841b86e888b8eb46ef101",
-"acutils_8h.html#a9b3c9ef1603de036d5f286c6750fdbc0",
-"ahdecode_8c.html#ac0cba837be645fe5b77be294b32ea2a2",
-"arch_2x86__64_2int_8h.html#a148990c8ea2defd698ba4d8af093166e",
-"arch_8h.html#acdc9db0ec0f58a69573b97b1723866f2",
-"console_8h.html#a0e4347fbf6da02162c9005900ad503b5",
-"dmtbinfo_8c.html#a2d9ed920a2603228d94da799992d52d0",
-"evgpeblk_8c.html#afe94dbbcc8ee48873194f8659b47cc4b",
-"extables_8c.html#a14780085cbb55fee461b3092a50fe6af",
-"hwpci_8c.html#a2216b527890a34e2d5aa7331c9bf45ee",
-"nsrepair2_8c.html#a061a2ec8cf695aad65fa881154c641d5",
-"rsinfo_8c.html#a011269722039a0a788ec4af43cbcd319",
-"structacpi__asf__rmcp.html",
-"structacpi__einj__trigger.html#a0e0973d25b61a42003c582d8cc609e27",
-"structacpi__hest__generic__status.html#a5b61e65e3cbf07cc3bd4ff55a2a25a78",
-"structacpi__madt__io__apic.html",
-"structacpi__object__processor.html#afe1298e7fcae5892945f387c9b31932e",
-"structacpi__resource.html#ad1c44db03e388371092af7313cda47af",
-"structacpi__srat__mem__affinity.html#a44b4550984972c5c64f346194a4516f0",
-"structacpi__table__msct.html#afa19f5e7064e9208719bf9ae9b900512",
-"structae__region.html#a0592702faee9472615575546d281a8e8",
-"structhal_1_1multiboot__module.html",
-"tbxface_8c.html",
-"unionx64_1_1recursive__paging_1_1pdpt.html",
-"utresrc_8c.html#a0a69286a508787b19c9969a72d81c23f"
+"arch_2x86__64_2int_8h.html#ab0571dc84def3a678ca83699fc8b9a74",
+"ctype_8cpp.html#a49f40fd869fd0c90e4497fda08c89561",
+"mem__region_8cpp.html#a416da68cc2ec66f96f4113987feb38cb",
+"string_8h.html#a6c1484d7e2c695d7615e6cb5d976348e",
+"structx64_1_1trampoline.html#aaf8e892147cfc7a45efd8e6fdfb381e7",
+"x86_2hal__idt_8cpp.html#a142c14efc746a8d8b7d69412e694b16f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

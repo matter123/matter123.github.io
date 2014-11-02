@@ -1,6 +1,0 @@
-<map id="AeCommonNotifyHandler" name="AeCommonNotifyHandler">
-<area shape="rect" id="node2" href="$aehandlers_8c.html#a28c1dbc45a6b1cd06fd6173d127275cf" title="AeNotifyHandler1" alt="" coords="240,5,376,32"/>
-<area shape="rect" id="node5" href="$aehandlers_8c.html#a9852bba8fb14edbd508d27e5a1c7f931" title="AeNotifyHandler2" alt="" coords="240,56,376,83"/>
-<area shape="rect" id="node3" href="$aehandlers_8c.html#abf373f632dc40dad96a4a67cddaee1c7" title="AeInstallEarlyHandlers" alt="" coords="424,31,591,57"/>
-<area shape="rect" id="node4" href="$aemain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100" title="main" alt="" coords="639,31,693,57"/>
-</map>

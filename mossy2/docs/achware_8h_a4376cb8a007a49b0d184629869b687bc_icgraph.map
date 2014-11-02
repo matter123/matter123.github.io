@@ -1,6 +1,0 @@
-<map id="AcpiHwDerivePciId" name="AcpiHwDerivePciId">
-<area shape="rect" id="node2" href="$evrgnini_8c.html#a076ed8a93dc79e5e758de6ed795e5e01" title="AcpiEvPciConfigRegionSetup" alt="" coords="196,31,400,57"/>
-<area shape="rect" id="node3" href="$evhandler_8c.html#a54d1e523e0ef72463dd26a3a2c2ac0c3" title="AcpiEvInstallSpaceHandler" alt="" coords="448,31,640,57"/>
-<area shape="rect" id="node4" href="$evhandler_8c.html#a5e58eb0e82a92f58708e08ef8eb7a706" title="AcpiEvInstallRegionHandlers" alt="" coords="688,5,891,32"/>
-<area shape="rect" id="node5" href="$evxfregn_8c.html#aceed2fe7d449000aeaa5186335b83206" title="ACPI_MODULE_NAME" alt="" coords="709,56,869,83"/>
-</map>

@@ -1,51 +1,51 @@
 <map id="hal::init_arch" name="hal::init_arch">
-<area shape="rect" id="node2" href="$namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="1081,781,1231,807"/>
-<area shape="rect" id="node5" href="$namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="401,451,492,478"/>
-<area shape="rect" id="node10" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="165,195,288,222"/>
-<area shape="rect" id="node28" href="$namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="165,654,289,681"/>
-<area shape="rect" id="node33" href="$namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="158,1065,295,1091"/>
-<area shape="rect" id="node50" href="$namespacex64.html#ab3f41b6c905fa03a19be14e0a5f000a0" title="x64::paging_ready" alt="" coords="156,1115,297,1142"/>
-<area shape="rect" id="node3" href="$namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="1279,755,1364,782"/>
-<area shape="rect" id="node4" href="$string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="1288,806,1355,833"/>
-<area shape="rect" id="node6" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="901,541,977,567"/>
-<area shape="rect" id="node7" href="$x64_2hal__idt_8cpp.html#a49616695dc8ee5c4ddb93f26bb0fd46b" title="lidt" alt="" coords="675,439,717,466"/>
-<area shape="rect" id="node8" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="603,389,789,415"/>
-<area shape="rect" id="node9" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="906,490,971,517"/>
-<area shape="rect" id="node11" href="$namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="386,338,507,365"/>
-<area shape="rect" id="node16" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="371,94,522,121"/>
-<area shape="rect" id="node17" href="$classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350" title="x64::recursive_paging\l::init" alt="" coords="365,264,528,305"/>
-<area shape="rect" id="node19" href="$namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="611,135,781,162"/>
-<area shape="rect" id="node21" href="$namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="398,195,495,222"/>
-<area shape="rect" id="node12" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="647,338,745,365"/>
-<area shape="rect" id="node13" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="887,439,990,466"/>
-<area shape="rect" id="node14" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="914,338,963,365"/>
-<area shape="rect" id="node15" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="913,389,964,415"/>
-<area shape="rect" id="node18" href="$namespacex64.html#a17d0ad570be106167f3587ae21b31324" title="x64::PML4_OFF" alt="" coords="637,287,755,314"/>
-<area shape="rect" id="node20" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="887,85,991,111"/>
-<area shape="rect" id="node22" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="596,186,796,213"/>
-<area shape="rect" id="node27" href="$arch_8h.html#ae7aee1c5a9e35b822c1d16bc31690595" title="get_creg" alt="" coords="657,237,735,263"/>
-<area shape="rect" id="node23" href="$namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="879,186,998,213"/>
-<area shape="rect" id="node24" href="$namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="887,237,990,263"/>
-<area shape="rect" id="node25" href="$namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="888,287,989,314"/>
-<area shape="rect" id="node26" href="$namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="885,135,993,162"/>
-<area shape="rect" id="node29" href="$namespacestd.html#afdb0985300047fc04bb3e2af35aee342" title="std::max" alt="" coords="657,679,735,706"/>
-<area shape="rect" id="node30" href="$namespacehal.html#abf959e9066eb0c121085f8dda7495f4f" title="hal::get_phys_mem_regions" alt="" coords="345,578,548,605"/>
-<area shape="rect" id="node31" href="$namespacehal.html#a9427442fe04656ce29bdcc40c004d87a" title="hal::get_phys_mem_region" alt="" coords="349,629,545,655"/>
-<area shape="rect" id="node32" href="$namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="360,679,533,706"/>
-<area shape="rect" id="node34" href="$namespacehal.html#a70f151d3bf2b559ed7e4045be1c76171" title="hal::w_malloc" alt="" coords="884,1034,993,1061"/>
-<area shape="rect" id="node35" href="$namespacehal.html#aaedd544c8d9fe4a3c4a5060a541186fe" title="hal::add_virt_mem_arch" alt="" coords="358,1223,535,1250"/>
-<area shape="rect" id="node36" href="$namespacehal.html#a2cf30f5cd953ae5539089abc3007fbbd" title="hal::add_virt_region" alt="" coords="622,1249,770,1275"/>
-<area shape="rect" id="node37" href="$namespacehal.html#a3967389502235d4afbd3dd03911e82b1" title="hal::add_virt_mem_vendor" alt="" coords="349,1173,544,1199"/>
-<area shape="rect" id="node38" href="$namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="389,1009,504,1035"/>
-<area shape="rect" id="node39" href="$namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="665,1085,727,1111"/>
-<area shape="rect" id="node41" href="$namespacehal.html#a6487ba4be75874e36c21a667e61300b8" title="hal::wksp_begin" alt="" coords="876,1085,1001,1111"/>
-<area shape="rect" id="node43" href="$namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="623,882,769,909"/>
-<area shape="rect" id="node45" href="$namespacehal.html#ad8d37887f71f5ca1ff2440f2a97512c8" title="hal::page_align" alt="" coords="637,831,755,858"/>
-<area shape="rect" id="node47" href="$namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="659,1034,733,1061"/>
-<area shape="rect" id="node48" href="$namespacehal.html#ad231ce640650f0ef67962ff41f7b5014" title="hal::sort" alt="" coords="659,933,733,959"/>
-<area shape="rect" id="node49" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="649,983,743,1010"/>
-<area shape="rect" id="node40" href="$string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="899,958,978,985"/>
-<area shape="rect" id="node42" href="$stdlib_8h.html#ab42640268f26e065efd044cfe80591bd" title="itoa" alt="" coords="1133,1085,1179,1111"/>
-<area shape="rect" id="node44" href="$classhal_1_1mem__type.html#a36a965ca7e2bced083acbdc5eff7b7af" title="hal::mem_type::to_u64" alt="" coords="853,882,1024,909"/>
-<area shape="rect" id="node46" href="$classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea" title="hal::mem_type::can_grow" alt="" coords="844,831,1033,858"/>
+<area shape="rect" id="node2" href="$namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="1081,144,1231,171"/>
+<area shape="rect" id="node5" href="$namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="401,81,492,108"/>
+<area shape="rect" id="node10" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="165,241,288,268"/>
+<area shape="rect" id="node27" href="$namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="165,477,289,504"/>
+<area shape="rect" id="node32" href="$namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="158,731,295,757"/>
+<area shape="rect" id="node50" href="$namespacex64.html#ab3f41b6c905fa03a19be14e0a5f000a0" title="x64::paging_ready" alt="" coords="156,781,297,808"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="1279,119,1364,145"/>
+<area shape="rect" id="node4" href="$string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="1288,169,1355,196"/>
+<area shape="rect" id="node6" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="901,579,977,605"/>
+<area shape="rect" id="node7" href="$x64_2hal__idt_8cpp.html#a49616695dc8ee5c4ddb93f26bb0fd46b" title="lidt" alt="" coords="675,43,717,69"/>
+<area shape="rect" id="node8" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="603,93,789,120"/>
+<area shape="rect" id="node9" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="906,93,971,120"/>
+<area shape="rect" id="node11" href="$namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="386,183,507,209"/>
+<area shape="rect" id="node15" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="371,132,522,159"/>
+<area shape="rect" id="node16" href="$classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350" title="x64::recursive_paging\l::init" alt="" coords="365,234,528,275"/>
+<area shape="rect" id="node18" href="$namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="611,300,781,327"/>
+<area shape="rect" id="node20" href="$namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="398,351,495,377"/>
+<area shape="rect" id="node12" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="647,195,745,221"/>
+<area shape="rect" id="node13" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="887,245,990,272"/>
+<area shape="rect" id="node14" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="913,195,964,221"/>
+<area shape="rect" id="node17" href="$namespacex64.html#a17d0ad570be106167f3587ae21b31324" title="x64::PML4_OFF" alt="" coords="637,245,755,272"/>
+<area shape="rect" id="node19" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="887,299,991,325"/>
+<area shape="rect" id="node21" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="596,363,796,389"/>
+<area shape="rect" id="node26" href="$arch_8h.html#ae7aee1c5a9e35b822c1d16bc31690595" title="get_creg" alt="" coords="657,464,735,491"/>
+<area shape="rect" id="node22" href="$namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="879,349,998,376"/>
+<area shape="rect" id="node23" href="$namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="887,400,990,427"/>
+<area shape="rect" id="node24" href="$namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="888,451,989,477"/>
+<area shape="rect" id="node25" href="$namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="885,501,993,528"/>
+<area shape="rect" id="node28" href="$namespacestd.html#afdb0985300047fc04bb3e2af35aee342" title="std::max" alt="" coords="657,540,735,567"/>
+<area shape="rect" id="node29" href="$namespacehal.html#abf959e9066eb0c121085f8dda7495f4f" title="hal::get_phys_mem_regions" alt="" coords="345,401,548,428"/>
+<area shape="rect" id="node30" href="$namespacehal.html#a9427442fe04656ce29bdcc40c004d87a" title="hal::get_phys_mem_region" alt="" coords="349,503,545,529"/>
+<area shape="rect" id="node31" href="$namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="360,452,533,479"/>
+<area shape="rect" id="node33" href="$namespacehal.html#a70f151d3bf2b559ed7e4045be1c76171" title="hal::w_malloc" alt="" coords="884,1009,993,1036"/>
+<area shape="rect" id="node34" href="$namespacehal.html#aaedd544c8d9fe4a3c4a5060a541186fe" title="hal::add_virt_mem_arch" alt="" coords="358,705,535,732"/>
+<area shape="rect" id="node35" href="$namespacehal.html#a2cf30f5cd953ae5539089abc3007fbbd" title="hal::add_virt_region" alt="" coords="622,705,770,732"/>
+<area shape="rect" id="node36" href="$namespacehal.html#a3967389502235d4afbd3dd03911e82b1" title="hal::add_virt_mem_vendor" alt="" coords="349,908,544,935"/>
+<area shape="rect" id="node37" href="$namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="389,857,504,884"/>
+<area shape="rect" id="node38" href="$namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="665,1009,727,1036"/>
+<area shape="rect" id="node40" href="$namespacehal.html#a6487ba4be75874e36c21a667e61300b8" title="hal::wksp_begin" alt="" coords="876,832,1001,859"/>
+<area shape="rect" id="node43" href="$namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="623,1060,769,1087"/>
+<area shape="rect" id="node45" href="$namespacehal.html#ad8d37887f71f5ca1ff2440f2a97512c8" title="hal::page_align" alt="" coords="637,756,755,783"/>
+<area shape="rect" id="node47" href="$namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="659,857,733,884"/>
+<area shape="rect" id="node48" href="$namespacehal.html#ad231ce640650f0ef67962ff41f7b5014" title="hal::sort" alt="" coords="659,908,733,935"/>
+<area shape="rect" id="node49" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="649,959,743,985"/>
+<area shape="rect" id="node39" href="$string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="899,933,978,960"/>
+<area shape="rect" id="node41" href="$stdlib_8h.html#ab42640268f26e065efd044cfe80591bd" title="itoa" alt="" coords="1133,857,1179,884"/>
+<area shape="rect" id="node42" href="$string_8h.html#adb8723e585ed29f2370cddf90f6891bc" title="appends src onto dest " alt="" coords="1127,807,1185,833"/>
+<area shape="rect" id="node44" href="$classhal_1_1mem__type.html#a36a965ca7e2bced083acbdc5eff7b7af" title="hal::mem_type::to_u64" alt="" coords="853,1060,1024,1087"/>
+<area shape="rect" id="node46" href="$classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea" title="hal::mem_type::can_grow" alt="" coords="844,756,1033,783"/>
 </map>

@@ -1,5 +1,0 @@
-<map id="AcpiDsObjStackPop" name="AcpiDsObjStackPop">
-<area shape="rect" id="node2" href="$dsopcode_8c.html#ac83c7a9ad6fbc05139395602b311da4c" title="AcpiDsEvalDataObjectOperands" alt="" coords="200,5,427,32"/>
-<area shape="rect" id="node4" href="$dsutils_8c.html#aea7e5b6eb896ff8da43edbd3870a71f5" title="AcpiDsEvaluateNamePath" alt="" coords="219,56,408,83"/>
-<area shape="rect" id="node3" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="475,31,613,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="AcpiTbStoreTable" name="AcpiTbStoreTable">
-<area shape="rect" id="node2" href="$actables_8h.html#ad0a0ca8c160a257eb9d0be9e7163452d" title="AcpiTbGetNextRootIndex" alt="" coords="185,5,369,32"/>
-<area shape="rect" id="node4" href="$actables_8h.html#a88b38f6b88f5d2b2ece86cad1bda170f" title="AcpiTbInitTableDescriptor" alt="" coords="185,56,369,83"/>
-<area shape="rect" id="node3" href="$tbdata_8c.html#a384f4bf98982c5552269b1f20f078a3c" title="AcpiTbResizeRootTableList" alt="" coords="417,5,608,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AcpiDsInitAmlWalk" name="AcpiDsInitAmlWalk">
-<area shape="rect" id="node2" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="234,5,341,32"/>
-<area shape="rect" id="node4" href="$dsargs_8c.html#a68725a4fbc8daec7a112d6d65692d03b" title="ACPI_MODULE_NAME" alt="" coords="207,56,367,83"/>
-<area shape="rect" id="node5" href="$dsmethod_8c.html#a7258edde68b9f7f300031a1bd3d42c63" title="AcpiDsCallControlMethod" alt="" coords="196,107,379,133"/>
-<area shape="rect" id="node6" href="$psxface_8c.html#a5deb05e87edeac32fc40a9cc6a4d0185" title="AcpiPsExecuteMethod" alt="" coords="205,157,369,184"/>
-<area shape="rect" id="node3" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="433,5,580,32"/>
-<area shape="rect" id="node7" href="$nseval_8c.html#a757d9e28ba64867c0e1d1e8b70e9b645" title="ACPI_MODULE_NAME" alt="" coords="427,157,587,184"/>
-</map>

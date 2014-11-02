@@ -1,5 +1,0 @@
-<map id="AcpiUtAcquireMutex" name="AcpiUtAcquireMutex">
-<area shape="rect" id="node2" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="215,5,362,32"/>
-<area shape="rect" id="node3" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="205,56,372,83"/>
-<area shape="rect" id="node4" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="211,107,366,133"/>
-</map>

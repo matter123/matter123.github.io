@@ -1,8 +1,0 @@
-<map id="AcpiPsGetDepthNext" name="AcpiPsGetDepthNext">
-<area shape="rect" id="node2" href="$dmrestag_8c.html#aedeb63eb2e68f9d7428f83ea313910a9" title="AcpiDmCheckResourceReference" alt="" coords="211,5,447,32"/>
-<area shape="rect" id="node6" href="$dmrestag_8c.html#a44549a65c12e8226d1d51256593683bc" title="AcpiDmFindResources" alt="" coords="525,56,688,83"/>
-<area shape="rect" id="node3" href="$adwalk_8c.html#aab87ca0bd9593d60d3f39111d6e3bf0b" title="AcpiDmResourceDescendingOp" alt="" coords="495,5,719,32"/>
-<area shape="rect" id="node4" href="$adwalk_8c.html#aec34648aacfced2a885d20ab17d4439e" title="AcpiDmConvertResourceIndexes" alt="" coords="767,5,1000,32"/>
-<area shape="rect" id="node5" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="1048,31,1195,57"/>
-<area shape="rect" id="node7" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="830,56,937,83"/>
-</map>

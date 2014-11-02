@@ -1,7 +1,0 @@
-<map id="AcpiExFieldDatumIo" name="AcpiExFieldDatumIo">
-<area shape="rect" id="node2" href="$exfldio_8c.html#ad928704be2dcf39b2746f90a5352ede4" title="AcpiExWriteWithUpdateRule" alt="" coords="203,5,404,32"/>
-<area shape="rect" id="node5" href="$exfldio_8c.html#a63e101da19415614a29a5fc7f252c8ba" title="AcpiExExtractFromField" alt="" coords="218,107,389,133"/>
-<area shape="rect" id="node3" href="$exfldio_8c.html#a8be6d663bd08d6405d94ad17f4b6aae3" title="AcpiExInsertIntoField" alt="" coords="469,31,623,57"/>
-<area shape="rect" id="node4" href="$exfield_8c.html#ae834ac9c29d3bc3f0dea8eb289393563" title="AcpiExWriteDataToField" alt="" coords="688,31,859,57"/>
-<area shape="rect" id="node6" href="$exfield_8c.html#a700a9a20911cb29ae0bdacd6de782747" title="AcpiExReadDataFromField" alt="" coords="452,107,640,133"/>
-</map>

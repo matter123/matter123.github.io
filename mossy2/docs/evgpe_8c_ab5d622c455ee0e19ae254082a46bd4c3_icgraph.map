@@ -1,7 +1,0 @@
-<map id="AcpiEvEnableGpe" name="AcpiEvEnableGpe">
-<area shape="rect" id="node2" href="$evgpe_8c.html#a27b997f1da3defe8937d72d4122fc24c" title="AcpiEvAddGpeReference" alt="" coords="188,31,369,57"/>
-<area shape="rect" id="node6" href="$evxfgpe_8c.html#a2b8b0c50de2a9295a3cedaeb25f58891" title="ACPI_EXPORT_SYMBOL" alt="" coords="193,81,364,108"/>
-<area shape="rect" id="node3" href="$evgpeblk_8c.html#adc68303bd5cae2204560b94b75f672bb" title="AcpiEvInitializeGpeBlock" alt="" coords="417,5,596,32"/>
-<area shape="rect" id="node5" href="$evxface_8c.html#ad54c362c10628fa307cedd8979be4469" title="ACPI_EXPORT_SYMBOL" alt="" coords="421,56,592,83"/>
-<area shape="rect" id="node4" href="$evxfgpe_8c.html#ab7c8f4c71ae1caed52c9d5b57d4ab418" title="ACPI_MODULE_NAME" alt="" coords="644,5,804,32"/>
-</map>

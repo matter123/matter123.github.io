@@ -1,5 +1,0 @@
-<map id="AcpiEvRemoveAllSciHandlers" name="AcpiEvRemoveAllSciHandlers">
-<area shape="rect" id="node2" href="$evmisc_8c.html#adf84bc79b3a471ea03a15ce0b3319140" title="AcpiEvTerminate" alt="" coords="261,5,391,32"/>
-<area shape="rect" id="node3" href="$utinit_8c.html#a4c67375418edc8c708db838e947c71a3" title="AcpiUtSubsystemShutdown" alt="" coords="439,5,639,32"/>
-<area shape="rect" id="node4" href="$utxface_8c.html#a97de22c9cd594c0e92eac442cdb06bc9" title="ACPI_MODULE_NAME" alt="" coords="687,5,847,32"/>
-</map>

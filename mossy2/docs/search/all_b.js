@@ -5,8 +5,6 @@ var searchData=
   ['k_5fend',['k_end',['../namespacehal.html#a132f4cff7a5aab23e3ed948279b4cfe6',1,'hal']]],
   ['k_5fstart',['k_start',['../pmmap_8cpp.html#aebf458baa289097b05d13fd6b34c1e83',1,'k_start():&#160;pmmap.cpp'],['../vmmap_8cpp.html#aebf458baa289097b05d13fd6b34c1e83',1,'k_start():&#160;vmmap.cpp']]],
   ['kernel',['kernel',['../namespacekernel.html',1,'kernel'],['../classhal_1_1mem__type.html#a56671e3da45673a6ed00ce5ed4a3d49c',1,'hal::mem_type::kernel()']]],
-  ['keytype',['KeyType',['../structacpi__slic__key.html#ae4731a8bdfb166dc9a73529e61b46e52',1,'acpi_slic_key']]],
-  ['keywordlist',['KeywordList',['../structah__asl__keyword.html#a7cd06fe179e4fcb68363748f29f9d3c8',1,'ah_asl_keyword']]],
   ['kstacks_2ecpp',['kstacks.cpp',['../kstacks_8cpp.html',1,'']]],
   ['kstacks_2eh',['kstacks.h',['../kstacks_8h.html',1,'']]],
   ['kthread_5fstacks',['kthread_stacks',['../classhal_1_1mem__type.html#ad3f856e75f7ea92e3c70b689d18095cb',1,'hal::mem_type']]]

@@ -1,7 +1,0 @@
-<map id="AcpiOsStall" name="AcpiOsStall">
-<area shape="rect" id="node2" href="$exsystem_8c.html#a78f778ae12e1f8695ca51b7b42eea554" title="AcpiExSystemDoStall" alt="" coords="153,5,311,32"/>
-<area shape="rect" id="node5" href="$hwacpi_8c.html#a5d2e19e008469837e8f24978f9353e8f" title="ACPI_MODULE_NAME" alt="" coords="152,56,312,83"/>
-<area shape="rect" id="node6" href="$hwxfsleep_8c.html#a6ed557ecc3e49c9df7fef648ef5b372c" title="ACPI_EXPORT_SYMBOL" alt="" coords="147,107,317,133"/>
-<area shape="rect" id="node3" href="$exoparg1_8c.html#aa03253bcf485cd0b5407e6b568666669" title="AcpiExOpcode_1A_0T_0R" alt="" coords="365,5,551,32"/>
-<area shape="rect" id="node4" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="599,5,759,32"/>
-</map>
