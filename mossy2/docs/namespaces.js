@@ -1,5 +1,6 @@
 var namespaces =
 [
+    [ "apci", "namespaceapci.html", null ],
     [ "hal", "namespacehal.html", null ],
     [ "kernel", "namespacekernel.html", "namespacekernel" ],
     [ "pc", "namespacepc.html", null ],

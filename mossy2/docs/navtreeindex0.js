@@ -5,6 +5,7 @@ var NAVTREEINDEX0 =
 "ABI_8c.html#aa8622fa1c28f360ea05bc97063d192b3":[4,0,1,1,0,1],
 "ABI_8c.html#ad86c1efc281116a661ae2470e47e24b6":[4,0,1,1,0,0],
 "acpi_8h.html":[4,0,0,0,0,1],
+"acpi_8h.html#a6d5268baf4b932156cf932de1b0c2ee0":[4,0,0,0,0,1,0],
 "acpi__os_8h.html":[4,0,0,0,0,0,0],
 "annotated.html":[3,0],
 "arch_2x64_2hal_8cpp.html":[4,0,1,0,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "arch_2x86__64_2int_8h.html#aa8edb97fff7da13249a3d31e4fb30b9b":[4,0,1,0,2,1,127],
 "arch_2x86__64_2int_8h.html#aa8f19f3d8a84d418bb37d2aa4f96f6b9":[4,0,1,0,2,1,224],
 "arch_2x86__64_2int_8h.html#aa980f2d1a79c96dc3ec52f99e194facf":[4,0,1,0,2,1,207],
-"arch_2x86__64_2int_8h.html#aaa64254bd7507c42ec6cb0095a745a73":[4,0,1,0,2,1,115],
-"arch_2x86__64_2int_8h.html#aac290f46e54122968a6a70f5a61075fa":[4,0,1,0,2,1,227]
+"arch_2x86__64_2int_8h.html#aaa64254bd7507c42ec6cb0095a745a73":[4,0,1,0,2,1,115]
 };

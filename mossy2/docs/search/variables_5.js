@@ -273,5 +273,6 @@ var searchData=
   ['exc97',['exc97',['../arch_2x86__64_2int_8h.html#a34d77da00fe58f3a208baac584265499',1,'int.h']]],
   ['exc98',['exc98',['../arch_2x86__64_2int_8h.html#aeaee89c677b87d71d0d0ee8365908d07',1,'int.h']]],
   ['exc99',['exc99',['../arch_2x86__64_2int_8h.html#a86449d40e46da9032b56959efee8443a',1,'int.h']]],
-  ['exec',['exec',['../structhal_1_1page__opt.html#a108b55f1f9c0a08954a97a00ea37a4a2',1,'hal::page_opt']]]
+  ['exec',['exec',['../structhal_1_1page__opt.html#a108b55f1f9c0a08954a97a00ea37a4a2',1,'hal::page_opt']]],
+  ['ext_5fchecksum',['ext_checksum',['../structRSDP20.html#a367cdd47056054c4f98da4d2adaaecdb',1,'RSDP20']]]
 ];

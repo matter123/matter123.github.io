@@ -10,8 +10,8 @@ var searchData=
   ['pdpte',['pdpte',['../structx64_1_1recursive__paging_1_1pdpte.html',1,'x64::recursive_paging']]],
   ['pml4',['pml4',['../unionx64_1_1recursive__paging_1_1pml4.html',1,'x64::recursive_paging']]],
   ['pml4e',['pml4e',['../structx64_1_1recursive__paging_1_1pml4e.html',1,'x64::recursive_paging']]],
-  ['pt',['pt',['../unionx64_1_1recursive__paging_1_1pt.html',1,'x64::recursive_paging']]],
   ['pt',['pt',['../unionx86_1_1recursive__paging_1_1pt.html',1,'x86::recursive_paging']]],
+  ['pt',['pt',['../unionx64_1_1recursive__paging_1_1pt.html',1,'x64::recursive_paging']]],
   ['pte',['pte',['../structx64_1_1recursive__paging_1_1pte.html',1,'x64::recursive_paging']]],
   ['pte',['pte',['../structx86_1_1recursive__paging_1_1pte.html',1,'x86::recursive_paging']]]
 ];

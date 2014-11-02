@@ -5,6 +5,7 @@ var searchData=
   ['callbacks',['callbacks',['../namespacehal.html#a79c69e0ed9f8f741df559ac229a448d9',1,'hal']]],
   ['chars',['chars',['../namespacestd.html#a35f0bd681a78f8a7077d674cc4473474',1,'std']]],
   ['chars_5flow',['chars_low',['../namespacestd.html#a4735342d5b34f7589e5455cd5439e6ed',1,'std']]],
+  ['checksum',['checksum',['../structRSDP.html#ace3d191ff6b98ce01e53e00f70b9467b',1,'RSDP']]],
   ['code',['code',['../structcpu__state.html#a84213d5c56030de14af51b73666c5571',1,'cpu_state']]],
   ['code_5fsegment',['code_segment',['../structx64_1_1idt__entry.html#a211f1778f248c19fed1e3e7123c7cb90',1,'x64::idt_entry::code_segment()'],['../structx86_1_1idt__entry.html#a1b7e3803dd8db36d34faecac343284d1',1,'x86::idt_entry::code_segment()']]],
   ['color',['color',['../classhal_1_1ConsoleColor.html#a953651c5be82d2a2ba422445581acdce',1,'hal::ConsoleColor']]],
