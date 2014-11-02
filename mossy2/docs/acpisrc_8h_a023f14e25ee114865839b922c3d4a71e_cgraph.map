@@ -1,0 +1,12 @@
+<map id="AsCheckForDirectory" name="AsCheckForDirectory">
+<area shape="rect" id="node2" href="$string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="211,5,277,32"/>
+<area shape="rect" id="node3" href="$stdlib_8h.html#a7b3d8b7cea59b137b167878ec88eb8d6" title="calloc" alt="" coords="215,56,273,83"/>
+<area shape="rect" id="node7" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="215,107,273,133"/>
+<area shape="rect" id="node8" href="$stdlib_8h.html#afbedc913aa4651b3c3b4b3aecd9b4711" title="free" alt="" coords="220,157,268,184"/>
+<area shape="rect" id="node10" href="$string_8h.html#a7a82515b5d377be04817715c5465b647" title="copies chars from src to dest " alt="" coords="213,208,275,235"/>
+<area shape="rect" id="node11" href="$string_8h.html#adb8723e585ed29f2370cddf90f6891bc" title="appends src onto dest " alt="" coords="215,259,273,285"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="347,31,459,57"/>
+<area shape="rect" id="node6" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="365,81,441,108"/>
+<area shape="rect" id="node5" href="$namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="529,31,625,57"/>
+<area shape="rect" id="node9" href="$namespacekernel.html#abda890eb0224f932543b2848fba64ffd" title="kernel::dumb_merge" alt="" coords="325,157,481,184"/>
+</map>

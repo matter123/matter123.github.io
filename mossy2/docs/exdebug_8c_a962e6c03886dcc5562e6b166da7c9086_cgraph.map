@@ -1,0 +1,12 @@
+<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#a70ccedc5c9a9d6ebc8c4b2064aa90c1c" title="AcpiOsGetTimer" alt="" coords="249,5,375,32"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="262,56,362,83"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#afa822f9139e050aa51853c2de4d9ad04" title="AcpiUtGetObjectTypeName" alt="" coords="213,107,411,133"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#ad220688a54845d34c8c153403ba0818c" title="AcpiUtValidInternalObject" alt="" coords="220,157,404,184"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="234,208,390,235"/>
+<area shape="rect" id="node9" href="$acutils_8h.html#add7836e0b98d0443f42135c56ef520b5" title="AcpiUtDumpBuffer" alt="" coords="241,259,383,285"/>
+<area shape="rect" id="node10" href="$acinterp_8h.html#abe57c9e967727b004d3dc910fc2e205b" title="AcpiExDoDebugObject" alt="" coords="229,309,395,336"/>
+<area shape="rect" id="node11" href="$acutils_8h.html#a5ddaa21503bf5071a95a3e55fdb20023" title="AcpiUtGetReferenceName" alt="" coords="217,360,407,387"/>
+<area shape="rect" id="node5" href="$utdecode_8c.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="477,107,633,133"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#a32401b4d319df7f28c181246a30a02ce" title="AcpiUtGetDescriptorName" alt="" coords="459,157,651,184"/>
+</map>

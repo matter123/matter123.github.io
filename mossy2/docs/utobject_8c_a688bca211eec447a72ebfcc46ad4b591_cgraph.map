@@ -1,0 +1,19 @@
+<map id="AcpiUtGetObjectSize" name="AcpiUtGetObjectSize">
+<area shape="rect" id="node2" href="$utobject_8c.html#a6d7316657684370eb3aa882896451fd8" title="AcpiUtGetPackageObjectSize" alt="" coords="208,208,416,235"/>
+<area shape="rect" id="node14" href="$utobject_8c.html#a7a546242a2771807f8c37bc8e96e9fb9" title="AcpiUtGetSimpleObjectSize" alt="" coords="696,259,893,285"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#a33684e9351c30884de58d3b0f7429731" title="AcpiUtWalkPackageTree" alt="" coords="468,157,644,184"/>
+<area shape="rect" id="node13" href="$utobject_8c.html#a4b0cff5dee1e845f1c1b344bf7323808" title="AcpiUtGetElementLength" alt="" coords="464,208,648,235"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a79fdafce20aaa891e8b847860ed4a6c0" title="AcpiUtCreatePkgState" alt="" coords="712,5,877,32"/>
+<area shape="rect" id="node7" href="$rsmisc_8c.html#a3331c55d15485e227a6ef7db9eade5cc" title="if" alt="" coords="775,56,814,83"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#aec0f3f0da2d5eff0f800f56238428810" title="AcpiUtDeleteGenericState" alt="" coords="700,107,889,133"/>
+<area shape="rect" id="node11" href="$acutils_8h.html#a097b9d91eb2b720aec1202465019ec98" title="AcpiUtPopGenericState" alt="" coords="709,157,880,184"/>
+<area shape="rect" id="node12" href="$acutils_8h.html#ae6cc5a988c45a2765e6d0638c87e0bfb" title="AcpiUtPushGenericState" alt="" coords="705,208,884,235"/>
+<area shape="rect" id="node5" href="$utstate_8c.html#a1007334913adfd3d3a64e8373a863084" title="AcpiUtCreateGenericState" alt="" coords="945,5,1136,32"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#a3aeec4a3020b07475a5b9a4a5b0bbf15" title="AcpiOsAcquireObject" alt="" coords="1189,5,1343,32"/>
+<area shape="rect" id="node9" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="1016,81,1065,108"/>
+<area shape="rect" id="node10" href="$acpiosxf_8h.html#a194106ebbaa12443e59d042b26a7af3b" title="AcpiOsReleaseObject" alt="" coords="962,132,1119,159"/>
+<area shape="rect" id="node15" href="$acnamesp_8h.html#a2cf01c07216fa04e0a39f4c81fb6e1d8" title="AcpiNsGetPathnameLength" alt="" coords="941,208,1140,235"/>
+<area shape="rect" id="node16" href="$acutils_8h.html#a5ddaa21503bf5071a95a3e55fdb20023" title="AcpiUtGetReferenceName" alt="" coords="945,259,1136,285"/>
+<area shape="rect" id="node17" href="$acutils_8h.html#afa822f9139e050aa51853c2de4d9ad04" title="AcpiUtGetObjectTypeName" alt="" coords="942,309,1139,336"/>
+<area shape="rect" id="node18" href="$utdecode_8c.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="1188,309,1344,336"/>
+</map>

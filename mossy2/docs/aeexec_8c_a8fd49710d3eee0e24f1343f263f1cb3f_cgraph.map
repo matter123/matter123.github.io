@@ -1,0 +1,6 @@
+<map id="AeMutexInterfaces" name="AeMutexInterfaces">
+<area shape="rect" id="node2" href="$utxfmutex_8c.html#adbe50fb136c2da85781f4d6981dd218c" title="AcpiAcquireMutex" alt="" coords="198,5,335,32"/>
+<area shape="rect" id="node4" href="$utxfmutex_8c.html#a36f9ca2db768b8bbce02b5a15e00b3fb" title="AcpiReleaseMutex" alt="" coords="197,56,336,83"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="385,5,539,32"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="384,56,540,83"/>
+</map>

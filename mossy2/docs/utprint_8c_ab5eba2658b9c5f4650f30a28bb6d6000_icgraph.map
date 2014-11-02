@@ -1,0 +1,27 @@
+<map id="AcpiUtPutNumber" name="AcpiUtPutNumber">
+<area shape="rect" id="node2" href="$utprint_8c.html#a68b62ed78aab2a42dd5507d25930d08e" title="AcpiUtPrintNumber" alt="" coords="199,44,345,71"/>
+<area shape="rect" id="node3" href="$utprint_8c.html#a3d113d56bdb0549e0f3d4625280f5ce3" title="AcpiUtFormatNumber" alt="" coords="191,95,353,121"/>
+<area shape="rect" id="node4" href="$utprint_8c.html#a2fdf8ce4a674ba80c13dd1affbe4de39" title="AcpiUtVsnprintf" alt="" coords="401,95,524,121"/>
+<area shape="rect" id="node5" href="$utprint_8c.html#ac632ec90dbdd2d6658862bfc77101a90" title="AcpiUtSnprintf" alt="" coords="747,5,861,32"/>
+<area shape="rect" id="node13" href="$utprint_8c.html#a9bd46abe275fd106105e3d6c907101a8" title="AcpiUtFileVprintf" alt="" coords="572,132,699,159"/>
+<area shape="rect" id="node6" href="$apfiles_8c.html#a7369b628b1807bef8fe8d2c416f445b7" title="ApWriteToBinaryFile" alt="" coords="1319,233,1465,260"/>
+<area shape="rect" id="node7" href="$apdump_8c.html#a3d769ed4ce09b766c7e91c4ec1c7d4ba" title="ApDumpTableBuffer" alt="" coords="1528,240,1679,267"/>
+<area shape="rect" id="node8" href="$apdump_8c.html#a558bb07e70d758227bd82bb21fb91a4e" title="ApDumpAllTables" alt="" coords="1750,196,1883,223"/>
+<area shape="rect" id="node10" href="$apdump_8c.html#aff059752e1fada2e591cc9df9f34170b" title="ApDumpTableByAddress" alt="" coords="1727,247,1907,273"/>
+<area shape="rect" id="node11" href="$apdump_8c.html#a0ceca638f2a1168dda164238fc37882d" title="ApDumpTableByName" alt="" coords="1733,323,1900,349"/>
+<area shape="rect" id="node12" href="$apdump_8c.html#a7bd4f6f85c234f30e75f2db0053f61fb" title="ApDumpTableFromFile" alt="" coords="1735,373,1898,400"/>
+<area shape="rect" id="node9" href="$apmain_8c.html#ab086c331a3a7490e26194882e95236a3" title="for" alt="" coords="1955,323,1995,349"/>
+<area shape="rect" id="node14" href="$utdebug_8c.html#afa1590fb8c74acbf2d440a965843e7ac" title="AcpiLogError" alt="" coords="753,411,855,437"/>
+<area shape="rect" id="node25" href="$utprint_8c.html#a0eba9551ce773ab124c9431e1b5fe41c" title="AcpiUtFilePrintf" alt="" coords="1127,132,1246,159"/>
+<area shape="rect" id="node15" href="$cmfsize_8c.html#a50df5cc3c293eff87323f636e3a6a518" title="ACPI_MODULE_NAME" alt="" coords="909,537,1069,564"/>
+<area shape="rect" id="node16" href="$apdump_8c.html#ad4949e2578eef16a362a03a39fcfa419" title="ApIsValidHeader" alt="" coords="926,284,1053,311"/>
+<area shape="rect" id="node18" href="$apdump_8c.html#a51d569a1343ec9cdc467bb6863814677" title="ApIsValidChecksum" alt="" coords="915,588,1063,615"/>
+<area shape="rect" id="node19" href="$apfiles_8c.html#a0f1cf00d340df9901266a42cf4a39a99" title="ApIsExistingFile" alt="" coords="929,689,1049,716"/>
+<area shape="rect" id="node20" href="$apfiles_8c.html#a86ec5262aac4b341ab755b9987f463fc" title="ApOpenOutputFile" alt="" coords="1118,639,1255,665"/>
+<area shape="rect" id="node21" href="$apmain_8c.html#aa3cff8c74297045b9280d7be96bfa2dd" title="ApDoOptions" alt="" coords="1339,487,1445,513"/>
+<area shape="rect" id="node22" href="$apfiles_8c.html#ae394a7f68c3c55eb0e5ea9c03b6b415a" title="ApGetTableFromFile" alt="" coords="1530,385,1677,412"/>
+<area shape="rect" id="node23" href="$apmain_8c.html#a62175216ba4654e7c13e79d786868eb5" title="ApInsertAction" alt="" coords="1129,436,1245,463"/>
+<area shape="rect" id="node24" href="$apmain_8c.html#ad971ac90801ddb782a2b50649dff314a" title="if" alt="" coords="970,183,1009,209"/>
+<area shape="rect" id="node17" href="$apdump_8c.html#a1897ae02f225095998e1d8464313c35c" title="ApGetTableLength" alt="" coords="1117,284,1256,311"/>
+<area shape="rect" id="node26" href="$utbuffer_8c.html#a3c7c4006a732b280722e73c5ac476a98" title="AcpiUtDumpBufferToFile" alt="" coords="1304,132,1480,159"/>
+</map>

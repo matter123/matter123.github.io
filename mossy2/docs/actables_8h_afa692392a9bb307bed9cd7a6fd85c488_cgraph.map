@@ -1,0 +1,13 @@
+<map id="AcpiTbTerminate" name="AcpiTbTerminate">
+<area shape="rect" id="node2" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="235,5,285,32"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="184,107,336,133"/>
+<area shape="rect" id="node7" href="$actables_8h.html#a4871835f1219893768fab2fa4d46c0b5" title="AcpiTbUninstallTable" alt="" coords="183,183,337,209"/>
+<area shape="rect" id="node11" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="183,56,337,83"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="395,107,542,133"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="385,56,552,83"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="391,157,546,184"/>
+<area shape="rect" id="node8" href="$actables_8h.html#a00ebfd23cbf6aaae6602af27fb0d28fd" title="AcpiTbInvalidateTable" alt="" coords="388,208,549,235"/>
+<area shape="rect" id="node9" href="$tbdata_8c.html#a30d6951e99718a4a2754509159b87549" title="AcpiTbReleaseTable" alt="" coords="600,208,748,235"/>
+<area shape="rect" id="node10" href="$acpiosxf_8h.html#ac311ac97cb1dbf409feec249058d0537" title="AcpiOsUnmapMemory" alt="" coords="796,208,963,235"/>
+<area shape="rect" id="node12" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="391,5,547,32"/>
+</map>

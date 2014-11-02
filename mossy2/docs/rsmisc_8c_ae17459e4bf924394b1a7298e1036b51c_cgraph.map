@@ -1,0 +1,10 @@
+<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
+<area shape="rect" id="node2" href="$acutils_8h.html#a70e920b7d3b986162c4719e8f032ee7a" title="AcpiUtGetResourceLength" alt="" coords="217,5,408,32"/>
+<area shape="rect" id="node3" href="$acresrc_8h.html#af9a7a672369ba12498d709f168c7483f" title="AcpiRsMoveData" alt="" coords="247,56,378,83"/>
+<area shape="rect" id="node4" href="$acresrc_8h.html#ac5d162112f035a347fb084a1015b4246" title="AcpiRsGetAddressCommon" alt="" coords="213,107,412,133"/>
+<area shape="rect" id="node7" href="$acresrc_8h.html#af32e21f43d4d092e4fb743722e51e743" title="AcpiRsGetResourceSource" alt="" coords="217,157,408,184"/>
+<area shape="rect" id="node9" href="$acresrc_8h.html#a95fd57d42d6f50c722ad92b6501dd485" title="AcpiRsDecodeBitmask" alt="" coords="229,208,396,235"/>
+<area shape="rect" id="node5" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="543,56,592,83"/>
+<area shape="rect" id="node6" href="$acresrc_8h.html#acd4b11326fe98e0fee9dea14c577845e" title="AcpiRsConvertAmlToResource" alt="" coords="460,107,675,133"/>
+<area shape="rect" id="node8" href="$rsutils_8c.html#a3e6e4830b730549ebbf7386407bfed4d" title="AcpiRsStrcpy" alt="" coords="514,157,621,184"/>
+</map>

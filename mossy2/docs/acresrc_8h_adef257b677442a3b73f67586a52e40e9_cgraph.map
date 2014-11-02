@@ -1,0 +1,13 @@
+<map id="AcpiRsCreatePciRoutingTable" name="AcpiRsCreatePciRoutingTable">
+<area shape="rect" id="node2" href="$acresrc_8h.html#a75ffdcc29902d60bc2dcbad77ab44b60" title="AcpiRsGetPciRoutingTable\lLength" alt="" coords="265,5,452,47"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a33690521700dfd34b396b17fc0917fd1" title="AcpiUtInitializeBuffer" alt="" coords="527,122,682,149"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#afa822f9139e050aa51853c2de4d9ad04" title="AcpiUtGetObjectTypeName" alt="" coords="260,71,457,98"/>
+<area shape="rect" id="node8" href="$rsmisc_8c.html#a3331c55d15485e227a6ef7db9eade5cc" title="if" alt="" coords="339,173,378,199"/>
+<area shape="rect" id="node9" href="$acnamesp_8h.html#af9de01cf8db72bb7b4633710eb9df332" title="AcpiNsHandleToPathname" alt="" coords="263,223,454,250"/>
+<area shape="rect" id="node3" href="$acnamesp_8h.html#a2cf01c07216fa04e0a39f4c81fb6e1d8" title="AcpiNsGetPathnameLength" alt="" coords="505,13,704,39"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="752,122,869,149"/>
+<area shape="rect" id="node7" href="$utdecode_8c.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="527,71,683,98"/>
+<area shape="rect" id="node10" href="$acnamesp_8h.html#a25aafce62b0dc74989b1b25b1a40eeed" title="AcpiNsValidateHandle" alt="" coords="523,173,686,199"/>
+<area shape="rect" id="node11" href="$nsnames_8c.html#a2cf01c07216fa04e0a39f4c81fb6e1d8" title="AcpiNsGetPathnameLength" alt="" coords="505,223,704,250"/>
+<area shape="rect" id="node12" href="$acnamesp_8h.html#a57fcfbb7d670e917db7492269df7297a" title="AcpiNsBuildExternalPath" alt="" coords="515,274,694,301"/>
+</map>

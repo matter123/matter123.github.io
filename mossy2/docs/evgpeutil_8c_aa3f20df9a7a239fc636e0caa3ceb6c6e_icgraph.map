@@ -1,0 +1,19 @@
+<map id="AcpiEvValidGpeEvent" name="AcpiEvValidGpeEvent">
+<area shape="rect" id="node2" href="$evgpe_8c.html#ae7e9b56eac8d5a8eed15ec959ee7c15d" title="AcpiEvAsynchExecuteGpeMethod" alt="" coords="212,81,451,108"/>
+<area shape="rect" id="node3" href="$evgpe_8c.html#a03aa7e489d6cee0a59ec7a8123192c8d" title="AcpiEvGpeDispatch" alt="" coords="499,81,645,108"/>
+<area shape="rect" id="node4" href="$evgpe_8c.html#a4361eea19dd552f1a7f6d0581e301291" title="AcpiEvGpeDetect" alt="" coords="693,81,828,108"/>
+<area shape="rect" id="node5" href="$evsci_8c.html#a0aaa1491b793627604b63faba8bff5d2" title="AcpiEvSciXruptHandler" alt="" coords="880,56,1048,83"/>
+<area shape="rect" id="node13" href="$evsci_8c.html#a152a80700760b3b3842f086e269e4b66" title="AcpiEvGpeXruptHandler" alt="" coords="876,107,1052,133"/>
+<area shape="rect" id="node6" href="$evsci_8c.html#a16f3ed7840b40f9a7d2500e4b5e6aa0f" title="AcpiEvInstallSciHandler" alt="" coords="1119,5,1289,32"/>
+<area shape="rect" id="node9" href="$evsci_8c.html#af314798636071fa98814dfdcb6042fdc" title="AcpiEvRemoveAllSciHandlers" alt="" coords="1100,56,1308,83"/>
+<area shape="rect" id="node7" href="$evevent_8c.html#a6f4799041dd352aa40ad714b64d9af8d" title="AcpiEvInstallXruptHandlers" alt="" coords="1356,5,1551,32"/>
+<area shape="rect" id="node8" href="$utxfinit_8c.html#ae24d3f23d3f66bc6410f04a3e848d7e3" title="ACPI_EXPORT_SYMBOL_INIT" alt="" coords="1599,5,1801,32"/>
+<area shape="rect" id="node10" href="$evmisc_8c.html#adf84bc79b3a471ea03a15ce0b3319140" title="AcpiEvTerminate" alt="" coords="1389,56,1518,83"/>
+<area shape="rect" id="node11" href="$utinit_8c.html#a4c67375418edc8c708db838e947c71a3" title="AcpiUtSubsystemShutdown" alt="" coords="1600,56,1800,83"/>
+<area shape="rect" id="node12" href="$utxface_8c.html#a97de22c9cd594c0e92eac442cdb06bc9" title="ACPI_MODULE_NAME" alt="" coords="1849,56,2009,83"/>
+<area shape="rect" id="node14" href="$evgpeutil_8c.html#acbfcfd5b1d2324282054e3423935f39c" title="AcpiEvGetGpeXruptBlock" alt="" coords="1112,107,1296,133"/>
+<area shape="rect" id="node15" href="$evgpeutil_8c.html#a20080f5337a710206cee2a2c5db0207e" title="AcpiEvDeleteGpeXrupt" alt="" coords="1120,157,1288,184"/>
+<area shape="rect" id="node16" href="$evgpeblk_8c.html#add92b907a3fbc081c82d6febff23b555" title="AcpiEvDeleteGpeBlock" alt="" coords="1369,157,1537,184"/>
+<area shape="rect" id="node17" href="$evxfgpe_8c.html#a55cc2327f08c416429d73513518cba22" title="ACPI_EXPORT_SYMBOL" alt="" coords="1615,132,1785,159"/>
+<area shape="rect" id="node18" href="$utdelete_8c.html#a89de061a214dd19fbd25ebddd1fab1d3" title="ACPI_MODULE_NAME" alt="" coords="1620,183,1780,209"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AcpiNsDeleteNamespaceSubtree" name="AcpiNsDeleteNamespaceSubtree">
+<area shape="rect" id="node2" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="327,5,473,32"/>
+<area shape="rect" id="node3" href="$dsmethod_8c.html#a23d4d631e7d926c3d8f30d7ee0e8cbb5" title="AcpiDsTerminateControlMethod" alt="" coords="288,56,512,83"/>
+<area shape="rect" id="node5" href="$nsutils_8c.html#ad6c211c912ef862de576e91142024087" title="AcpiNsTerminate" alt="" coords="335,107,465,133"/>
+<area shape="rect" id="node4" href="$dsmethod_8c.html#a7258edde68b9f7f300031a1bd3d42c63" title="AcpiDsCallControlMethod" alt="" coords="569,56,751,83"/>
+<area shape="rect" id="node6" href="$utinit_8c.html#a4c67375418edc8c708db838e947c71a3" title="AcpiUtSubsystemShutdown" alt="" coords="560,107,760,133"/>
+<area shape="rect" id="node7" href="$utxface_8c.html#a97de22c9cd594c0e92eac442cdb06bc9" title="ACPI_MODULE_NAME" alt="" coords="808,107,968,133"/>
+</map>

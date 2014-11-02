@@ -1,24 +1,25 @@
 <map id="x64::init_paging" name="x64::init_paging">
-<area shape="rect" id="node2" href="$namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="197,95,318,121"/>
-<area shape="rect" id="node8" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="182,167,333,193"/>
-<area shape="rect" id="node12" href="$classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350" title="x64::recursive_paging\l::init" alt="" coords="176,218,339,259"/>
-<area shape="rect" id="node14" href="$namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="401,284,572,311"/>
-<area shape="rect" id="node16" href="$namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="209,352,306,379"/>
-<area shape="rect" id="node3" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="393,19,580,45"/>
-<area shape="rect" id="node5" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="438,95,535,121"/>
+<area shape="rect" id="node2" href="$namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="197,107,318,133"/>
+<area shape="rect" id="node9" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="182,217,333,244"/>
+<area shape="rect" id="node13" href="$classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350" title="x64::recursive_paging\l::init" alt="" coords="176,269,339,310"/>
+<area shape="rect" id="node15" href="$namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="401,335,572,361"/>
+<area shape="rect" id="node17" href="$namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="209,403,306,429"/>
+<area shape="rect" id="node3" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="393,31,580,57"/>
+<area shape="rect" id="node5" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="438,107,535,133"/>
 <area shape="rect" id="node4" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="661,5,727,32"/>
 <area shape="rect" id="node6" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="643,56,745,83"/>
-<area shape="rect" id="node7" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="669,107,719,133"/>
-<area shape="rect" id="node9" href="$namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="412,167,561,193"/>
-<area shape="rect" id="node10" href="$namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="651,157,737,184"/>
-<area shape="rect" id="node11" href="$string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="661,208,727,235"/>
-<area shape="rect" id="node13" href="$namespacex64.html#a17d0ad570be106167f3587ae21b31324" title="x64::PML4_OFF" alt="" coords="427,225,546,252"/>
-<area shape="rect" id="node15" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="642,259,746,285"/>
-<area shape="rect" id="node17" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="387,352,587,379"/>
-<area shape="rect" id="node23" href="$arch_8h.html#ae7aee1c5a9e35b822c1d16bc31690595" title="get_creg" alt="" coords="447,403,526,429"/>
-<area shape="rect" id="node18" href="$namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="635,309,753,336"/>
-<area shape="rect" id="node19" href="$namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="643,360,745,387"/>
-<area shape="rect" id="node20" href="$namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="643,411,745,437"/>
-<area shape="rect" id="node21" href="$namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="640,461,748,488"/>
-<area shape="rect" id="node22" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="656,512,732,539"/>
+<area shape="rect" id="node7" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="669,107,719,133"/>
+<area shape="rect" id="node8" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="669,157,719,184"/>
+<area shape="rect" id="node10" href="$namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="412,217,561,244"/>
+<area shape="rect" id="node11" href="$namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="651,208,737,235"/>
+<area shape="rect" id="node12" href="$string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="661,259,727,285"/>
+<area shape="rect" id="node14" href="$namespacex64.html#a17d0ad570be106167f3587ae21b31324" title="x64::PML4_OFF" alt="" coords="427,276,546,303"/>
+<area shape="rect" id="node16" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="642,309,746,336"/>
+<area shape="rect" id="node18" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="387,403,587,429"/>
+<area shape="rect" id="node24" href="$arch_8h.html#ae7aee1c5a9e35b822c1d16bc31690595" title="get_creg" alt="" coords="447,453,526,480"/>
+<area shape="rect" id="node19" href="$namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="635,360,753,387"/>
+<area shape="rect" id="node20" href="$namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="643,411,745,437"/>
+<area shape="rect" id="node21" href="$namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="643,461,745,488"/>
+<area shape="rect" id="node22" href="$namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="640,512,748,539"/>
+<area shape="rect" id="node23" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="656,563,732,589"/>
 </map>

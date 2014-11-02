@@ -1,0 +1,6 @@
+<map id="AcpiDsResultStackPush" name="AcpiDsResultStackPush">
+<area shape="rect" id="node2" href="$dswstate_8c.html#aeaad0191eff29c6db39ce932662c2a2e" title="AcpiDsResultPush" alt="" coords="225,56,361,83"/>
+<area shape="rect" id="node3" href="$dsmethod_8c.html#a073dbf3248a92fec523eb409969ce366" title="AcpiDsRestartControlMethod" alt="" coords="409,5,616,32"/>
+<area shape="rect" id="node4" href="$dsutils_8c.html#aea7e5b6eb896ff8da43edbd3870a71f5" title="AcpiDsEvaluateNamePath" alt="" coords="418,56,607,83"/>
+<area shape="rect" id="node5" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="664,81,803,108"/>
+</map>

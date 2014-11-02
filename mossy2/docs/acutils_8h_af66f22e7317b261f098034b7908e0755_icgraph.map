@@ -1,0 +1,12 @@
+<map id="AcpiUtGetExpectedReturnTypes" name="AcpiUtGetExpectedReturnTypes">
+<area shape="rect" id="node2" href="$nspredef_8c.html#aa4f7ff3e89f2867c426bab45122a4dce" title="AcpiNsCheckObjectType" alt="" coords="305,81,483,108"/>
+<area shape="rect" id="node7" href="$utpredef_8c.html#a36b36c8f402c083526a7330e5c463dc3" title="AcpiUtDisplayPredefinedMethod" alt="" coords="280,132,508,159"/>
+<area shape="rect" id="node3" href="$nspredef_8c.html#a0f9606fcbf2c8589c8e28cede1ad2d23" title="ACPI_MODULE_NAME" alt="" coords="586,5,746,32"/>
+<area shape="rect" id="node4" href="$nsprepkg_8c.html#a7b65f9d4c8b36d012cc2a90fbbe15030" title="AcpiNsCheckPackageList" alt="" coords="830,56,1013,83"/>
+<area shape="rect" id="node6" href="$nsprepkg_8c.html#a85fea3c7ff42f33622fdfadd151f646d" title="AcpiNsCheckPackageElements" alt="" coords="556,107,776,133"/>
+<area shape="rect" id="node5" href="$nsprepkg_8c.html#a0a6bb3330909d6035599b9cfeb64b80e" title="ACPI_MODULE_NAME" alt="" coords="1076,81,1236,108"/>
+<area shape="rect" id="node8" href="$ahdecode_8c.html#ac0cba837be645fe5b77be294b32ea2a2" title="AhDisplayPredefinedInfo" alt="" coords="576,157,756,184"/>
+<area shape="rect" id="node9" href="$ahdecode_8c.html#ad05c0f1ff8734cf717a3df3f05b9ece7" title="AhDisplayPredefinedName" alt="" coords="824,157,1019,184"/>
+<area shape="rect" id="node10" href="$ahdecode_8c.html#a2c0591b9342d850144b773dbe0fd95f0" title="AhFindPredefinedNames" alt="" coords="1067,157,1245,184"/>
+<area shape="rect" id="node11" href="$ahmain_8c.html#a3cdc49afe6f0baea9d6629ce21b2b771" title="main" alt="" coords="1293,157,1348,184"/>
+</map>

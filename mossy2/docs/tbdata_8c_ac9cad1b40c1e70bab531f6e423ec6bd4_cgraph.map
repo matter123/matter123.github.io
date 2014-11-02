@@ -1,0 +1,5 @@
+<map id="AcpiTbAcquireTempTable" name="AcpiTbAcquireTempTable">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#a1fae7131b07b0af4ddeb969d6ab08fbc" title="AcpiOsMapMemory" alt="" coords="253,5,400,32"/>
+<area shape="rect" id="node3" href="$actables_8h.html#a88b38f6b88f5d2b2ece86cad1bda170f" title="AcpiTbInitTableDescriptor" alt="" coords="235,56,419,83"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#ac311ac97cb1dbf409feec249058d0537" title="AcpiOsUnmapMemory" alt="" coords="243,107,410,133"/>
+</map>

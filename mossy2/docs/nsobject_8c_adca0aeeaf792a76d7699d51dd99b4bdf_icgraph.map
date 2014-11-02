@@ -1,0 +1,28 @@
+<map id="AcpiNsDetachObject" name="AcpiNsDetachObject">
+<area shape="rect" id="node2" href="$dsmthdat_8c.html#a54fa7cd3d13b1712d07d036be4864db7" title="AcpiDsMethodDataDeleteAll" alt="" coords="431,5,633,32"/>
+<area shape="rect" id="node5" href="$nsalloc_8c.html#a4d927c6be0dc944b637c7093285c18c7" title="AcpiNsDeleteNode" alt="" coords="223,157,366,184"/>
+<area shape="rect" id="node7" href="$nsalloc_8c.html#ae24f66b4949687e8aafc736384050a05" title="AcpiNsDeleteNamespaceByOwner" alt="" coords="681,107,925,133"/>
+<area shape="rect" id="node20" href="$nsalloc_8c.html#add55dd3d82765eedd4d6aa69153431f4" title="AcpiNsDeleteNamespaceSubtree" alt="" coords="686,208,921,235"/>
+<area shape="rect" id="node25" href="$nseval_8c.html#a0df1c087ee7e9ea09cc254112caf6b5a" title="AcpiNsExecModuleCode" alt="" coords="207,259,383,285"/>
+<area shape="rect" id="node27" href="$nsobject_8c.html#a3e4790ed2e6c0fe5cbcc788fd5eb7612" title="ACPI_MODULE_NAME" alt="" coords="215,309,375,336"/>
+<area shape="rect" id="node3" href="$dsmethod_8c.html#a23d4d631e7d926c3d8f30d7ee0e8cbb5" title="AcpiDsTerminateControlMethod" alt="" coords="983,56,1207,83"/>
+<area shape="rect" id="node4" href="$dsmethod_8c.html#a7258edde68b9f7f300031a1bd3d42c63" title="AcpiDsCallControlMethod" alt="" coords="1273,56,1455,83"/>
+<area shape="rect" id="node6" href="$nsalloc_8c.html#aa0798f6fb577244aeb544b65dae87835" title="AcpiNsRemoveNode" alt="" coords="455,107,609,133"/>
+<area shape="rect" id="node19" href="$nsalloc_8c.html#a145c4c45d0af2b584f16f2db637a231a" title="AcpiNsDeleteChildren" alt="" coords="452,157,612,184"/>
+<area shape="rect" id="node22" href="$nsutils_8c.html#ad6c211c912ef862de576e91142024087" title="AcpiNsTerminate" alt="" coords="1029,259,1160,285"/>
+<area shape="rect" id="node17" href="$nsload_8c.html#a0b343909bdaa0b1e36d5c5dc584d7d80" title="AcpiNsDeleteSubtree" alt="" coords="724,157,883,184"/>
+<area shape="rect" id="node8" href="$tbdata_8c.html#ae0b72389f05576e0aed4311e1be215a0" title="AcpiTbDeleteNamespaceByOwner" alt="" coords="973,107,1216,133"/>
+<area shape="rect" id="node9" href="$exconfig_8c.html#a10d11b8a837724615180a996820ad074" title="AcpiExUnloadTable" alt="" coords="1293,107,1435,133"/>
+<area shape="rect" id="node16" href="$tbxfload_8c.html#a2962060c128e33d93234be498b87dd87" title="ACPI_EXPORT_SYMBOL" alt="" coords="1279,157,1449,184"/>
+<area shape="rect" id="node10" href="$exconfig_8c.html#af034857cb72fa820f6ffedcb7e5dae22" title="AcpiExLoadTableOp" alt="" coords="1519,56,1665,83"/>
+<area shape="rect" id="node13" href="$exconfig_8c.html#ae6e89eb59483dedba9174568ac4f37bb" title="AcpiExLoadOp" alt="" coords="1535,107,1649,133"/>
+<area shape="rect" id="node15" href="$exoparg1_8c.html#aa03253bcf485cd0b5407e6b568666669" title="AcpiExOpcode_1A_0T_0R" alt="" coords="1720,157,1905,184"/>
+<area shape="rect" id="node11" href="$exoparg6_8c.html#ad34ae207536ddaa333157095d25f580c" title="AcpiExOpcode_6A_0T_1R" alt="" coords="1720,56,1905,83"/>
+<area shape="rect" id="node12" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="1953,107,2113,133"/>
+<area shape="rect" id="node14" href="$exoparg1_8c.html#a3e9cab33e2e78974a0b519f2cba1d67e" title="AcpiExOpcode_1A_1T_0R" alt="" coords="1720,107,1905,133"/>
+<area shape="rect" id="node18" href="$nsload_8c.html#a943955d35ad01c4f50958eb7d6227771" title="AcpiNsUnloadNamespace" alt="" coords="1001,157,1189,184"/>
+<area shape="rect" id="node21" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="1021,208,1168,235"/>
+<area shape="rect" id="node23" href="$utinit_8c.html#a4c67375418edc8c708db838e947c71a3" title="AcpiUtSubsystemShutdown" alt="" coords="1264,259,1464,285"/>
+<area shape="rect" id="node24" href="$utxface_8c.html#a97de22c9cd594c0e92eac442cdb06bc9" title="ACPI_MODULE_NAME" alt="" coords="1512,259,1672,285"/>
+<area shape="rect" id="node26" href="$nseval_8c.html#a344c44bdf46f034082afab61eb0a1dbe" title="AcpiNsExecModuleCodeList" alt="" coords="433,309,631,336"/>
+</map>

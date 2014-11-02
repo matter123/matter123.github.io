@@ -1,0 +1,5 @@
+<map id="AcpiExRegionRead" name="AcpiExRegionRead">
+<area shape="rect" id="node2" href="$exconfig_8c.html#ae6e89eb59483dedba9174568ac4f37bb" title="AcpiExLoadOp" alt="" coords="193,5,308,32"/>
+<area shape="rect" id="node3" href="$exoparg1_8c.html#a3e9cab33e2e78974a0b519f2cba1d67e" title="AcpiExOpcode_1A_1T_0R" alt="" coords="356,5,541,32"/>
+<area shape="rect" id="node4" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="589,5,749,32"/>
+</map>

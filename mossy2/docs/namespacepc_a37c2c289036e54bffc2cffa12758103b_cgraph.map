@@ -4,8 +4,9 @@
 <area shape="rect" id="node5" href="$io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9" title="io_wait" alt="" coords="181,56,247,83"/>
 <area shape="rect" id="node7" href="$namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="153,107,275,133"/>
 <area shape="rect" id="node9" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="378,157,475,184"/>
-<area shape="rect" id="node3" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="587,56,652,83"/>
+<area shape="rect" id="node3" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="587,31,652,57"/>
 <area shape="rect" id="node6" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="406,56,447,83"/>
 <area shape="rect" id="node8" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="333,107,520,133"/>
-<area shape="rect" id="node10" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="568,157,671,184"/>
+<area shape="rect" id="node10" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="568,107,671,133"/>
+<area shape="rect" id="node11" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="595,157,644,184"/>
 </map>

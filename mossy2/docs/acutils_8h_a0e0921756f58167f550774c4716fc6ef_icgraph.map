@@ -1,0 +1,7 @@
+<map id="AcpiUtAllocateOwnerId" name="AcpiUtAllocateOwnerId">
+<area shape="rect" id="node2" href="$dsmethod_8c.html#a6b7e21bfa066cd382b1480a2ece324ec" title="AcpiDsBeginMethodExecution" alt="" coords="223,5,436,32"/>
+<area shape="rect" id="node4" href="$tbdata_8c.html#a2ac7a8022f00cfca0ba662001cf5f784" title="AcpiTbAllocateOwnerId" alt="" coords="244,56,415,83"/>
+<area shape="rect" id="node3" href="$dsmethod_8c.html#a7258edde68b9f7f300031a1bd3d42c63" title="AcpiDsCallControlMethod" alt="" coords="484,5,667,32"/>
+<area shape="rect" id="node5" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="522,56,629,83"/>
+<area shape="rect" id="node6" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="715,56,861,83"/>
+</map>

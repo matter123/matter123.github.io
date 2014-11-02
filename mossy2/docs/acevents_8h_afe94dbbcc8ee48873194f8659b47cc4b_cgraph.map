@@ -1,0 +1,27 @@
+<map id="AcpiEvCreateGpeBlock" name="AcpiEvCreateGpeBlock">
+<area shape="rect" id="node2" href="$evgpeblk_8c.html#afa48e8f20ae412821ac43feb078b93cb" title="AcpiEvCreateGpeInfoBlocks" alt="" coords="223,132,424,159"/>
+<area shape="rect" id="node10" href="$acnamesp_8h.html#adb18016742f0841cfa943623cb80159d" title="AcpiNsWalkNamespace" alt="" coords="236,335,411,361"/>
+<area shape="rect" id="node18" href="$evgpeinit_8c.html#a066d9c5846b98bbe5ce8e4e7ae172d97" title="AcpiEvMatchGpeMethod" alt="" coords="234,208,413,235"/>
+<area shape="rect" id="node3" href="$achware_8h.html#ad6df206d998ed4ed6094a0a4e6ce4c20" title="AcpiHwWrite" alt="" coords="728,107,831,133"/>
+<area shape="rect" id="node4" href="$achware_8h.html#a196789617ed934c4a8ccc5bfa9722cd8" title="AcpiHwValidateRegister" alt="" coords="921,107,1095,133"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#aabe95b60e5b2215f8e6c68865f2c3c2f" title="AcpiOsWriteMemory" alt="" coords="932,56,1084,83"/>
+<area shape="rect" id="node6" href="$achware_8h.html#a80c11a16d90573982198c81dfa1e18e3" title="AcpiHwWritePort" alt="" coords="943,5,1073,32"/>
+<area shape="rect" id="node9" href="$acutils_8h.html#afb74c096e61c011ddb2c2cb9d6409a41" title="AcpiUtGetRegionName" alt="" coords="923,157,1093,184"/>
+<area shape="rect" id="node7" href="$hwvalid_8c.html#a2fccc7c13b13d678632d462648fd07b7" title="AcpiHwValidateIoRequest" alt="" coords="1143,132,1328,159"/>
+<area shape="rect" id="node8" href="$acpiosxf_8h.html#a670d056982184c18fe4e21b5ec59e199" title="AcpiOsWritePort" alt="" coords="1173,5,1298,32"/>
+<area shape="rect" id="node11" href="$acnamesp_8h.html#abdde82344b0b40f3b150a3e9b0982d5d" title="AcpiNsGetNextNode" alt="" coords="477,309,632,336"/>
+<area shape="rect" id="node12" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="477,411,632,437"/>
+<area shape="rect" id="node16" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="479,360,631,387"/>
+<area shape="rect" id="node13" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="706,411,853,437"/>
+<area shape="rect" id="node14" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="696,360,863,387"/>
+<area shape="rect" id="node15" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="701,461,857,488"/>
+<area shape="rect" id="node17" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="702,309,857,336"/>
+<area shape="rect" id="node19" href="$acevents_8h.html#a8db243e551ff8da09a26a53b926ba16e" title="AcpiEvLowGetGpeInfo" alt="" coords="472,208,637,235"/>
+<area shape="rect" id="node20" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="530,259,579,285"/>
+<area shape="rect" id="node21" href="$achware_8h.html#a59b3aae6f09a793858776bd160970bd1" title="AcpiHwLowSetGpe" alt="" coords="483,157,626,184"/>
+<area shape="rect" id="node22" href="$achware_8h.html#a021671bc41f9b4dceaa913660438e667" title="AcpiHwRead" alt="" coords="728,157,831,184"/>
+<area shape="rect" id="node26" href="$achware_8h.html#a1802ad2bdc24b4c99f32df79e19244f0" title="AcpiHwGetGpeRegisterBit" alt="" coords="685,208,873,235"/>
+<area shape="rect" id="node23" href="$acpiosxf_8h.html#a43bb4cd865cfbe503bad2ee28854e215" title="AcpiOsReadMemory" alt="" coords="933,208,1083,235"/>
+<area shape="rect" id="node24" href="$achware_8h.html#adf7988fcab38736c4a9081da3ec089df" title="AcpiHwReadPort" alt="" coords="944,259,1072,285"/>
+<area shape="rect" id="node25" href="$acpiosxf_8h.html#a64dc0148971f8117dad3692bbc8e05c9" title="AcpiOsReadPort" alt="" coords="1173,259,1297,285"/>
+</map>

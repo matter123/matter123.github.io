@@ -1,0 +1,12 @@
+<map id="AcpiExEisaIdToString" name="AcpiExEisaIdToString">
+<area shape="rect" id="node2" href="$utids_8c.html#a30a522dcaddc7ee0a6f405462d1378b5" title="ACPI_MODULE_NAME" alt="" coords="208,31,368,57"/>
+<area shape="rect" id="node3" href="$utids_8c.html#a950134222b1f11e963124c0e09e23b2a" title="AcpiUtExecute_CID" alt="" coords="215,81,361,108"/>
+<area shape="rect" id="node4" href="$evrgnini_8c.html#a2fb688d828401e023a6bbbe67b777041" title="AcpiEvIsPciRootBridge" alt="" coords="419,31,583,57"/>
+<area shape="rect" id="node9" href="$nsxfeval_8c.html#ab70cd284f5072c23827d954ff7e8273a" title="ACPI_EXPORT_SYMBOL" alt="" coords="416,81,587,108"/>
+<area shape="rect" id="node10" href="$nsxfname_8c.html#a20ba0b547d3d1fbfa92b15fe521fc0a8" title="AcpiGetObjectInfo" alt="" coords="432,132,571,159"/>
+<area shape="rect" id="node5" href="$evrgnini_8c.html#a076ed8a93dc79e5e758de6ed795e5e01" title="AcpiEvPciConfigRegionSetup" alt="" coords="635,31,839,57"/>
+<area shape="rect" id="node6" href="$evhandler_8c.html#a54d1e523e0ef72463dd26a3a2c2ac0c3" title="AcpiEvInstallSpaceHandler" alt="" coords="887,31,1079,57"/>
+<area shape="rect" id="node7" href="$evhandler_8c.html#a5e58eb0e82a92f58708e08ef8eb7a706" title="AcpiEvInstallRegionHandlers" alt="" coords="1127,5,1329,32"/>
+<area shape="rect" id="node8" href="$evxfregn_8c.html#aceed2fe7d449000aeaa5186335b83206" title="ACPI_MODULE_NAME" alt="" coords="1148,56,1308,83"/>
+<area shape="rect" id="node11" href="$nsdumpdv_8c.html#a28e09bf7756fd9775bd99d7e3616a84d" title="ACPI_MODULE_NAME" alt="" coords="657,132,817,159"/>
+</map>

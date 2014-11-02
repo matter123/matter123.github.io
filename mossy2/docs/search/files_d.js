@@ -1,15 +1,18 @@
 var searchData=
 [
-  ['tasks_2ecpp',['tasks.cpp',['../arch_2x64_2tasks_8cpp.html',1,'']]],
-  ['tasks_2ecpp',['tasks.cpp',['../arch_2x86_2tasks_8cpp.html',1,'']]],
-  ['tasks_2ecpp',['tasks.cpp',['../sys_2tasks_8cpp.html',1,'']]],
-  ['tasks_2eh',['tasks.h',['../arch_2x86_2tasks_8h.html',1,'']]],
-  ['tasks_2eh',['tasks.h',['../sys_2sys_2tasks_8h.html',1,'']]],
-  ['tasks_2eh',['tasks.h',['../arch_2x64_2tasks_8h.html',1,'']]],
-  ['text_5fcolor_2ecpp',['text_color.cpp',['../text__color_8cpp.html',1,'']]],
-  ['text_5fcolor_2eh',['text_color.h',['../text__color_8h.html',1,'']]],
-  ['time_2ecpp',['time.cpp',['../time_8cpp.html',1,'']]],
-  ['time_2eh',['time.h',['../time_8h.html',1,'']]],
-  ['timer_2eh',['timer.h',['../timer_8h.html',1,'']]],
-  ['typedef_2ehpp',['typedef.hpp',['../typedef_8hpp.html',1,'']]]
+  ['scheduler_2ecpp',['scheduler.cpp',['../scheduler_8cpp.html',1,'']]],
+  ['scheduler_2eh',['scheduler.h',['../scheduler_8h.html',1,'']]],
+  ['semaphore_2ecpp',['semaphore.cpp',['../semaphore_8cpp.html',1,'']]],
+  ['spinlock_2ecpp',['spinlock.cpp',['../spinlock_8cpp.html',1,'']]],
+  ['stackframe_2ecpp',['stackframe.cpp',['../x64_2stackframe_8cpp.html',1,'']]],
+  ['stackframe_2ecpp',['stackframe.cpp',['../x86_2stackframe_8cpp.html',1,'']]],
+  ['stackframe_2eh',['stackframe.h',['../stackframe_8h.html',1,'']]],
+  ['stdlib_2ecpp',['stdlib.cpp',['../stdlib_8cpp.html',1,'']]],
+  ['stdlib_2eh',['stdlib.h',['../stdlib_8h.html',1,'']]],
+  ['string_2ec',['string.c',['../string_8c.html',1,'']]],
+  ['string_2eh',['string.h',['../string_8h.html',1,'']]],
+  ['struct_2eh',['struct.h',['../struct_8h.html',1,'']]],
+  ['style_2emd',['style.md',['../style_8md.html',1,'']]],
+  ['synchronization_2eh',['synchronization.h',['../synchronization_8h.html',1,'']]],
+  ['syscall_2eh',['syscall.h',['../syscall_8h.html',1,'']]]
 ];

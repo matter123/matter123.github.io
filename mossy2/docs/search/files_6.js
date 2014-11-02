@@ -1,10 +1,21 @@
 var searchData=
 [
-  ['idt_2eh',['idt.h',['../x64_2idt_8h.html',1,'']]],
-  ['idt_2eh',['idt.h',['../x86_2idt_8h.html',1,'']]],
-  ['int_2eh',['int.h',['../hal_2hal_2int_8h.html',1,'']]],
-  ['int_2eh',['int.h',['../arch_2x86__64_2int_8h.html',1,'']]],
-  ['int64_2einc',['int64.inc',['../int64_8inc.html',1,'']]],
-  ['int86_2einc',['int86.inc',['../int86_8inc.html',1,'']]],
-  ['io_2eh',['io.h',['../io_8h.html',1,'']]]
+  ['hal_2ecpp',['hal.cpp',['../arch_2x64_2hal_8cpp.html',1,'']]],
+  ['hal_2ecpp',['hal.cpp',['../arch_2x86_2hal_8cpp.html',1,'']]],
+  ['hal_2ecpp',['hal.cpp',['../vendor_2pc_2hal_8cpp.html',1,'']]],
+  ['hal_2eh',['hal.h',['../hal_8h.html',1,'']]],
+  ['hal_5fidt_2ecpp',['hal_idt.cpp',['../x64_2hal__idt_8cpp.html',1,'']]],
+  ['hal_5fidt_2ecpp',['hal_idt.cpp',['../x86_2hal__idt_8cpp.html',1,'']]],
+  ['heap_2ecpp',['heap.cpp',['../heap_8cpp.html',1,'']]],
+  ['heap_2eh',['heap.h',['../heap_8h.html',1,'']]],
+  ['hwacpi_2ec',['hwacpi.c',['../hwacpi_8c.html',1,'']]],
+  ['hwesleep_2ec',['hwesleep.c',['../hwesleep_8c.html',1,'']]],
+  ['hwgpe_2ec',['hwgpe.c',['../hwgpe_8c.html',1,'']]],
+  ['hwpci_2ec',['hwpci.c',['../hwpci_8c.html',1,'']]],
+  ['hwregs_2ec',['hwregs.c',['../hwregs_8c.html',1,'']]],
+  ['hwsleep_2ec',['hwsleep.c',['../hwsleep_8c.html',1,'']]],
+  ['hwtimer_2ec',['hwtimer.c',['../hwtimer_8c.html',1,'']]],
+  ['hwvalid_2ec',['hwvalid.c',['../hwvalid_8c.html',1,'']]],
+  ['hwxface_2ec',['hwxface.c',['../hwxface_8c.html',1,'']]],
+  ['hwxfsleep_2ec',['hwxfsleep.c',['../hwxfsleep_8c.html',1,'']]]
 ];

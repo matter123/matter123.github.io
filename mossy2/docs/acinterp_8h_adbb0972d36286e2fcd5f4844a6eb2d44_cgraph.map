@@ -1,0 +1,4 @@
+<map id="AcpiExPciConfigSpaceHandler" name="AcpiExPciConfigSpaceHandler">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#a489626c74ae691276d6f7feec243d377" title="AcpiOsReadPciConfiguration" alt="" coords="267,5,469,32"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#a40565213dbde564afaea8819637cc276" title="AcpiOsWritePciConfiguration" alt="" coords="267,56,469,83"/>
+</map>

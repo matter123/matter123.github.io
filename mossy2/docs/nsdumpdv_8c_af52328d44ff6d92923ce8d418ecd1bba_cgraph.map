@@ -1,0 +1,10 @@
+<map id="AcpiNsDumpRootDevices" name="AcpiNsDumpRootDevices">
+<area shape="rect" id="node2" href="$acnamesp_8h.html#adb18016742f0841cfa943623cb80159d" title="AcpiNsWalkNamespace" alt="" coords="239,56,413,83"/>
+<area shape="rect" id="node3" href="$acnamesp_8h.html#abdde82344b0b40f3b150a3e9b0982d5d" title="AcpiNsGetNextNode" alt="" coords="461,5,616,32"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="461,107,616,133"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="463,56,615,83"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="674,56,821,83"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="664,107,831,133"/>
+<area shape="rect" id="node7" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="669,157,825,184"/>
+<area shape="rect" id="node9" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="670,5,825,32"/>
+</map>

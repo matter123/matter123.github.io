@@ -1,0 +1,5 @@
+<map id="AcpiHwWritePm1Control" name="AcpiHwWritePm1Control">
+<area shape="rect" id="node2" href="$hwsleep_8c.html#aa4a433f6c7bcd24d45f80ca3ebea8ee1" title="ACPI_MODULE_NAME" alt="" coords="243,5,403,32"/>
+<area shape="rect" id="node3" href="$hwsleep_8c.html#af62e01b05ab2f54be568739d22fff62b" title="AcpiHwLegacyWakePrep" alt="" coords="232,56,413,83"/>
+<area shape="rect" id="node4" href="$hwxfsleep_8c.html#aa9721418f76ca9280276e892c7978ce7" title="ACPI_MODULE_NAME" alt="" coords="461,56,621,83"/>
+</map>

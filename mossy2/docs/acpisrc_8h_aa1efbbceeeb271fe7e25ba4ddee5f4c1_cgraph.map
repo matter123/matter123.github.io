@@ -1,0 +1,8 @@
+<map id="AsReduceTypedefs" name="AsReduceTypedefs">
+<area shape="rect" id="node2" href="$string_8h.html#a9b8955ed78305a9f68e032415a62e285" title="strstr" alt="" coords="230,5,286,32"/>
+<area shape="rect" id="node3" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="385,56,444,83"/>
+<area shape="rect" id="node4" href="$acpisrc_8h.html#a1218f19f9358f907bf09867b45d7ebc0" title="AsRemoveData" alt="" coords="197,107,319,133"/>
+<area shape="rect" id="node6" href="$string_8h.html#a6666865e6caf66fd05d4b8bd6c074cd2" title="strncmp" alt="" coords="221,157,295,184"/>
+<area shape="rect" id="node7" href="$acpisrc_8h.html#ad1b35845839bc2e81bf976c19d51bd3e" title="AsSkipUntilChar" alt="" coords="196,208,320,235"/>
+<area shape="rect" id="node5" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="368,107,461,133"/>
+</map>

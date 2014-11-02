@@ -1,0 +1,12 @@
+<map id="AcpiUtAllocateZeroedAndTrack" name="AcpiUtAllocateZeroedAndTrack">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#a4603efb7bdb82a42118afe7f30f1c267" title="AcpiOsAllocateZeroed" alt="" coords="273,56,436,83"/>
+<area shape="rect" id="node3" href="$uttrack_8c.html#aa92fdfb3ecd030d76bc0bfd96965453c" title="AcpiUtTrackAllocation" alt="" coords="275,107,435,133"/>
+<area shape="rect" id="node11" href="$acpiosxf_8h.html#aa3baac772ec8f5df4a49d97e39bfb307" title="AcpiOsFree" alt="" coords="308,157,401,184"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="485,107,637,133"/>
+<area shape="rect" id="node8" href="$uttrack_8c.html#aff05a2864e887590176cb7c4a09184af" title="AcpiUtFindAllocation" alt="" coords="486,157,637,184"/>
+<area shape="rect" id="node9" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="484,56,639,83"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="697,56,843,83"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="687,107,853,133"/>
+<area shape="rect" id="node7" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="693,157,847,184"/>
+<area shape="rect" id="node10" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="692,5,848,32"/>
+</map>

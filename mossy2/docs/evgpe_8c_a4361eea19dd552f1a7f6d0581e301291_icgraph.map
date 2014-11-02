@@ -1,0 +1,16 @@
+<map id="AcpiEvGpeDetect" name="AcpiEvGpeDetect">
+<area shape="rect" id="node2" href="$evsci_8c.html#a0aaa1491b793627604b63faba8bff5d2" title="AcpiEvSciXruptHandler" alt="" coords="192,56,360,83"/>
+<area shape="rect" id="node10" href="$evsci_8c.html#a152a80700760b3b3842f086e269e4b66" title="AcpiEvGpeXruptHandler" alt="" coords="188,107,364,133"/>
+<area shape="rect" id="node3" href="$evsci_8c.html#a16f3ed7840b40f9a7d2500e4b5e6aa0f" title="AcpiEvInstallSciHandler" alt="" coords="431,5,601,32"/>
+<area shape="rect" id="node6" href="$evsci_8c.html#af314798636071fa98814dfdcb6042fdc" title="AcpiEvRemoveAllSciHandlers" alt="" coords="412,56,620,83"/>
+<area shape="rect" id="node4" href="$evevent_8c.html#a6f4799041dd352aa40ad714b64d9af8d" title="AcpiEvInstallXruptHandlers" alt="" coords="668,5,863,32"/>
+<area shape="rect" id="node5" href="$utxfinit_8c.html#ae24d3f23d3f66bc6410f04a3e848d7e3" title="ACPI_EXPORT_SYMBOL_INIT" alt="" coords="911,5,1113,32"/>
+<area shape="rect" id="node7" href="$evmisc_8c.html#adf84bc79b3a471ea03a15ce0b3319140" title="AcpiEvTerminate" alt="" coords="701,56,830,83"/>
+<area shape="rect" id="node8" href="$utinit_8c.html#a4c67375418edc8c708db838e947c71a3" title="AcpiUtSubsystemShutdown" alt="" coords="912,56,1112,83"/>
+<area shape="rect" id="node9" href="$utxface_8c.html#a97de22c9cd594c0e92eac442cdb06bc9" title="ACPI_MODULE_NAME" alt="" coords="1161,56,1321,83"/>
+<area shape="rect" id="node11" href="$evgpeutil_8c.html#acbfcfd5b1d2324282054e3423935f39c" title="AcpiEvGetGpeXruptBlock" alt="" coords="424,107,608,133"/>
+<area shape="rect" id="node12" href="$evgpeutil_8c.html#a20080f5337a710206cee2a2c5db0207e" title="AcpiEvDeleteGpeXrupt" alt="" coords="432,157,600,184"/>
+<area shape="rect" id="node13" href="$evgpeblk_8c.html#add92b907a3fbc081c82d6febff23b555" title="AcpiEvDeleteGpeBlock" alt="" coords="681,157,849,184"/>
+<area shape="rect" id="node14" href="$evxfgpe_8c.html#a55cc2327f08c416429d73513518cba22" title="ACPI_EXPORT_SYMBOL" alt="" coords="927,132,1097,159"/>
+<area shape="rect" id="node15" href="$utdelete_8c.html#a89de061a214dd19fbd25ebddd1fab1d3" title="ACPI_MODULE_NAME" alt="" coords="932,183,1092,209"/>
+</map>

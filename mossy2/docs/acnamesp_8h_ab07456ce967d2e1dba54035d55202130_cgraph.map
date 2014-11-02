@@ -1,0 +1,12 @@
+<map id="AcpiNsSearchAndEnter" name="AcpiNsSearchAndEnter">
+<area shape="rect" id="node2" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="683,33,826,60"/>
+<area shape="rect" id="node4" href="$acnamesp_8h.html#a578c5f8377cf42c7200f48d05945611a" title="AcpiNsSearchOneScope" alt="" coords="449,185,624,212"/>
+<area shape="rect" id="node5" href="$nssearch_8c.html#ad2563dd5464c213bde6b298d5e7b202b" title="AcpiNsSearchParentTree" alt="" coords="223,109,401,136"/>
+<area shape="rect" id="node10" href="$acnamesp_8h.html#a5558a284dbe93028b88f32b759874131" title="AcpiNsCreateNode" alt="" coords="241,210,383,237"/>
+<area shape="rect" id="node11" href="$acnamesp_8h.html#a7962f6350856cbda724b6e4536f7883d" title="AcpiNsInstallNode" alt="" coords="243,58,381,85"/>
+<area shape="rect" id="node3" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="885,33,1036,60"/>
+<area shape="rect" id="node6" href="$acnamesp_8h.html#ad05e9d19d20c4bef3826b60e67434b70" title="AcpiNsLocal" alt="" coords="487,134,586,161"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="459,33,615,60"/>
+<area shape="rect" id="node9" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="457,84,617,110"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#aac71aba015f01de4679cd36217a84f6d" title="AcpiUtValidObjectType" alt="" coords="672,134,837,161"/>
+</map>

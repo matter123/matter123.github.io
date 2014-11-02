@@ -1,0 +1,16 @@
+<map id="AcpiNsRemoveNode" name="AcpiNsRemoveNode">
+<area shape="rect" id="node2" href="$nsalloc_8c.html#ae24f66b4949687e8aafc736384050a05" title="AcpiNsDeleteNamespaceByOwner" alt="" coords="207,56,451,83"/>
+<area shape="rect" id="node14" href="$nsload_8c.html#a0b343909bdaa0b1e36d5c5dc584d7d80" title="AcpiNsDeleteSubtree" alt="" coords="249,107,408,133"/>
+<area shape="rect" id="node3" href="$dsmethod_8c.html#a23d4d631e7d926c3d8f30d7ee0e8cbb5" title="AcpiDsTerminateControlMethod" alt="" coords="508,5,732,32"/>
+<area shape="rect" id="node5" href="$tbdata_8c.html#ae0b72389f05576e0aed4311e1be215a0" title="AcpiTbDeleteNamespaceByOwner" alt="" coords="499,56,741,83"/>
+<area shape="rect" id="node4" href="$dsmethod_8c.html#a7258edde68b9f7f300031a1bd3d42c63" title="AcpiDsCallControlMethod" alt="" coords="789,5,972,32"/>
+<area shape="rect" id="node6" href="$exconfig_8c.html#a10d11b8a837724615180a996820ad074" title="AcpiExUnloadTable" alt="" coords="809,56,952,83"/>
+<area shape="rect" id="node13" href="$tbxfload_8c.html#a2962060c128e33d93234be498b87dd87" title="ACPI_EXPORT_SYMBOL" alt="" coords="795,107,966,133"/>
+<area shape="rect" id="node7" href="$exconfig_8c.html#af034857cb72fa820f6ffedcb7e5dae22" title="AcpiExLoadTableOp" alt="" coords="1020,5,1167,32"/>
+<area shape="rect" id="node10" href="$exconfig_8c.html#ae6e89eb59483dedba9174568ac4f37bb" title="AcpiExLoadOp" alt="" coords="1036,56,1151,83"/>
+<area shape="rect" id="node12" href="$exoparg1_8c.html#aa03253bcf485cd0b5407e6b568666669" title="AcpiExOpcode_1A_0T_0R" alt="" coords="1215,107,1400,133"/>
+<area shape="rect" id="node8" href="$exoparg6_8c.html#ad34ae207536ddaa333157095d25f580c" title="AcpiExOpcode_6A_0T_1R" alt="" coords="1215,5,1400,32"/>
+<area shape="rect" id="node9" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="1448,56,1608,83"/>
+<area shape="rect" id="node11" href="$exoparg1_8c.html#a3e9cab33e2e78974a0b519f2cba1d67e" title="AcpiExOpcode_1A_1T_0R" alt="" coords="1215,56,1400,83"/>
+<area shape="rect" id="node15" href="$nsload_8c.html#a943955d35ad01c4f50958eb7d6227771" title="AcpiNsUnloadNamespace" alt="" coords="526,107,714,133"/>
+</map>

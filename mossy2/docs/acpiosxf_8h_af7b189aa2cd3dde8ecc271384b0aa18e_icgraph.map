@@ -1,0 +1,6 @@
+<map id="AcpiOsInstallInterruptHandler" name="AcpiOsInstallInterruptHandler">
+<area shape="rect" id="node2" href="$evgpeutil_8c.html#acbfcfd5b1d2324282054e3423935f39c" title="AcpiEvGetGpeXruptBlock" alt="" coords="264,5,448,32"/>
+<area shape="rect" id="node3" href="$evsci_8c.html#a16f3ed7840b40f9a7d2500e4b5e6aa0f" title="AcpiEvInstallSciHandler" alt="" coords="271,56,441,83"/>
+<area shape="rect" id="node4" href="$evevent_8c.html#a6f4799041dd352aa40ad714b64d9af8d" title="AcpiEvInstallXruptHandlers" alt="" coords="496,56,691,83"/>
+<area shape="rect" id="node5" href="$utxfinit_8c.html#ae24d3f23d3f66bc6410f04a3e848d7e3" title="ACPI_EXPORT_SYMBOL_INIT" alt="" coords="739,56,941,83"/>
+</map>

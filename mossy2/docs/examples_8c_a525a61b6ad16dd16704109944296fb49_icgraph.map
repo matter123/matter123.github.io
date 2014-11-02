@@ -1,0 +1,6 @@
+<map id="NotifyHandler" name="NotifyHandler">
+<area shape="rect" id="node2" href="$examples_8c.html#a43aac4cf7abd94e362d3b739edbc9c89" title="InstallHandlers" alt="" coords="164,31,281,57"/>
+<area shape="rect" id="node3" href="$examples_8c.html#a66fd2b6c9640e94814937fbb90675961" title="InitializeFullAcpica" alt="" coords="329,5,465,32"/>
+<area shape="rect" id="node5" href="$examples_8c.html#a67e7b7a26ae28fc6cf19b96e5e947f07" title="InitializeAcpi" alt="" coords="347,56,448,83"/>
+<area shape="rect" id="node4" href="$examples_8c.html#a83dcb225ccf655261b4f8d26888724c3" title="ACPI_MODULE_NAME" alt="" coords="513,5,673,32"/>
+</map>

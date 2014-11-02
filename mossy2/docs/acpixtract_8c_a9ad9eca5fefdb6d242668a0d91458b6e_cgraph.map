@@ -1,0 +1,8 @@
+<map id="AxGetNextInstance" name="AxGetNextInstance">
+<area shape="rect" id="node2" href="$stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="255,5,319,32"/>
+<area shape="rect" id="node4" href="$acpixtract_8c.html#aa7d7b0ace1f50915a6a1c95b8f914380" title="AxCountTableInstances" alt="" coords="201,56,373,83"/>
+<area shape="rect" id="node3" href="$namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="456,5,552,32"/>
+<area shape="rect" id="node5" href="$acpixtract_8c.html#a644c66b8cf435d3e30981cc2960874ef" title="AxIsEmptyLine" alt="" coords="445,56,563,83"/>
+<area shape="rect" id="node6" href="$acpixtract_8c.html#a30582e8e319f3c01a003c94b47b5607a" title="AxNormalizeSignature" alt="" coords="421,107,587,133"/>
+<area shape="rect" id="node7" href="$string_8h.html#a6666865e6caf66fd05d4b8bd6c074cd2" title="strncmp" alt="" coords="635,107,709,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AcpiHwClearGpeBlock" name="AcpiHwClearGpeBlock">
+<area shape="rect" id="node2" href="$hwgpe_8c.html#a6a53892547a84f2ec591f734e34f8456" title="AcpiHwDisableAllGpes" alt="" coords="220,56,385,83"/>
+<area shape="rect" id="node7" href="$hwregs_8c.html#a396f22d708e29a6b296d4684c4157517" title="AcpiHwClearAcpiStatus" alt="" coords="217,107,388,133"/>
+<area shape="rect" id="node3" href="$evxfgpe_8c.html#a1a55910eeeca1577d72688481dcb1eeb" title="ACPI_EXPORT_SYMBOL" alt="" coords="436,5,607,32"/>
+<area shape="rect" id="node4" href="$hwsleep_8c.html#aa4a433f6c7bcd24d45f80ca3ebea8ee1" title="ACPI_MODULE_NAME" alt="" coords="441,107,601,133"/>
+<area shape="rect" id="node5" href="$hwsleep_8c.html#ac7a7a0377af84d5b5fbf242d4635a25d" title="AcpiHwLegacyWake" alt="" coords="445,56,597,83"/>
+<area shape="rect" id="node6" href="$hwxfsleep_8c.html#aa9721418f76ca9280276e892c7978ce7" title="ACPI_MODULE_NAME" alt="" coords="655,56,815,83"/>
+<area shape="rect" id="node8" href="$hwxfsleep_8c.html#a6ed557ecc3e49c9df7fef648ef5b372c" title="ACPI_EXPORT_SYMBOL" alt="" coords="436,157,607,184"/>
+</map>

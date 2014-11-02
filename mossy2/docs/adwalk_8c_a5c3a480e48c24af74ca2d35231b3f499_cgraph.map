@@ -1,0 +1,23 @@
+<map id="AcpiDmLoadDescendingOp" name="AcpiDmLoadDescendingOp">
+<area shape="rect" id="node2" href="$acparser_8h.html#af458f473e3b9fe4ef621f63c5fb7e7f5" title="AcpiPsGetOpcodeInfo" alt="" coords="249,5,411,32"/>
+<area shape="rect" id="node3" href="$rsmisc_8c.html#a3331c55d15485e227a6ef7db9eade5cc" title="if" alt="" coords="311,56,349,83"/>
+<area shape="rect" id="node4" href="$acnamesp_8h.html#a0516af979dcfc47d902db79bc76b0758" title="AcpiNsLookup" alt="" coords="273,284,387,311"/>
+<area shape="rect" id="node6" href="$acnamesp_8h.html#af1ac10c31f5b490a7e90b1d2fc0876d2" title="AcpiNsOpensScope" alt="" coords="481,157,628,184"/>
+<area shape="rect" id="node19" href="$acdispat_8h.html#a14e3c0276b6801741eac7d2a0a1a51b4" title="AcpiDsScopeStackPush" alt="" coords="702,259,874,285"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#a32401b4d319df7f28c181246a30a02ce" title="AcpiUtGetDescriptorName" alt="" coords="459,411,651,437"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="941,411,1101,437"/>
+<area shape="rect" id="node10" href="$acnamesp_8h.html#a4ee2a0a66a9a1ee73a7c0c17414a1cd2" title="AcpiNsPrintPathname" alt="" coords="475,259,635,285"/>
+<area shape="rect" id="node11" href="$acnamesp_8h.html#ab07456ce967d2e1dba54035d55202130" title="AcpiNsSearchAndEnter" alt="" coords="470,487,639,513"/>
+<area shape="rect" id="node16" href="$acutils_8h.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="943,360,1099,387"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="1175,475,1318,501"/>
+<area shape="rect" id="node9" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="1377,475,1528,501"/>
+<area shape="rect" id="node12" href="$acnamesp_8h.html#a578c5f8377cf42c7200f48d05945611a" title="AcpiNsSearchOneScope" alt="" coords="933,512,1108,539"/>
+<area shape="rect" id="node13" href="$nssearch_8c.html#ad2563dd5464c213bde6b298d5e7b202b" title="AcpiNsSearchParentTree" alt="" coords="699,461,877,488"/>
+<area shape="rect" id="node17" href="$acnamesp_8h.html#a5558a284dbe93028b88f32b759874131" title="AcpiNsCreateNode" alt="" coords="717,613,859,640"/>
+<area shape="rect" id="node18" href="$acnamesp_8h.html#a7962f6350856cbda724b6e4536f7883d" title="AcpiNsInstallNode" alt="" coords="719,411,857,437"/>
+<area shape="rect" id="node14" href="$acnamesp_8h.html#ad05e9d19d20c4bef3826b60e67434b70" title="AcpiNsLocal" alt="" coords="971,461,1070,488"/>
+<area shape="rect" id="node15" href="$acutils_8h.html#aac71aba015f01de4679cd36217a84f6d" title="AcpiUtValidObjectType" alt="" coords="1164,399,1329,425"/>
+<area shape="rect" id="node20" href="$acutils_8h.html#a1007334913adfd3d3a64e8373a863084" title="AcpiUtCreateGenericState" alt="" coords="925,208,1116,235"/>
+<area shape="rect" id="node22" href="$acutils_8h.html#ae6cc5a988c45a2765e6d0638c87e0bfb" title="AcpiUtPushGenericState" alt="" coords="931,259,1110,285"/>
+<area shape="rect" id="node21" href="$acpiosxf_8h.html#a3aeec4a3020b07475a5b9a4a5b0bbf15" title="AcpiOsAcquireObject" alt="" coords="1169,208,1324,235"/>
+</map>

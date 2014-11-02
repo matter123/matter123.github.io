@@ -1,0 +1,26 @@
+<map id="AcpiTbInstallTableWithOverride" name="AcpiTbInstallTableWithOverride">
+<area shape="rect" id="node2" href="$tbinstal_8c.html#a90b78be7cabafbc65cc9cc4feac91ce0" title="AcpiTbOverrideTable" alt="" coords="284,210,437,237"/>
+<area shape="rect" id="node6" href="$actables_8h.html#a88b38f6b88f5d2b2ece86cad1bda170f" title="AcpiTbInitTableDescriptor" alt="" coords="751,413,935,440"/>
+<area shape="rect" id="node23" href="$actables_8h.html#a3d2bc8de73d1daecfaf424f9ff200a29" title="AcpiTbPrintTableHeader" alt="" coords="273,464,448,490"/>
+<area shape="rect" id="node25" href="$acutils_8h.html#a2e2c108ff954c91699c13f4356fb2e0b" title="AcpiUtSetIntegerWidth" alt="" coords="277,514,445,541"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#a1db1ca6153f6250711004776939921da" title="AcpiOsTableOverride" alt="" coords="522,109,677,136"/>
+<area shape="rect" id="node4" href="$actables_8h.html#ac9cad1b40c1e70bab531f6e423ec6bd4" title="AcpiTbAcquireTempTable" alt="" coords="509,312,690,338"/>
+<area shape="rect" id="node8" href="$acpiosxf_8h.html#a97a8a7e7c4309f73954f7daf5ce93d70" title="AcpiOsPhysicalTableOverride" alt="" coords="496,58,703,85"/>
+<area shape="rect" id="node9" href="$actables_8h.html#ad70d033891e01989b334295880a1f6b0" title="AcpiTbVerifyTempTable" alt="" coords="514,160,685,186"/>
+<area shape="rect" id="node19" href="$tbinstal_8c.html#a4871835f1219893768fab2fa4d46c0b5" title="AcpiTbUninstallTable" alt="" coords="523,261,676,288"/>
+<area shape="rect" id="node21" href="$actables_8h.html#a93b1605355d8e42588120d5522306c4f" title="AcpiTbValidateTempTable" alt="" coords="751,8,935,34"/>
+<area shape="rect" id="node22" href="$actables_8h.html#a1f79236c2f26110d79645fa46a27ceb3" title="AcpiTbReleaseTempTable" alt="" coords="508,210,691,237"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#a1fae7131b07b0af4ddeb969d6ab08fbc" title="AcpiOsMapMemory" alt="" coords="1396,249,1543,276"/>
+<area shape="rect" id="node7" href="$acpiosxf_8h.html#ac311ac97cb1dbf409feec249058d0537" title="AcpiOsUnmapMemory" alt="" coords="1181,286,1348,313"/>
+<area shape="rect" id="node10" href="$tbdata_8c.html#a93b1605355d8e42588120d5522306c4f" title="AcpiTbValidateTempTable" alt="" coords="751,58,935,85"/>
+<area shape="rect" id="node13" href="$actables_8h.html#a97027aef862a899f17a4b9d8fabafeb9" title="AcpiTbVerifyChecksum" alt="" coords="757,109,928,136"/>
+<area shape="rect" id="node15" href="$acutils_8h.html#a99614f7e75aa829c5a46c93d53f4c818" title="AcpiUtValidAcpiName" alt="" coords="763,160,923,186"/>
+<area shape="rect" id="node17" href="$tbdata_8c.html#a00ebfd23cbf6aaae6602af27fb0d28fd" title="AcpiTbInvalidateTable" alt="" coords="762,210,923,237"/>
+<area shape="rect" id="node11" href="$tbdata_8c.html#a30cf146453108c7795db113dd60117e8" title="AcpiTbValidateTable" alt="" coords="983,58,1133,85"/>
+<area shape="rect" id="node12" href="$tbdata_8c.html#aeaa732040b88787f73c16e590ed74395" title="AcpiTbAcquireTable" alt="" coords="1191,134,1338,161"/>
+<area shape="rect" id="node14" href="$tbprint_8c.html#a1ab2aceedbf858c17060d36fe6120fa0" title="AcpiTbChecksum" alt="" coords="991,109,1125,136"/>
+<area shape="rect" id="node16" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="983,160,1133,186"/>
+<area shape="rect" id="node18" href="$tbdata_8c.html#a30d6951e99718a4a2754509159b87549" title="AcpiTbReleaseTable" alt="" coords="984,261,1132,288"/>
+<area shape="rect" id="node20" href="$actables_8h.html#a00ebfd23cbf6aaae6602af27fb0d28fd" title="AcpiTbInvalidateTable" alt="" coords="762,261,923,288"/>
+<area shape="rect" id="node24" href="$tbprint_8c.html#a4f8204af1e7aa2abd4c341b56ad99ad3" title="AcpiTbCleanupTableHeader" alt="" coords="501,464,698,490"/>
+</map>

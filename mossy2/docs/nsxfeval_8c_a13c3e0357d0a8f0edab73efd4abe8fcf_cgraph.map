@@ -1,0 +1,14 @@
+<map id="AcpiWalkNamespace" name="AcpiWalkNamespace">
+<area shape="rect" id="node2" href="$acutils_8h.html#abc32c4405e0a16a8afb2b26d27bb6c25" title="AcpiUtAcquireReadLock" alt="" coords="434,56,609,83"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="445,208,597,235"/>
+<area shape="rect" id="node8" href="$acnamesp_8h.html#a25aafce62b0dc74989b1b25b1a40eeed" title="AcpiNsValidateHandle" alt="" coords="217,259,379,285"/>
+<area shape="rect" id="node9" href="$acnamesp_8h.html#adb18016742f0841cfa943623cb80159d" title="AcpiNsWalkNamespace" alt="" coords="211,157,385,184"/>
+<area shape="rect" id="node11" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="444,107,599,133"/>
+<area shape="rect" id="node12" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="273,309,323,336"/>
+<area shape="rect" id="node13" href="$acutils_8h.html#af67a39c197bea51aff49b04b7d29ca03" title="AcpiUtReleaseReadLock" alt="" coords="433,5,609,32"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="663,63,818,89"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="663,12,819,39"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="667,139,814,165"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="657,201,824,228"/>
+<area shape="rect" id="node10" href="$acnamesp_8h.html#abdde82344b0b40f3b150a3e9b0982d5d" title="AcpiNsGetNextNode" alt="" coords="444,157,599,184"/>
+</map>

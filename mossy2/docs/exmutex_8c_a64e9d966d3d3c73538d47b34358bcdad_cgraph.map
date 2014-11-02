@@ -1,0 +1,9 @@
+<map id="AcpiExReleaseMutex" name="AcpiExReleaseMutex">
+<area shape="rect" id="node2" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="226,19,386,45"/>
+<area shape="rect" id="node5" href="$exmutex_8c.html#af477b432c50188b77e0dc7035f2206cf" title="AcpiExReleaseMutexObject" alt="" coords="208,95,404,121"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="473,5,616,32"/>
+<area shape="rect" id="node4" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="688,5,839,32"/>
+<area shape="rect" id="node6" href="$acinterp_8h.html#a54d691369b78548695b34383179b31ab" title="AcpiExUnlinkMutex" alt="" coords="472,56,617,83"/>
+<area shape="rect" id="node7" href="$evglock_8c.html#a3850de06d9b0bb987c5c5afaf1e1551b" title="AcpiEvReleaseGlobalLock" alt="" coords="452,107,637,133"/>
+<area shape="rect" id="node8" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="685,132,841,159"/>
+</map>

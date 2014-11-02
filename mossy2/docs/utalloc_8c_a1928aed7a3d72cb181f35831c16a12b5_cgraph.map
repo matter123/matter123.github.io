@@ -1,0 +1,19 @@
+<map id="AcpiUtDeleteCaches" name="AcpiUtDeleteCaches">
+<area shape="rect" id="node2" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="498,5,547,32"/>
+<area shape="rect" id="node3" href="$acdebug_8h.html#ad550da36390676214e25a66e0e081916" title="AcpiDbDisplayStatistics" alt="" coords="207,183,379,209"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a2580cc351818e69a393dffb7eb22d32a" title="AcpiOsDeleteCache" alt="" coords="219,233,367,260"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#aa9aa083c7e66466981d90a59d8f91fd5" title="AcpiUtDumpAllocations" alt="" coords="207,132,379,159"/>
+<area shape="rect" id="node18" href="$acpiosxf_8h.html#aa3baac772ec8f5df4a49d97e39bfb307" title="AcpiOsFree" alt="" coords="246,284,339,311"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="447,259,599,285"/>
+<area shape="rect" id="node10" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="473,309,573,336"/>
+<area shape="rect" id="node11" href="$acutils_8h.html#a32401b4d319df7f28c181246a30a02ce" title="AcpiUtGetDescriptorName" alt="" coords="427,56,619,83"/>
+<area shape="rect" id="node12" href="$acutils_8h.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="445,107,601,133"/>
+<area shape="rect" id="node13" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="443,157,603,184"/>
+<area shape="rect" id="node16" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="445,208,600,235"/>
+<area shape="rect" id="node7" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="677,208,823,235"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="667,259,833,285"/>
+<area shape="rect" id="node9" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="673,309,827,336"/>
+<area shape="rect" id="node14" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="679,107,821,133"/>
+<area shape="rect" id="node15" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="881,107,1032,133"/>
+<area shape="rect" id="node17" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="672,157,828,184"/>
+</map>

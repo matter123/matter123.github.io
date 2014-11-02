@@ -1,0 +1,5 @@
+<map id="AcpiTbReleaseTempTable" name="AcpiTbReleaseTempTable">
+<area shape="rect" id="node2" href="$tbdata_8c.html#a00ebfd23cbf6aaae6602af27fb0d28fd" title="AcpiTbInvalidateTable" alt="" coords="236,5,397,32"/>
+<area shape="rect" id="node3" href="$tbdata_8c.html#a30d6951e99718a4a2754509159b87549" title="AcpiTbReleaseTable" alt="" coords="445,5,593,32"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#ac311ac97cb1dbf409feec249058d0537" title="AcpiOsUnmapMemory" alt="" coords="641,5,808,32"/>
+</map>

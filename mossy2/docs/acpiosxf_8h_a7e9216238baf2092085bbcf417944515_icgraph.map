@@ -1,0 +1,6 @@
+<map id="AcpiOsTerminate" name="AcpiOsTerminate">
+<area shape="rect" id="node2" href="$aehandlers_8c.html#a23b9a0c201544976f622d762fe5d2519" title="AeCtrlCHandler" alt="" coords="204,5,324,32"/>
+<area shape="rect" id="node3" href="$aemain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100" title="main" alt="" coords="392,56,447,83"/>
+<area shape="rect" id="node4" href="$aemain_8c.html#ae9df8ab0f9fb7564e6bd43c14118ba52" title="AeDoOptions" alt="" coords="211,107,317,133"/>
+<area shape="rect" id="node5" href="$utxface_8c.html#a97de22c9cd594c0e92eac442cdb06bc9" title="ACPI_MODULE_NAME" alt="" coords="184,157,344,184"/>
+</map>

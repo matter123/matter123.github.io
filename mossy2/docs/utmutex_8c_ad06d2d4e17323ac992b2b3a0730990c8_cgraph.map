@@ -1,0 +1,6 @@
+<map id="AcpiUtMutexTerminate" name="AcpiUtMutexTerminate">
+<area shape="rect" id="node2" href="$utmutex_8c.html#a1ea608e8033986fa13077641a23261da" title="AcpiUtDeleteMutex" alt="" coords="226,5,373,32"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#a36ae7b33f1461a8a1c50b5f2075ba704" title="AcpiOsDeleteMutex" alt="" coords="425,56,573,83"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#afd8872b87a50823335896624bdf130c4" title="AcpiOsDeleteLock" alt="" coords="230,107,369,133"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#a70e10e902e3d658b42d16e06b57a38f8" title="AcpiUtDeleteRwLock" alt="" coords="221,157,377,184"/>
+</map>

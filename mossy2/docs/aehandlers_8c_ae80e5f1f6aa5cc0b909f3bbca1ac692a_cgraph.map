@@ -1,0 +1,8 @@
+<map id="AeDeviceNotifyHandler" name="AeDeviceNotifyHandler">
+<area shape="rect" id="node2" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="228,5,388,32"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#a1ef7c69c9451fc451af49e7eba8a6b0d" title="AcpiUtGetNotifyName" alt="" coords="225,56,391,83"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="258,107,358,133"/>
+<area shape="rect" id="node7" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="283,157,333,184"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="439,5,581,32"/>
+<area shape="rect" id="node4" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="629,5,780,32"/>
+</map>

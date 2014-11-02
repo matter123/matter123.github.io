@@ -1,0 +1,9 @@
+<map id="AeNotifyHandler1" name="AeNotifyHandler1">
+<area shape="rect" id="node2" href="$aehandlers_8c.html#a5e09f1292447392f7563fe376ad3dbcb" title="AeCommonNotifyHandler" alt="" coords="189,81,376,108"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="457,5,557,32"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="427,56,587,83"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#a1ef7c69c9451fc451af49e7eba8a6b0d" title="AcpiUtGetNotifyName" alt="" coords="424,107,589,133"/>
+<area shape="rect" id="node8" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="482,157,531,184"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="637,56,780,83"/>
+<area shape="rect" id="node6" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="828,56,979,83"/>
+</map>

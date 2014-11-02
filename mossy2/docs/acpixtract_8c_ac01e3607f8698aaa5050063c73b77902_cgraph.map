@@ -1,0 +1,9 @@
+<map id="AxListTables" name="AxListTables">
+<area shape="rect" id="node2" href="$acpixtract_8c.html#a644c66b8cf435d3e30981cc2960874ef" title="AxIsEmptyLine" alt="" coords="167,5,285,32"/>
+<area shape="rect" id="node3" href="$acpixtract_8c.html#a4b7dbf4445afe6208ef09aabd16514e1" title="AxGetTableHeader" alt="" coords="155,56,297,83"/>
+<area shape="rect" id="node6" href="$string_8h.html#a6666865e6caf66fd05d4b8bd6c074cd2" title="strncmp" alt="" coords="189,107,263,133"/>
+<area shape="rect" id="node7" href="$acpixtract_8c.html#a98174f0f0d23cf20b7c5b2316f18f407" title="AxCheckAscii" alt="" coords="172,157,280,184"/>
+<area shape="rect" id="node4" href="$acpixtract_8c.html#a4352241356879d10386907c76dc92055" title="AxConvertLine" alt="" coords="345,56,461,83"/>
+<area shape="rect" id="node5" href="$string_8h.html#a9b8955ed78305a9f68e032415a62e285" title="strstr" alt="" coords="509,56,565,83"/>
+<area shape="rect" id="node8" href="$ctype_8cpp.html#a99355d8f0fb41ec43effb95189db0ed4" title="isprint" alt="" coords="373,157,434,184"/>
+</map>

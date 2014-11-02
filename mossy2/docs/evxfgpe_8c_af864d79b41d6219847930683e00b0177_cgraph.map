@@ -1,0 +1,7 @@
+<map id="ACPI_EXPORT_SYMBOL" name="ACPI_EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#ab4c7b42dd241ada889702c29e178371f" title="AcpiOsAcquireLock" alt="" coords="240,5,384,32"/>
+<area shape="rect" id="node3" href="$acevents_8h.html#ac735af1ef4c6aeec1e2702ed796d0b4c" title="AcpiEvGetGpeEventInfo" alt="" coords="224,56,400,83"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#ab433d14090054e76cee7984e4eedcc16" title="AcpiOsReleaseLock" alt="" coords="239,107,385,133"/>
+<area shape="rect" id="node4" href="$evgpe_8c.html#a8db243e551ff8da09a26a53b926ba16e" title="AcpiEvLowGetGpeInfo" alt="" coords="459,31,625,57"/>
+<area shape="rect" id="node5" href="$acnamesp_8h.html#a2abb4e00f2fdad688ad73766ff1e4acf" title="AcpiNsGetAttachedObject" alt="" coords="448,81,636,108"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ACPI_EXPORT_SYMBOL" name="ACPI_EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="225,107,377,133"/>
+<area shape="rect" id="node6" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="277,157,326,184"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="224,56,379,83"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="437,56,583,83"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="427,107,593,133"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="433,157,587,184"/>
+<area shape="rect" id="node8" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="432,5,588,32"/>
+</map>

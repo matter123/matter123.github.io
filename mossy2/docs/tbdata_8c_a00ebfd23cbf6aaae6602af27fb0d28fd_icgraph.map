@@ -1,0 +1,29 @@
+<map id="AcpiTbInvalidateTable" name="AcpiTbInvalidateTable">
+<area shape="rect" id="node2" href="$tbdata_8c.html#a1f79236c2f26110d79645fa46a27ceb3" title="AcpiTbReleaseTempTable" alt="" coords="215,81,397,108"/>
+<area shape="rect" id="node22" href="$tbdata_8c.html#ad70d033891e01989b334295880a1f6b0" title="AcpiTbVerifyTempTable" alt="" coords="221,157,391,184"/>
+<area shape="rect" id="node23" href="$tbinstal_8c.html#a4871835f1219893768fab2fa4d46c0b5" title="AcpiTbUninstallTable" alt="" coords="229,259,383,285"/>
+<area shape="rect" id="node3" href="$tbinstal_8c.html#a9d017cebec7d6eca0f21b23da9d01878" title="AcpiTbInstallFixedTable" alt="" coords="927,56,1097,83"/>
+<area shape="rect" id="node14" href="$tbinstal_8c.html#ad3246141dae96da3fb3d9746f85113f8" title="AcpiTbInstallStandardTable" alt="" coords="915,157,1109,184"/>
+<area shape="rect" id="node20" href="$tbinstal_8c.html#a90b78be7cabafbc65cc9cc4feac91ce0" title="AcpiTbOverrideTable" alt="" coords="445,157,599,184"/>
+<area shape="rect" id="node4" href="$tbfadt_8c.html#a6d279717a8bccbc2f4b292dc23bae2b7" title="AcpiTbParseFadt" alt="" coords="1195,56,1322,83"/>
+<area shape="rect" id="node5" href="$tbutils_8c.html#a0e83d5d718cd062c7f1265abac19563d" title="AcpiTbParseRootTable" alt="" coords="1419,107,1582,133"/>
+<area shape="rect" id="node6" href="$tbxface_8c.html#ace916970f57f73b08f6ad5a3c43c3e1d" title="AcpiInitializeTables" alt="" coords="1651,107,1792,133"/>
+<area shape="rect" id="node7" href="$aetables_8c.html#a5906fb218be4740a7bb255e74efc2251" title="AeInstallTables" alt="" coords="1887,31,2004,57"/>
+<area shape="rect" id="node9" href="$anmain_8c.html#abc4ff9190b747ce48aa3cf93d7f9c225" title="NsDumpEntireNamespace" alt="" coords="1849,81,2041,108"/>
+<area shape="rect" id="node11" href="$examples_8c.html#a66fd2b6c9640e94814937fbb90675961" title="InitializeFullAcpica" alt="" coords="1877,132,2013,159"/>
+<area shape="rect" id="node13" href="$examples_8c.html#afc8704e2c3cf57ce8abd92de08e9efc0" title="InitializeAcpiTables" alt="" coords="1875,183,2016,209"/>
+<area shape="rect" id="node8" href="$aemain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100" title="main" alt="" coords="2142,31,2197,57"/>
+<area shape="rect" id="node10" href="$anmain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100" title="main" alt="" coords="2142,81,2197,108"/>
+<area shape="rect" id="node12" href="$examples_8c.html#a83dcb225ccf655261b4f8d26888724c3" title="ACPI_MODULE_NAME" alt="" coords="2089,132,2249,159"/>
+<area shape="rect" id="node15" href="$exconfig_8c.html#ae6e89eb59483dedba9174568ac4f37bb" title="AcpiExLoadOp" alt="" coords="1201,5,1316,32"/>
+<area shape="rect" id="node18" href="$tbxfload_8c.html#a84954433117aa714d162ca93ce93b60b" title="AcpiInstallTable" alt="" coords="1199,107,1319,133"/>
+<area shape="rect" id="node19" href="$tbxfload_8c.html#a44d1531e185b3393693035ad989fc337" title="ACPI_EXPORT_SYMBOL_INIT" alt="" coords="1157,208,1360,235"/>
+<area shape="rect" id="node16" href="$exoparg1_8c.html#a3e9cab33e2e78974a0b519f2cba1d67e" title="AcpiExOpcode_1A_1T_0R" alt="" coords="1408,5,1593,32"/>
+<area shape="rect" id="node17" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="1641,5,1801,32"/>
+<area shape="rect" id="node21" href="$tbinstal_8c.html#a30a9cb5888a104502ba561a0c6ab6594" title="AcpiTbInstallTableWithOverride" alt="" coords="647,157,867,184"/>
+<area shape="rect" id="node24" href="$tbdata_8c.html#afa692392a9bb307bed9cd7a6fd85c488" title="AcpiTbTerminate" alt="" coords="457,360,587,387"/>
+<area shape="rect" id="node27" href="$tbutils_8c.html#aae7fbb0d3d09f29ac9cda2bf1902a40f" title="AcpiTbCopyDsdt" alt="" coords="458,309,586,336"/>
+<area shape="rect" id="node25" href="$utinit_8c.html#a4c67375418edc8c708db838e947c71a3" title="AcpiUtSubsystemShutdown" alt="" coords="657,360,857,387"/>
+<area shape="rect" id="node26" href="$utxface_8c.html#a97de22c9cd594c0e92eac442cdb06bc9" title="ACPI_MODULE_NAME" alt="" coords="932,360,1092,387"/>
+<area shape="rect" id="node28" href="$tbxfload_8c.html#a0e146fb5cffc82fe38ea5f6f68cf94f7" title="ACPI_EXPORT_SYMBOL_INIT" alt="" coords="655,309,858,336"/>
+</map>

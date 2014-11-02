@@ -1,0 +1,6 @@
+<map id="AcpiHwExecuteSleepMethod" name="AcpiHwExecuteSleepMethod">
+<area shape="rect" id="node2" href="$hwesleep_8c.html#ae12c1ccf06fb7a409861a7edb8aef7ce" title="AcpiHwExtendedWake" alt="" coords="266,5,433,32"/>
+<area shape="rect" id="node4" href="$hwsleep_8c.html#ac7a7a0377af84d5b5fbf242d4635a25d" title="AcpiHwLegacyWake" alt="" coords="273,56,425,83"/>
+<area shape="rect" id="node5" href="$hwxfsleep_8c.html#a7cc0b374328f66c10552012187efa056" title="AcpiEnterSleepStatePrep" alt="" coords="259,107,440,133"/>
+<area shape="rect" id="node3" href="$hwxfsleep_8c.html#aa9721418f76ca9280276e892c7978ce7" title="ACPI_MODULE_NAME" alt="" coords="488,31,648,57"/>
+</map>

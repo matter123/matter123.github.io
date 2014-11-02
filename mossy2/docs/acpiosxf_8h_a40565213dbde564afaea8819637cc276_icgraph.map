@@ -1,0 +1,6 @@
+<map id="AcpiOsWritePciConfiguration" name="AcpiOsWritePciConfiguration">
+<area shape="rect" id="node2" href="$exregion_8c.html#adbb0972d36286e2fcd5f4844a6eb2d44" title="AcpiExPciConfigSpaceHandler" alt="" coords="256,31,469,57"/>
+<area shape="rect" id="node3" href="$evhandler_8c.html#a54d1e523e0ef72463dd26a3a2c2ac0c3" title="AcpiEvInstallSpaceHandler" alt="" coords="517,31,709,57"/>
+<area shape="rect" id="node4" href="$evhandler_8c.html#a5e58eb0e82a92f58708e08ef8eb7a706" title="AcpiEvInstallRegionHandlers" alt="" coords="757,5,960,32"/>
+<area shape="rect" id="node5" href="$evxfregn_8c.html#aceed2fe7d449000aeaa5186335b83206" title="ACPI_MODULE_NAME" alt="" coords="779,56,939,83"/>
+</map>

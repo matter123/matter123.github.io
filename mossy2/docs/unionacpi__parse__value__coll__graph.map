@@ -1,0 +1,7 @@
+<map id="acpi_parse_value" name="acpi_parse_value">
+<area shape="rect" id="node2" href="$unionacpi__parse__object.html" title="acpi_parse_object" alt="" coords="127,95,265,121"/>
+<area shape="rect" id="node4" href="$structacpi__parse__obj__asl.html" title="acpi_parse_obj_asl" alt="" coords="59,199,202,225"/>
+<area shape="rect" id="node3" href="$structacpi__parse__obj__common.html" title="acpi_parse_obj_common" alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node5" href="$structacpi__parse__obj__named.html" title="acpi_parse_obj_named" alt="" coords="211,5,381,32"/>
+<area shape="rect" id="node6" href="$structacpi__tag__info.html" title="acpi_tag_info" alt="" coords="289,95,396,121"/>
+</map>

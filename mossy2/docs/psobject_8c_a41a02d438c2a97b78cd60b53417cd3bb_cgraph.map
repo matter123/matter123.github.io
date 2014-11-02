@@ -1,0 +1,7 @@
+<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
+<area shape="rect" id="node2" href="$acparser_8h.html#a068081cc3f25328554c5b2adadfc8c21" title="AcpiPsPeekOpcode" alt="" coords="222,5,367,32"/>
+<area shape="rect" id="node3" href="$acparser_8h.html#af458f473e3b9fe4ef621f63c5fb7e7f5" title="AcpiPsGetOpcodeInfo" alt="" coords="214,56,375,83"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="245,107,345,133"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#add7836e0b98d0443f42135c56ef520b5" title="AcpiUtDumpBuffer" alt="" coords="223,157,366,184"/>
+<area shape="rect" id="node6" href="$acparser_8h.html#ae3bc58bd3db4a04ca2d5ecf1b4472977" title="AcpiPsGetOpcodeSize" alt="" coords="213,208,376,235"/>
+</map>

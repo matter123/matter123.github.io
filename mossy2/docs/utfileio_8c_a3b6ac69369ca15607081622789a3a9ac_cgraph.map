@@ -1,0 +1,8 @@
+<map id="AcpiUtReadTable" name="AcpiUtReadTable">
+<area shape="rect" id="node2" href="$acapps_8h.html#a25d027abab0591a6ea0f48906dfe842c" title="CmGetFileSize" alt="" coords="211,5,325,32"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="218,56,318,83"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="209,107,327,133"/>
+<area shape="rect" id="node5" href="$actables_8h.html#a97027aef862a899f17a4b9d8fabafeb9" title="AcpiTbVerifyChecksum" alt="" coords="183,157,353,184"/>
+<area shape="rect" id="node7" href="$acpiosxf_8h.html#aa3baac772ec8f5df4a49d97e39bfb307" title="AcpiOsFree" alt="" coords="221,208,315,235"/>
+<area shape="rect" id="node6" href="$tbprint_8c.html#a1ab2aceedbf858c17060d36fe6120fa0" title="AcpiTbChecksum" alt="" coords="401,157,535,184"/>
+</map>

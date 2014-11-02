@@ -1,0 +1,14 @@
+<map id="AcpiNsGetType" name="AcpiNsGetType">
+<area shape="rect" id="node2" href="$dsinit_8c.html#a6bc1ae9c6b4e08af54b878eea8ec2efd" title="ACPI_MODULE_NAME" alt="" coords="186,5,346,32"/>
+<area shape="rect" id="node3" href="$exprep_8c.html#a52edde5a3bd15ce2c8c7ffa081ecc6fe" title="AcpiExPrepFieldValue" alt="" coords="187,56,345,83"/>
+<area shape="rect" id="node4" href="$exresolv_8c.html#aeb509c6af2d1835554a37a224479b070" title="AcpiExResolveMultiple" alt="" coords="184,107,348,133"/>
+<area shape="rect" id="node7" href="$exstore_8c.html#a390748f80ddac5f04656d8b48463e85e" title="AcpiExStoreObjectToNode" alt="" coords="172,157,360,184"/>
+<area shape="rect" id="node9" href="$nseval_8c.html#a0df1c087ee7e9ea09cc254112caf6b5a" title="AcpiNsExecModuleCode" alt="" coords="178,208,354,235"/>
+<area shape="rect" id="node11" href="$nsinit_8c.html#a17eb3137b46cce5ceeb5f43350be5248" title="AcpiNsInitOneObject" alt="" coords="189,259,343,285"/>
+<area shape="rect" id="node13" href="$nsxfeval_8c.html#a22c5f12b9f86e7dd8a2b2ceffb3a5a4c" title="ACPI_EXPORT_SYMBOL" alt="" coords="181,309,351,336"/>
+<area shape="rect" id="node5" href="$exoparg1_8c.html#ab693e242f7c0a710093515164485a353" title="AcpiExOpcode_1A_0T_1R" alt="" coords="415,107,600,133"/>
+<area shape="rect" id="node6" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="655,107,815,133"/>
+<area shape="rect" id="node8" href="$exstore_8c.html#adea86161cc416484a893c400e184357c" title="ACPI_MODULE_NAME" alt="" coords="427,157,587,184"/>
+<area shape="rect" id="node10" href="$nseval_8c.html#a344c44bdf46f034082afab61eb0a1dbe" title="AcpiNsExecModuleCodeList" alt="" coords="408,208,607,235"/>
+<area shape="rect" id="node12" href="$nsinit_8c.html#a67a7545569a1d8efdfb8e104b7f33498" title="ACPI_MODULE_NAME" alt="" coords="427,259,587,285"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="AcpiUtGetReferenceName" name="AcpiUtGetReferenceName">
+<area shape="rect" id="node2" href="$exdebug_8c.html#a962e6c03886dcc5562e6b166da7c9086" title="ACPI_MODULE_NAME" alt="" coords="263,56,423,83"/>
+<area shape="rect" id="node3" href="$exdump_8c.html#a84820de5e5b6260111c1c7579ddbe56d" title="AcpiExDumpObject" alt="" coords="532,31,677,57"/>
+<area shape="rect" id="node6" href="$exdump_8c.html#a97c5a4bb261a76403437739b8dc4f34d" title="AcpiExDumpOperand" alt="" coords="263,208,422,235"/>
+<area shape="rect" id="node8" href="$exdump_8c.html#a7cb7cfe96b038e599cc8ad04dd16d623" title="AcpiExDumpPackageObj" alt="" coords="253,157,432,184"/>
+<area shape="rect" id="node9" href="$exresop_8c.html#ab313c7e5442bc798e45612ef5f17cfe5" title="AcpiExResolveOperands" alt="" coords="254,259,431,285"/>
+<area shape="rect" id="node17" href="$nsdump_8c.html#a7bacf773693559e3e30aaa64279ffbe7" title="AcpiNsDumpOneObject" alt="" coords="257,461,429,488"/>
+<area shape="rect" id="node24" href="$nspredef_8c.html#a3a898c84a9ab1cb431635fe9826d6436" title="AcpiNsCheckReference" alt="" coords="257,563,428,589"/>
+<area shape="rect" id="node30" href="$utobject_8c.html#a7a546242a2771807f8c37bc8e96e9fb9" title="AcpiUtGetSimpleObjectSize" alt="" coords="244,689,441,716"/>
+<area shape="rect" id="node4" href="$exdump_8c.html#a99662cbe4ce5a524b378f3dc6dbfe6d5" title="AcpiExDumpNamespaceNode" alt="" coords="771,5,985,32"/>
+<area shape="rect" id="node5" href="$exdump_8c.html#a018c76e0dea3fc2e5769f5776475c3bd" title="AcpiExDumpObjectDescriptor" alt="" coords="1036,31,1247,57"/>
+<area shape="rect" id="node7" href="$exdump_8c.html#ac4e9b6ea6cf626dcd8d9a6fd21c86926" title="AcpiExDumpOperands" alt="" coords="521,81,688,108"/>
+<area shape="rect" id="node10" href="$dsopcode_8c.html#a4b5e29aefc641231c3645e2e50ce4d33" title="AcpiDsEvalBufferFieldOperands" alt="" coords="493,132,716,159"/>
+<area shape="rect" id="node11" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="809,233,947,260"/>
+<area shape="rect" id="node12" href="$dsopcode_8c.html#a8a1a2ceb847f08e1c4fcbd4a20fc58d9" title="AcpiDsEvalRegionOperands" alt="" coords="505,233,704,260"/>
+<area shape="rect" id="node13" href="$dsopcode_8c.html#a3ddd5df02d8bacf2b9842121d690e969" title="AcpiDsEvalTableRegionOperands" alt="" coords="489,284,720,311"/>
+<area shape="rect" id="node14" href="$dsopcode_8c.html#ac83c7a9ad6fbc05139395602b311da4c" title="AcpiDsEvalDataObjectOperands" alt="" coords="491,335,718,361"/>
+<area shape="rect" id="node15" href="$exoparg1_8c.html#ab693e242f7c0a710093515164485a353" title="AcpiExOpcode_1A_0T_1R" alt="" coords="512,385,697,412"/>
+<area shape="rect" id="node16" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="798,385,958,412"/>
+<area shape="rect" id="node18" href="$nsdump_8c.html#a516f33d7b8b8dc46b93df16b1c7795aa" title="AcpiNsDumpObjects" alt="" coords="528,436,681,463"/>
+<area shape="rect" id="node22" href="$nsdump_8c.html#a24ef05406617b689b00d1c53c86df686" title="AcpiNsDumpEntry" alt="" coords="535,487,674,513"/>
+<area shape="rect" id="node23" href="$nsdumpdv_8c.html#a28e09bf7756fd9775bd99d7e3616a84d" title="ACPI_MODULE_NAME" alt="" coords="525,537,685,564"/>
+<area shape="rect" id="node19" href="$nsdump_8c.html#a9dfce5a2c77c32cfe71f7871c09198cc" title="AcpiNsDumpTables" alt="" coords="805,436,951,463"/>
+<area shape="rect" id="node20" href="$anmain_8c.html#abc4ff9190b747ce48aa3cf93d7f9c225" title="NsDumpEntireNamespace" alt="" coords="782,487,974,513"/>
+<area shape="rect" id="node21" href="$anmain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100" title="main" alt="" coords="1114,487,1169,513"/>
+<area shape="rect" id="node25" href="$nspredef_8c.html#aa4f7ff3e89f2867c426bab45122a4dce" title="AcpiNsCheckObjectType" alt="" coords="516,588,693,615"/>
+<area shape="rect" id="node26" href="$nspredef_8c.html#a0f9606fcbf2c8589c8e28cede1ad2d23" title="ACPI_MODULE_NAME" alt="" coords="798,537,958,564"/>
+<area shape="rect" id="node27" href="$nsprepkg_8c.html#a7b65f9d4c8b36d012cc2a90fbbe15030" title="AcpiNsCheckPackageList" alt="" coords="1050,588,1233,615"/>
+<area shape="rect" id="node29" href="$nsprepkg_8c.html#a85fea3c7ff42f33622fdfadd151f646d" title="AcpiNsCheckPackageElements" alt="" coords="768,639,988,665"/>
+<area shape="rect" id="node28" href="$nsprepkg_8c.html#a0a6bb3330909d6035599b9cfeb64b80e" title="ACPI_MODULE_NAME" alt="" coords="1300,613,1460,640"/>
+<area shape="rect" id="node31" href="$utobject_8c.html#a4b0cff5dee1e845f1c1b344bf7323808" title="AcpiUtGetElementLength" alt="" coords="513,689,697,716"/>
+<area shape="rect" id="node33" href="$utobject_8c.html#a688bca211eec447a72ebfcc46ad4b591" title="AcpiUtGetObjectSize" alt="" coords="1064,715,1219,741"/>
+<area shape="rect" id="node32" href="$utobject_8c.html#a6d7316657684370eb3aa882896451fd8" title="AcpiUtGetPackageObjectSize" alt="" coords="774,689,982,716"/>
+<area shape="rect" id="node34" href="$nsxfeval_8c.html#a22c5f12b9f86e7dd8a2b2ceffb3a5a4c" title="ACPI_EXPORT_SYMBOL" alt="" coords="1295,715,1465,741"/>
+</map>

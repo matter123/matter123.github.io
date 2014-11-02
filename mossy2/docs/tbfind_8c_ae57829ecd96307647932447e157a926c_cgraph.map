@@ -1,0 +1,5 @@
+<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
+<area shape="rect" id="node2" href="$actables_8h.html#a30cf146453108c7795db113dd60117e8" title="AcpiTbValidateTable" alt="" coords="213,5,363,32"/>
+<area shape="rect" id="node3" href="$tbdata_8c.html#aeaa732040b88787f73c16e590ed74395" title="AcpiTbAcquireTable" alt="" coords="411,5,557,32"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a1fae7131b07b0af4ddeb969d6ab08fbc" title="AcpiOsMapMemory" alt="" coords="605,5,752,32"/>
+</map>

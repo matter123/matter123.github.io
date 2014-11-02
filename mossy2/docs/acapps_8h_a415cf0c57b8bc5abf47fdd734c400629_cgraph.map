@@ -1,0 +1,9 @@
+<map id="AdInitialize" name="AdInitialize">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#a01f7e1c7599d4bf8c7f6da760ba4a77a" title="AcpiOsInitialize" alt="" coords="163,5,281,32"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#ac9857867ecb8565c75b0f5a7411d2c78" title="AcpiUtInitGlobals" alt="" coords="157,56,287,83"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#a766173bb016e5ae63e8af71ae388e2b1" title="AcpiUtMutexInitialize" alt="" coords="144,107,300,133"/>
+<area shape="rect" id="node8" href="$acnamesp_8h.html#a0dbee13c36c9e5145a77f984fbc33712" title="AcpiNsRootInitialize" alt="" coords="149,157,295,184"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a62e8d4e5d15336b9b230ccea43d42d03" title="AcpiUtCreateCaches" alt="" coords="348,56,503,83"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#a6863f68645761f326e0e2ebab67bb2ef" title="AcpiOsCreateCache" alt="" coords="551,31,700,57"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#abb3030ddadfe832b3cde5fa465b05a58" title="AcpiUtCreateList" alt="" coords="561,81,690,108"/>
+</map>

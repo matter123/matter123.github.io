@@ -1,0 +1,13 @@
+<map id="AcpiPsGetNextNamepath" name="AcpiPsGetNextNamepath">
+<area shape="rect" id="node2" href="$psargs_8c.html#a710c369e98a15d5417d3dceb86a79186" title="AcpiPsGetNextArg" alt="" coords="240,56,380,83"/>
+<area shape="rect" id="node3" href="$psloop_8c.html#a78ccfb6270e6caa134eb770559139699" title="ACPI_MODULE_NAME" alt="" coords="428,5,588,32"/>
+<area shape="rect" id="node4" href="$psobject_8c.html#a1ee6f13d505b85b630a8721e56355580" title="AcpiPsBuildNamedOp" alt="" coords="428,56,588,83"/>
+<area shape="rect" id="node5" href="$psobject_8c.html#a56335defebfdcbbc9c1540ab1a24e5f6" title="AcpiPsCreateOp" alt="" coords="636,56,761,83"/>
+<area shape="rect" id="node6" href="$psloop_8c.html#a996ff754bbd6f95f225264fc60bc4a92" title="AcpiPsParseLoop" alt="" coords="809,56,940,83"/>
+<area shape="rect" id="node7" href="$psparse_8c.html#aa3fa02017bde9a180cac40f78ba4da79" title="AcpiPsParseAml" alt="" coords="988,56,1112,83"/>
+<area shape="rect" id="node8" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="1189,5,1295,32"/>
+<area shape="rect" id="node10" href="$dsargs_8c.html#a68725a4fbc8daec7a112d6d65692d03b" title="ACPI_MODULE_NAME" alt="" coords="1162,56,1322,83"/>
+<area shape="rect" id="node11" href="$psxface_8c.html#a5deb05e87edeac32fc40a9cc6a4d0185" title="AcpiPsExecuteMethod" alt="" coords="1160,107,1324,133"/>
+<area shape="rect" id="node9" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="1379,5,1525,32"/>
+<area shape="rect" id="node12" href="$nseval_8c.html#a757d9e28ba64867c0e1d1e8b70e9b645" title="ACPI_MODULE_NAME" alt="" coords="1372,107,1532,133"/>
+</map>

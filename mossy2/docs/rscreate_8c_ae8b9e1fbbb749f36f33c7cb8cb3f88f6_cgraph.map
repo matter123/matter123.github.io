@@ -1,0 +1,21 @@
+<map id="AcpiRsCreateAmlResources" name="AcpiRsCreateAmlResources">
+<area shape="rect" id="node2" href="$acresrc_8h.html#a83c3c34c003eab4584120cbd6845f822" title="AcpiRsGetAmlLength" alt="" coords="284,56,441,83"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a33690521700dfd34b396b17fc0917fd1" title="AcpiUtInitializeBuffer" alt="" coords="285,107,440,133"/>
+<area shape="rect" id="node6" href="$acresrc_8h.html#a1ba6577ced7f8603c296d754735b2a2a" title="AcpiRsConvertResourcesToAml" alt="" coords="252,196,473,223"/>
+<area shape="rect" id="node3" href="$rscalc_8c.html#ae877de0aa6682b5c4dfa2746033889df" title="AcpiRsStructOptionLength" alt="" coords="534,56,723,83"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="570,107,687,133"/>
+<area shape="rect" id="node7" href="$acresrc_8h.html#a08bae373757ad3cdcb98a4d1cdec14a8" title="AcpiRsConvertResourceToAml" alt="" coords="521,157,736,184"/>
+<area shape="rect" id="node17" href="$acutils_8h.html#aad98575e92bf2e7865277cb1ca8bac00" title="AcpiUtValidateResource" alt="" coords="541,233,716,260"/>
+<area shape="rect" id="node19" href="$acutils_8h.html#aa05cf021bd4cd2c58b51959b44967c14" title="AcpiUtGetDescriptorLength" alt="" coords="530,309,727,336"/>
+<area shape="rect" id="node8" href="$acresrc_8h.html#ac2d2fff3770c8a02f88e12f9fc3c3b2b" title="AcpiRsSetResourceHeader" alt="" coords="807,5,999,32"/>
+<area shape="rect" id="node11" href="$acresrc_8h.html#a1acec2a2c34089312bda8549dd61a5aa" title="AcpiRsSetResourceLength" alt="" coords="1069,56,1259,83"/>
+<area shape="rect" id="node12" href="$acresrc_8h.html#af9a7a672369ba12498d709f168c7483f" title="AcpiRsMoveData" alt="" coords="837,107,968,133"/>
+<area shape="rect" id="node13" href="$acresrc_8h.html#aecd318b4ec9ec05c4f66a92def86b454" title="AcpiRsSetAddressCommon" alt="" coords="804,157,1001,184"/>
+<area shape="rect" id="node15" href="$acresrc_8h.html#aa2473a49c3405bc0d0621b0c0b9bddbe" title="AcpiRsSetResourceSource" alt="" coords="808,208,997,235"/>
+<area shape="rect" id="node16" href="$acresrc_8h.html#ac8e1e93114ff03cb692abed87b9937aa" title="AcpiRsEncodeBitmask" alt="" coords="820,259,985,285"/>
+<area shape="rect" id="node9" href="$rsutils_8c.html#a1acec2a2c34089312bda8549dd61a5aa" title="AcpiRsSetResourceLength" alt="" coords="1069,5,1259,32"/>
+<area shape="rect" id="node10" href="$acutils_8h.html#a9b1217ec03966ce973d2bc9914ef422c" title="AcpiUtGetResourceHeaderLength" alt="" coords="1307,31,1544,57"/>
+<area shape="rect" id="node14" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="1139,157,1189,184"/>
+<area shape="rect" id="node18" href="$utresrc_8c.html#a70e920b7d3b986162c4719e8f032ee7a" title="AcpiUtGetResourceLength" alt="" coords="807,309,998,336"/>
+<area shape="rect" id="node20" href="$utresrc_8c.html#a9b1217ec03966ce973d2bc9914ef422c" title="AcpiUtGetResourceHeaderLength" alt="" coords="784,360,1021,387"/>
+</map>

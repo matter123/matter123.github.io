@@ -1,0 +1,5 @@
+<map id="AcpiHwEnableWakeupGpeBlock" name="AcpiHwEnableWakeupGpeBlock">
+<area shape="rect" id="node2" href="$hwgpe_8c.html#a416a7cacbd151825fd768d9ca080083a" title="AcpiHwEnableAllWakeupGpes" alt="" coords="280,31,493,57"/>
+<area shape="rect" id="node3" href="$hwsleep_8c.html#aa4a433f6c7bcd24d45f80ca3ebea8ee1" title="ACPI_MODULE_NAME" alt="" coords="547,5,707,32"/>
+<area shape="rect" id="node4" href="$hwxfsleep_8c.html#a6ed557ecc3e49c9df7fef648ef5b372c" title="ACPI_EXPORT_SYMBOL" alt="" coords="541,56,712,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="AcpiExReleaseGlobalLock" name="AcpiExReleaseGlobalLock">
+<area shape="rect" id="node2" href="$acinterp_8h.html#af477b432c50188b77e0dc7035f2206cf" title="AcpiExReleaseMutexObject" alt="" coords="239,56,435,83"/>
+<area shape="rect" id="node3" href="$acinterp_8h.html#a54d691369b78548695b34383179b31ab" title="AcpiExUnlinkMutex" alt="" coords="503,5,648,32"/>
+<area shape="rect" id="node4" href="$evglock_8c.html#a3850de06d9b0bb987c5c5afaf1e1551b" title="AcpiEvReleaseGlobalLock" alt="" coords="483,56,668,83"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="716,81,872,108"/>
+</map>

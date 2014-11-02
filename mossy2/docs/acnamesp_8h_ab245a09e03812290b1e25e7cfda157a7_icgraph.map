@@ -1,0 +1,29 @@
+<map id="AcpiNsGetSecondaryObject" name="AcpiNsGetSecondaryObject">
+<area shape="rect" id="node2" href="$dsargs_8c.html#a28132f569cdd69ef2c2df765f97f1e48" title="AcpiDsGetBufferFieldArguments" alt="" coords="252,107,479,133"/>
+<area shape="rect" id="node3" href="$dsargs_8c.html#ac8ceec018dea043ec583344d5d695580" title="AcpiDsGetBankFieldArguments" alt="" coords="255,157,476,184"/>
+<area shape="rect" id="node4" href="$dsargs_8c.html#a170092b62c6d25811aedf334b280b487" title="AcpiDsGetRegionArguments" alt="" coords="264,208,467,235"/>
+<area shape="rect" id="node5" href="$evregion_8c.html#a383b7f6f24b2a904d84b93c96bc384cd" title="AcpiEvAddressSpaceDispatch" alt="" coords="259,259,471,285"/>
+<area shape="rect" id="node17" href="$evregion_8c.html#a79c653dbc8bc3972b3ad308a8c09ed40" title="AcpiEvDetachRegion" alt="" coords="529,309,684,336"/>
+<area shape="rect" id="node23" href="$evregion_8c.html#a21c4fb4f736d54a8898a9189de7d0e27" title="AcpiEvExecuteRegMethod" alt="" coords="271,360,460,387"/>
+<area shape="rect" id="node27" href="$evrgnini_8c.html#aca2d7974fb49a3d73804173609fdbb24" title="AcpiEvInitializeRegion" alt="" coords="527,411,687,437"/>
+<area shape="rect" id="node28" href="$utdelete_8c.html#a89de061a214dd19fbd25ebddd1fab1d3" title="ACPI_MODULE_NAME" alt="" coords="285,461,445,488"/>
+<area shape="rect" id="node6" href="$exconfig_8c.html#a47f3a41d089f9af9fe3d1d8a567cd73c" title="AcpiExRegionRead" alt="" coords="537,259,677,285"/>
+<area shape="rect" id="node10" href="$exfldio_8c.html#a75afcc69a02487c331d0a367756bfd7c" title="AcpiExAccessRegion" alt="" coords="530,183,683,209"/>
+<area shape="rect" id="node7" href="$exconfig_8c.html#ae6e89eb59483dedba9174568ac4f37bb" title="AcpiExLoadOp" alt="" coords="775,259,890,285"/>
+<area shape="rect" id="node8" href="$exoparg1_8c.html#a3e9cab33e2e78974a0b519f2cba1d67e" title="AcpiExOpcode_1A_1T_0R" alt="" coords="987,259,1172,285"/>
+<area shape="rect" id="node9" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="1249,259,1409,285"/>
+<area shape="rect" id="node11" href="$exfield_8c.html#a700a9a20911cb29ae0bdacd6de782747" title="AcpiExReadDataFromField" alt="" coords="1235,132,1423,159"/>
+<area shape="rect" id="node12" href="$exfield_8c.html#ae834ac9c29d3bc3f0dea8eb289393563" title="AcpiExWriteDataToField" alt="" coords="1479,132,1649,159"/>
+<area shape="rect" id="node13" href="$exfldio_8c.html#a58ed8662377c4ffa1f3067d7ee0bc9d3" title="AcpiExFieldDatumIo" alt="" coords="758,107,907,133"/>
+<area shape="rect" id="node14" href="$exfldio_8c.html#ad928704be2dcf39b2746f90a5352ede4" title="AcpiExWriteWithUpdateRule" alt="" coords="979,5,1180,32"/>
+<area shape="rect" id="node16" href="$exfldio_8c.html#a63e101da19415614a29a5fc7f252c8ba" title="AcpiExExtractFromField" alt="" coords="994,107,1165,133"/>
+<area shape="rect" id="node15" href="$exfldio_8c.html#a8be6d663bd08d6405d94ad17f4b6aae3" title="AcpiExInsertIntoField" alt="" coords="1252,56,1407,83"/>
+<area shape="rect" id="node18" href="$evhandler_8c.html#a32f656582d91f366e93e4122d371687f" title="AcpiEvInstallHandler" alt="" coords="756,360,909,387"/>
+<area shape="rect" id="node22" href="$evxfregn_8c.html#aff71673193b283e51f9f94f0dd2ed616" title="ACPI_EXPORT_SYMBOL" alt="" coords="747,309,918,336"/>
+<area shape="rect" id="node19" href="$evhandler_8c.html#a54d1e523e0ef72463dd26a3a2c2ac0c3" title="AcpiEvInstallSpaceHandler" alt="" coords="983,360,1175,387"/>
+<area shape="rect" id="node20" href="$evhandler_8c.html#a5e58eb0e82a92f58708e08ef8eb7a706" title="AcpiEvInstallRegionHandlers" alt="" coords="1228,335,1431,361"/>
+<area shape="rect" id="node21" href="$evxfregn_8c.html#aceed2fe7d449000aeaa5186335b83206" title="ACPI_MODULE_NAME" alt="" coords="1249,385,1409,412"/>
+<area shape="rect" id="node24" href="$evregion_8c.html#aa2ec64ed57e0093af5788075388f118c" title="AcpiEvRegRun" alt="" coords="550,360,663,387"/>
+<area shape="rect" id="node25" href="$evregion_8c.html#af8a1f646835a1ad75063fdd9aec109ef" title="AcpiEvExecuteRegMethods" alt="" coords="735,411,931,437"/>
+<area shape="rect" id="node26" href="$evregion_8c.html#a6586fe9d74d7161191cbb95795461946" title="ACPI_MODULE_NAME" alt="" coords="999,411,1159,437"/>
+</map>

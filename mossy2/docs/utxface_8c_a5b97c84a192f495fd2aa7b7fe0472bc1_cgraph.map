@@ -1,0 +1,6 @@
+<map id="ACPI_EXPORT_SYMBOL" name="ACPI_EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$acutils_8h.html#af6cc152afb6c47d006c96f6d1878446a" title="AcpiUtValidateBuffer" alt="" coords="224,5,379,32"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#a33690521700dfd34b396b17fc0917fd1" title="AcpiUtInitializeBuffer" alt="" coords="224,56,379,83"/>
+<area shape="rect" id="node5" href="$rsmisc_8c.html#a3331c55d15485e227a6ef7db9eade5cc" title="if" alt="" coords="282,107,321,133"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="427,56,544,83"/>
+</map>

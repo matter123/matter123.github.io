@@ -1,0 +1,5 @@
+<map id="acpi_table_list" name="acpi_table_list">
+<area shape="rect" id="node2" href="$structacpi__table__desc.html" title="acpi_table_desc" alt="" coords="91,95,215,121"/>
+<area shape="rect" id="node3" href="$unionacpi__name__union.html" title="acpi_name_union" alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node4" href="$structacpi__table__header.html" title="acpi_table_header" alt="" coords="165,5,303,32"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="AcpiPsGetNextNamepath" name="AcpiPsGetNextNamepath">
+<area shape="rect" id="node2" href="$psargs_8c.html#a8799f6c43aabc5a07a24287ee0df72c9" title="AcpiPsGetNextNamestring" alt="" coords="240,32,433,58"/>
+<area shape="rect" id="node3" href="$acparser_8h.html#a18d9f8ba30e9b417deea5bb136c16708" title="AcpiPsInitOp" alt="" coords="285,82,388,109"/>
+<area shape="rect" id="node5" href="$acnamesp_8h.html#a0516af979dcfc47d902db79bc76b0758" title="AcpiNsLookup" alt="" coords="280,336,393,362"/>
+<area shape="rect" id="node24" href="$acnamesp_8h.html#a2abb4e00f2fdad688ad73766ff1e4acf" title="AcpiNsGetAttachedObject" alt="" coords="243,386,431,413"/>
+<area shape="rect" id="node25" href="$acparser_8h.html#aa4f4250f2638bfb43224407fbc7c7560" title="AcpiPsAllocOp" alt="" coords="281,133,393,160"/>
+<area shape="rect" id="node27" href="$acparser_8h.html#ab916ff716c1de0fdaf6ea7dcbfd47353" title="AcpiPsAppendArg" alt="" coords="269,184,404,210"/>
+<area shape="rect" id="node28" href="$acdispat_8h.html#a19d7859fa76e4b32f707407d759e9c57" title="AcpiDsMethodError" alt="" coords="264,716,409,742"/>
+<area shape="rect" id="node4" href="$acparser_8h.html#af458f473e3b9fe4ef621f63c5fb7e7f5" title="AcpiPsGetOpcodeInfo" alt="" coords="730,108,891,134"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#a32401b4d319df7f28c181246a30a02ce" title="AcpiUtGetDescriptorName" alt="" coords="481,285,673,312"/>
+<area shape="rect" id="node7" href="$acnamesp_8h.html#af1ac10c31f5b490a7e90b1d2fc0876d2" title="AcpiNsOpensScope" alt="" coords="504,336,651,362"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="963,450,1123,477"/>
+<area shape="rect" id="node11" href="$acnamesp_8h.html#a4ee2a0a66a9a1ee73a7c0c17414a1cd2" title="AcpiNsPrintPathname" alt="" coords="497,386,657,413"/>
+<area shape="rect" id="node12" href="$acnamesp_8h.html#ab07456ce967d2e1dba54035d55202130" title="AcpiNsSearchAndEnter" alt="" coords="493,488,662,514"/>
+<area shape="rect" id="node17" href="$acutils_8h.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="965,349,1121,376"/>
+<area shape="rect" id="node20" href="$acdispat_8h.html#a14e3c0276b6801741eac7d2a0a1a51b4" title="AcpiDsScopeStackPush" alt="" coords="725,273,897,300"/>
+<area shape="rect" id="node9" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="1198,498,1341,525"/>
+<area shape="rect" id="node10" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="1400,498,1551,525"/>
+<area shape="rect" id="node13" href="$acnamesp_8h.html#a578c5f8377cf42c7200f48d05945611a" title="AcpiNsSearchOneScope" alt="" coords="956,552,1131,578"/>
+<area shape="rect" id="node14" href="$nssearch_8c.html#ad2563dd5464c213bde6b298d5e7b202b" title="AcpiNsSearchParentTree" alt="" coords="721,437,900,464"/>
+<area shape="rect" id="node18" href="$acnamesp_8h.html#a5558a284dbe93028b88f32b759874131" title="AcpiNsCreateNode" alt="" coords="739,488,882,514"/>
+<area shape="rect" id="node19" href="$acnamesp_8h.html#a7962f6350856cbda724b6e4536f7883d" title="AcpiNsInstallNode" alt="" coords="741,386,880,413"/>
+<area shape="rect" id="node15" href="$acnamesp_8h.html#ad05e9d19d20c4bef3826b60e67434b70" title="AcpiNsLocal" alt="" coords="994,400,1093,426"/>
+<area shape="rect" id="node16" href="$acutils_8h.html#aac71aba015f01de4679cd36217a84f6d" title="AcpiUtValidObjectType" alt="" coords="1187,353,1352,380"/>
+<area shape="rect" id="node21" href="$acutils_8h.html#a1007334913adfd3d3a64e8373a863084" title="AcpiUtCreateGenericState" alt="" coords="948,114,1139,141"/>
+<area shape="rect" id="node23" href="$acutils_8h.html#ae6cc5a988c45a2765e6d0638c87e0bfb" title="AcpiUtPushGenericState" alt="" coords="954,248,1133,274"/>
+<area shape="rect" id="node22" href="$acpiosxf_8h.html#a3aeec4a3020b07475a5b9a4a5b0bbf15" title="AcpiOsAcquireObject" alt="" coords="1192,48,1347,74"/>
+<area shape="rect" id="node26" href="$psutils_8c.html#afb749f86e7331cd150f829087bc66142" title="AcpiPsInitOp" alt="" coords="526,82,629,109"/>
+<area shape="rect" id="node29" href="$acinterp_8h.html#a409acfbfc858f83907b6e954af78e1e8" title="AcpiExExitInterpreter" alt="" coords="498,665,657,692"/>
+<area shape="rect" id="node34" href="$acinterp_8h.html#ad92e715d9a22423f89d66f3fd28975e2" title="AcpiExEnterInterpreter" alt="" coords="493,716,661,742"/>
+<area shape="rect" id="node35" href="$acdispat_8h.html#a6f9309d55820250109c4c71f7a53a9bd" title="AcpiDsClearImplicitReturn" alt="" coords="484,766,671,793"/>
+<area shape="rect" id="node36" href="$acdisasm_8h.html#a7c2b523c67080701a66bd46c10321b0e" title="AcpiDmDumpMethodInfo" alt="" coords="485,817,669,844"/>
+<area shape="rect" id="node30" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="733,716,888,742"/>
+<area shape="rect" id="node31" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="970,690,1117,717"/>
+<area shape="rect" id="node32" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="960,741,1127,768"/>
+<area shape="rect" id="node33" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="965,792,1121,818"/>
+</map>

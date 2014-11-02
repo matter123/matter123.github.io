@@ -1,0 +1,7 @@
+<map id="AcpiDsMethodDataGetValue" name="AcpiDsMethodDataGetValue">
+<area shape="rect" id="node2" href="$exoparg1_8c.html#ab693e242f7c0a710093515164485a353" title="AcpiExOpcode_1A_0T_1R" alt="" coords="509,5,695,32"/>
+<area shape="rect" id="node4" href="$exresolv_8c.html#a9696b1aa20733467ebf9f5a67d00249b" title="AcpiExResolveObjectToValue" alt="" coords="256,81,461,108"/>
+<area shape="rect" id="node6" href="$exresolv_8c.html#aeb509c6af2d1835554a37a224479b070" title="AcpiExResolveMultiple" alt="" coords="277,31,441,57"/>
+<area shape="rect" id="node3" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="743,5,903,32"/>
+<area shape="rect" id="node5" href="$exresolv_8c.html#a7b34cac9784d02fad300e518bc6a9c8e" title="ACPI_MODULE_NAME" alt="" coords="522,81,682,108"/>
+</map>

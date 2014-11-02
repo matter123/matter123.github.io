@@ -1,7 +1,7 @@
 <map id="x64::PD_OFF" name="x64::PD_OFF">
 <area shape="rect" id="node2" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="156,128,356,155"/>
-<area shape="rect" id="node10" href="$classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="175,193,337,234"/>
-<area shape="rect" id="node12" href="$classx64_1_1recursive__paging.html#aa2d2b1f726c92101e1d7c65327fdc8ea" title="x64::recursive_paging\l::locate" alt="" coords="175,258,337,299"/>
+<area shape="rect" id="node11" href="$classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="175,193,337,234"/>
+<area shape="rect" id="node13" href="$classx64_1_1recursive__paging.html#aa2d2b1f726c92101e1d7c65327fdc8ea" title="x64::recursive_paging\l::locate" alt="" coords="175,258,337,299"/>
 <area shape="rect" id="node3" href="$namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="451,56,548,83"/>
 <area shape="rect" id="node8" href="$namespacehal.html#aa477aac835558177ef108118f601d96f" title="hal::map_free_to_virt_cur" alt="" coords="406,107,593,133"/>
 <area shape="rect" id="node9" href="$namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="404,157,595,184"/>
@@ -9,6 +9,7 @@
 <area shape="rect" id="node5" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="837,5,940,32"/>
 <area shape="rect" id="node7" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="813,56,964,83"/>
 <area shape="rect" id="node6" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1012,5,1139,32"/>
-<area shape="rect" id="node11" href="$namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="406,208,593,235"/>
-<area shape="rect" id="node13" href="$namespacehal.html#aa6d7cec673e4a4ea06601327ba2642b9" title="hal::phys_from_virt" alt="" coords="426,265,573,292"/>
+<area shape="rect" id="node10" href="$namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="646,157,762,184"/>
+<area shape="rect" id="node12" href="$namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="406,208,593,235"/>
+<area shape="rect" id="node14" href="$namespacehal.html#aa6d7cec673e4a4ea06601327ba2642b9" title="hal::phys_from_virt" alt="" coords="426,265,573,292"/>
 </map>

@@ -1,0 +1,12 @@
+<map id="AcpiOsOpenFile" name="AcpiOsOpenFile">
+<area shape="rect" id="node2" href="$apfiles_8c.html#a86ec5262aac4b341ab755b9987f463fc" title="ApOpenOutputFile" alt="" coords="178,56,315,83"/>
+<area shape="rect" id="node4" href="$apfiles_8c.html#a7369b628b1807bef8fe8d2c416f445b7" title="ApWriteToBinaryFile" alt="" coords="173,107,320,133"/>
+<area shape="rect" id="node11" href="$apfiles_8c.html#ae394a7f68c3c55eb0e5ea9c03b6b415a" title="ApGetTableFromFile" alt="" coords="370,157,517,184"/>
+<area shape="rect" id="node3" href="$apmain_8c.html#aa3cff8c74297045b9280d7be96bfa2dd" title="ApDoOptions" alt="" coords="390,56,497,83"/>
+<area shape="rect" id="node5" href="$apdump_8c.html#a3d769ed4ce09b766c7e91c4ec1c7d4ba" title="ApDumpTableBuffer" alt="" coords="368,107,519,133"/>
+<area shape="rect" id="node6" href="$apdump_8c.html#a558bb07e70d758227bd82bb21fb91a4e" title="ApDumpAllTables" alt="" coords="590,5,723,32"/>
+<area shape="rect" id="node8" href="$apdump_8c.html#aff059752e1fada2e591cc9df9f34170b" title="ApDumpTableByAddress" alt="" coords="567,56,747,83"/>
+<area shape="rect" id="node9" href="$apdump_8c.html#a0ceca638f2a1168dda164238fc37882d" title="ApDumpTableByName" alt="" coords="573,107,740,133"/>
+<area shape="rect" id="node10" href="$apdump_8c.html#a7bd4f6f85c234f30e75f2db0053f61fb" title="ApDumpTableFromFile" alt="" coords="575,157,738,184"/>
+<area shape="rect" id="node7" href="$apmain_8c.html#ab086c331a3a7490e26194882e95236a3" title="for" alt="" coords="795,81,835,108"/>
+</map>

@@ -1,6 +1,7 @@
 var NAVTREE =
 [
   [ "MOSSY 2", "index.html", [
+    [ "Style and coding guidelines", "md_docs_style.html", null ],
     [ "mossy2", "md_README.html", null ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ],
@@ -28,9 +29,9 @@ var NAVTREE =
         [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", "globals_func" ],
         [ "Variables", "globals_vars.html", "globals_vars" ],
-        [ "Typedefs", "globals_type.html", null ],
+        [ "Typedefs", "globals_type.html", "globals_type" ],
         [ "Enumerations", "globals_enum.html", null ],
-        [ "Enumerator", "globals_eval.html", null ]
+        [ "Enumerator", "globals_eval.html", "globals_eval" ]
       ] ]
     ] ]
   ] ]
@@ -39,12 +40,38 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "ABI_8c.html",
-"arch_2x86__64_2int_8h.html#ab0571dc84def3a678ca83699fc8b9a74",
-"ctype_8cpp.html#a56be4166e4673843042a548a7f513dbc",
-"mem__region_8cpp.html#ad231ce640650f0ef67962ff41f7b5014",
-"string_8h.html#a71663781d2aaf48be73d6a9a0cedb0de",
-"structx86_1_1idt__entry.html#a2af55e9c8cfa1baa9024e89117b8c0ec",
-"x86_2hal__idt_8cpp.html#aec24943eea256f5a22244ec07b143b71"
+"acdisasm_8h.html#a6e94b5e811ccf28163b30fee81604caca46771fe2a84d5224ded489a28c7aaff1",
+"acdispat_8h.html#a7a99953036b6041ac2ee7d65a59a9d0b",
+"achware_8h.html#a80c11a16d90573982198c81dfa1e18e3",
+"acnamesp_8h.html#af1ac10c31f5b490a7e90b1d2fc0876d2",
+"acpisrc_8h.html#a7ca5b7a4722acd8a4ecd69db650a23b5",
+"acresrc_8h.html#a759b9809ebe4729865156636439cce91",
+"actbl1_8h.html#a882579395adda51473a79df79159a6c1a12dd03f1a6b53320d719d364678a8333",
+"actbl3_8h.html#a6fb6541135a841b86e888b8eb46ef101",
+"acutils_8h.html#a9b3c9ef1603de036d5f286c6750fdbc0",
+"ahdecode_8c.html#ac0cba837be645fe5b77be294b32ea2a2",
+"arch_2x86__64_2int_8h.html#a148990c8ea2defd698ba4d8af093166e",
+"arch_8h.html#acdc9db0ec0f58a69573b97b1723866f2",
+"console_8h.html#a31d59e79f7e92e7f61913a54f4228396",
+"dmtbinfo_8c.html#a2ef264bcd250bc422ee92e673b62f40d",
+"evgpeinit_8c.html",
+"extables_8c.html#a181ce1b68735f6229678ac3146f721ae",
+"hwpci_8c.html#a4376cb8a007a49b0d184629869b687bc",
+"nsrepair2_8c.html#a07eb17af845149160d91ac49102f1ace",
+"rsinfo_8c.html#a02c1a20d9d3669667be5db13314cf8a8",
+"structacpi__asf__rmcp.html#a198ec075a0ce1f2e9684a91ddedbe341",
+"structacpi__einj__trigger.html#a185e81d7586b40fdb306093d2665fd2e",
+"structacpi__hest__generic__status.html#a78a3c6fb3b7a43a430c450532e069425",
+"structacpi__madt__io__apic.html#a308677859241a984f6c50f58573bca77",
+"structacpi__object__reference.html",
+"structacpi__resource__address.html",
+"structacpi__srat__mem__affinity.html#ab405d653fe1c11e116eae0834dcafdc9",
+"structacpi__table__msct.html#affac3fac9f6e9c32bfbd882dcc62cd7d",
+"structae__region.html#a7acbf89e94e0957ce7313e20085eeac3",
+"structhal_1_1multiboot__module.html#a2c940d511d9d7d44c2f92f2d72593915",
+"tbxface_8c.html#a36faec5ce33b5c1cc9cf1804d8c875af",
+"unionx64_1_1recursive__paging_1_1pdpt.html#ab0295dbc4b1d6e0506440ca1c1115bfd",
+"utresrc_8c.html#a130a5f98509ef175af800bf81a83b088"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,0 +1,7 @@
+<map id="AcpiEvGpeXruptHandler" name="AcpiEvGpeXruptHandler">
+<area shape="rect" id="node2" href="$evgpeutil_8c.html#acbfcfd5b1d2324282054e3423935f39c" title="AcpiEvGetGpeXruptBlock" alt="" coords="229,5,413,32"/>
+<area shape="rect" id="node3" href="$evgpeutil_8c.html#a20080f5337a710206cee2a2c5db0207e" title="AcpiEvDeleteGpeXrupt" alt="" coords="237,56,405,83"/>
+<area shape="rect" id="node4" href="$evgpeblk_8c.html#add92b907a3fbc081c82d6febff23b555" title="AcpiEvDeleteGpeBlock" alt="" coords="461,56,629,83"/>
+<area shape="rect" id="node5" href="$evxfgpe_8c.html#a55cc2327f08c416429d73513518cba22" title="ACPI_EXPORT_SYMBOL" alt="" coords="677,31,848,57"/>
+<area shape="rect" id="node6" href="$utdelete_8c.html#a89de061a214dd19fbd25ebddd1fab1d3" title="ACPI_MODULE_NAME" alt="" coords="683,81,843,108"/>
+</map>

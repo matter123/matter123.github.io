@@ -1,0 +1,14 @@
+<map id="AcpiExRegionRead" name="AcpiExRegionRead">
+<area shape="rect" id="node2" href="$acevents_8h.html#a383b7f6f24b2a904d84b93c96bc384cd" title="AcpiEvAddressSpaceDispatch" alt="" coords="193,107,405,133"/>
+<area shape="rect" id="node3" href="$acnamesp_8h.html#ab245a09e03812290b1e25e7cfda157a7" title="AcpiNsGetSecondaryObject" alt="" coords="453,5,652,32"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="473,56,633,83"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#afb74c096e61c011ddb2c2cb9d6409a41" title="AcpiUtGetRegionName" alt="" coords="468,107,637,133"/>
+<area shape="rect" id="node8" href="$acinterp_8h.html#a409acfbfc858f83907b6e954af78e1e8" title="AcpiExExitInterpreter" alt="" coords="473,157,632,184"/>
+<area shape="rect" id="node13" href="$acinterp_8h.html#ad92e715d9a22423f89d66f3fd28975e2" title="AcpiExEnterInterpreter" alt="" coords="469,208,637,235"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="706,56,849,83"/>
+<area shape="rect" id="node6" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="911,56,1061,83"/>
+<area shape="rect" id="node9" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="700,157,855,184"/>
+<area shape="rect" id="node10" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="913,107,1059,133"/>
+<area shape="rect" id="node11" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="903,157,1069,184"/>
+<area shape="rect" id="node12" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="908,208,1064,235"/>
+</map>

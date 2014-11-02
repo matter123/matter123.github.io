@@ -1,0 +1,10 @@
+<map id="AcpiUtFreeAndTrack" name="AcpiUtFreeAndTrack">
+<area shape="rect" id="node2" href="$uttrack_8c.html#a6a67b125abffaee8b407a5b1daf93b4c" title="AcpiUtRemoveAllocation" alt="" coords="204,81,383,108"/>
+<area shape="rect" id="node9" href="$acpiosxf_8h.html#aa3baac772ec8f5df4a49d97e39bfb307" title="AcpiOsFree" alt="" coords="247,132,340,159"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="432,107,584,133"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="431,56,585,83"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="643,56,790,83"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="633,107,800,133"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="639,157,794,184"/>
+<area shape="rect" id="node8" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="639,5,795,32"/>
+</map>

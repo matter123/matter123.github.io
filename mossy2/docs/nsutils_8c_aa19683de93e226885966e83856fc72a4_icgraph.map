@@ -1,0 +1,9 @@
+<map id="AcpiNsGetNode" name="AcpiNsGetNode">
+<area shape="rect" id="node2" href="$exconfig_8c.html#af034857cb72fa820f6ffedcb7e5dae22" title="AcpiExLoadTableOp" alt="" coords="183,5,329,32"/>
+<area shape="rect" id="node5" href="$exoparg1_8c.html#ab693e242f7c0a710093515164485a353" title="AcpiExOpcode_1A_0T_1R" alt="" coords="384,56,569,83"/>
+<area shape="rect" id="node6" href="$nsaccess_8c.html#a40b2d17d51a63342f75f006f6892a7f0" title="ACPI_MODULE_NAME" alt="" coords="176,107,336,133"/>
+<area shape="rect" id="node7" href="$nsrepair2_8c.html#a03a8b54669271f41e010053df7e2d2d6" title="AcpiNsRepair_TSS" alt="" coords="187,157,325,184"/>
+<area shape="rect" id="node8" href="$uterror_8c.html#af289eee9176d2bf73452ee1e5d0daf2f" title="AcpiUtMethodError" alt="" coords="185,208,327,235"/>
+<area shape="rect" id="node3" href="$exoparg6_8c.html#ad34ae207536ddaa333157095d25f580c" title="AcpiExOpcode_6A_0T_1R" alt="" coords="384,5,569,32"/>
+<area shape="rect" id="node4" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="617,31,777,57"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AcpiNsDumpOneObject" name="AcpiNsDumpOneObject">
+<area shape="rect" id="node2" href="$nsdump_8c.html#a516f33d7b8b8dc46b93df16b1c7795aa" title="AcpiNsDumpObjects" alt="" coords="229,31,382,57"/>
+<area shape="rect" id="node6" href="$nsdump_8c.html#a24ef05406617b689b00d1c53c86df686" title="AcpiNsDumpEntry" alt="" coords="236,81,375,108"/>
+<area shape="rect" id="node7" href="$nsdumpdv_8c.html#a28e09bf7756fd9775bd99d7e3616a84d" title="ACPI_MODULE_NAME" alt="" coords="225,132,385,159"/>
+<area shape="rect" id="node3" href="$nsdump_8c.html#a9dfce5a2c77c32cfe71f7871c09198cc" title="AcpiNsDumpTables" alt="" coords="457,5,602,32"/>
+<area shape="rect" id="node4" href="$anmain_8c.html#abc4ff9190b747ce48aa3cf93d7f9c225" title="NsDumpEntireNamespace" alt="" coords="433,56,625,83"/>
+<area shape="rect" id="node5" href="$anmain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100" title="main" alt="" coords="673,56,728,83"/>
+</map>

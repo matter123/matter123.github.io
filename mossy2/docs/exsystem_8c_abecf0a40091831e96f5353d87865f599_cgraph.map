@@ -1,0 +1,9 @@
+<map id="AcpiExSystemWaitMutex" name="AcpiExSystemWaitMutex">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="243,5,397,32"/>
+<area shape="rect" id="node3" href="$acinterp_8h.html#a409acfbfc858f83907b6e954af78e1e8" title="AcpiExExitInterpreter" alt="" coords="241,56,399,83"/>
+<area shape="rect" id="node8" href="$acinterp_8h.html#ad92e715d9a22423f89d66f3fd28975e2" title="AcpiExEnterInterpreter" alt="" coords="236,107,404,133"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="452,56,607,83"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="665,5,811,32"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="655,56,821,83"/>
+<area shape="rect" id="node7" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="660,107,816,133"/>
+</map>

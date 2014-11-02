@@ -1,6 +1,7 @@
 var searchData=
 [
   ['magic_5fbreak',['magic_break',['../namespacehal.html#a19733e5a1a5319869f72f44774aeac1e',1,'hal']]],
+  ['main',['main',['../abmain_8c.html#a3cdc49afe6f0baea9d6629ce21b2b771',1,'main(int argc, char *argv[]):&#160;abmain.c'],['../apmain_8c.html#a6bbb1c8bde7c244805178c6e2c2bfc7f',1,'main(int argc, char *argv[]) int ACPI_SYSTEM_XFACE acpi_main(int argc:&#160;apmain.c'],['../aemain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100',1,'main(int argc, char **argv):&#160;aemain.c'],['../ahmain_8c.html#a3cdc49afe6f0baea9d6629ce21b2b771',1,'main(int argc, char *argv[]):&#160;ahmain.c'],['../anmain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100',1,'main(int argc, char **argv):&#160;anmain.c'],['../asmain_8c.html#a3cdc49afe6f0baea9d6629ce21b2b771',1,'main(int argc, char *argv[]):&#160;asmain.c'],['../axmain_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;axmain.c']]],
   ['malloc',['malloc',['../stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392',1,'malloc():&#160;heap.cpp'],['../namespacekernel.html#a458d07569731e28b3d9a25c046150867',1,'kernel::malloc()']]],
   ['map',['map',['../classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af',1,'x64::recursive_paging::map()'],['../classx86_1_1recursive__paging.html#a48963a9fae102dec3e46473b21b72931',1,'x86::recursive_paging::map()']]],
   ['map_5ffree_5fto_5fvirt_5fcur',['map_free_to_virt_cur',['../namespacehal.html#aa477aac835558177ef108118f601d96f',1,'hal']]],
@@ -26,6 +27,15 @@ var searchData=
   ['memset16',['memset16',['../string_8h.html#aaa76a766ec5f3c40cacc8901ec2d5b81',1,'memset16(uint16_t *ptr, uint16_t value, size_t num):&#160;string.c'],['../string_8c.html#aaa76a766ec5f3c40cacc8901ec2d5b81',1,'memset16(uint16_t *ptr, uint16_t value, size_t num):&#160;string.c']]],
   ['memset32',['memset32',['../string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b',1,'memset32(uint32_t *ptr, uint32_t value, size_t num):&#160;string.c'],['../string_8c.html#ae50df250eaf3831d5ce1b50d8c79604b',1,'memset32(uint32_t *ptr, uint32_t value, size_t num):&#160;string.c']]],
   ['memset64',['memset64',['../string_8h.html#adcb70b7cf69fee2bdbd84068bd6054ba',1,'memset64(uint64_t *ptr, uint64_t value, size_t num):&#160;string.c'],['../string_8c.html#adcb70b7cf69fee2bdbd84068bd6054ba',1,'memset64(uint64_t *ptr, uint64_t value, size_t num):&#160;string.c']]],
+  ['method',['Method',['../dmextern_8c.html#a451b819c83184cfaa9700a156546c5c4',1,'Method(EFGH, 0):&#160;dmextern.c'],['../dmextern_8c.html#aaa834181618f83273c83957473234e2f',1,'Method(T1):&#160;dmextern.c'],['../dmextern_8c.html#a3ecdbf901ad9f0e623ca8ea3729b50df',1,'Method(T2):&#160;dmextern.c']]],
   ['min',['min',['../namespacestd.html#a8b1d3412ba4a286f6c82ee5a67b7134a',1,'std']]],
+  ['mpgetconnectioninfo',['MpGetConnectionInfo',['../amlresrc_8h.html#a5cb19e08ead621d9ecf811e5e83baceb',1,'amlresrc.h']]],
+  ['mpgetddnvalue',['MpGetDdnValue',['../amlresrc_8h.html#a32281871ab557940d845fb2a8cfb8a9a',1,'amlresrc.h']]],
+  ['mpgethidfromparsetree',['MpGetHidFromParseTree',['../amlresrc_8h.html#a3e63541563db1af06382e2d9e3108dc2',1,'amlresrc.h']]],
+  ['mpgethidvalue',['MpGetHidValue',['../amlresrc_8h.html#ac6dcf35c8dc65b2a740e2dcdc6f12b05',1,'amlresrc.h']]],
+  ['mpgethidvianamestring',['MpGetHidViaNamestring',['../amlresrc_8h.html#a78b292233cbbcd46a4fe71e7f28aad3c',1,'amlresrc.h']]],
+  ['mpgetparentdevicehid',['MpGetParentDeviceHid',['../amlresrc_8h.html#a23299d57bae1444ae99ca0cba5ea95cd',1,'amlresrc.h']]],
+  ['mpsavegpioinfo',['MpSaveGpioInfo',['../amlresrc_8h.html#a8b8d8aac88971b9bd64e0c7a3f64b05e',1,'amlresrc.h']]],
+  ['mpsaveserialinfo',['MpSaveSerialInfo',['../amlresrc_8h.html#afdeec8371f4c6d298d2a2cec1b9f291d',1,'MpSaveSerialInfo(ACPI_PARSE_OBJECT *Op, AML_RESOURCE *Resource, char *DeviceName):&#160;aemain.c'],['../aemain_8c.html#afdeec8371f4c6d298d2a2cec1b9f291d',1,'MpSaveSerialInfo(ACPI_PARSE_OBJECT *Op, AML_RESOURCE *Resource, char *DeviceName):&#160;aemain.c']]],
   ['mutex',['mutex',['../classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]]
 ];

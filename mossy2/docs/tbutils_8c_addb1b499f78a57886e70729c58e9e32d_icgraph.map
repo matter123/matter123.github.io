@@ -1,0 +1,11 @@
+<map id="AcpiTbGetRootTableEntry" name="AcpiTbGetRootTableEntry">
+<area shape="rect" id="node2" href="$tbutils_8c.html#a0e83d5d718cd062c7f1265abac19563d" title="AcpiTbParseRootTable" alt="" coords="237,81,400,108"/>
+<area shape="rect" id="node3" href="$tbxface_8c.html#ace916970f57f73b08f6ad5a3c43c3e1d" title="AcpiInitializeTables" alt="" coords="448,81,589,108"/>
+<area shape="rect" id="node4" href="$aetables_8c.html#a5906fb218be4740a7bb255e74efc2251" title="AeInstallTables" alt="" coords="675,5,792,32"/>
+<area shape="rect" id="node6" href="$anmain_8c.html#abc4ff9190b747ce48aa3cf93d7f9c225" title="NsDumpEntireNamespace" alt="" coords="637,56,829,83"/>
+<area shape="rect" id="node8" href="$examples_8c.html#a66fd2b6c9640e94814937fbb90675961" title="InitializeFullAcpica" alt="" coords="665,107,801,133"/>
+<area shape="rect" id="node10" href="$examples_8c.html#afc8704e2c3cf57ce8abd92de08e9efc0" title="InitializeAcpiTables" alt="" coords="663,157,804,184"/>
+<area shape="rect" id="node5" href="$aemain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100" title="main" alt="" coords="930,5,985,32"/>
+<area shape="rect" id="node7" href="$anmain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100" title="main" alt="" coords="930,56,985,83"/>
+<area shape="rect" id="node9" href="$examples_8c.html#a83dcb225ccf655261b4f8d26888724c3" title="ACPI_MODULE_NAME" alt="" coords="877,107,1037,133"/>
+</map>

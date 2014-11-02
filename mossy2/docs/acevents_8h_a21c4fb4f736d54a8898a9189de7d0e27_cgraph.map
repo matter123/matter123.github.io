@@ -1,0 +1,30 @@
+<map id="AcpiEvExecuteRegMethod" name="AcpiEvExecuteRegMethod">
+<area shape="rect" id="node2" href="$acnamesp_8h.html#ab245a09e03812290b1e25e7cfda157a7" title="AcpiNsGetSecondaryObject" alt="" coords="243,44,441,71"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#a02b1bc045c06481c5cf66fb754ef4659" title="AcpiUtCreateIntegerObject" alt="" coords="245,95,439,121"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a06dca24e9834608eb404d7ab676512b4" title="AcpiUtDisplayInitPathname" alt="" coords="244,145,440,172"/>
+<area shape="rect" id="node13" href="$acnamesp_8h.html#af3fb46302c48fe6719202fc6aacf338d" title="AcpiNsEvaluate" alt="" coords="281,196,403,223"/>
+<area shape="rect" id="node14" href="$acutils_8h.html#a8a77e7e5114367f9a862f22133a9a75d" title="AcpiUtRemoveReference" alt="" coords="251,272,433,299"/>
+<area shape="rect" id="node5" href="$acnamesp_8h.html#af9de01cf8db72bb7b4633710eb9df332" title="AcpiNsHandleToPathname" alt="" coords="503,81,693,108"/>
+<area shape="rect" id="node11" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="548,132,648,159"/>
+<area shape="rect" id="node12" href="$acutils_8h.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="520,183,676,209"/>
+<area shape="rect" id="node6" href="$acnamesp_8h.html#a25aafce62b0dc74989b1b25b1a40eeed" title="AcpiNsValidateHandle" alt="" coords="795,107,958,133"/>
+<area shape="rect" id="node7" href="$nsnames_8c.html#a2cf01c07216fa04e0a39f4c81fb6e1d8" title="AcpiNsGetPathnameLength" alt="" coords="777,157,976,184"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#a33690521700dfd34b396b17fc0917fd1" title="AcpiUtInitializeBuffer" alt="" coords="799,5,954,32"/>
+<area shape="rect" id="node10" href="$acnamesp_8h.html#a57fcfbb7d670e917db7492269df7297a" title="AcpiNsBuildExternalPath" alt="" coords="787,56,966,83"/>
+<area shape="rect" id="node9" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="1082,5,1199,32"/>
+<area shape="rect" id="node15" href="$acutils_8h.html#ad220688a54845d34c8c153403ba0818c" title="AcpiUtValidInternalObject" alt="" coords="506,233,690,260"/>
+<area shape="rect" id="node17" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="1116,284,1165,311"/>
+<area shape="rect" id="node18" href="$utdelete_8c.html#a38196365cc7a40c9bce41d35ca533681" title="AcpiUtUpdateObjectReference" alt="" coords="489,385,707,412"/>
+<area shape="rect" id="node16" href="$acutils_8h.html#a32401b4d319df7f28c181246a30a02ce" title="AcpiUtGetDescriptorName" alt="" coords="781,233,973,260"/>
+<area shape="rect" id="node19" href="$utdelete_8c.html#a1b75a016b3c0c454298c93c9018e55fa" title="AcpiUtUpdateRefCount" alt="" coords="791,436,962,463"/>
+<area shape="rect" id="node22" href="$acutils_8h.html#ae95188d940762c1b1ee564e28a6c7963" title="AcpiUtCreateUpdateStateAndPush" alt="" coords="755,512,999,539"/>
+<area shape="rect" id="node27" href="$acutils_8h.html#a097b9d91eb2b720aec1202465019ec98" title="AcpiUtPopGenericState" alt="" coords="791,335,962,361"/>
+<area shape="rect" id="node28" href="$acutils_8h.html#aec0f3f0da2d5eff0f800f56238428810" title="AcpiUtDeleteGenericState" alt="" coords="782,385,971,412"/>
+<area shape="rect" id="node20" href="$acpiosxf_8h.html#ab4c7b42dd241ada889702c29e178371f" title="AcpiOsAcquireLock" alt="" coords="1069,411,1213,437"/>
+<area shape="rect" id="node21" href="$acpiosxf_8h.html#ab433d14090054e76cee7984e4eedcc16" title="AcpiOsReleaseLock" alt="" coords="1067,461,1214,488"/>
+<area shape="rect" id="node23" href="$acutils_8h.html#a5aff2cb90adb9a687a0906005ce1e16a" title="AcpiUtCreateUpdateState" alt="" coords="1047,512,1235,539"/>
+<area shape="rect" id="node26" href="$acutils_8h.html#ae6cc5a988c45a2765e6d0638c87e0bfb" title="AcpiUtPushGenericState" alt="" coords="1051,563,1230,589"/>
+<area shape="rect" id="node24" href="$utstate_8c.html#a1007334913adfd3d3a64e8373a863084" title="AcpiUtCreateGenericState" alt="" coords="1283,512,1473,539"/>
+<area shape="rect" id="node25" href="$acpiosxf_8h.html#a3aeec4a3020b07475a5b9a4a5b0bbf15" title="AcpiOsAcquireObject" alt="" coords="1521,512,1676,539"/>
+<area shape="rect" id="node29" href="$acpiosxf_8h.html#a194106ebbaa12443e59d042b26a7af3b" title="AcpiOsReleaseObject" alt="" coords="1062,360,1219,387"/>
+</map>

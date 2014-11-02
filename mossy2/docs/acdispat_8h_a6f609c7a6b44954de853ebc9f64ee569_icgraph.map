@@ -1,0 +1,12 @@
+<map id="AcpiDsMethodDataInit" name="AcpiDsMethodDataInit">
+<area shape="rect" id="node2" href="$dswstate_8c.html#a99a54770e90e5cce0430f2e1d323b700" title="AcpiDsCreateWalkState" alt="" coords="219,157,393,184"/>
+<area shape="rect" id="node3" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="513,5,620,32"/>
+<area shape="rect" id="node5" href="$adwalk_8c.html#ad807ad8513e6cbe4c56f57be6a93c78c" title="AcpiDmFinishNamespaceLoad" alt="" coords="459,56,674,83"/>
+<area shape="rect" id="node6" href="$adwalk_8c.html#aa0284a1c1ce0d4327f0c301053b9feba" title="AcpiDmCrossReferenceNamespace" alt="" coords="441,107,692,133"/>
+<area shape="rect" id="node7" href="$adwalk_8c.html#aec34648aacfced2a885d20ab17d4439e" title="AcpiDmConvertResourceIndexes" alt="" coords="450,157,683,184"/>
+<area shape="rect" id="node8" href="$dsargs_8c.html#a68725a4fbc8daec7a112d6d65692d03b" title="ACPI_MODULE_NAME" alt="" coords="487,208,647,235"/>
+<area shape="rect" id="node9" href="$dsmethod_8c.html#a7258edde68b9f7f300031a1bd3d42c63" title="AcpiDsCallControlMethod" alt="" coords="475,259,658,285"/>
+<area shape="rect" id="node10" href="$psxface_8c.html#a5deb05e87edeac32fc40a9cc6a4d0185" title="AcpiPsExecuteMethod" alt="" coords="485,309,649,336"/>
+<area shape="rect" id="node4" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="747,81,893,108"/>
+<area shape="rect" id="node11" href="$nseval_8c.html#a757d9e28ba64867c0e1d1e8b70e9b645" title="ACPI_MODULE_NAME" alt="" coords="740,309,900,336"/>
+</map>

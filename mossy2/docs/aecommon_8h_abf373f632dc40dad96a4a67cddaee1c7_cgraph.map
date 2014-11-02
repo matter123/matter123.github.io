@@ -1,0 +1,32 @@
+<map id="AeInstallEarlyHandlers" name="AeInstallEarlyHandlers">
+<area shape="rect" id="node2" href="$aehandlers_8c.html#ae7c6b23d6fa3339a3e9a15d75f5c0c34" title="AeInterfaceHandler" alt="" coords="244,5,391,32"/>
+<area shape="rect" id="node3" href="$aehandlers_8c.html#a57d24bf6a22e3125460a88b15228bbe4" title="AeTableHandler" alt="" coords="256,56,379,83"/>
+<area shape="rect" id="node4" href="$aehandlers_8c.html#addc4804aeebb22cc87699229d523b23d" title="AeExceptionHandler" alt="" coords="480,385,632,412"/>
+<area shape="rect" id="node10" href="$aehandlers_8c.html#ac0b0e85f89f8ff8573c0e71921bcd3b0" title="AeSystemNotifyHandler" alt="" coords="467,132,645,159"/>
+<area shape="rect" id="node16" href="$aehandlers_8c.html#ae80e5f1f6aa5cc0b909f3bbca1ac692a" title="AeDeviceNotifyHandler" alt="" coords="470,183,642,209"/>
+<area shape="rect" id="node17" href="$aehandlers_8c.html#a28c1dbc45a6b1cd06fd6173d127275cf" title="AeNotifyHandler1" alt="" coords="249,208,385,235"/>
+<area shape="rect" id="node19" href="$aehandlers_8c.html#a9852bba8fb14edbd508d27e5a1c7f931" title="AeNotifyHandler2" alt="" coords="249,259,385,285"/>
+<area shape="rect" id="node20" href="$aehandlers_8c.html#ab3691dbb09189818d39533530698b97d" title="AeAttachedDataHandler" alt="" coords="467,335,645,361"/>
+<area shape="rect" id="node21" href="$aehandlers_8c.html#a4cf09fe71493e921340a7b58de232035" title="AeAttachedDataHandler2" alt="" coords="224,309,411,336"/>
+<area shape="rect" id="node22" href="$aecommon_8h.html#a1385e4776a4a77d9c4987184feeab478" title="AeOverrideRegionHandlers" alt="" coords="220,487,415,513"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="735,284,835,311"/>
+<area shape="rect" id="node6" href="$acparser_8h.html#aad9ed05c40b9137dfcf80c3c00d6fa8c" title="AcpiPsGetOpcodeName" alt="" coords="697,385,872,412"/>
+<area shape="rect" id="node8" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="711,335,858,361"/>
+<area shape="rect" id="node9" href="$acpiosxf_8h.html#aa3baac772ec8f5df4a49d97e39bfb307" title="AcpiOsFree" alt="" coords="738,436,831,463"/>
+<area shape="rect" id="node7" href="$psopinfo_8c.html#af458f473e3b9fe4ef621f63c5fb7e7f5" title="AcpiPsGetOpcodeInfo" alt="" coords="932,385,1093,412"/>
+<area shape="rect" id="node11" href="$acutils_8h.html#a3815c7d1afd5b229587d5f2ee804e505" title="AcpiUtGetNodeName" alt="" coords="705,183,865,209"/>
+<area shape="rect" id="node14" href="$acutils_8h.html#a1ef7c69c9451fc451af49e7eba8a6b0d" title="AcpiUtGetNotifyName" alt="" coords="702,233,867,260"/>
+<area shape="rect" id="node15" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="760,132,809,159"/>
+<area shape="rect" id="node12" href="$acutils_8h.html#a65aa2e6fc12795a8708cd69adbaa1399" title="AcpiUtRepairName" alt="" coords="941,183,1084,209"/>
+<area shape="rect" id="node13" href="$utstring_8c.html#aec5acf7d7ed3f9070fd04754df63093b" title="AcpiUtValidAcpiChar" alt="" coords="1153,183,1304,209"/>
+<area shape="rect" id="node18" href="$aehandlers_8c.html#a5e09f1292447392f7563fe376ad3dbcb" title="AeCommonNotifyHandler" alt="" coords="463,233,649,260"/>
+<area shape="rect" id="node23" href="$aeregion_8c.html#a658fbfa89f5114e5e10c5950e25750ed" title="AeRegionHandler" alt="" coords="490,512,622,539"/>
+<area shape="rect" id="node24" href="$acutils_8h.html#afb74c096e61c011ddb2c2cb9d6409a41" title="AcpiUtGetRegionName" alt="" coords="700,487,869,513"/>
+<area shape="rect" id="node31" href="$aeregion_8c.html#a0cfccf07455b83b7a1b8479582033d6a" title="AeRegionInit" alt="" coords="505,563,607,589"/>
+<area shape="rect" id="node25" href="$achware_8h.html#adf7988fcab38736c4a9081da3ec089df" title="AcpiHwReadPort" alt="" coords="721,639,849,665"/>
+<area shape="rect" id="node28" href="$achware_8h.html#a80c11a16d90573982198c81dfa1e18e3" title="AcpiHwWritePort" alt="" coords="720,588,849,615"/>
+<area shape="rect" id="node30" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="726,537,843,564"/>
+<area shape="rect" id="node26" href="$hwvalid_8c.html#a2fccc7c13b13d678632d462648fd07b7" title="AcpiHwValidateIoRequest" alt="" coords="920,613,1105,640"/>
+<area shape="rect" id="node27" href="$acpiosxf_8h.html#a64dc0148971f8117dad3692bbc8e05c9" title="AcpiOsReadPort" alt="" coords="951,664,1075,691"/>
+<area shape="rect" id="node29" href="$acpiosxf_8h.html#a670d056982184c18fe4e21b5ec59e199" title="AcpiOsWritePort" alt="" coords="950,563,1075,589"/>
+</map>

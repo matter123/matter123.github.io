@@ -1,0 +1,12 @@
+<map id="AcpiPsGetNextField" name="AcpiPsGetNextField">
+<area shape="rect" id="node2" href="$acparser_8h.html#aa4f4250f2638bfb43224407fbc7c7560" title="AcpiPsAllocOp" alt="" coords="241,29,353,56"/>
+<area shape="rect" id="node6" href="$acparser_8h.html#a77be9da2b7899ead515b87a7d2490e04" title="AcpiPsSetName" alt="" coords="235,80,359,107"/>
+<area shape="rect" id="node7" href="$acparser_8h.html#aa1b7a588e67ed57a6bb5110c6560f260" title="AcpiPsFreeOp" alt="" coords="242,131,351,157"/>
+<area shape="rect" id="node10" href="$psargs_8c.html#a8799f6c43aabc5a07a24287ee0df72c9" title="AcpiPsGetNextNamestring" alt="" coords="200,181,393,208"/>
+<area shape="rect" id="node11" href="$acparser_8h.html#ab916ff716c1de0fdaf6ea7dcbfd47353" title="AcpiPsAppendArg" alt="" coords="453,232,587,259"/>
+<area shape="rect" id="node3" href="$acparser_8h.html#af458f473e3b9fe4ef621f63c5fb7e7f5" title="AcpiPsGetOpcodeInfo" alt="" coords="647,80,808,107"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a3aeec4a3020b07475a5b9a4a5b0bbf15" title="AcpiOsAcquireObject" alt="" coords="443,29,597,56"/>
+<area shape="rect" id="node5" href="$psutils_8c.html#afb749f86e7331cd150f829087bc66142" title="AcpiPsInitOp" alt="" coords="469,80,571,107"/>
+<area shape="rect" id="node8" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="495,131,545,157"/>
+<area shape="rect" id="node9" href="$acpiosxf_8h.html#a194106ebbaa12443e59d042b26a7af3b" title="AcpiOsReleaseObject" alt="" coords="441,181,599,208"/>
+</map>

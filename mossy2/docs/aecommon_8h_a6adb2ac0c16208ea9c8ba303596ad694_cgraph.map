@@ -1,0 +1,30 @@
+<map id="AeInstallLateHandlers" name="AeInstallLateHandlers">
+<area shape="rect" id="node2" href="$aehandlers_8c.html#a866efde6ea070564f99712129d82fdd2" title="AeInstallSciHandler" alt="" coords="233,233,378,260"/>
+<area shape="rect" id="node5" href="$aehandlers_8c.html#a1dd520d014a35ead54345d9789960012" title="AeEventHandler" alt="" coords="242,385,369,412"/>
+<area shape="rect" id="node6" href="$aecommon_8h.html#ab9d02ab5c387210d4189967302d7a30f" title="AeInstallDeviceHandlers" alt="" coords="216,284,395,311"/>
+<area shape="rect" id="node29" href="$aecommon_8h.html#a0e83a2ca8f4d57d778e9f2c74750d898" title="AeInstallRegionHandlers" alt="" coords="443,385,620,412"/>
+<area shape="rect" id="node3" href="$aehandlers_8c.html#ac090d946b0259d43a6d8097208cea49c" title="AeSciHandler" alt="" coords="702,233,809,260"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="925,208,1025,235"/>
+<area shape="rect" id="node7" href="$nsxfeval_8c.html#a2e656b9d37916586eecc8bbfd2cfe03d" title="AcpiGetDevices" alt="" coords="470,132,593,159"/>
+<area shape="rect" id="node17" href="$aeregion_8c.html#aabe504afd2316ddc76645d51d1df1e0a" title="AeInstallEcHandler" alt="" coords="460,284,603,311"/>
+<area shape="rect" id="node28" href="$aeregion_8c.html#ae18b10d70db7fb7ffcbe1cb8ac4e7fb0" title="AeInstallPciHandler" alt="" coords="459,335,604,361"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#a4d6ae168ab3c92bd597ca301c17857b3" title="AcpiUtAcquireMutex" alt="" coords="899,31,1051,57"/>
+<area shape="rect" id="node12" href="$acnamesp_8h.html#adb18016742f0841cfa943623cb80159d" title="AcpiNsWalkNamespace" alt="" coords="668,81,843,108"/>
+<area shape="rect" id="node14" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="898,132,1053,159"/>
+<area shape="rect" id="node16" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="731,183,780,209"/>
+<area shape="rect" id="node9" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="1127,107,1274,133"/>
+<area shape="rect" id="node10" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="1117,56,1284,83"/>
+<area shape="rect" id="node11" href="$acpiosxf_8h.html#a03c8948f34c28937ab159710dae9a014" title="AcpiOsAcquireMutex" alt="" coords="1123,5,1278,32"/>
+<area shape="rect" id="node13" href="$acnamesp_8h.html#abdde82344b0b40f3b150a3e9b0982d5d" title="AcpiNsGetNextNode" alt="" coords="898,81,1053,108"/>
+<area shape="rect" id="node15" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="1123,157,1279,184"/>
+<area shape="rect" id="node18" href="$aeregion_8c.html#a658fbfa89f5114e5e10c5950e25750ed" title="AeRegionHandler" alt="" coords="689,323,821,349"/>
+<area shape="rect" id="node27" href="$aeregion_8c.html#a0cfccf07455b83b7a1b8479582033d6a" title="AeRegionInit" alt="" coords="704,373,807,400"/>
+<area shape="rect" id="node19" href="$acutils_8h.html#afb74c096e61c011ddb2c2cb9d6409a41" title="AcpiUtGetRegionName" alt="" coords="891,461,1060,488"/>
+<area shape="rect" id="node20" href="$achware_8h.html#adf7988fcab38736c4a9081da3ec089df" title="AcpiHwReadPort" alt="" coords="911,411,1039,437"/>
+<area shape="rect" id="node23" href="$achware_8h.html#a80c11a16d90573982198c81dfa1e18e3" title="AcpiHwWritePort" alt="" coords="911,360,1040,387"/>
+<area shape="rect" id="node25" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="917,259,1034,285"/>
+<area shape="rect" id="node26" href="$acpiosxf_8h.html#aa3baac772ec8f5df4a49d97e39bfb307" title="AcpiOsFree" alt="" coords="929,309,1022,336"/>
+<area shape="rect" id="node21" href="$hwvalid_8c.html#a2fccc7c13b13d678632d462648fd07b7" title="AcpiHwValidateIoRequest" alt="" coords="1108,385,1293,412"/>
+<area shape="rect" id="node22" href="$acpiosxf_8h.html#a64dc0148971f8117dad3692bbc8e05c9" title="AcpiOsReadPort" alt="" coords="1139,436,1263,463"/>
+<area shape="rect" id="node24" href="$acpiosxf_8h.html#a670d056982184c18fe4e21b5ec59e199" title="AcpiOsWritePort" alt="" coords="1138,335,1263,361"/>
+</map>

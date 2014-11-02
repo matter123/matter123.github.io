@@ -1,0 +1,8 @@
+<map id="AcpiExUnloadTable" name="AcpiExUnloadTable">
+<area shape="rect" id="node2" href="$exconfig_8c.html#af034857cb72fa820f6ffedcb7e5dae22" title="AcpiExLoadTableOp" alt="" coords="196,5,343,32"/>
+<area shape="rect" id="node5" href="$exconfig_8c.html#ae6e89eb59483dedba9174568ac4f37bb" title="AcpiExLoadOp" alt="" coords="212,56,327,83"/>
+<area shape="rect" id="node7" href="$exoparg1_8c.html#aa03253bcf485cd0b5407e6b568666669" title="AcpiExOpcode_1A_0T_0R" alt="" coords="391,107,576,133"/>
+<area shape="rect" id="node3" href="$exoparg6_8c.html#ad34ae207536ddaa333157095d25f580c" title="AcpiExOpcode_6A_0T_1R" alt="" coords="391,5,576,32"/>
+<area shape="rect" id="node4" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="624,56,784,83"/>
+<area shape="rect" id="node6" href="$exoparg1_8c.html#a3e9cab33e2e78974a0b519f2cba1d67e" title="AcpiExOpcode_1A_1T_0R" alt="" coords="391,56,576,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="AcpiExDumpPackageObj" name="AcpiExDumpPackageObj">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="516,31,616,57"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#a7ab97705961d561c6501a39447a4a21e" title="AcpiUtPrintString" alt="" coords="262,56,393,83"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a89ffd3b5b4747711d3ce23ff6fc914e8" title="AcpiUtDebugDumpBuffer" alt="" coords="235,157,419,184"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#a5ddaa21503bf5071a95a3e55fdb20023" title="AcpiUtGetReferenceName" alt="" coords="232,208,423,235"/>
+<area shape="rect" id="node7" href="$exdump_8c.html#a5ea84dca3f85b45c442984b4b0592816" title="AcpiExDumpReferenceObj" alt="" coords="232,107,423,133"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#add7836e0b98d0443f42135c56ef520b5" title="AcpiUtDumpBuffer" alt="" coords="495,183,637,209"/>
+<area shape="rect" id="node8" href="$acnamesp_8h.html#af9de01cf8db72bb7b4633710eb9df332" title="AcpiNsHandleToPathname" alt="" coords="471,81,661,108"/>
+<area shape="rect" id="node14" href="$acutils_8h.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="488,132,644,159"/>
+<area shape="rect" id="node9" href="$acnamesp_8h.html#a25aafce62b0dc74989b1b25b1a40eeed" title="AcpiNsValidateHandle" alt="" coords="727,5,890,32"/>
+<area shape="rect" id="node10" href="$nsnames_8c.html#a2cf01c07216fa04e0a39f4c81fb6e1d8" title="AcpiNsGetPathnameLength" alt="" coords="709,56,908,83"/>
+<area shape="rect" id="node11" href="$acutils_8h.html#a33690521700dfd34b396b17fc0917fd1" title="AcpiUtInitializeBuffer" alt="" coords="731,107,886,133"/>
+<area shape="rect" id="node13" href="$acnamesp_8h.html#a57fcfbb7d670e917db7492269df7297a" title="AcpiNsBuildExternalPath" alt="" coords="719,157,898,184"/>
+<area shape="rect" id="node12" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="956,107,1073,133"/>
+</map>

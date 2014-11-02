@@ -1,0 +1,10 @@
+<map id="AcpiDsGetBufferArguments" name="AcpiDsGetBufferArguments">
+<area shape="rect" id="node2" href="$exoparg1_8c.html#ab693e242f7c0a710093515164485a353" title="AcpiExOpcode_1A_0T_1R" alt="" coords="262,5,447,32"/>
+<area shape="rect" id="node4" href="$exprep_8c.html#a52edde5a3bd15ce2c8c7ffa081ecc6fe" title="AcpiExPrepFieldValue" alt="" coords="276,56,433,83"/>
+<area shape="rect" id="node5" href="$exresnte_8c.html#af70cd09357ac54d39ad85f1d92315f00" title="ACPI_MODULE_NAME" alt="" coords="275,107,435,133"/>
+<area shape="rect" id="node6" href="$exresolv_8c.html#a9696b1aa20733467ebf9f5a67d00249b" title="AcpiExResolveObjectToValue" alt="" coords="252,157,457,184"/>
+<area shape="rect" id="node8" href="$nsinit_8c.html#a17eb3137b46cce5ceeb5f43350be5248" title="AcpiNsInitOneObject" alt="" coords="278,208,431,235"/>
+<area shape="rect" id="node3" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="505,5,665,32"/>
+<area shape="rect" id="node7" href="$exresolv_8c.html#a7b34cac9784d02fad300e518bc6a9c8e" title="ACPI_MODULE_NAME" alt="" coords="505,157,665,184"/>
+<area shape="rect" id="node9" href="$nsinit_8c.html#a67a7545569a1d8efdfb8e104b7f33498" title="ACPI_MODULE_NAME" alt="" coords="505,208,665,235"/>
+</map>

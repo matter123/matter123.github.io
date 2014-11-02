@@ -1,0 +1,17 @@
+<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
+<area shape="rect" id="node2" href="$acresrc_8h.html#a759b9809ebe4729865156636439cce91" title="AcpiRsGetListLength" alt="" coords="247,309,401,336"/>
+<area shape="rect" id="node11" href="$acutils_8h.html#adeb617fde91079c3769e3413abddf0de" title="AcpiUtWalkAmlResources" alt="" coords="231,107,417,133"/>
+<area shape="rect" id="node16" href="$acresrc_8h.html#aa8650177eab46c610eaf73aa6dde672f" title="AcpiRsConvertAmlToResources" alt="" coords="213,360,435,387"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#aad98575e92bf2e7865277cb1ca8bac00" title="AcpiUtValidateResource" alt="" coords="514,208,689,235"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#a70e920b7d3b986162c4719e8f032ee7a" title="AcpiUtGetResourceLength" alt="" coords="506,411,697,437"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#a9b1217ec03966ce973d2bc9914ef422c" title="AcpiUtGetResourceHeaderLength" alt="" coords="483,259,720,285"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#adf0d3cdb7d321b1bad5021d5eea2ce33" title="AcpiUtGetResourceType" alt="" coords="513,309,689,336"/>
+<area shape="rect" id="node8" href="$rscalc_8c.html#ab4ed003a0acf7ff4e37a42c03485216e" title="AcpiRsStreamOptionLength" alt="" coords="502,360,701,387"/>
+<area shape="rect" id="node9" href="$acutils_8h.html#aa05cf021bd4cd2c58b51959b44967c14" title="AcpiUtGetDescriptorLength" alt="" coords="503,461,700,488"/>
+<area shape="rect" id="node4" href="$utresrc_8c.html#a70e920b7d3b986162c4719e8f032ee7a" title="AcpiUtGetResourceLength" alt="" coords="791,183,982,209"/>
+<area shape="rect" id="node10" href="$utresrc_8c.html#a9b1217ec03966ce973d2bc9914ef422c" title="AcpiUtGetResourceHeaderLength" alt="" coords="768,360,1005,387"/>
+<area shape="rect" id="node12" href="$utresrc_8c.html#aad98575e92bf2e7865277cb1ca8bac00" title="AcpiUtValidateResource" alt="" coords="514,56,689,83"/>
+<area shape="rect" id="node13" href="$utresrc_8c.html#aa05cf021bd4cd2c58b51959b44967c14" title="AcpiUtGetDescriptorLength" alt="" coords="503,157,700,184"/>
+<area shape="rect" id="node14" href="$utresrc_8c.html#adf0d3cdb7d321b1bad5021d5eea2ce33" title="AcpiUtGetResourceType" alt="" coords="513,107,689,133"/>
+<area shape="rect" id="node15" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="577,5,626,32"/>
+</map>

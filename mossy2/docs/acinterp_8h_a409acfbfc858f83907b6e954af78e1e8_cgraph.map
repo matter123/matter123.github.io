@@ -1,0 +1,6 @@
+<map id="AcpiExExitInterpreter" name="AcpiExExitInterpreter">
+<area shape="rect" id="node2" href="$acutils_8h.html#a790d02e8785eba1eed87dc212e96efbb" title="AcpiUtReleaseMutex" alt="" coords="212,56,367,83"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#a28e861af8754c932d6b10def7d9c95d3" title="AcpiOsGetThreadId" alt="" coords="425,5,571,32"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#af58cf6bc3e06ac9a17ffd714620365e1" title="AcpiUtGetMutexName" alt="" coords="415,56,581,83"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#aad88c236ea68def8a79a008abeb74b7e" title="AcpiOsReleaseMutex" alt="" coords="420,107,576,133"/>
+</map>

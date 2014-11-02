@@ -1,0 +1,10 @@
+<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
+<area shape="rect" id="node2" href="$rsmisc_8c.html#a3331c55d15485e227a6ef7db9eade5cc" title="if" alt="" coords="293,5,331,32"/>
+<area shape="rect" id="node3" href="$dswstate_8c.html#a981beab9d10c5262eadf0044b7d3631d" title="AcpiDsResultStackPop" alt="" coords="229,56,395,83"/>
+<area shape="rect" id="node8" href="$acutils_8h.html#afa822f9139e050aa51853c2de4d9ad04" title="AcpiUtGetObjectTypeName" alt="" coords="213,107,411,133"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a097b9d91eb2b720aec1202465019ec98" title="AcpiUtPopGenericState" alt="" coords="468,5,639,32"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#aec0f3f0da2d5eff0f800f56238428810" title="AcpiUtDeleteGenericState" alt="" coords="459,56,648,83"/>
+<area shape="rect" id="node6" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="750,31,799,57"/>
+<area shape="rect" id="node7" href="$acpiosxf_8h.html#a194106ebbaa12443e59d042b26a7af3b" title="AcpiOsReleaseObject" alt="" coords="696,81,853,108"/>
+<area shape="rect" id="node9" href="$utdecode_8c.html#a785dd9f9be17b35e7ad29886fe356853" title="AcpiUtGetTypeName" alt="" coords="475,107,631,133"/>
+</map>

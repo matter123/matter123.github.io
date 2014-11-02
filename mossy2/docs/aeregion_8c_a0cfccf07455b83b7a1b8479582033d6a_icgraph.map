@@ -1,0 +1,10 @@
+<map id="AeRegionInit" name="AeRegionInit">
+<area shape="rect" id="node2" href="$aeregion_8c.html#a0e83a2ca8f4d57d778e9f2c74750d898" title="AeInstallRegionHandlers" alt="" coords="358,107,535,133"/>
+<area shape="rect" id="node5" href="$aeregion_8c.html#a1385e4776a4a77d9c4987184feeab478" title="AeOverrideRegionHandlers" alt="" coords="349,157,544,184"/>
+<area shape="rect" id="node7" href="$aeregion_8c.html#aabe504afd2316ddc76645d51d1df1e0a" title="AeInstallEcHandler" alt="" coords="157,5,300,32"/>
+<area shape="rect" id="node9" href="$aeregion_8c.html#ae18b10d70db7fb7ffcbe1cb8ac4e7fb0" title="AeInstallPciHandler" alt="" coords="156,56,301,83"/>
+<area shape="rect" id="node3" href="$aehandlers_8c.html#a6adb2ac0c16208ea9c8ba303596ad694" title="AeInstallLateHandlers" alt="" coords="594,107,757,133"/>
+<area shape="rect" id="node4" href="$aemain_8c.html#aba4fac1ff776e3acf62c9f10e57d5100" title="main" alt="" coords="807,132,861,159"/>
+<area shape="rect" id="node6" href="$aehandlers_8c.html#abf373f632dc40dad96a4a67cddaee1c7" title="AeInstallEarlyHandlers" alt="" coords="592,157,759,184"/>
+<area shape="rect" id="node8" href="$aeregion_8c.html#ab9d02ab5c387210d4189967302d7a30f" title="AeInstallDeviceHandlers" alt="" coords="357,56,536,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AcpiHwGetGpeStatus" name="AcpiHwGetGpeStatus">
+<area shape="rect" id="node2" href="$achware_8h.html#a1802ad2bdc24b4c99f32df79e19244f0" title="AcpiHwGetGpeRegisterBit" alt="" coords="213,31,401,57"/>
+<area shape="rect" id="node3" href="$achware_8h.html#a021671bc41f9b4dceaa913660438e667" title="AcpiHwRead" alt="" coords="256,81,359,108"/>
+<area shape="rect" id="node4" href="$achware_8h.html#a196789617ed934c4a8ccc5bfa9722cd8" title="AcpiHwValidateRegister" alt="" coords="449,5,623,32"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#a43bb4cd865cfbe503bad2ee28854e215" title="AcpiOsReadMemory" alt="" coords="461,56,611,83"/>
+<area shape="rect" id="node6" href="$achware_8h.html#adf7988fcab38736c4a9081da3ec089df" title="AcpiHwReadPort" alt="" coords="472,107,600,133"/>
+<area shape="rect" id="node9" href="$acutils_8h.html#afb74c096e61c011ddb2c2cb9d6409a41" title="AcpiUtGetRegionName" alt="" coords="451,157,621,184"/>
+<area shape="rect" id="node7" href="$hwvalid_8c.html#a2fccc7c13b13d678632d462648fd07b7" title="AcpiHwValidateIoRequest" alt="" coords="671,81,856,108"/>
+<area shape="rect" id="node8" href="$acpiosxf_8h.html#a64dc0148971f8117dad3692bbc8e05c9" title="AcpiOsReadPort" alt="" coords="701,132,825,159"/>
+</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['encoding',['encoding',['../unicode_8h.html#ab1000d1f2ea9878f60bc119650013894',1,'unicode.h']]]
+  ['debug_5flevel',['debug_level',['../namespacestd.html#a5aa5422365f41125cf66691158bb8aff',1,'std']]]
 ];

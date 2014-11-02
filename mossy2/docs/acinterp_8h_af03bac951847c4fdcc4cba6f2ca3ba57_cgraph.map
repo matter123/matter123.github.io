@@ -1,0 +1,7 @@
+<map id="AcpiExSystemIoSpaceHandler" name="AcpiExSystemIoSpaceHandler">
+<area shape="rect" id="node2" href="$achware_8h.html#adf7988fcab38736c4a9081da3ec089df" title="AcpiHwReadPort" alt="" coords="269,31,397,57"/>
+<area shape="rect" id="node5" href="$achware_8h.html#a80c11a16d90573982198c81dfa1e18e3" title="AcpiHwWritePort" alt="" coords="268,81,397,108"/>
+<area shape="rect" id="node3" href="$hwvalid_8c.html#a2fccc7c13b13d678632d462648fd07b7" title="AcpiHwValidateIoRequest" alt="" coords="445,56,631,83"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a64dc0148971f8117dad3692bbc8e05c9" title="AcpiOsReadPort" alt="" coords="476,5,600,32"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#a670d056982184c18fe4e21b5ec59e199" title="AcpiOsWritePort" alt="" coords="475,107,601,133"/>
+</map>

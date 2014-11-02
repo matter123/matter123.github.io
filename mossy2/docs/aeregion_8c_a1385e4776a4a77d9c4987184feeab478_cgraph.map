@@ -1,0 +1,13 @@
+<map id="AeOverrideRegionHandlers" name="AeOverrideRegionHandlers">
+<area shape="rect" id="node2" href="$aeregion_8c.html#a658fbfa89f5114e5e10c5950e25750ed" title="AeRegionHandler" alt="" coords="248,107,380,133"/>
+<area shape="rect" id="node3" href="$acutils_8h.html#afb74c096e61c011ddb2c2cb9d6409a41" title="AcpiUtGetRegionName" alt="" coords="428,5,597,32"/>
+<area shape="rect" id="node12" href="$aeregion_8c.html#a0cfccf07455b83b7a1b8479582033d6a" title="AeRegionInit" alt="" coords="263,157,365,184"/>
+<area shape="rect" id="node4" href="$achware_8h.html#adf7988fcab38736c4a9081da3ec089df" title="AcpiHwReadPort" alt="" coords="449,56,577,83"/>
+<area shape="rect" id="node7" href="$achware_8h.html#a80c11a16d90573982198c81dfa1e18e3" title="AcpiHwWritePort" alt="" coords="448,107,577,133"/>
+<area shape="rect" id="node9" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="463,157,563,184"/>
+<area shape="rect" id="node10" href="$acpiosxf_8h.html#a5836ced2ba926f770a83a42b6f125cfc" title="AcpiOsAllocate" alt="" coords="454,208,571,235"/>
+<area shape="rect" id="node11" href="$acpiosxf_8h.html#aa3baac772ec8f5df4a49d97e39bfb307" title="AcpiOsFree" alt="" coords="466,259,559,285"/>
+<area shape="rect" id="node5" href="$hwvalid_8c.html#a2fccc7c13b13d678632d462648fd07b7" title="AcpiHwValidateIoRequest" alt="" coords="645,81,831,108"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#a64dc0148971f8117dad3692bbc8e05c9" title="AcpiOsReadPort" alt="" coords="676,31,800,57"/>
+<area shape="rect" id="node8" href="$acpiosxf_8h.html#a670d056982184c18fe4e21b5ec59e199" title="AcpiOsWritePort" alt="" coords="675,132,801,159"/>
+</map>

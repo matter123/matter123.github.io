@@ -1,0 +1,16 @@
+<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#a9616a284a41707ffc476ebfa3e07b0e2" title="AcpiOsGetFileOffset" alt="" coords="213,5,361,32"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#aadd41de05748e473e5f353ef113c4b8d" title="AcpiOsSetFileOffset" alt="" coords="214,56,361,83"/>
+<area shape="rect" id="node4" href="$utdebug_8c.html#afa1590fb8c74acbf2d440a965843e7ac" title="AcpiLogError" alt="" coords="236,107,339,133"/>
+<area shape="rect" id="node5" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="1251,107,1301,133"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#a9bd46abe275fd106105e3d6c907101a8" title="AcpiUtFileVprintf" alt="" coords="409,183,536,209"/>
+<area shape="rect" id="node7" href="$acpiosxf_8h.html#ab4c7b42dd241ada889702c29e178371f" title="AcpiOsAcquireLock" alt="" coords="585,157,729,184"/>
+<area shape="rect" id="node8" href="$utprint_8c.html#a2fdf8ce4a674ba80c13dd1affbe4de39" title="AcpiUtVsnprintf" alt="" coords="596,208,719,235"/>
+<area shape="rect" id="node14" href="$acpiosxf_8h.html#a3631c8ab30c21cffcca562159ef09d52" title="AcpiOsWriteFile" alt="" coords="598,259,717,285"/>
+<area shape="rect" id="node15" href="$acpiosxf_8h.html#ab433d14090054e76cee7984e4eedcc16" title="AcpiOsReleaseLock" alt="" coords="584,309,731,336"/>
+<area shape="rect" id="node9" href="$utprint_8c.html#a894ab80bf488c6c829ab8c021b4e0639" title="AcpiUtBoundStringOutput" alt="" coords="989,169,1176,196"/>
+<area shape="rect" id="node10" href="$utprint_8c.html#a44473a96dd1529accc3e17b20e517e4d" title="AcpiUtScanNumber" alt="" coords="787,208,933,235"/>
+<area shape="rect" id="node11" href="$utprint_8c.html#a3d113d56bdb0549e0f3d4625280f5ce3" title="AcpiUtFormatNumber" alt="" coords="779,259,941,285"/>
+<area shape="rect" id="node12" href="$utprint_8c.html#ab5eba2658b9c5f4650f30a28bb6d6000" title="AcpiUtPutNumber" alt="" coords="1014,245,1151,272"/>
+<area shape="rect" id="node13" href="$acutils_8h.html#acbfb313d39c6cb5db3b44adaaf4ad7fc" title="AcpiUtDivide" alt="" coords="1224,245,1328,272"/>
+</map>

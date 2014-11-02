@@ -1,0 +1,5 @@
+<map id="AcpiRsGetPciRoutingTableLength" name="AcpiRsGetPciRoutingTableLength">
+<area shape="rect" id="node2" href="$rscreate_8c.html#adef257b677442a3b73f67586a52e40e9" title="AcpiRsCreatePciRoutingTable" alt="" coords="240,13,447,39"/>
+<area shape="rect" id="node3" href="$rsutils_8c.html#a138de1735f6c44c532052b66f7783476" title="AcpiRsGetPrtMethodData" alt="" coords="495,13,680,39"/>
+<area shape="rect" id="node4" href="$rsxface_8c.html#af8598443aac36c70aac86359e5943e4a" title="AcpiGetIrqRoutingTable" alt="" coords="728,13,899,39"/>
+</map>

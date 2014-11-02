@@ -1,0 +1,6 @@
+<map id="AcpiHwEnableRuntimeGpeBlock" name="AcpiHwEnableRuntimeGpeBlock">
+<area shape="rect" id="node2" href="$hwgpe_8c.html#ae770d0d8ae7a2af4d2450e1bef4c09aa" title="AcpiHwEnableAllRuntimeGpes" alt="" coords="280,31,495,57"/>
+<area shape="rect" id="node3" href="$evxfgpe_8c.html#acb2c944da89990057c1b2f613bd96f77" title="ACPI_EXPORT_SYMBOL" alt="" coords="543,5,713,32"/>
+<area shape="rect" id="node4" href="$hwsleep_8c.html#ac7a7a0377af84d5b5fbf242d4635a25d" title="AcpiHwLegacyWake" alt="" coords="552,56,704,83"/>
+<area shape="rect" id="node5" href="$hwxfsleep_8c.html#aa9721418f76ca9280276e892c7978ce7" title="ACPI_MODULE_NAME" alt="" coords="761,56,921,83"/>
+</map>

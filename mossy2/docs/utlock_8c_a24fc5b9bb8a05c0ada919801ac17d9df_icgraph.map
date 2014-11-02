@@ -1,0 +1,11 @@
+<map id="AcpiUtReleaseWriteLock" name="AcpiUtReleaseWriteLock">
+<area shape="rect" id="node2" href="$tbdata_8c.html#ae0b72389f05576e0aed4311e1be215a0" title="AcpiTbDeleteNamespaceByOwner" alt="" coords="231,81,473,108"/>
+<area shape="rect" id="node3" href="$exconfig_8c.html#a10d11b8a837724615180a996820ad074" title="AcpiExUnloadTable" alt="" coords="535,56,678,83"/>
+<area shape="rect" id="node10" href="$tbxfload_8c.html#a2962060c128e33d93234be498b87dd87" title="ACPI_EXPORT_SYMBOL" alt="" coords="521,107,692,133"/>
+<area shape="rect" id="node4" href="$exconfig_8c.html#af034857cb72fa820f6ffedcb7e5dae22" title="AcpiExLoadTableOp" alt="" coords="740,5,887,32"/>
+<area shape="rect" id="node7" href="$exconfig_8c.html#ae6e89eb59483dedba9174568ac4f37bb" title="AcpiExLoadOp" alt="" coords="756,56,871,83"/>
+<area shape="rect" id="node9" href="$exoparg1_8c.html#aa03253bcf485cd0b5407e6b568666669" title="AcpiExOpcode_1A_0T_0R" alt="" coords="935,107,1120,133"/>
+<area shape="rect" id="node5" href="$exoparg6_8c.html#ad34ae207536ddaa333157095d25f580c" title="AcpiExOpcode_6A_0T_1R" alt="" coords="935,5,1120,32"/>
+<area shape="rect" id="node6" href="$dswexec_8c.html#a10d465625b14e13f46a87c99e68342eb" title="ACPI_MODULE_NAME" alt="" coords="1168,56,1328,83"/>
+<area shape="rect" id="node8" href="$exoparg1_8c.html#a3e9cab33e2e78974a0b519f2cba1d67e" title="AcpiExOpcode_1A_1T_0R" alt="" coords="935,56,1120,83"/>
+</map>

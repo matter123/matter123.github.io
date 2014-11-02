@@ -1,0 +1,5 @@
+<map id="ACPI_EXPORT_SYMBOL" name="ACPI_EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$actables_8h.html#a30cf146453108c7795db113dd60117e8" title="AcpiTbValidateTable" alt="" coords="224,5,373,32"/>
+<area shape="rect" id="node3" href="$tbdata_8c.html#aeaa732040b88787f73c16e590ed74395" title="AcpiTbAcquireTable" alt="" coords="421,5,568,32"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a1fae7131b07b0af4ddeb969d6ab08fbc" title="AcpiOsMapMemory" alt="" coords="616,5,763,32"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="AcpiDsMethodError" name="AcpiDsMethodError">
+<area shape="rect" id="node2" href="$dswexec_8c.html#a55f7be8c6da7e15f3ac324d4434393a9" title="AcpiDsExecBeginOp" alt="" coords="217,5,367,32"/>
+<area shape="rect" id="node3" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="223,56,361,83"/>
+<area shape="rect" id="node4" href="$psargs_8c.html#a9e61359210a3e4b0b01e5efbc5fc0324" title="AcpiPsGetNextNamepath" alt="" coords="199,107,385,133"/>
+<area shape="rect" id="node10" href="$psparse_8c.html#aa3fa02017bde9a180cac40f78ba4da79" title="AcpiPsParseAml" alt="" coords="1181,132,1305,159"/>
+<area shape="rect" id="node5" href="$psargs_8c.html#a710c369e98a15d5417d3dceb86a79186" title="AcpiPsGetNextArg" alt="" coords="433,107,573,133"/>
+<area shape="rect" id="node6" href="$psloop_8c.html#a78ccfb6270e6caa134eb770559139699" title="ACPI_MODULE_NAME" alt="" coords="621,56,781,83"/>
+<area shape="rect" id="node7" href="$psobject_8c.html#a1ee6f13d505b85b630a8721e56355580" title="AcpiPsBuildNamedOp" alt="" coords="621,107,781,133"/>
+<area shape="rect" id="node8" href="$psobject_8c.html#a56335defebfdcbbc9c1540ab1a24e5f6" title="AcpiPsCreateOp" alt="" coords="829,107,955,133"/>
+<area shape="rect" id="node9" href="$psloop_8c.html#a996ff754bbd6f95f225264fc60bc4a92" title="AcpiPsParseLoop" alt="" coords="1003,107,1133,133"/>
+<area shape="rect" id="node11" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="1382,81,1489,108"/>
+<area shape="rect" id="node13" href="$dsargs_8c.html#a68725a4fbc8daec7a112d6d65692d03b" title="ACPI_MODULE_NAME" alt="" coords="1355,132,1515,159"/>
+<area shape="rect" id="node14" href="$psxface_8c.html#a5deb05e87edeac32fc40a9cc6a4d0185" title="AcpiPsExecuteMethod" alt="" coords="1353,183,1517,209"/>
+<area shape="rect" id="node12" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="1572,81,1719,108"/>
+<area shape="rect" id="node15" href="$nseval_8c.html#a757d9e28ba64867c0e1d1e8b70e9b645" title="ACPI_MODULE_NAME" alt="" coords="1565,183,1725,209"/>
+</map>

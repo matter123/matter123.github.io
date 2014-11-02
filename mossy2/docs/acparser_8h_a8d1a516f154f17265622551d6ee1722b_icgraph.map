@@ -1,0 +1,18 @@
+<map id="AcpiPsGetArg" name="AcpiPsGetArg">
+<area shape="rect" id="node2" href="$dsfield_8c.html#a77309dbfc5854a56dd7623d436a29232" title="AcpiDsCreateBufferField" alt="" coords="163,56,339,83"/>
+<area shape="rect" id="node6" href="$dsfield_8c.html#ab0a0d2a3fa2c443d98913a9b89f11303" title="AcpiDsInitFieldObjects" alt="" coords="169,5,332,32"/>
+<area shape="rect" id="node8" href="$dsopcode_8c.html#a5d1ef5d21b424adf2f6df4bbf4dea433" title="AcpiDsEvalBankFieldOperands" alt="" coords="397,107,613,133"/>
+<area shape="rect" id="node9" href="$pstree_8c.html#a0ffd7dfce88e618a83d002210a4075a7" title="AcpiPsGetDepthNext" alt="" coords="172,157,329,184"/>
+<area shape="rect" id="node16" href="$pstree_8c.html#aa37b2e5b72be268b68b7998a22bedc61" title="AcpiPsGetChild" alt="" coords="191,208,310,235"/>
+<area shape="rect" id="node17" href="$pswalk_8c.html#a70d0d8d799be5c0c2bed94ac191fa806" title="ACPI_MODULE_NAME" alt="" coords="171,259,331,285"/>
+<area shape="rect" id="node3" href="$dswload2_8c.html#a7a6cec04ec1029549e5b5fcc8ecffb07" title="AcpiDsLoad2EndOp" alt="" coords="431,56,578,83"/>
+<area shape="rect" id="node4" href="$dswexec_8c.html#a5039ce4c847d895702d6b244f84181f0" title="AcpiDsExecEndOp" alt="" coords="713,95,852,121"/>
+<area shape="rect" id="node5" href="$dswload_8c.html#a16cd18c28b7457fc30aa9c7654ece498" title="ACPI_MODULE_NAME" alt="" coords="703,19,863,45"/>
+<area shape="rect" id="node7" href="$dswload_8c.html#a528a24d7f2a8afab4ddde00497768836" title="AcpiDsLoad1EndOp" alt="" coords="431,5,578,32"/>
+<area shape="rect" id="node10" href="$dmrestag_8c.html#aedeb63eb2e68f9d7428f83ea313910a9" title="AcpiDmCheckResourceReference" alt="" coords="387,208,623,235"/>
+<area shape="rect" id="node14" href="$dmrestag_8c.html#a44549a65c12e8226d1d51256593683bc" title="AcpiDmFindResources" alt="" coords="701,157,864,184"/>
+<area shape="rect" id="node11" href="$adwalk_8c.html#aab87ca0bd9593d60d3f39111d6e3bf0b" title="AcpiDmResourceDescendingOp" alt="" coords="671,208,895,235"/>
+<area shape="rect" id="node12" href="$adwalk_8c.html#aec34648aacfced2a885d20ab17d4439e" title="AcpiDmConvertResourceIndexes" alt="" coords="943,208,1176,235"/>
+<area shape="rect" id="node13" href="$adisasm_8c.html#a9f1f6b1385862848c44b77199f40fc14" title="AdAmlDisassemble" alt="" coords="1224,183,1371,209"/>
+<area shape="rect" id="node15" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="1006,157,1113,184"/>
+</map>

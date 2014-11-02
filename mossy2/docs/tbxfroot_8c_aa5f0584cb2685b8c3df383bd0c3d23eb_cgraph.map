@@ -1,0 +1,5 @@
+<map id="AcpiFindRootPointer" name="AcpiFindRootPointer">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#a1fae7131b07b0af4ddeb969d6ab08fbc" title="AcpiOsMapMemory" alt="" coords="229,5,375,32"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#ac311ac97cb1dbf409feec249058d0537" title="AcpiOsUnmapMemory" alt="" coords="219,56,385,83"/>
+<area shape="rect" id="node4" href="$actables_8h.html#ac6b98487b489e7b08933c28c65b920f9" title="AcpiTbScanMemoryForRsdp" alt="" coords="201,107,403,133"/>
+</map>

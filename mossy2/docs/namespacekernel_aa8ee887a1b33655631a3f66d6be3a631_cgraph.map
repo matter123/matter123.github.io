@@ -1,10 +1,11 @@
 <map id="kernel::init_scheduler" name="kernel::init_scheduler">
 <area shape="rect" id="node2" href="$namespacekernel.html#a42aa075aa1bf373faef12862f3035d3f" title="kernel::add_task" alt="" coords="223,5,352,32"/>
 <area shape="rect" id="node3" href="$namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="227,56,348,83"/>
-<area shape="rect" id="node9" href="$namespacekernel.html#a865bd2d3ec3c8114028c1e552cb852d3" title="kernel::schedule_int" alt="" coords="212,107,363,133"/>
-<area shape="rect" id="node4" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="411,31,597,57"/>
-<area shape="rect" id="node6" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="455,81,553,108"/>
-<area shape="rect" id="node5" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="664,31,729,57"/>
-<area shape="rect" id="node7" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="645,81,748,108"/>
-<area shape="rect" id="node8" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="671,132,722,159"/>
+<area shape="rect" id="node10" href="$namespacekernel.html#a865bd2d3ec3c8114028c1e552cb852d3" title="kernel::schedule_int" alt="" coords="212,107,363,133"/>
+<area shape="rect" id="node4" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="411,19,597,45"/>
+<area shape="rect" id="node6" href="$namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="455,95,553,121"/>
+<area shape="rect" id="node5" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="664,5,729,32"/>
+<area shape="rect" id="node7" href="$arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="645,56,748,83"/>
+<area shape="rect" id="node8" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="672,107,721,133"/>
+<area shape="rect" id="node9" href="$io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="671,157,722,184"/>
 </map>

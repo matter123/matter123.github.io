@@ -1,0 +1,10 @@
+<map id="AcpiRsCreateResourceList" name="AcpiRsCreateResourceList">
+<area shape="rect" id="node2" href="$rsutils_8c.html#aea54891fa088a4b048cdb1421f31c78b" title="AcpiRsGetCrsMethodData" alt="" coords="243,5,431,32"/>
+<area shape="rect" id="node4" href="$rsutils_8c.html#a4022560db4850fb782b40364fc04d409" title="AcpiRsGetPrsMethodData" alt="" coords="243,56,430,83"/>
+<area shape="rect" id="node6" href="$rsutils_8c.html#a2119006888efff739e88520604b00bfe" title="AcpiRsGetAeiMethodData" alt="" coords="243,107,430,133"/>
+<area shape="rect" id="node8" href="$rsutils_8c.html#ac7783c4453d9ff2e988263895a38fdcd" title="AcpiRsGetMethodData" alt="" coords="253,157,420,184"/>
+<area shape="rect" id="node3" href="$rsxface_8c.html#a5d3ffa5eef422bf94cb3973b03ff7737" title="ACPI_EXPORT_SYMBOL" alt="" coords="479,5,649,32"/>
+<area shape="rect" id="node5" href="$rsxface_8c.html#a1b0316c6edacd5f7c0bd069266be03e9" title="ACPI_EXPORT_SYMBOL" alt="" coords="479,56,649,83"/>
+<area shape="rect" id="node7" href="$rsxface_8c.html#a5731a6f2d1763de4429fc417c057ebac" title="ACPI_EXPORT_SYMBOL" alt="" coords="479,107,649,133"/>
+<area shape="rect" id="node9" href="$rsxface_8c.html#a3ae3b83a9ef021a94d42dd6459d31075" title="ACPI_EXPORT_SYMBOL" alt="" coords="479,157,649,184"/>
+</map>

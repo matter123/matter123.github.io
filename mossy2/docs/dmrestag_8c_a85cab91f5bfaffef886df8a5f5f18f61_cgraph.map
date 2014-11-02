@@ -1,0 +1,15 @@
+<map id="AcpiGetTagPathname" name="AcpiGetTagPathname">
+<area shape="rect" id="node2" href="$acutils_8h.html#aad98575e92bf2e7865277cb1ca8bac00" title="AcpiUtValidateResource" alt="" coords="233,5,408,32"/>
+<area shape="rect" id="node4" href="$dmrestag_8c.html#aab327ed1a97abd57c4e7755514d8a81b" title="AcpiDmGetResourceTag" alt="" coords="233,56,409,83"/>
+<area shape="rect" id="node6" href="$dmrestag_8c.html#ad30bcc64cf3c2824047753e24c78b95a" title="AcpiDmUpdateResourceName" alt="" coords="212,107,429,133"/>
+<area shape="rect" id="node8" href="$acnamesp_8h.html#a2cf01c07216fa04e0a39f4c81fb6e1d8" title="AcpiNsGetPathnameLength" alt="" coords="221,157,420,184"/>
+<area shape="rect" id="node9" href="$acnamesp_8h.html#a57fcfbb7d670e917db7492269df7297a" title="AcpiNsBuildExternalPath" alt="" coords="231,208,410,235"/>
+<area shape="rect" id="node10" href="$acnamesp_8h.html#a43ef977b6426f3f85a4d58a66a8dcd73" title="AcpiNsInternalizeName" alt="" coords="235,259,407,285"/>
+<area shape="rect" id="node13" href="$acparser_8h.html#a18d9f8ba30e9b417deea5bb136c16708" title="AcpiPsInitOp" alt="" coords="269,309,372,336"/>
+<area shape="rect" id="node3" href="$utresrc_8c.html#a70e920b7d3b986162c4719e8f032ee7a" title="AcpiUtGetResourceLength" alt="" coords="493,5,683,32"/>
+<area shape="rect" id="node5" href="$dmrestag_8c.html#ab90c4b1fcc2cde8dca2b89d948032a74" title="AcpiDmSearchTagList" alt="" coords="508,56,668,83"/>
+<area shape="rect" id="node7" href="$acutils_8h.html#adb53d718fed5cb1874a3f5bcff32f905" title="AcpiUtHexToAsciiChar" alt="" coords="507,107,669,133"/>
+<area shape="rect" id="node11" href="$nsutils_8c.html#a6f6f135691723d1d89cd029887fad774" title="AcpiNsGetInternalNameLength" alt="" coords="477,208,699,235"/>
+<area shape="rect" id="node12" href="$nsutils_8c.html#ae023275c19911cd2692ccde9381d2882" title="AcpiNsBuildInternalName" alt="" coords="495,259,681,285"/>
+<area shape="rect" id="node14" href="$acparser_8h.html#af458f473e3b9fe4ef621f63c5fb7e7f5" title="AcpiPsGetOpcodeInfo" alt="" coords="507,309,669,336"/>
+</map>

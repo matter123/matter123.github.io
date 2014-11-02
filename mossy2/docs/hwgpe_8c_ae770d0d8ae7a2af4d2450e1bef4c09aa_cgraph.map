@@ -1,0 +1,11 @@
+<map id="AcpiHwEnableAllRuntimeGpes" name="AcpiHwEnableAllRuntimeGpes">
+<area shape="rect" id="node2" href="$acevents_8h.html#a7e566cc072c6ea8ee89144fbb7c775c3" title="AcpiEvWalkGpeList" alt="" coords="309,31,453,57"/>
+<area shape="rect" id="node3" href="$hwgpe_8c.html#ab991ded0a8267a3067564f06dc817294" title="AcpiHwEnableRuntimeGpeBlock" alt="" coords="268,81,495,108"/>
+<area shape="rect" id="node4" href="$achware_8h.html#ad6df206d998ed4ed6094a0a4e6ce4c20" title="AcpiHwWrite" alt="" coords="543,81,645,108"/>
+<area shape="rect" id="node5" href="$achware_8h.html#a196789617ed934c4a8ccc5bfa9722cd8" title="AcpiHwValidateRegister" alt="" coords="693,5,867,32"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#aabe95b60e5b2215f8e6c68865f2c3c2f" title="AcpiOsWriteMemory" alt="" coords="704,56,856,83"/>
+<area shape="rect" id="node7" href="$achware_8h.html#a80c11a16d90573982198c81dfa1e18e3" title="AcpiHwWritePort" alt="" coords="715,107,845,133"/>
+<area shape="rect" id="node10" href="$acutils_8h.html#afb74c096e61c011ddb2c2cb9d6409a41" title="AcpiUtGetRegionName" alt="" coords="695,157,865,184"/>
+<area shape="rect" id="node8" href="$hwvalid_8c.html#a2fccc7c13b13d678632d462648fd07b7" title="AcpiHwValidateIoRequest" alt="" coords="915,81,1100,108"/>
+<area shape="rect" id="node9" href="$acpiosxf_8h.html#a670d056982184c18fe4e21b5ec59e199" title="AcpiOsWritePort" alt="" coords="945,132,1070,159"/>
+</map>

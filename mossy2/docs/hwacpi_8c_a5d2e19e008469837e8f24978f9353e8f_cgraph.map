@@ -1,0 +1,7 @@
+<map id="ACPI_MODULE_NAME" name="ACPI_MODULE_NAME">
+<area shape="rect" id="node2" href="$achware_8h.html#a80c11a16d90573982198c81dfa1e18e3" title="AcpiHwWritePort" alt="" coords="213,31,343,57"/>
+<area shape="rect" id="node5" href="$hwacpi_8c.html#a487dd1d8543cce5b9a08ae4d31e72939" title="AcpiHwGetMode" alt="" coords="214,81,342,108"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#a6ec2e6082bc9425d0ae5a09fc9ed2085" title="AcpiOsStall" alt="" coords="231,132,325,159"/>
+<area shape="rect" id="node3" href="$hwvalid_8c.html#a2fccc7c13b13d678632d462648fd07b7" title="AcpiHwValidateIoRequest" alt="" coords="391,5,576,32"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a670d056982184c18fe4e21b5ec59e199" title="AcpiOsWritePort" alt="" coords="421,56,546,83"/>
+</map>

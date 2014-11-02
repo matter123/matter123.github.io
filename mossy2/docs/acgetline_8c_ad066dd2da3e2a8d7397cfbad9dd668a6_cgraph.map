@@ -1,0 +1,8 @@
+<map id="AcpiOsGetLine" name="AcpiOsGetLine">
+<area shape="rect" id="node2" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="225,5,301,32"/>
+<area shape="rect" id="node3" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="216,56,309,83"/>
+<area shape="rect" id="node4" href="$acdebug_8h.html#a819e38ea179a17d0b89065ad8c253764" title="AcpiDbGetHistoryByIndex" alt="" coords="168,107,357,133"/>
+<area shape="rect" id="node5" href="$acgetline_8c.html#ae40fa41be5f027ad62cd68939f01ed70" title="AcpiAcClearLine" alt="" coords="201,157,325,184"/>
+<area shape="rect" id="node6" href="$string_8h.html#a7a82515b5d377be04817715c5465b647" title="copies chars from src to dest " alt="" coords="231,208,294,235"/>
+<area shape="rect" id="node7" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="233,259,292,285"/>
+</map>

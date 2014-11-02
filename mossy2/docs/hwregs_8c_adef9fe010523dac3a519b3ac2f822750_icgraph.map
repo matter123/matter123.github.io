@@ -1,0 +1,7 @@
+<map id="AcpiHwWriteMultiple" name="AcpiHwWriteMultiple">
+<area shape="rect" id="node2" href="$hwregs_8c.html#aed2316acfd04e3b889a268ce1a3be3eb" title="AcpiHwRegisterWrite" alt="" coords="205,56,360,83"/>
+<area shape="rect" id="node3" href="$hwregs_8c.html#a396f22d708e29a6b296d4684c4157517" title="AcpiHwClearAcpiStatus" alt="" coords="408,56,579,83"/>
+<area shape="rect" id="node4" href="$hwsleep_8c.html#aa4a433f6c7bcd24d45f80ca3ebea8ee1" title="ACPI_MODULE_NAME" alt="" coords="632,5,792,32"/>
+<area shape="rect" id="node6" href="$hwxface_8c.html#aab65d89ccebf7c798eeac455f492b457" title="ACPI_EXPORT_SYMBOL" alt="" coords="408,107,579,133"/>
+<area shape="rect" id="node5" href="$hwxfsleep_8c.html#a6ed557ecc3e49c9df7fef648ef5b372c" title="ACPI_EXPORT_SYMBOL" alt="" coords="627,56,797,83"/>
+</map>

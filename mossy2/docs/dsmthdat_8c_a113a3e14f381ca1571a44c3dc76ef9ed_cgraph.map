@@ -1,0 +1,20 @@
+<map id="AcpiDsMethodDataDeleteValue" name="AcpiDsMethodDataDeleteValue">
+<area shape="rect" id="node2" href="$dsmthdat_8c.html#a76a9c62fcb53f956b1a731f381bebc22" title="AcpiDsMethodDataGetNode" alt="" coords="276,5,479,32"/>
+<area shape="rect" id="node3" href="$acnamesp_8h.html#a2abb4e00f2fdad688ad73766ff1e4acf" title="AcpiNsGetAttachedObject" alt="" coords="283,56,471,83"/>
+<area shape="rect" id="node4" href="$acutils_8h.html#a8a77e7e5114367f9a862f22133a9a75d" title="AcpiUtRemoveReference" alt="" coords="286,107,469,133"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#ad220688a54845d34c8c153403ba0818c" title="AcpiUtValidInternalObject" alt="" coords="543,56,727,83"/>
+<area shape="rect" id="node7" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="1153,107,1203,133"/>
+<area shape="rect" id="node8" href="$utdelete_8c.html#a38196365cc7a40c9bce41d35ca533681" title="AcpiUtUpdateObjectReference" alt="" coords="527,208,744,235"/>
+<area shape="rect" id="node6" href="$acutils_8h.html#a32401b4d319df7f28c181246a30a02ce" title="AcpiUtGetDescriptorName" alt="" coords="818,56,1010,83"/>
+<area shape="rect" id="node9" href="$utdelete_8c.html#a1b75a016b3c0c454298c93c9018e55fa" title="AcpiUtUpdateRefCount" alt="" coords="829,259,999,285"/>
+<area shape="rect" id="node12" href="$acutils_8h.html#ae95188d940762c1b1ee564e28a6c7963" title="AcpiUtCreateUpdateStateAndPush" alt="" coords="792,335,1036,361"/>
+<area shape="rect" id="node17" href="$acutils_8h.html#a097b9d91eb2b720aec1202465019ec98" title="AcpiUtPopGenericState" alt="" coords="829,157,999,184"/>
+<area shape="rect" id="node18" href="$acutils_8h.html#aec0f3f0da2d5eff0f800f56238428810" title="AcpiUtDeleteGenericState" alt="" coords="819,208,1009,235"/>
+<area shape="rect" id="node10" href="$acpiosxf_8h.html#ab4c7b42dd241ada889702c29e178371f" title="AcpiOsAcquireLock" alt="" coords="1106,284,1250,311"/>
+<area shape="rect" id="node11" href="$acpiosxf_8h.html#ab433d14090054e76cee7984e4eedcc16" title="AcpiOsReleaseLock" alt="" coords="1105,233,1251,260"/>
+<area shape="rect" id="node13" href="$acutils_8h.html#a5aff2cb90adb9a687a0906005ce1e16a" title="AcpiUtCreateUpdateState" alt="" coords="1084,385,1272,412"/>
+<area shape="rect" id="node16" href="$acutils_8h.html#ae6cc5a988c45a2765e6d0638c87e0bfb" title="AcpiUtPushGenericState" alt="" coords="1089,335,1267,361"/>
+<area shape="rect" id="node14" href="$utstate_8c.html#a1007334913adfd3d3a64e8373a863084" title="AcpiUtCreateGenericState" alt="" coords="1320,385,1511,412"/>
+<area shape="rect" id="node15" href="$acpiosxf_8h.html#a3aeec4a3020b07475a5b9a4a5b0bbf15" title="AcpiOsAcquireObject" alt="" coords="1559,385,1713,412"/>
+<area shape="rect" id="node19" href="$acpiosxf_8h.html#a194106ebbaa12443e59d042b26a7af3b" title="AcpiOsReleaseObject" alt="" coords="1099,183,1257,209"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="ApGetTableFromFile" name="ApGetTableFromFile">
+<area shape="rect" id="node2" href="$acpiosxf_8h.html#ab0d7f9e5cbd7536ddfb88a0db01842ee" title="AcpiOsOpenFile" alt="" coords="201,18,321,45"/>
+<area shape="rect" id="node3" href="$utdebug_8c.html#afa1590fb8c74acbf2d440a965843e7ac" title="AcpiLogError" alt="" coords="209,69,312,96"/>
+<area shape="rect" id="node15" href="$acapps_8h.html#a25d027abab0591a6ea0f48906dfe842c" title="CmGetFileSize" alt="" coords="204,120,317,146"/>
+<area shape="rect" id="node16" href="$acpiosxf_8h.html#ab0bc710026311a5a6941314d500ca3fd" title="AcpiOsReadFile" alt="" coords="201,170,320,197"/>
+<area shape="rect" id="node17" href="$acpiosxf_8h.html#a095f9c2230fc34ded169fea38a53515f" title="AcpiOsCloseFile" alt="" coords="200,221,321,248"/>
+<area shape="rect" id="node4" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="1211,44,1261,70"/>
+<area shape="rect" id="node5" href="$acutils_8h.html#a9bd46abe275fd106105e3d6c907101a8" title="AcpiUtFileVprintf" alt="" coords="369,120,496,146"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#ab4c7b42dd241ada889702c29e178371f" title="AcpiOsAcquireLock" alt="" coords="545,94,689,121"/>
+<area shape="rect" id="node7" href="$utprint_8c.html#a2fdf8ce4a674ba80c13dd1affbe4de39" title="AcpiUtVsnprintf" alt="" coords="556,145,679,172"/>
+<area shape="rect" id="node13" href="$acpiosxf_8h.html#a3631c8ab30c21cffcca562159ef09d52" title="AcpiOsWriteFile" alt="" coords="558,196,677,222"/>
+<area shape="rect" id="node14" href="$acpiosxf_8h.html#ab433d14090054e76cee7984e4eedcc16" title="AcpiOsReleaseLock" alt="" coords="544,246,691,273"/>
+<area shape="rect" id="node8" href="$utprint_8c.html#a894ab80bf488c6c829ab8c021b4e0639" title="AcpiUtBoundStringOutput" alt="" coords="949,106,1136,133"/>
+<area shape="rect" id="node9" href="$utprint_8c.html#a44473a96dd1529accc3e17b20e517e4d" title="AcpiUtScanNumber" alt="" coords="747,145,893,172"/>
+<area shape="rect" id="node10" href="$utprint_8c.html#a3d113d56bdb0549e0f3d4625280f5ce3" title="AcpiUtFormatNumber" alt="" coords="739,196,901,222"/>
+<area shape="rect" id="node11" href="$utprint_8c.html#ab5eba2658b9c5f4650f30a28bb6d6000" title="AcpiUtPutNumber" alt="" coords="974,182,1111,209"/>
+<area shape="rect" id="node12" href="$acutils_8h.html#acbfb313d39c6cb5db3b44adaaf4ad7fc" title="AcpiUtDivide" alt="" coords="1184,182,1288,209"/>
+</map>

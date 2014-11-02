@@ -1,0 +1,13 @@
+<map id="AcpiUtFilePrintf" name="AcpiUtFilePrintf">
+<area shape="rect" id="node2" href="$utprint_8c.html#a9bd46abe275fd106105e3d6c907101a8" title="AcpiUtFileVprintf" alt="" coords="172,143,299,169"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#ab4c7b42dd241ada889702c29e178371f" title="AcpiOsAcquireLock" alt="" coords="348,41,492,68"/>
+<area shape="rect" id="node4" href="$utprint_8c.html#a2fdf8ce4a674ba80c13dd1affbe4de39" title="AcpiUtVsnprintf" alt="" coords="359,92,481,119"/>
+<area shape="rect" id="node9" href="$actypes_8h.html#a1181799b874d478a68aa3f5c1c811745" title="void" alt="" coords="1014,143,1063,169"/>
+<area shape="rect" id="node11" href="$acpiosxf_8h.html#a3631c8ab30c21cffcca562159ef09d52" title="AcpiOsWriteFile" alt="" coords="361,193,479,220"/>
+<area shape="rect" id="node12" href="$acpiosxf_8h.html#ab433d14090054e76cee7984e4eedcc16" title="AcpiOsReleaseLock" alt="" coords="347,244,493,271"/>
+<area shape="rect" id="node5" href="$utprint_8c.html#a894ab80bf488c6c829ab8c021b4e0639" title="AcpiUtBoundStringOutput" alt="" coords="752,16,939,43"/>
+<area shape="rect" id="node6" href="$utprint_8c.html#a44473a96dd1529accc3e17b20e517e4d" title="AcpiUtScanNumber" alt="" coords="549,41,696,68"/>
+<area shape="rect" id="node7" href="$utprint_8c.html#a3d113d56bdb0549e0f3d4625280f5ce3" title="AcpiUtFormatNumber" alt="" coords="541,92,704,119"/>
+<area shape="rect" id="node8" href="$utprint_8c.html#ab5eba2658b9c5f4650f30a28bb6d6000" title="AcpiUtPutNumber" alt="" coords="777,92,914,119"/>
+<area shape="rect" id="node10" href="$acutils_8h.html#acbfb313d39c6cb5db3b44adaaf4ad7fc" title="AcpiUtDivide" alt="" coords="987,92,1091,119"/>
+</map>

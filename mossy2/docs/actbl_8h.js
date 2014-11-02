@@ -1,0 +1,36 @@
+var actbl_8h =
+[
+    [ "acpi_table_header", "structacpi__table__header.html", "structacpi__table__header" ],
+    [ "acpi_generic_address", "structacpi__generic__address.html", "structacpi__generic__address" ],
+    [ "acpi_table_rsdp", "structacpi__table__rsdp.html", "structacpi__table__rsdp" ],
+    [ "acpi_rsdp_common", "structacpi__rsdp__common.html", "structacpi__rsdp__common" ],
+    [ "acpi_rsdp_extension", "structacpi__rsdp__extension.html", "structacpi__rsdp__extension" ],
+    [ "acpi_table_rsdt", "structacpi__table__rsdt.html", "structacpi__table__rsdt" ],
+    [ "acpi_table_xsdt", "structacpi__table__xsdt.html", "structacpi__table__xsdt" ],
+    [ "acpi_table_facs", "structacpi__table__facs.html", "structacpi__table__facs" ],
+    [ "acpi_table_fadt", "structacpi__table__fadt.html", "structacpi__table__fadt" ],
+    [ "acpi_name_union", "unionacpi__name__union.html", "unionacpi__name__union" ],
+    [ "acpi_table_desc", "structacpi__table__desc.html", "structacpi__table__desc" ],
+    [ "ACPI_GENERIC_ADDRESS", "actbl_8h.html#aeb31952c3d200942c1b2544eb93f23d9", null ],
+    [ "ACPI_NAME_UNION", "actbl_8h.html#a8e90aafd2f5e43ebad9aba9283a7a8c6", null ],
+    [ "ACPI_RSDP_COMMON", "actbl_8h.html#a62f16cdf632bfe1bfa7ee3c4746790f9", null ],
+    [ "ACPI_RSDP_EXTENSION", "actbl_8h.html#abebf56c81cc93b4c20e61cbcc560b3a3", null ],
+    [ "ACPI_TABLE_DESC", "actbl_8h.html#a1df6ba54c291b181ac163f672bc44263", null ],
+    [ "ACPI_TABLE_FACS", "actbl_8h.html#a5e81dbc7e663bb0b8f4bceee5d04673d", null ],
+    [ "ACPI_TABLE_FADT", "actbl_8h.html#ac8779af5e71a986eef6403e859c23b1b", null ],
+    [ "ACPI_TABLE_HEADER", "actbl_8h.html#aaaa4eee6f5bda1c66eabc9af1bdfe143", null ],
+    [ "ACPI_TABLE_RSDP", "actbl_8h.html#a0205dcfcc3991a5860f328ddae1f46e8", null ],
+    [ "ACPI_TABLE_RSDT", "actbl_8h.html#a79b213e4682ac56fd37fbad74cf74223", null ],
+    [ "ACPI_TABLE_XSDT", "actbl_8h.html#a0e5857218c5926fc73727ea6cf2d326b", null ],
+    [ "AcpiPreferredPmProfiles", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762", [
+      [ "PM_UNSPECIFIED", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762a648566f3f56a18d03388c45a858ae2c8", null ],
+      [ "PM_DESKTOP", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762aa027769b584d44597c233e3f63eeeb57", null ],
+      [ "PM_MOBILE", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762a3b4a7d48b6361917a8f836a6673c76cc", null ],
+      [ "PM_WORKSTATION", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762ab62d4e0c1c1008945d264e0ad5503165", null ],
+      [ "PM_ENTERPRISE_SERVER", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762a805e47683ed3f3a2faa7043ffa451ebb", null ],
+      [ "PM_SOHO_SERVER", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762a8f7877c1f9a6630a87940de944d1ee43", null ],
+      [ "PM_APPLIANCE_PC", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762a2f33c98739620d9ded154ed1ab30a33a", null ],
+      [ "PM_PERFORMANCE_SERVER", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762a7bf3ff992dc1a4f8350a4a1fcc8d292b", null ],
+      [ "PM_TABLET", "actbl_8h.html#a8a8e4290231683f4d1b825e64453e762ae55b4c06cac85fd29cd9957f977f3a27", null ]
+    ] ]
+];

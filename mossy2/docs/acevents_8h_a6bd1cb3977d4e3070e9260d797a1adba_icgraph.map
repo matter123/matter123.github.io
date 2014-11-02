@@ -1,0 +1,7 @@
+<map id="AcpiEvAttachRegion" name="AcpiEvAttachRegion">
+<area shape="rect" id="node2" href="$evhandler_8c.html#a32f656582d91f366e93e4122d371687f" title="AcpiEvInstallHandler" alt="" coords="207,31,361,57"/>
+<area shape="rect" id="node6" href="$evrgnini_8c.html#aca2d7974fb49a3d73804173609fdbb24" title="AcpiEvInitializeRegion" alt="" coords="204,81,364,108"/>
+<area shape="rect" id="node3" href="$evhandler_8c.html#a54d1e523e0ef72463dd26a3a2c2ac0c3" title="AcpiEvInstallSpaceHandler" alt="" coords="412,31,604,57"/>
+<area shape="rect" id="node4" href="$evhandler_8c.html#a5e58eb0e82a92f58708e08ef8eb7a706" title="AcpiEvInstallRegionHandlers" alt="" coords="652,5,855,32"/>
+<area shape="rect" id="node5" href="$evxfregn_8c.html#aceed2fe7d449000aeaa5186335b83206" title="ACPI_MODULE_NAME" alt="" coords="673,56,833,83"/>
+</map>

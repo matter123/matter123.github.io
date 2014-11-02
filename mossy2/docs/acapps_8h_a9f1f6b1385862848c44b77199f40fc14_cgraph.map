@@ -1,0 +1,51 @@
+<map id="AdAmlDisassemble" name="AdAmlDisassemble">
+<area shape="rect" id="node2" href="$acdebug_8h.html#a3fd5e10a01946ecc5ea1c3f891e7f728" title="AcpiDbGetTableFromFile" alt="" coords="238,102,413,129"/>
+<area shape="rect" id="node3" href="$adisasm_8c.html#a6a074550345b097debba89c0e1e736f8" title="AdParseTable" alt="" coords="272,558,379,585"/>
+<area shape="rect" id="node15" href="$acpiosxf_8h.html#aff5b4b7021f79c45fa2e7c751e95aed6" title="AcpiOsPrintf" alt="" coords="831,989,931,1015"/>
+<area shape="rect" id="node16" href="$acapps_8h.html#ad807ad8513e6cbe4c56f57be6a93c78c" title="AcpiDmFinishNamespaceLoad" alt="" coords="218,153,433,179"/>
+<area shape="rect" id="node20" href="$acparser_8h.html#a92e88ab681c0ea81122c0fea24847e6f" title="AcpiPsDeleteParseTree" alt="" coords="241,1419,409,1446"/>
+<area shape="rect" id="node21" href="$acdisasm_8h.html#a12c1e0c2941f2590e06814b5b8a7feee" title="AcpiDmClearExternalList" alt="" coords="235,1470,415,1497"/>
+<area shape="rect" id="node22" href="$acdisasm_8h.html#a162d003d4e66f7e9ca7f6aae5b33ba1c" title="AcpiDmGetExternalsFromFile" alt="" coords="222,1191,429,1218"/>
+<area shape="rect" id="node27" href="$adisasm_8c.html#aa9e2b112182b51eeb9d49acf8d09bf8a" title="AdGetLocalTables" alt="" coords="258,837,393,863"/>
+<area shape="rect" id="node30" href="$acapps_8h.html#aca89c79a56ee67311609d61d9af66d77" title="AdGenerateFilename" alt="" coords="803,1242,959,1269"/>
+<area shape="rect" id="node31" href="$acapps_8h.html#a4b3bd59f99eef56e8c465ca44f8c2b53" title="FlGenerateFilename" alt="" coords="251,1521,400,1547"/>
+<area shape="rect" id="node36" href="$acpiosxf_8h.html#a0262091457b827c87f7ea95f8ca55042" title="AcpiOsRedirectOutput" alt="" coords="244,1571,407,1598"/>
+<area shape="rect" id="node37" href="$acutils_8h.html#a734eeeea219e1a135840dfd06d446515" title="AcpiUtIsAmlTable" alt="" coords="556,1419,689,1446"/>
+<area shape="rect" id="node38" href="$adisasm_8c.html#a458f2fa26bc59414a3ccf1456314453e" title="AdDisassemblerHeader" alt="" coords="239,1014,412,1041"/>
+<area shape="rect" id="node39" href="$acdisasm_8h.html#a4823eb1daca47adac13c5a6b51198b7d" title="AcpiDmDumpDataTable" alt="" coords="238,1267,413,1294"/>
+<area shape="rect" id="node41" href="$acapps_8h.html#a25d027abab0591a6ea0f48906dfe842c" title="CmGetFileSize" alt="" coords="269,1622,382,1649"/>
+<area shape="rect" id="node42" href="$acapps_8h.html#aa0284a1c1ce0d4327f0c301053b9feba" title="AcpiDmCrossReferenceNamespace" alt="" coords="200,203,451,230"/>
+<area shape="rect" id="node43" href="$acapps_8h.html#a10705c1c5de62288f7224cdedc65bca4" title="AcpiDmDumpTree" alt="" coords="256,1673,395,1699"/>
+<area shape="rect" id="node44" href="$acapps_8h.html#a5eb4455931b2966fa673f08b35edfa8d" title="AcpiDmFindOrphanMethods" alt="" coords="226,254,425,281"/>
+<area shape="rect" id="node45" href="$acdisasm_8h.html#a77570c9fb19d2261e80e80ed6ea9696c" title="AcpiDmGetExternalMethodCount" alt="" coords="208,1723,443,1750"/>
+<area shape="rect" id="node46" href="$acnamesp_8h.html#a2eb5febd635fba20af0a23dc0889e5ad" title="AcpiNsDeleteNamespaceSubtree" alt="" coords="208,1774,443,1801"/>
+<area shape="rect" id="node47" href="$acnamesp_8h.html#a0dbee13c36c9e5145a77f984fbc33712" title="AcpiNsRootInitialize" alt="" coords="252,1825,399,1851"/>
+<area shape="rect" id="node48" href="$acdisasm_8h.html#afaada31277c856a5b81d9b00f0c5520e" title="AcpiDmAddExternalsToNamespace" alt="" coords="201,1875,449,1902"/>
+<area shape="rect" id="node49" href="$acapps_8h.html#aec34648aacfced2a885d20ab17d4439e" title="AcpiDmConvertResourceIndexes" alt="" coords="209,305,442,331"/>
+<area shape="rect" id="node50" href="$adisasm_8c.html#a19e04acf1df6b3237d6b3132a3701706" title="AdDisplayTables" alt="" coords="262,1115,389,1142"/>
+<area shape="rect" id="node4" href="$acparser_8h.html#a3c03128aca6d9132663ea3f7d1a74be8" title="AcpiPsCreateScopeOp" alt="" coords="541,558,705,585"/>
+<area shape="rect" id="node5" href="$acdispat_8h.html#a868e4251dd156ac0b685ac2dbf3ae4a6" title="AcpiDsCreateWalkState" alt="" coords="535,254,710,281"/>
+<area shape="rect" id="node6" href="$acdispat_8h.html#aa3b96dc51e17a166a3391052183c81c4" title="AcpiDsInitAmlWalk" alt="" coords="551,609,694,635"/>
+<area shape="rect" id="node8" href="$acparser_8h.html#aa3fa02017bde9a180cac40f78ba4da79" title="AcpiPsParseAml" alt="" coords="561,659,685,686"/>
+<area shape="rect" id="node9" href="$actables_8h.html#a80dbfb5afde509ce2758b3ee20f35ce5" title="AcpiTbStoreTable" alt="" coords="557,761,689,787"/>
+<area shape="rect" id="node10" href="$actables_8h.html#a2ac7a8022f00cfca0ba662001cf5f784" title="AcpiTbAllocateOwnerId" alt="" coords="537,710,708,737"/>
+<area shape="rect" id="node11" href="$actables_8h.html#a9e8fc79fa2f237ded539aa71d05a19d4" title="AcpiTbGetOwnerId" alt="" coords="551,355,694,382"/>
+<area shape="rect" id="node12" href="$acnamesp_8h.html#a29d4ceaa081431fafe62b3eb3c229848" title="AcpiNsOneCompleteParse" alt="" coords="528,406,717,433"/>
+<area shape="rect" id="node13" href="$acdisasm_8h.html#a7e7dd14964a2fb93c8e6f30c61400d55" title="AcpiDmParseDeferredOps" alt="" coords="528,457,717,483"/>
+<area shape="rect" id="node14" href="$acdisasm_8h.html#a44549a65c12e8226d1d51256593683bc" title="AcpiDmFindResources" alt="" coords="541,507,704,534"/>
+<area shape="rect" id="node7" href="$acdispat_8h.html#a14e3c0276b6801741eac7d2a0a1a51b4" title="AcpiDsScopeStackPush" alt="" coords="795,102,967,129"/>
+<area shape="rect" id="node17" href="$acdisasm_8h.html#ac6189ec4a581aaa03cbfc7dfdd43f109" title="AcpiDmWalkParseTree" alt="" coords="540,203,705,230"/>
+<area shape="rect" id="node18" href="$adwalk_8c.html#a5c3a480e48c24af74ca2d35231b3f499" title="AcpiDmLoadDescendingOp" alt="" coords="525,51,721,78"/>
+<area shape="rect" id="node19" href="$adwalk_8c.html#a7c56d2ffccdc76553af3a83016022033" title="AcpiDmCommonAscendingOp" alt="" coords="515,153,730,179"/>
+<area shape="rect" id="node23" href="$string_8h.html#a8cb460f64c449f2a9b9b7a40569ce0fe" title="strtok" alt="" coords="593,1267,653,1294"/>
+<area shape="rect" id="node24" href="$string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="589,1115,656,1142"/>
+<area shape="rect" id="node25" href="$dmextern_8c.html#abbb460c82dd8a9ad951ea147ba5a4613" title="AcpiDmAddPathToExternalList" alt="" coords="515,1166,730,1193"/>
+<area shape="rect" id="node26" href="$dmextern_8c.html#afaada31277c856a5b81d9b00f0c5520e" title="AcpiDmAddExternalsToNamespace" alt="" coords="499,1217,747,1243"/>
+<area shape="rect" id="node28" href="$acpiosxf_8h.html#a1db1ca6153f6250711004776939921da" title="AcpiOsTableOverride" alt="" coords="545,811,700,838"/>
+<area shape="rect" id="node29" href="$acapps_8h.html#a7e04350837e50d528a55840eaaa5bb76" title="AdWriteTable" alt="" coords="570,862,675,889"/>
+<area shape="rect" id="node32" href="$string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="593,1521,652,1547"/>
+<area shape="rect" id="node33" href="$string_8h.html#a7a82515b5d377be04817715c5465b647" title="copies chars from src to dest " alt="" coords="591,1571,654,1598"/>
+<area shape="rect" id="node34" href="$string_8h.html#aa9cb93f2675f98f3686d4d454e4a43fe" title="strrchr" alt="" coords="591,1622,655,1649"/>
+<area shape="rect" id="node35" href="$string_8h.html#adb8723e585ed29f2370cddf90f6891bc" title="appends src onto dest " alt="" coords="593,1673,652,1699"/>
+<area shape="rect" id="node40" href="$acutils_8h.html#add7836e0b98d0443f42135c56ef520b5" title="AcpiUtDumpBuffer" alt="" coords="551,1369,694,1395"/>
+</map>

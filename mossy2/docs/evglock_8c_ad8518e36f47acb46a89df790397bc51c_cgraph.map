@@ -1,0 +1,7 @@
+<map id="AcpiEvRemoveGlobalLockHandler" name="AcpiEvRemoveGlobalLockHandler">
+<area shape="rect" id="node2" href="$evglock_8c.html#a5bdd666510334c09319edb4195d5f96e" title="AcpiEvGlobalLockHandler" alt="" coords="292,56,477,83"/>
+<area shape="rect" id="node6" href="$acpiosxf_8h.html#afd8872b87a50823335896624bdf130c4" title="AcpiOsDeleteLock" alt="" coords="315,107,454,133"/>
+<area shape="rect" id="node3" href="$acpiosxf_8h.html#ab4c7b42dd241ada889702c29e178371f" title="AcpiOsAcquireLock" alt="" coords="543,5,687,32"/>
+<area shape="rect" id="node4" href="$acpiosxf_8h.html#a1101e10fd82150fa0a11d987f6bff815" title="AcpiOsSignalSemaphore" alt="" coords="525,56,704,83"/>
+<area shape="rect" id="node5" href="$acpiosxf_8h.html#ab433d14090054e76cee7984e4eedcc16" title="AcpiOsReleaseLock" alt="" coords="541,107,688,133"/>
+</map>
