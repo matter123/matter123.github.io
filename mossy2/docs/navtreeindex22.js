@@ -1,5 +1,6 @@
 var NAVTREEINDEX22 =
 {
+"structacpi__hest__generic__status.html#a5b61e65e3cbf07cc3bd4ff55a2a25a78":[3,0,98,1],
 "structacpi__hest__generic__status.html#a78a3c6fb3b7a43a430c450532e069425":[3,0,98,0],
 "structacpi__hest__generic__status.html#aa0adc0484f348cf0623d2475608ebc6c":[3,0,98,4],
 "structacpi__hest__generic__status.html#aeedaf4113ed934f72ef70fcc4318312a":[3,0,98,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX22 =
 "structacpi__madt__interrupt__source.html#a66c1f6435bf6bf16523bd88c7633dfde":[3,0,131,5],
 "structacpi__madt__interrupt__source.html#a779549677477c6d07e2d83528abe379b":[3,0,131,3],
 "structacpi__madt__interrupt__source.html#ada3ab6490f9328cba29379abf5839d0e":[3,0,131,1],
-"structacpi__madt__interrupt__source.html#aff56a08056c5606192041ec5dd4c315f":[3,0,131,2],
-"structacpi__madt__io__apic.html":[3,0,132]
+"structacpi__madt__interrupt__source.html#aff56a08056c5606192041ec5dd4c315f":[3,0,131,2]
 };

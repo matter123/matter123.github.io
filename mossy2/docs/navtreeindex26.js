@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"structacpi__srat__mem__affinity.html#a44b4550984972c5c64f346194a4516f0":[3,0,270,6],
 "structacpi__srat__mem__affinity.html#ab405d653fe1c11e116eae0834dcafdc9":[3,0,270,4],
 "structacpi__srat__mem__affinity.html#af9be034b63c670287ed034a8972bb7b4":[3,0,270,2],
 "structacpi__srat__x2apic__cpu__affinity.html":[3,0,271],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "structacpi__table__msct.html":[3,0,305],
 "structacpi__table__msct.html#a63eeca746993439af2ee887528c64cfa":[3,0,305,1],
 "structacpi__table__msct.html#a835cc29b81a721356b84078212befb0a":[3,0,305,0],
-"structacpi__table__msct.html#a9c91df0478c22b70037cff148e5e1090":[3,0,305,2],
-"structacpi__table__msct.html#afa19f5e7064e9208719bf9ae9b900512":[3,0,305,4]
+"structacpi__table__msct.html#a9c91df0478c22b70037cff148e5e1090":[3,0,305,2]
 };

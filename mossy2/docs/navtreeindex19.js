@@ -1,5 +1,6 @@
 var NAVTREEINDEX19 =
 {
+"rsinfo_8c.html#a011269722039a0a788ec4af43cbcd319":[4,0,0,0,1,7,5,3],
 "rsinfo_8c.html#a02c1a20d9d3669667be5db13314cf8a8":[4,0,0,0,1,7,5,2],
 "rsinfo_8c.html#a05efadcdde3be79c2b839c1c96d51a7a":[4,0,0,0,1,7,5,5],
 "rsinfo_8c.html#a6729a5c3c7e1c09f69dbd6769957ce7f":[4,0,0,0,1,7,5,7],
@@ -198,7 +199,7 @@ var NAVTREEINDEX19 =
 "structAxTableInfo.html#a6d6bec92ffac8809641bf49758ec5052":[3,0,384,2],
 "structAxTableInfo.html#a750cafd9ccebf8dbfa691c8f9e697b9c":[3,0,384,1],
 "structAxTableInfo.html#aedfc44a2ad49f147d3a2a703de3bf85b":[3,0,384,0],
-"struct_8h.html":[4,0,1,4,0,5],
+"struct_8h.html":[4,0,1,4,0,6],
 "structacpi__address__range.html":[3,0,5],
 "structacpi__address__range.html#a08e992935fbee4a178e4f038f4d6af3a":[3,0,5,0],
 "structacpi__address__range.html#a783a21165eb55ca4fb1f20420507986a":[3,0,5,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX19 =
 "structacpi__asf__remote.html#a2a29938d767409745afdb038f4bc61a8":[3,0,13,2],
 "structacpi__asf__remote.html#a81d4b46ba81bc148eddb8427a4aec57e":[3,0,13,1],
 "structacpi__asf__remote.html#a83caa9734e53896f85c57b283aa9ece8":[3,0,13,3],
-"structacpi__asf__remote.html#aa3f4bbed723fbd561b8cf2f40b8f699f":[3,0,13,0],
-"structacpi__asf__rmcp.html":[3,0,14]
+"structacpi__asf__remote.html#aa3f4bbed723fbd561b8cf2f40b8f699f":[3,0,13,0]
 };

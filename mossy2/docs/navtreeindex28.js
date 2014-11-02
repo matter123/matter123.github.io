@@ -1,5 +1,6 @@
 var NAVTREEINDEX28 =
 {
+"structae__region.html#a0592702faee9472615575546d281a8e8":[3,0,342,3],
 "structae__region.html#a7acbf89e94e0957ce7313e20085eeac3":[3,0,342,2],
 "structae__region.html#a8f2e41a4ec3de526d4b22196d0350d25":[3,0,342,0],
 "structae__region.html#a942e4696db07bc3ed6127faac50cd5f9":[3,0,342,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX28 =
 "structhal_1_1multiboot__mmap__ent.html#a4b38209a07d9a3ed468858207dd3e1a0":[3,0,0,12,2],
 "structhal_1_1multiboot__mmap__ent.html#a6b0b125d606f31ea9bba95c3cb1f4ea4":[3,0,0,12,3],
 "structhal_1_1multiboot__mmap__ent.html#ac9cff8f9a72cd3ea49408e297e278a8c":[3,0,0,12,1],
-"structhal_1_1multiboot__mmap__ent.html#ae5b5f24eb3d279512c1fd1350ac0e78d":[3,0,0,12,0],
-"structhal_1_1multiboot__module.html":[3,0,0,13]
+"structhal_1_1multiboot__mmap__ent.html#ae5b5f24eb3d279512c1fd1350ac0e78d":[3,0,0,12,0]
 };

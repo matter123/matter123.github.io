@@ -132,6 +132,7 @@ var NAVTREEINDEX12 =
 "boot86_8inc.html":[4,0,1,1,2],
 "bootconsole_8h.html":[4,0,1,3,0],
 "bootconsole_8h.html#a9ef033a79100b085e42b06754a8f8e79":[4,0,1,3,0,0],
+"build__info_8h.html":[4,0,1,4,0,0],
 "byteorder_8hpp.html":[4,0,1,2,0,0],
 "byteorder_8hpp.html#a258f820d70dea931e306f3c2047d5531":[4,0,1,2,0,0,3],
 "byteorder_8hpp.html#a282e8e4e91ff44aecf2ae6f86c2e5886":[4,0,1,2,0,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX12 =
 "classx86_1_1recursive__paging.html#ae08058ef5695ad6402c2df7afe858cea":[3,0,4,3,5],
 "cmfsize_8c.html":[4,0,0,0,1,0,7],
 "cmfsize_8c.html#a50df5cc3c293eff87323f636e3a6a518":[4,0,0,0,1,0,7,0],
-"console_8h.html":[4,0,1,2,0,1],
-"console_8h.html#a0e4347fbf6da02162c9005900ad503b5":[4,0,1,2,0,1,11]
+"console_8h.html":[4,0,1,2,0,1]
 };

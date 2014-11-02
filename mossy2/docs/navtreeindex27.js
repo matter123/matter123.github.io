@@ -1,5 +1,6 @@
 var NAVTREEINDEX27 =
 {
+"structacpi__table__msct.html#afa19f5e7064e9208719bf9ae9b900512":[3,0,305,4],
 "structacpi__table__msct.html#affac3fac9f6e9c32bfbd882dcc62cd7d":[3,0,305,3],
 "structacpi__table__mtmr.html":[3,0,306],
 "structacpi__table__mtmr.html#a90eb18fbf652e72dc8123ccfdecdd04c":[3,0,306,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX27 =
 "structae__debug__regions.html":[3,0,341],
 "structae__debug__regions.html#a3e64014de9a0f5eb0f6476092bb7ab55":[3,0,341,1],
 "structae__debug__regions.html#aa50e52ce987743f988e07c5d7a5ae70f":[3,0,341,0],
-"structae__region.html":[3,0,342],
-"structae__region.html#a0592702faee9472615575546d281a8e8":[3,0,342,3]
+"structae__region.html":[3,0,342]
 };

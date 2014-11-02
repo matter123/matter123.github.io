@@ -1,5 +1,6 @@
 var NAVTREEINDEX24 =
 {
+"structacpi__object__processor.html#afe1298e7fcae5892945f387c9b31932e":[3,0,182,2],
 "structacpi__object__reference.html":[3,0,183],
 "structacpi__object__reference.html#a02a01f130345842c4fcd284b4bc97a11":[3,0,183,6],
 "structacpi__object__reference.html#a340c3694fc2f8dd13851d6bcb0b1de0c":[3,0,183,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX24 =
 "structacpi__rasf__shared__memory.html#ac8778572a1f2d0fac2ce036c06d2ee57":[3,0,221,4],
 "structacpi__resource.html":[3,0,222],
 "structacpi__resource.html#a47dc68f767e26c1e1263ab31d443ae33":[3,0,222,0],
-"structacpi__resource.html#a9614ad732c8713cb5d2e09dc075b3a9d":[3,0,222,1],
-"structacpi__resource.html#ad1c44db03e388371092af7313cda47af":[3,0,222,2]
+"structacpi__resource.html#a9614ad732c8713cb5d2e09dc075b3a9d":[3,0,222,1]
 };

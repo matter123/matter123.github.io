@@ -1,5 +1,6 @@
 var NAVTREEINDEX20 =
 {
+"structacpi__asf__rmcp.html":[3,0,14],
 "structacpi__asf__rmcp.html#a198ec075a0ce1f2e9684a91ddedbe341":[3,0,14,6],
 "structacpi__asf__rmcp.html#a421aad3b19390921867e39548fc90dd7":[3,0,14,0],
 "structacpi__asf__rmcp.html#a6129cbb1ac6ec0e76724e03b55f40b04":[3,0,14,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX20 =
 "structacpi__einj__error__type__with__addr.html#a92e44fdb2010090ad70f2ecef5320c50":[3,0,54,0],
 "structacpi__einj__error__type__with__addr.html#adeef5ad7c5a0cce770d9536993ed7c33":[3,0,54,5],
 "structacpi__einj__error__type__with__addr.html#af0f9daf14c8f82fbd662b47e94923085":[3,0,54,3],
-"structacpi__einj__trigger.html":[3,0,55],
-"structacpi__einj__trigger.html#a0e0973d25b61a42003c582d8cc609e27":[3,0,55,2]
+"structacpi__einj__trigger.html":[3,0,55]
 };
