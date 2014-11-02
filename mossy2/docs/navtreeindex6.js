@@ -1,5 +1,7 @@
 var NAVTREEINDEX6 =
 {
+"x64_2stackframe_8cpp.html#a005c3482b92a828cd688d714fe706183":[4,0,1,0,0,5,4],
+"x64_2stackframe_8cpp.html#a042d8bab14cc7a32ae9663f738c15dc6":[4,0,1,0,0,5,3],
 "x64_2stackframe_8cpp.html#a54c515ebc605b6f16bcf2ba5378d5c0e":[4,0,1,0,0,5,1],
 "x64_2stackframe_8cpp.html#ac4dbaf3595b64d44bfa43464ea5c8ca1":[4,0,1,0,0,5,2],
 "x86_2hal__idt_8cpp.html":[4,0,1,0,1,1],

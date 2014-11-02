@@ -1,5 +1,7 @@
 var NAVTREEINDEX5 =
 {
+"structx64_1_1recursive__paging_1_1pte.html#aaa2eb557772c1ddf7398b93b3e5fa6d4":[3,0,3,3,7,7],
+"structx64_1_1trampoline.html":[3,0,3,4],
 "structx64_1_1trampoline.html#a45f78d854a5d9d166efdb6da7c104cd0":[3,0,3,4,1],
 "structx64_1_1trampoline.html#a5b9d4077090e25fbc0b2a10cb15f324b":[3,0,3,4,5],
 "structx64_1_1trampoline.html#a6733eacecf915cbba794285266d6dcdd":[3,0,3,4,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX5 =
 "x64_2paging_8cpp.html#ab3f41b6c905fa03a19be14e0a5f000a0":[4,0,1,0,0,3,5],
 "x64_2paging_8cpp.html#ab55b9bca1afee2ba44e0aba755572c3c":[4,0,1,0,0,3,2],
 "x64_2paging_8cpp.html#afd0e8bfc17958bfc4b9d0f33244f3dd7":[4,0,1,0,0,3,4],
-"x64_2stackframe_8cpp.html":[4,0,1,0,0,5],
-"x64_2stackframe_8cpp.html#a005c3482b92a828cd688d714fe706183":[4,0,1,0,0,5,4],
-"x64_2stackframe_8cpp.html#a042d8bab14cc7a32ae9663f738c15dc6":[4,0,1,0,0,5,3]
+"x64_2stackframe_8cpp.html":[4,0,1,0,0,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX4 =
 {
+"string_8h.html#a42d4e3089172065968469ff977374886":[4,0,0,1,0,3,9],
+"string_8h.html#a432f1999d4aafec2886b29ab93b31b16":[4,0,0,1,0,3,27],
 "string_8h.html#a4cb469bec7b722064b97a406346acb61":[4,0,0,1,0,3,15],
 "string_8h.html#a5c83f53d0b02b599d0578a2da24329fd":[4,0,0,1,0,3,4],
 "string_8h.html#a6666865e6caf66fd05d4b8bd6c074cd2":[4,0,0,1,0,3,28],
@@ -247,7 +249,5 @@ var NAVTREEINDEX4 =
 "structx64_1_1recursive__paging_1_1pte.html#a91773d598e4c9202e9c4c0687d8f2b82":[3,0,3,3,7,6],
 "structx64_1_1recursive__paging_1_1pte.html#a934af8959ce0da08df67db68da0ec51c":[3,0,3,3,7,0],
 "structx64_1_1recursive__paging_1_1pte.html#a95470f0ee749146d31840e45f9135bce":[3,0,3,3,7,10],
-"structx64_1_1recursive__paging_1_1pte.html#a9abd500434b5594a5e058093ee222282":[3,0,3,3,7,3],
-"structx64_1_1recursive__paging_1_1pte.html#aaa2eb557772c1ddf7398b93b3e5fa6d4":[3,0,3,3,7,7],
-"structx64_1_1trampoline.html":[3,0,3,4]
+"structx64_1_1recursive__paging_1_1pte.html#a9abd500434b5594a5e058093ee222282":[3,0,3,3,7,3]
 };
