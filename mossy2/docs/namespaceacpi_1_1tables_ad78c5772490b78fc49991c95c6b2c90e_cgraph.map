@@ -1,14 +1,17 @@
 <map id="acpi::tables::find_rsdp" name="acpi::tables::find_rsdp">
-<area shape="rect" id="node2" href="$namespaceacpi_1_1os.html#aba566b3f498ee416bde70a6d52271d2c" title="acpi::os::get_virt_phys" alt="" coords="229,107,395,133"/>
-<area shape="rect" id="node12" href="$string_8h.html#a1e7d61eb280250fb55dce370ba1a1709" title="compares the bytes of ptr1 and ptr2 " alt="" coords="270,157,354,184"/>
-<area shape="rect" id="node13" href="$namespaceacpi_1_1tables.html#a00915672c26a495f941c8fa9c74879a6" title="acpi::tables::do_checksum" alt="" coords="216,208,408,235"/>
-<area shape="rect" id="node3" href="$acpi__os_8cpp.html#a23eabdf0821514b638614f33412f6f3c" title="IS_SET" alt="" coords="519,81,584,108"/>
-<area shape="rect" id="node4" href="$namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="456,132,647,159"/>
-<area shape="rect" id="node5" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="695,132,895,159"/>
-<area shape="rect" id="node6" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="950,5,1054,32"/>
-<area shape="rect" id="node7" href="$namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="943,56,1061,83"/>
-<area shape="rect" id="node8" href="$namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="951,107,1053,133"/>
-<area shape="rect" id="node9" href="$namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="951,157,1053,184"/>
-<area shape="rect" id="node10" href="$namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="948,208,1056,235"/>
-<area shape="rect" id="node11" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="964,259,1040,285"/>
+<area shape="rect" id="node2" href="$namespaceacpi_1_1os.html#aba566b3f498ee416bde70a6d52271d2c" title="acpi::os::get_virt_phys" alt="" coords="229,147,395,173"/>
+<area shape="rect" id="node12" href="$namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="acpi::os::unget_phys" alt="" coords="235,197,389,224"/>
+<area shape="rect" id="node15" href="$string_8h.html#a1e7d61eb280250fb55dce370ba1a1709" title="compares the bytes of ptr1 and ptr2 " alt="" coords="270,248,354,275"/>
+<area shape="rect" id="node16" href="$namespaceacpi_1_1tables.html#a00915672c26a495f941c8fa9c74879a6" title="acpi::tables::do_checksum" alt="" coords="216,299,408,325"/>
+<area shape="rect" id="node3" href="$acpi__os_8cpp.html#a23eabdf0821514b638614f33412f6f3c" title="IS_SET" alt="" coords="519,147,584,173"/>
+<area shape="rect" id="node4" href="$namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="456,96,647,123"/>
+<area shape="rect" id="node5" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="695,107,895,133"/>
+<area shape="rect" id="node6" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="950,208,1054,235"/>
+<area shape="rect" id="node7" href="$namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="943,259,1061,285"/>
+<area shape="rect" id="node8" href="$namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="951,56,1053,83"/>
+<area shape="rect" id="node9" href="$namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="951,107,1053,133"/>
+<area shape="rect" id="node10" href="$namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="948,157,1056,184"/>
+<area shape="rect" id="node11" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="964,5,1040,32"/>
+<area shape="rect" id="node13" href="$namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="458,197,645,224"/>
+<area shape="rect" id="node14" href="$classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="713,169,876,210"/>
 </map>

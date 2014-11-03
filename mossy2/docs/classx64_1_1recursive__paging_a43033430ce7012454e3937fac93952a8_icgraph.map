@@ -1,4 +1,6 @@
 <map id="x64::recursive_paging::unmap" name="x64::recursive_paging::unmap">
 <area shape="rect" id="node2" href="$namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="216,13,403,39"/>
 <area shape="rect" id="node3" href="$namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="acpi::os::unget_phys" alt="" coords="451,13,605,39"/>
+<area shape="rect" id="node4" href="$namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="653,13,816,39"/>
+<area shape="rect" id="node5" href="$namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="acpi::init_tables" alt="" coords="864,13,985,39"/>
 </map>
