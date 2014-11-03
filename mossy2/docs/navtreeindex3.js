@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"kstacks_8cpp.html#a5b15a439c9fd2854756fa49827ca2877":[4,0,1,5,2,0],
 "kstacks_8cpp.html#a5cd14b2c228f8729d0a91456f57e1d3e":[4,0,1,5,2,4],
 "kstacks_8cpp.html#a6be8a41112d379cb44810ec132f56966":[4,0,1,5,2,6],
 "kstacks_8cpp.html#a816dd7de50b298f7da316313ab00c594":[4,0,1,5,2,1],
@@ -72,8 +73,8 @@ var NAVTREEINDEX3 =
 "namespaceapci.html":[2,0,1],
 "namespacehal.html":[2,0,2],
 "namespacehal.html":[3,0,1],
-"namespacekernel.html":[2,0,3],
 "namespacekernel.html":[3,0,2],
+"namespacekernel.html":[2,0,3],
 "namespacekernel_1_1bootconsole.html":[2,0,3,0],
 "namespacemembers.html":[2,1,0],
 "namespacemembers.html":[2,1,0,0],
@@ -182,7 +183,8 @@ var NAVTREEINDEX3 =
 "rsdp_8cpp.html#a00915672c26a495f941c8fa9c74879a6":[4,0,0,0,1,0,0,0],
 "rsdp_8cpp.html#ad78c5772490b78fc49991c95c6b2c90e":[4,0,0,0,1,0,0,1],
 "rsdp_8h.html":[4,0,0,0,0,0,0],
-"rsdp_8h.html#a467deb9a008836806a5e1a7e113522ca":[4,0,0,0,0,0,0,3],
+"rsdp_8h.html#a1561f748af53e0c61c176db8b8fb61b8":[4,0,0,0,0,0,0,3],
+"rsdp_8h.html#a467deb9a008836806a5e1a7e113522ca":[4,0,0,0,0,0,0,4],
 "rsdp_8h.html#ad78c5772490b78fc49991c95c6b2c90e":[4,0,0,0,0,0,0,2],
 "scheduler_8cpp.html":[4,0,1,5,4],
 "scheduler_8cpp.html#a42aa075aa1bf373faef12862f3035d3f":[4,0,1,5,4,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "string_8c.html#a5c83f53d0b02b599d0578a2da24329fd":[4,0,0,1,3,4],
 "string_8c.html#a6666865e6caf66fd05d4b8bd6c074cd2":[4,0,0,1,3,28],
 "string_8c.html#a674165b8b544a5fc278dc3bfdeef1e20":[4,0,0,1,3,2],
-"string_8c.html#a681c2d214690ce68f27d657a7a8a0c8e":[4,0,0,1,3,5],
-"string_8c.html#a6c1484d7e2c695d7615e6cb5d976348e":[4,0,0,1,3,6],
-"string_8c.html#a6f3dcb20ff11ff9db5904c3cfb61a38c":[4,0,0,1,3,21]
+"string_8c.html#a681c2d214690ce68f27d657a7a8a0c8e":[4,0,0,1,3,5]
 };
