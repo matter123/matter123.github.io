@@ -123,7 +123,6 @@ var NAVTREEINDEX1 =
 "boot86_8inc.html":[4,0,1,1,2],
 "bootconsole_8h.html":[4,0,1,3,0],
 "bootconsole_8h.html#a9ef033a79100b085e42b06754a8f8e79":[4,0,1,3,0,0],
-"build__info_8h.html":[4,0,1,4,0,0],
 "byteorder_8hpp.html":[4,0,1,2,0,0],
 "byteorder_8hpp.html#a258f820d70dea931e306f3c2047d5531":[4,0,1,2,0,0,3],
 "byteorder_8hpp.html#a282e8e4e91ff44aecf2ae6f86c2e5886":[4,0,1,2,0,0,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX1 =
 "console_8h.html#aab6c02fbcd2c1997fb56eea985c68597":[4,0,1,2,0,1,15],
 "console_8h.html#ab88e898bc9a52b331a8c3ca6908abe7d":[4,0,1,2,0,1,3],
 "console_8h.html#aca6d362afe774d4a4453df3ba637f215":[4,0,1,2,0,1,14],
-"console_8h.html#ad49d2e8377a31906bc4dc84f255817f8":[4,0,1,2,0,1,12]
+"console_8h.html#ad49d2e8377a31906bc4dc84f255817f8":[4,0,1,2,0,1,12],
+"console_8h.html#adf343534a8f851c0f34d612d474d48c4":[4,0,1,2,0,1,10]
 };

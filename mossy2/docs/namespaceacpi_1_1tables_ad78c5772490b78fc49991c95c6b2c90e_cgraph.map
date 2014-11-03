@@ -3,7 +3,7 @@
 <area shape="rect" id="node12" href="$namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="acpi::os::unget_phys" alt="" coords="235,197,389,224"/>
 <area shape="rect" id="node15" href="$string_8h.html#a1e7d61eb280250fb55dce370ba1a1709" title="compares the bytes of ptr1 and ptr2 " alt="" coords="270,248,354,275"/>
 <area shape="rect" id="node16" href="$namespaceacpi_1_1tables.html#a00915672c26a495f941c8fa9c74879a6" title="acpi::tables::do_checksum" alt="" coords="216,299,408,325"/>
-<area shape="rect" id="node3" href="$acpi__os_8cpp.html#a23eabdf0821514b638614f33412f6f3c" title="IS_SET" alt="" coords="519,147,584,173"/>
+<area shape="rect" id="node3" href="$namespaceacpi_1_1os.html#a9498f32fea38deed1cab0972910f832e" title="acpi::os::IS_SET" alt="" coords="490,147,613,173"/>
 <area shape="rect" id="node4" href="$namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="456,96,647,123"/>
 <area shape="rect" id="node5" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="695,107,895,133"/>
 <area shape="rect" id="node6" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="950,208,1054,235"/>

@@ -18,7 +18,6 @@ var searchData=
   ['bootinfo',['bootinfo',['../classhal_1_1mem__type.html#a101fab5aa776135084026642be8511cb',1,'hal::mem_type']]],
   ['bpp',['bpp',['../structhal_1_1multiboot__fb.html#a93653682ea0eb51497760c31f99dabdc',1,'hal::multiboot_fb']]],
   ['buf',['buf',['../namespacestd_1_1TC.html#a6bb6f38882ea438ca58b0e352899b8a1',1,'std::TC']]],
-  ['build_5finfo_2eh',['build_info.h',['../build__info_8h.html',1,'']]],
   ['byte_5forder',['byte_order',['../namespacehal.html#af25009464e4501d3c509c87f19dbb842',1,'hal']]],
   ['byteorder_2ehpp',['byteorder.hpp',['../byteorder_8hpp.html',1,'']]]
 ];
