@@ -1,3 +1,4 @@
 <map id="x64::recursive_paging::unmap" name="x64::recursive_paging::unmap">
 <area shape="rect" id="node2" href="$namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="216,13,403,39"/>
+<area shape="rect" id="node3" href="$namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="acpi::os::unget_phys" alt="" coords="451,13,605,39"/>
 </map>

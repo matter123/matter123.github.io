@@ -1,5 +1,6 @@
 <map id="hal::map_phys_to_virt_cur" name="hal::map_phys_to_virt_cur">
 <area shape="rect" id="node2" href="$namespaceacpi_1_1os.html#aba566b3f498ee416bde70a6d52271d2c" title="acpi::os::get_virt_phys" alt="" coords="244,5,411,32"/>
-<area shape="rect" id="node4" href="$namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="269,56,385,83"/>
+<area shape="rect" id="node5" href="$namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="269,56,385,83"/>
 <area shape="rect" id="node3" href="$namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="459,5,621,32"/>
+<area shape="rect" id="node4" href="$namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="acpi::init_tables" alt="" coords="669,5,791,32"/>
 </map>
