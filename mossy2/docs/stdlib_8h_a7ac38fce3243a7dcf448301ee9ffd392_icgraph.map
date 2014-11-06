@@ -1,10 +1,9 @@
 <map id="malloc" name="malloc">
 <area shape="rect" id="node2" href="$namespaceacpi_1_1os.html#abf38ca05a933bdcd0e456d585237db8a" title="allocates general purpose memory " alt="" coords="117,5,267,32"/>
-<area shape="rect" id="node6" href="$namespacekernel.html#ad79749380c8e9f3dbb4ef8f90f29d9b7" title="kernel::calloc" alt="" coords="139,56,245,83"/>
-<area shape="rect" id="node7" href="$namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="136,107,248,133"/>
-<area shape="rect" id="node8" href="$heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719" title="operator new" alt="" coords="138,157,246,184"/>
-<area shape="rect" id="node9" href="$heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f" title="operator new[]" alt="" coords="133,208,251,235"/>
+<area shape="rect" id="node5" href="$namespacekernel.html#ad79749380c8e9f3dbb4ef8f90f29d9b7" title="kernel::calloc" alt="" coords="139,56,245,83"/>
+<area shape="rect" id="node6" href="$namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="136,107,248,133"/>
+<area shape="rect" id="node7" href="$heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719" title="operator new" alt="" coords="138,157,246,184"/>
+<area shape="rect" id="node8" href="$heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f" title="operator new[]" alt="" coords="133,208,251,235"/>
 <area shape="rect" id="node3" href="$namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="315,5,477,32"/>
 <area shape="rect" id="node4" href="$namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="525,5,647,32"/>
-<area shape="rect" id="node5" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="695,5,821,32"/>
 </map>

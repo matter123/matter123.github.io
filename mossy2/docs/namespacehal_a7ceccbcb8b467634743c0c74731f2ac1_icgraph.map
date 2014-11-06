@@ -1,7 +1,7 @@
 <map id="hal::get_virt_mem_region" name="hal::get_virt_mem_region">
 <area shape="rect" id="node2" href="$namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11" title="initalizes acpi os interface " alt="" coords="240,5,393,32"/>
-<area shape="rect" id="node5" href="$namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42" title="kernel::heap_init" alt="" coords="253,56,381,83"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42" title="kernel::heap_init" alt="" coords="253,56,381,83"/>
 <area shape="rect" id="node6" href="$namespacekernel.html#a5cd14b2c228f8729d0a91456f57e1d3e" title="kernel::init_kstacks" alt="" coords="243,107,390,133"/>
-<area shape="rect" id="node3" href="$namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="441,5,563,32"/>
-<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="611,5,737,32"/>
+<area shape="rect" id="node3" href="$namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="444,5,565,32"/>
+<area shape="rect" id="node5" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="441,56,568,83"/>
 </map>
