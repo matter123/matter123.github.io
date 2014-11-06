@@ -1,3 +1,5 @@
 <map id="acpi::os::get_virt_phys" name="acpi::os::get_virt_phys">
-<area shape="rect" id="node2" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="220,5,347,32"/>
+<area shape="rect" id="node2" href="$namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="220,5,383,32"/>
+<area shape="rect" id="node3" href="$namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="431,5,552,32"/>
+<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="600,5,727,32"/>
 </map>

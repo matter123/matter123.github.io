@@ -10,6 +10,7 @@ var searchData=
   ['add_5fvirt_5fmem_5fvendor',['add_virt_mem_vendor',['../namespacehal.html#a3967389502235d4afbd3dd03911e82b1',1,'hal']]],
   ['add_5fvirt_5fregion',['add_virt_region',['../namespacehal.html#a2cf30f5cd953ae5539089abc3007fbbd',1,'hal::add_virt_region(uint64_t start, uint64_t len, mem_type type)'],['../namespacehal.html#a640002963c71b7f311ddf99f187a5db7',1,'hal::add_virt_region(int count)']]],
   ['address',['address',['../namespacehal.html#a4013e509947e7228aef455038ba1c82a',1,'hal']]],
+  ['alloc_5fmem',['alloc_mem',['../namespaceacpi_1_1os.html#abf38ca05a933bdcd0e456d585237db8a',1,'acpi::os']]],
   ['asctime',['asctime',['../time_8h.html#a68a0e9d22417dfcf9c0be64261352e64',1,'asctime(const struct tm *timeptr):&#160;time.h'],['../time_8cpp.html#ae3b8c29a35f3137802c32e8e54ed8e6d',1,'asctime(const tm *timeptr):&#160;time.cpp']]],
   ['assert',['assert',['../namespacestd.html#ac5cd6c10f3b85540626b27f1e00cd30d',1,'std']]],
   ['atof',['atof',['../stdlib_8h.html#a5aff941a8b7b49b2e7160449a3d413fc',1,'stdlib.h']]],

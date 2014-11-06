@@ -1,15 +1,17 @@
 <map id="x64::invlpage" name="x64::invlpage">
-<area shape="rect" id="node2" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="161,117,361,144"/>
-<area shape="rect" id="node12" href="$classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="180,179,343,221"/>
-<area shape="rect" id="node3" href="$namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="456,56,553,83"/>
-<area shape="rect" id="node8" href="$namespacehal.html#aa477aac835558177ef108118f601d96f" title="hal::map_free_to_virt_cur" alt="" coords="411,107,598,133"/>
-<area shape="rect" id="node9" href="$namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="409,157,600,184"/>
-<area shape="rect" id="node4" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="664,56,787,83"/>
-<area shape="rect" id="node5" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="883,5,985,32"/>
-<area shape="rect" id="node7" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="859,56,1009,83"/>
-<area shape="rect" id="node6" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1065,56,1192,83"/>
-<area shape="rect" id="node10" href="$namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="acpi::os::get_virt_phys" alt="" coords="851,107,1017,133"/>
-<area shape="rect" id="node11" href="$namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="667,157,783,184"/>
-<area shape="rect" id="node13" href="$namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="411,208,598,235"/>
-<area shape="rect" id="node14" href="$namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="acpi::os::unget_phys" alt="" coords="648,208,803,235"/>
+<area shape="rect" id="node2" href="$classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="161,104,361,131"/>
+<area shape="rect" id="node14" href="$classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="180,166,343,207"/>
+<area shape="rect" id="node3" href="$namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="456,43,553,69"/>
+<area shape="rect" id="node8" href="$namespacehal.html#aa477aac835558177ef108118f601d96f" title="hal::map_free_to_virt_cur" alt="" coords="411,93,598,120"/>
+<area shape="rect" id="node9" href="$namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="409,144,600,171"/>
+<area shape="rect" id="node4" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="670,43,793,69"/>
+<area shape="rect" id="node5" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="1083,5,1185,32"/>
+<area shape="rect" id="node7" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="869,43,1019,69"/>
+<area shape="rect" id="node6" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1243,37,1369,64"/>
+<area shape="rect" id="node10" href="$namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="648,93,815,120"/>
+<area shape="rect" id="node13" href="$namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="673,144,789,171"/>
+<area shape="rect" id="node11" href="$namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="863,93,1025,120"/>
+<area shape="rect" id="node12" href="$namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="1073,68,1195,95"/>
+<area shape="rect" id="node15" href="$namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="411,195,598,221"/>
+<area shape="rect" id="node16" href="$namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="deallocates firmware memory " alt="" coords="654,195,809,221"/>
 </map>
