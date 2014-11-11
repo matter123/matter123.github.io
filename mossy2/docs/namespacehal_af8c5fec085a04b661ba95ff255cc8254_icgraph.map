@@ -1,6 +1,0 @@
-<map id="hal::add_phys_region" name="hal::add_phys_region">
-<area shape="rect" id="node2" href="$namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc" title="hal::add_phys_mem_vendor" alt="" coords="212,5,416,32"/>
-<area shape="rect" id="node3" href="$namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="464,31,611,57"/>
-<area shape="rect" id="node4" href="$namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="659,31,776,57"/>
-<area shape="rect" id="node5" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="824,31,951,57"/>
-</map>

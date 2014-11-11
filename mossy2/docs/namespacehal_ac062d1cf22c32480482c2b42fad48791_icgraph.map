@@ -1,4 +1,0 @@
-<map id="hal::timer_init" name="hal::timer_init">
-<area shape="rect" id="node2" href="$namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="163,5,283,32"/>
-<area shape="rect" id="node3" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="331,5,457,32"/>
-</map>

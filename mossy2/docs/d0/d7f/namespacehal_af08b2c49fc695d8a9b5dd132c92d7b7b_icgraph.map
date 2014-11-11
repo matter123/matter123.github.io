@@ -1,0 +1,8 @@
+<map id="hal::halt" name="hal::halt">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc" title="hal::add_phys_mem_vendor" alt="" coords="127,5,331,32"/>
+<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="169,56,289,83"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a7854e96165a7643b4d804d9b779e822a" title="hal::print_boot_msg" alt="" coords="154,107,303,133"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="379,5,525,32"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="573,5,691,32"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="739,5,865,32"/>
+</map>

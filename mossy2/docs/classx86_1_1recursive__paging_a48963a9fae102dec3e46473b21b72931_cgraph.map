@@ -1,5 +1,0 @@
-<map id="x86::recursive_paging::map" name="x86::recursive_paging::map">
-<area shape="rect" id="node2" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="255,5,359,32"/>
-<area shape="rect" id="node3" href="$namespacex86.html#a098d19891fa8e07820216ef5a2542d4c" title="x86::invlpage" alt="" coords="253,56,361,83"/>
-<area shape="rect" id="node4" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="269,107,345,133"/>
-</map>

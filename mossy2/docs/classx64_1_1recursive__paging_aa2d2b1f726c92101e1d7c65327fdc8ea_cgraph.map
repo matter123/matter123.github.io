@@ -1,6 +1,0 @@
-<map id="x64::recursive_paging::locate" name="x64::recursive_paging::locate">
-<area shape="rect" id="node2" href="$namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="223,5,327,32"/>
-<area shape="rect" id="node3" href="$namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="216,56,335,83"/>
-<area shape="rect" id="node4" href="$namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="224,107,327,133"/>
-<area shape="rect" id="node5" href="$namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="225,157,326,184"/>
-</map>

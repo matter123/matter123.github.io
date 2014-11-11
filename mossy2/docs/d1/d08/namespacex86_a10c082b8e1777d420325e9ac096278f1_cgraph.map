@@ -1,0 +1,8 @@
+<map id="x86::handle" name="x86::handle">
+<area shape="rect" id="node2" href="$d4/db3/classx86_1_1recursive__paging.html#a48963a9fae102dec3e46473b21b72931" title="x86::recursive_paging::map" alt="" coords="151,56,351,83"/>
+<area shape="rect" id="node6" href="$d8/de8/namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="165,5,336,32"/>
+<area shape="rect" id="node7" href="$d2/d2d/arch_8h.html#ae7aee1c5a9e35b822c1d16bc31690595" title="get_creg" alt="" coords="211,107,290,133"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="401,5,505,32"/>
+<area shape="rect" id="node4" href="$d1/d08/namespacex86.html#a098d19891fa8e07820216ef5a2542d4c" title="x86::invlpage" alt="" coords="399,56,507,83"/>
+<area shape="rect" id="node5" href="$da/d66/string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="415,107,491,133"/>
+</map>

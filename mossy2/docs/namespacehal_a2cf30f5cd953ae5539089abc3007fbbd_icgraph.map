@@ -1,6 +1,0 @@
-<map id="hal::add_virt_region" name="hal::add_virt_region">
-<area shape="rect" id="node2" href="$namespacehal.html#aaedd544c8d9fe4a3c4a5060a541186fe" title="hal::add_virt_mem_arch" alt="" coords="201,5,379,32"/>
-<area shape="rect" id="node3" href="$namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="427,31,564,57"/>
-<area shape="rect" id="node4" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="612,31,715,57"/>
-<area shape="rect" id="node5" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="763,31,889,57"/>
-</map>

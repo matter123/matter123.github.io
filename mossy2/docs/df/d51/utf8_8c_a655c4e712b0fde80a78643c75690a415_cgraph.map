@@ -1,0 +1,6 @@
+<map id="normalize" name="normalize">
+<area shape="rect" id="node2" href="$df/d51/utf8_8c.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="291,24,395,51"/>
+<area shape="rect" id="node3" href="$df/d51/utf8_8c.html#a3276f08e39dbdf3e6132627b501ca7c7" title="copies char from c to str " alt="" coords="147,24,235,51"/>
+<area shape="rect" id="node4" href="$df/d51/utf8_8c.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="139,75,243,101"/>
+<area shape="rect" id="node5" href="$df/d51/utf8_8c.html#adf040cbe4cd920129db86c905b18eb19" title="turns code_point into a char " alt="" coords="139,125,243,152"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="hal::page_align" name="hal::page_align">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="172,31,287,57"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="335,5,481,32"/>
+<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="339,56,477,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="529,5,647,32"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="695,31,821,57"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="537,56,639,83"/>
+</map>

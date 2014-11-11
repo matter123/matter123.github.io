@@ -1,6 +1,0 @@
-<map id="x64::recursive_paging::init" name="x64::recursive_paging::init">
-<area shape="rect" id="node2" href="$namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="216,56,339,83"/>
-<area shape="rect" id="node3" href="$namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="411,5,513,32"/>
-<area shape="rect" id="node5" href="$namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="387,56,537,83"/>
-<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="585,5,712,32"/>
-</map>

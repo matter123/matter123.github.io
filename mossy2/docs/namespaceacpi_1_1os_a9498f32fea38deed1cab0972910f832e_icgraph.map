@@ -1,5 +1,0 @@
-<map id="acpi::os::IS_SET" name="acpi::os::IS_SET">
-<area shape="rect" id="node2" href="$namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="176,5,343,32"/>
-<area shape="rect" id="node3" href="$namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="391,5,553,32"/>
-<area shape="rect" id="node4" href="$namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="601,5,723,32"/>
-</map>

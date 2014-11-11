@@ -1,0 +1,8 @@
+<map id="hal::register_int" name="hal::register_int">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a4b3daba30c28c10c98c462983bc9112a" title="hal::register_stub_int" alt="" coords="175,5,331,32"/>
+<area shape="rect" id="node4" href="$d1/d21/x64_2hal__idt_8cpp.html#a0ad5965fbe70c123dea28c1c1f3fb839" title="exc_stub_sched" alt="" coords="190,56,315,83"/>
+<area shape="rect" id="node5" href="$db/d1b/namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="204,107,301,133"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#af41dcfe227cf671c01ad5cf506e3f89c" title="hal::register_asm_stub_int" alt="" coords="379,5,569,32"/>
+<area shape="rect" id="node6" href="$d2/d2d/arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="423,81,525,108"/>
+<area shape="rect" id="node7" href="$dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="449,132,499,159"/>
+</map>

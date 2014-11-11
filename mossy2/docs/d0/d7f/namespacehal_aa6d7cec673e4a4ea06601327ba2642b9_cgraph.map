@@ -1,0 +1,7 @@
+<map id="hal::phys_from_virt" name="hal::phys_from_virt">
+<area shape="rect" id="node2" href="$d2/d70/classx64_1_1recursive__paging.html#aa2d2b1f726c92101e1d7c65327fdc8ea" title="x64::recursive_paging\l::locate" alt="" coords="200,74,363,115"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="418,5,522,32"/>
+<area shape="rect" id="node4" href="$d7/db0/namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="411,56,529,83"/>
+<area shape="rect" id="node5" href="$d7/db0/namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="419,107,521,133"/>
+<area shape="rect" id="node6" href="$d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="419,157,521,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="x86::recursive_paging::page_map" name="x86::recursive_paging::page_map">
+<area shape="rect" id="node2" href="$d6/d6d/unionx86_1_1recursive__paging_1_1pt.html" title="x86::recursive_paging::pt" alt="" coords="12,95,196,121"/>
+<area shape="rect" id="node3" href="$df/deb/structx86_1_1recursive__paging_1_1pte.html" title="x86::recursive_paging::pte" alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node4" href="$de/d6e/unionx86_1_1recursive__paging_1_1pd.html" title="x86::recursive_paging::pd" alt="" coords="224,95,411,121"/>
+<area shape="rect" id="node5" href="$d7/d6d/structx86_1_1recursive__paging_1_1pde.html" title="x86::recursive_paging::pde" alt="" coords="221,5,416,32"/>
+</map>

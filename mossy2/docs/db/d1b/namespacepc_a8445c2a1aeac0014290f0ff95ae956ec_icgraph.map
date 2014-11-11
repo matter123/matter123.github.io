@@ -1,0 +1,6 @@
+<map id="pc::unmask" name="pc::unmask">
+<area shape="rect" id="node2" href="$db/d1b/namespacepc.html#aa4e1730438b454c96e7a2256e74e399a" title="pc::use_irq" alt="" coords="151,5,241,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#ac062d1cf22c32480482c2b42fad48791" title="hal::timer_init" alt="" coords="289,5,399,32"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="447,5,567,32"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="615,5,741,32"/>
+</map>

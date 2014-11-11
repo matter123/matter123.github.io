@@ -1,4 +1,0 @@
-<map id="hal::toLSB" name="hal::toLSB">
-<area shape="rect" id="node2" href="$arch_8h.html#a1618732cd7561dd1ca5e44291f56aac6" title="get_byte_order" alt="" coords="160,5,280,32"/>
-<area shape="rect" id="node3" href="$namespacehal.html#aa445d3ada0aa6545228b18c031982422" title="hal::swap_byte_order" alt="" coords="140,56,300,83"/>
-</map>

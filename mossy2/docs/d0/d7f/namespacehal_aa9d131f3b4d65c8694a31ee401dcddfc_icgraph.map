@@ -1,0 +1,6 @@
+<map id="hal::dump_regs" name="hal::dump_regs">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="189,5,280,32"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="175,56,295,83"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="343,5,445,32"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="493,5,620,32"/>
+</map>

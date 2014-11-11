@@ -1,0 +1,5 @@
+<map id="hal::get_phys_mem_region" name="hal::get_phys_mem_region">
+<area shape="rect" id="node2" href="$d8/de8/namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="249,5,373,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="421,5,524,32"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="572,5,699,32"/>
+</map>

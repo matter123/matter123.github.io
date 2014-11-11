@@ -1,5 +1,0 @@
-<map id="hal::width" name="hal::width">
-<area shape="rect" id="node2" href="$namespacehal.html#a7854e96165a7643b4d804d9b779e822a" title="hal::print_boot_msg" alt="" coords="137,5,287,32"/>
-<area shape="rect" id="node3" href="$namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="151,56,273,83"/>
-<area shape="rect" id="node4" href="$namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="335,56,455,83"/>
-</map>

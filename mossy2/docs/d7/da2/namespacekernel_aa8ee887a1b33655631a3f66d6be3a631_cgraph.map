@@ -1,0 +1,11 @@
+<map id="kernel::init_scheduler" name="kernel::init_scheduler">
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a42aa075aa1bf373faef12862f3035d3f" title="kernel::add_task" alt="" coords="223,5,352,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="227,56,348,83"/>
+<area shape="rect" id="node10" href="$d7/da2/namespacekernel.html#a865bd2d3ec3c8114028c1e552cb852d3" title="kernel::schedule_int" alt="" coords="212,107,363,133"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a4b3daba30c28c10c98c462983bc9112a" title="hal::register_stub_int" alt="" coords="411,5,567,32"/>
+<area shape="rect" id="node6" href="$d1/d21/x64_2hal__idt_8cpp.html#a0ad5965fbe70c123dea28c1c1f3fb839" title="exc_stub_sched" alt="" coords="426,56,551,83"/>
+<area shape="rect" id="node7" href="$db/d1b/namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="440,107,537,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#af41dcfe227cf671c01ad5cf506e3f89c" title="hal::register_asm_stub_int" alt="" coords="615,5,805,32"/>
+<area shape="rect" id="node8" href="$d2/d2d/arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="659,81,761,108"/>
+<area shape="rect" id="node9" href="$dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="685,132,735,159"/>
+</map>

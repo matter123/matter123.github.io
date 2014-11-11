@@ -1,6 +1,0 @@
-<map id="hal::init_idt" name="hal::init_idt">
-<area shape="rect" id="node2" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="199,5,275,32"/>
-<area shape="rect" id="node3" href="$x64_2hal__idt_8cpp.html#a49616695dc8ee5c4ddb93f26bb0fd46b" title="lidt" alt="" coords="217,56,258,83"/>
-<area shape="rect" id="node4" href="$namespacehal.html#a3facdd934c180b17e39931a3590e06c8" title="hal::register_asm_sub_int" alt="" coords="144,107,331,133"/>
-<area shape="rect" id="node5" href="$x64_2hal__idt_8cpp.html#aed65e9340c70e0a3b56352b6cfd37378" title="IS_SET" alt="" coords="379,107,444,133"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="hal::tick" name="hal::tick">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ac062d1cf22c32480482c2b42fad48791" title="hal::timer_init" alt="" coords="125,5,235,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="283,5,403,32"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="451,5,577,32"/>
+</map>

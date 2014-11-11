@@ -1,0 +1,8 @@
+<map id="hal::timer_init" name="hal::timer_init">
+<area shape="rect" id="node2" href="$dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="455,5,505,32"/>
+<area shape="rect" id="node3" href="$db/d1b/namespacepc.html#aa4e1730438b454c96e7a2256e74e399a" title="pc::use_irq" alt="" coords="163,56,253,83"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#ac56357cf360822759aa913232c24ada7" title="hal::tick" alt="" coords="172,107,244,133"/>
+<area shape="rect" id="node4" href="$db/d1b/namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec" title="pc::unmask" alt="" coords="301,56,399,83"/>
+<area shape="rect" id="node5" href="$dc/dac/io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="561,81,603,108"/>
+<area shape="rect" id="node6" href="$dc/dac/io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9" title="io_wait" alt="" coords="447,107,513,133"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="kernel::split" name="kernel::split">
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="149,120,261,147"/>
+<area shape="rect" id="node8" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="328,208,440,235"/>
+<area shape="rect" id="node3" href="$d4/df8/namespaceacpi_1_1os.html#abf38ca05a933bdcd0e456d585237db8a" title="allocates general purpose memory " alt="" coords="309,5,459,32"/>
+<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#ad79749380c8e9f3dbb4ef8f90f29d9b7" title="kernel::calloc" alt="" coords="331,56,437,83"/>
+<area shape="rect" id="node9" href="$de/d90/heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719" title="operator new" alt="" coords="330,107,438,133"/>
+<area shape="rect" id="node10" href="$de/d90/heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f" title="operator new[]" alt="" coords="325,157,443,184"/>
+<area shape="rect" id="node4" href="$df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="507,5,669,32"/>
+<area shape="rect" id="node5" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="717,5,839,32"/>
+<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="887,5,1013,32"/>
+</map>

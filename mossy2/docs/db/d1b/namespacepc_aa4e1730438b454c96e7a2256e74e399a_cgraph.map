@@ -1,0 +1,6 @@
+<map id="pc::use_irq" name="pc::use_irq">
+<area shape="rect" id="node2" href="$db/d1b/namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec" title="pc::unmask" alt="" coords="144,31,241,57"/>
+<area shape="rect" id="node3" href="$dc/dac/io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="404,5,445,32"/>
+<area shape="rect" id="node4" href="$dc/dac/io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9" title="io_wait" alt="" coords="289,31,356,57"/>
+<area shape="rect" id="node5" href="$dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="297,81,348,108"/>
+</map>

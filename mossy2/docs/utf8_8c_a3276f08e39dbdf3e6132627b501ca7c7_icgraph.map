@@ -1,7 +1,0 @@
-<map id="char_copy" name="char_copy">
-<area shape="rect" id="node2" href="$string_8c.html#a93fc0f33c53eb8f2dd70334700005e81" title="copies upto num bytes from src to dest " alt="" coords="155,5,221,32"/>
-<area shape="rect" id="node3" href="$string_8c.html#a681c2d214690ce68f27d657a7a8a0c8e" title="copies upto num bytes from src to dest " alt="" coords="147,56,229,83"/>
-<area shape="rect" id="node4" href="$string_8c.html#a3d33779e4ffa5fea2b086ceed5fa1fd7" title="appends src onto dest " alt="" coords="157,107,219,133"/>
-<area shape="rect" id="node5" href="$utf8_8c.html#a655c4e712b0fde80a78643c75690a415" title="normalizes overlong chars " alt="" coords="145,157,231,184"/>
-<area shape="rect" id="node6" href="$utf8_8c.html#af8b6f5a422e37c00e22dc5325e2f9b67" title="normalizes overlong chars " alt="" coords="141,208,235,235"/>
-</map>

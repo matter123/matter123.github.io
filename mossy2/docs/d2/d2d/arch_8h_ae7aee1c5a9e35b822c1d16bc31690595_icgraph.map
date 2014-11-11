@@ -1,0 +1,9 @@
+<map id="get_creg" name="get_creg">
+<area shape="rect" id="node2" href="$d7/db0/namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="144,5,241,32"/>
+<area shape="rect" id="node3" href="$d1/d08/namespacex86.html#a10c082b8e1777d420325e9ac096278f1" title="x86::handle" alt="" coords="144,56,241,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="132,107,253,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="316,81,407,108"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="301,132,421,159"/>
+<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="469,81,572,108"/>
+<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="620,81,747,108"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="x64::PML4_OFF" name="x64::PML4_OFF">
+<area shape="rect" id="node2" href="$d2/d70/classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350" title="x64::recursive_paging\l::init" alt="" coords="172,23,335,65"/>
+<area shape="rect" id="node3" href="$d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="383,31,505,57"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="577,5,680,32"/>
+<area shape="rect" id="node6" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="553,56,704,83"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="752,5,879,32"/>
+</map>

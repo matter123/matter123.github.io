@@ -1,0 +1,7 @@
+<map id="get_instruction_pointer" name="get_instruction_pointer">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="223,31,344,57"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="407,5,497,32"/>
+<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="392,56,512,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="560,5,663,32"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="711,5,837,32"/>
+</map>

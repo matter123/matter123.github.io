@@ -1,0 +1,13 @@
+<map id="hal::w_malloc" name="hal::w_malloc">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="169,108,315,135"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="532,71,679,97"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="727,71,844,97"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="537,133,674,160"/>
+<area shape="rect" id="node9" href="$d0/d7f/namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="205,159,279,185"/>
+<area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="211,209,273,236"/>
+<area shape="rect" id="node11" href="$d0/d7f/namespacehal.html#a999cca0fe332310d9926a431173149f9" title="hal::add_phys_region" alt="" coords="163,311,321,337"/>
+<area shape="rect" id="node12" href="$d0/d7f/namespacehal.html#a640002963c71b7f311ddf99f187a5db7" title="hal::add_virt_region" alt="" coords="168,361,316,388"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="369,133,484,160"/>
+<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="892,99,1019,125"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="734,127,837,153"/>
+</map>

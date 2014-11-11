@@ -1,4 +1,0 @@
-<map id="hal::multiboot_mmap" name="hal::multiboot_mmap">
-<area shape="rect" id="node2" href="$structhal_1_1multiboot__tag.html" title="hal::multiboot_tag" alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node3" href="$structhal_1_1multiboot__mmap__ent.html" title="hal::multiboot_mmap_ent" alt="" coords="168,5,355,32"/>
-</map>

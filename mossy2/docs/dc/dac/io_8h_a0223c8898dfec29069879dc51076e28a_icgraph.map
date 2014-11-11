@@ -1,0 +1,11 @@
+<map id="inb" name="inb">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a3470f9ff1d6a545749c4c39ff47c9677" title="hal::printc" alt="" coords="119,5,205,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#af51a986a8f578845948a4f527673b609" title="hal::program_vga" alt="" coords="95,56,229,83"/>
+<area shape="rect" id="node4" href="$dc/dac/io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9" title="io_wait" alt="" coords="129,107,195,133"/>
+<area shape="rect" id="node8" href="$db/d1b/namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec" title="pc::unmask" alt="" coords="277,157,375,184"/>
+<area shape="rect" id="node5" href="$db/d1b/namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="423,107,513,133"/>
+<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="719,132,839,159"/>
+<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="887,132,1013,159"/>
+<area shape="rect" id="node9" href="$db/d1b/namespacepc.html#aa4e1730438b454c96e7a2256e74e399a" title="pc::use_irq" alt="" coords="423,157,513,184"/>
+<area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#ac062d1cf22c32480482c2b42fad48791" title="hal::timer_init" alt="" coords="561,157,671,184"/>
+</map>

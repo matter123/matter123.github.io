@@ -1,0 +1,7 @@
+<map id="hal::get_function" name="hal::get_function">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="183,31,304,57"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="367,5,457,32"/>
+<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="352,56,472,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="520,5,623,32"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="671,5,797,32"/>
+</map>

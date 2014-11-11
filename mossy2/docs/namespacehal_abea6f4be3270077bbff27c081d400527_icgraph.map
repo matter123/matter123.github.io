@@ -1,6 +1,0 @@
-<map id="hal::get_tag" name="hal::get_tag">
-<area shape="rect" id="node2" href="$namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="167,5,283,32"/>
-<area shape="rect" id="node3" href="$namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="347,81,464,108"/>
-<area shape="rect" id="node5" href="$namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="152,107,299,133"/>
-<area shape="rect" id="node4" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="512,81,639,108"/>
-</map>

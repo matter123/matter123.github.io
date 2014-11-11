@@ -1,5 +1,0 @@
-<map id="hal::magic_break" name="hal::magic_break">
-<area shape="rect" id="node2" href="$namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="185,5,312,32"/>
-<area shape="rect" id="node3" href="$namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="188,56,309,83"/>
-<area shape="rect" id="node4" href="$namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="360,56,480,83"/>
-</map>

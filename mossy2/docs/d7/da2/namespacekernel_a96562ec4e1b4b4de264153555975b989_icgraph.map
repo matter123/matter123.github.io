@@ -1,0 +1,26 @@
+<map id="kernel::panic" name="kernel::panic">
+<area shape="rect" id="node2" href="$d2/d70/classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="157,157,357,184"/>
+<area shape="rect" id="node12" href="$d2/d70/classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="176,6,339,47"/>
+<area shape="rect" id="node15" href="$d2/d70/classx64_1_1recursive__paging.html#aa2d2b1f726c92101e1d7c65327fdc8ea" title="x64::recursive_paging\l::locate" alt="" coords="176,85,339,126"/>
+<area shape="rect" id="node17" href="$d4/db3/classx86_1_1recursive__paging.html#a48963a9fae102dec3e46473b21b72931" title="x86::recursive_paging::map" alt="" coords="157,259,357,285"/>
+<area shape="rect" id="node19" href="$d8/de8/namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="172,208,343,235"/>
+<area shape="rect" id="node25" href="$d7/da2/namespacekernel.html#aa38f4bf0908256f59d09f52a167625bd" title="kernel::panic" alt="" coords="205,309,309,336"/>
+<area shape="rect" id="node3" href="$d7/db0/namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="452,157,549,184"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#aa477aac835558177ef108118f601d96f" title="hal::map_free_to_virt_cur" alt="" coords="407,208,594,235"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="405,107,596,133"/>
+<area shape="rect" id="node6" href="$d4/df8/namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="644,72,811,99"/>
+<area shape="rect" id="node11" href="$d0/d7f/namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="669,123,785,149"/>
+<area shape="rect" id="node7" href="$df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="859,17,1021,44"/>
+<area shape="rect" id="node10" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="875,69,1005,110"/>
+<area shape="rect" id="node8" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="1069,76,1191,103"/>
+<area shape="rect" id="node9" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1239,119,1365,145"/>
+<area shape="rect" id="node13" href="$d0/d7f/namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="407,5,594,32"/>
+<area shape="rect" id="node14" href="$d4/df8/namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="deallocates firmware memory " alt="" coords="650,17,805,44"/>
+<area shape="rect" id="node16" href="$d0/d7f/namespacehal.html#aa6d7cec673e4a4ea06601327ba2642b9" title="hal::phys_from_virt" alt="" coords="427,56,574,83"/>
+<area shape="rect" id="node18" href="$d1/d08/namespacex86.html#a10c082b8e1777d420325e9ac096278f1" title="x86::handle" alt="" coords="452,360,549,387"/>
+<area shape="rect" id="node20" href="$d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="439,259,562,285"/>
+<area shape="rect" id="node23" href="$d1/d08/namespacex86.html#ad2d07eef22e17f45585b7b9a3adbe1c0" title="x86::init_paging" alt="" coords="439,309,562,336"/>
+<area shape="rect" id="node21" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="1079,161,1181,188"/>
+<area shape="rect" id="node22" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="652,259,803,285"/>
+<area shape="rect" id="node24" href="$d1/d08/namespacex86.html#ab9e4d0e4571d9531648f20c875120f08" title="x86::pre_init_handle" alt="" coords="652,309,803,336"/>
+</map>

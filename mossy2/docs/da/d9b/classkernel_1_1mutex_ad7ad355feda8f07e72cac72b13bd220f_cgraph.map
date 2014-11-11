@@ -1,0 +1,5 @@
+<map id="kernel::mutex::lock" name="kernel::mutex::lock">
+<area shape="rect" id="node2" href="$d4/d6c/classkernel_1_1semaphore.html#a563e57e06f707c4f997a08f7ae351702" title="kernel::semaphore::wait" alt="" coords="200,31,379,57"/>
+<area shape="rect" id="node3" href="$d7/dc6/classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7" title="kernel::spinlock::acquire" alt="" coords="427,5,604,32"/>
+<area shape="rect" id="node4" href="$d7/dc6/classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a" title="kernel::spinlock::release" alt="" coords="427,56,604,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="get_byte_order" name="get_byte_order">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a258f820d70dea931e306f3c2047d5531" title="hal::toLSB" alt="" coords="184,5,271,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a75fa70b44deff2c33e7de5e26b25b6a7" title="hal::fromLSB" alt="" coords="175,56,279,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a282e8e4e91ff44aecf2ae6f86c2e5886" title="hal::toMSB" alt="" coords="182,107,273,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#aacecddabc9e49eedc26f3d3b268548d0" title="hal::fromMSB" alt="" coords="173,157,281,184"/>
+</map>

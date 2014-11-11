@@ -1,8 +1,0 @@
-<map id="isdigit" name="isdigit">
-<area shape="rect" id="node2" href="$ctype_8h.html#adf38e126f73a010f30af76db2a28c6e1" title="isalnum" alt="" coords="131,5,203,32"/>
-<area shape="rect" id="node3" href="$ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53" title="isxdigit" alt="" coords="133,56,200,83"/>
-<area shape="rect" id="node4" href="$namespacestd.html#a0c9af6d56d382dd024287f009ab1e13d" title="std::strtonum" alt="" coords="112,107,221,133"/>
-<area shape="rect" id="node5" href="$stdlib_8cpp.html#aec327ac88a4cd588e82a8b0ac752b089" title="atoi" alt="" coords="271,56,317,83"/>
-<area shape="rect" id="node6" href="$stdlib_8cpp.html#ad92c5a918e5bcd89416deb3b64fb46ee" title="atol" alt="" coords="271,107,317,133"/>
-<area shape="rect" id="node7" href="$stdlib_8cpp.html#a53e8d1f366b7581b51b222c2e02aa765" title="atoll" alt="" coords="269,157,319,184"/>
-</map>

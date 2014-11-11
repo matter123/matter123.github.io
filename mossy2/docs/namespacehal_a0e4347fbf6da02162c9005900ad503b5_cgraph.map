@@ -1,6 +1,0 @@
-<map id="hal::scroll" name="hal::scroll">
-<area shape="rect" id="node2" href="$namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d" title="hal::cls" alt="" coords="149,5,216,32"/>
-<area shape="rect" id="node4" href="$string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="136,56,229,83"/>
-<area shape="rect" id="node5" href="$string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="145,107,221,133"/>
-<area shape="rect" id="node3" href="$string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b" title="memset32" alt="" coords="277,5,369,32"/>
-</map>

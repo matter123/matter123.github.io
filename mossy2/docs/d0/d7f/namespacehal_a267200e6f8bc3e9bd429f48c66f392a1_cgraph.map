@@ -1,0 +1,11 @@
+<map id="hal::split" name="hal::split">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a70f151d3bf2b559ed7e4045be1c76171" title="hal::w_malloc" alt="" coords="136,5,245,32"/>
+<area shape="rect" id="node3" href="$da/d66/string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="151,56,230,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a6487ba4be75874e36c21a667e61300b8" title="hal::wksp_begin" alt="" coords="128,107,253,133"/>
+<area shape="rect" id="node5" href="$dc/d9c/stdlib_8h.html#ab42640268f26e065efd044cfe80591bd" title="itoa" alt="" coords="353,56,399,83"/>
+<area shape="rect" id="node7" href="$da/d66/string_8h.html#adb8723e585ed29f2370cddf90f6891bc" title="appends src onto dest " alt="" coords="347,107,405,133"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="301,157,451,184"/>
+<area shape="rect" id="node6" href="$d8/dcc/namespacestd.html#a48baa81cb509054ae53168ca5b0fda96" title="std::numtostr" alt="" coords="499,56,608,83"/>
+<area shape="rect" id="node9" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="511,132,596,159"/>
+<area shape="rect" id="node10" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="520,183,587,209"/>
+</map>

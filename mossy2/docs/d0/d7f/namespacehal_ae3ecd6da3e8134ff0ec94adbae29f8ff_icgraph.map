@@ -1,0 +1,4 @@
+<map id="hal::init_phys_mem" name="hal::init_phys_mem">
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="200,5,317,32"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="365,5,492,32"/>
+</map>

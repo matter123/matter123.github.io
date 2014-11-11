@@ -1,5 +1,0 @@
-<map id="hal::add_phys_mem_vendor" name="hal::add_phys_mem_vendor">
-<area shape="rect" id="node2" href="$namespacehal.html#af8c5fec085a04b661ba95ff255cc8254" title="hal::add_phys_region" alt="" coords="257,5,416,32"/>
-<area shape="rect" id="node3" href="$namespacehal.html#af08b2c49fc695d8a9b5dd132c92d7b7b" title="hal::halt" alt="" coords="300,56,373,83"/>
-<area shape="rect" id="node4" href="$namespacehal.html#a59a7cd4b190f6f957e3ecfc0028485ca" title="hal::disable_interrupts" alt="" coords="464,56,627,83"/>
-</map>
