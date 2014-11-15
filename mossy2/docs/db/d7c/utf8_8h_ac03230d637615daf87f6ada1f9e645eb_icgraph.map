@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$d1/db0/string_8c.html#a93fc0f33c53eb8f2dd70334700005e81" title="copies upto num bytes from src to dest " alt="" coords="331,5,397,32"/>
 <area shape="rect" id="node3" href="$d1/db0/string_8c.html#a681c2d214690ce68f27d657a7a8a0c8e" title="copies upto num bytes from src to dest " alt="" coords="323,56,405,83"/>
 <area shape="rect" id="node4" href="$d1/db0/string_8c.html#a3d33779e4ffa5fea2b086ceed5fa1fd7" title="appends src onto dest " alt="" coords="333,107,395,133"/>
-<area shape="rect" id="node5" href="$d1/db0/string_8c.html#a5c83f53d0b02b599d0578a2da24329fd" title="mbsncmp" alt="" coords="493,448,580,475"/>
+<area shape="rect" id="node5" href="$d1/db0/string_8c.html#a5c83f53d0b02b599d0578a2da24329fd" title="compares 2 strings " alt="" coords="493,448,580,475"/>
 <area shape="rect" id="node6" href="$df/d51/utf8_8c.html#add1d6efacb795a346837fd619941380a" title="gets the next char in a string " alt="" coords="321,689,407,716"/>
 <area shape="rect" id="node17" href="$df/d51/utf8_8c.html#a39d500e9f00a06fea05637b651f15664" title="determines if two chars are the same " alt="" coords="309,600,419,627"/>
 <area shape="rect" id="node18" href="$df/d51/utf8_8c.html#a3276f08e39dbdf3e6132627b501ca7c7" title="copies char from c to str " alt="" coords="165,107,253,133"/>

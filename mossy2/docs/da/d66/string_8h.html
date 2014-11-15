@@ -152,8 +152,10 @@ Functions</h2></td></tr>
 <tr class="memdesc:ac16a3eebd6c7e7e48d5a70b49403ba40"><td class="mdescLeft">&#160;</td><td class="mdescRight">compares <em>str1</em> and <em>str2</em>  <a href="#ac16a3eebd6c7e7e48d5a70b49403ba40">More...</a><br /></td></tr>
 <tr class="separator:ac16a3eebd6c7e7e48d5a70b49403ba40"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6666865e6caf66fd05d4b8bd6c074cd2"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d66/string_8h.html#a6666865e6caf66fd05d4b8bd6c074cd2">strncmp</a> (const char *str1, const char *str2, size_t num)</td></tr>
+<tr class="memdesc:a6666865e6caf66fd05d4b8bd6c074cd2"><td class="mdescLeft">&#160;</td><td class="mdescRight">compares 2 strings  <a href="#a6666865e6caf66fd05d4b8bd6c074cd2">More...</a><br /></td></tr>
 <tr class="separator:a6666865e6caf66fd05d4b8bd6c074cd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5c83f53d0b02b599d0578a2da24329fd"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d66/string_8h.html#a5c83f53d0b02b599d0578a2da24329fd">mbsncmp</a> (const char *str1, const char *str2, size_t num)</td></tr>
+<tr class="memdesc:a5c83f53d0b02b599d0578a2da24329fd"><td class="mdescLeft">&#160;</td><td class="mdescRight">compares 2 strings  <a href="#a5c83f53d0b02b599d0578a2da24329fd">More...</a><br /></td></tr>
 <tr class="separator:a5c83f53d0b02b599d0578a2da24329fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a276c5d14b4ca8ffa447a0b30333074f1"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d66/string_8h.html#a276c5d14b4ca8ffa447a0b30333074f1">memchr</a> (const void *ptr, int value, size_t num)</td></tr>
 <tr class="separator:a276c5d14b4ca8ffa447a0b30333074f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -377,6 +379,18 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>compares 2 strings </p>
+<p>compares up to num bytes of <em>str1</em> and <em>str2</em>. the two strings are compared codepoint to codepoint combining chars are ignored</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">str1</td><td>pointer to a UTF-8 string </td></tr>
+    <tr><td class="paramname">str2</td><td>pointer to a UTF-8 string </td></tr>
+    <tr><td class="paramname">num</td><td>max number of bytes to compare </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>0 if strings are equal the diffrence in the first codepoint otherwise </dd></dl>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1384,6 +1398,24 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
+<p>compares 2 strings </p>
+<p>compares up to num bytes of <em>str1</em> and <em>str2</em>.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">str1</td><td>pointer to a UTF-8 string </td></tr>
+    <tr><td class="paramname">str2</td><td>pointer to a UTF-8 string </td></tr>
+    <tr><td class="paramname">num</td><td>max number of bytes to compare </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>0 if strings are equal the diffrence in the first byte otherwise </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>created on 2014-05-30 </dd></dl>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="../../da/d66/string_8h.html#ac16a3eebd6c7e7e48d5a70b49403ba40" title="compares str1 and str2 ">mbscmp</a> </dd>
+<dd>
+<a class="el" href="../../da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 ">strcmp</a> </dd>
+<dd>
+<a class="el" href="../../da/d66/string_8h.html#a5c83f53d0b02b599d0578a2da24329fd" title="compares 2 strings ">mbsncmp</a> </dd></dl>
+
 </div>
 </div>
 <a class="anchor" id="a26f62cd03235f1a3e4f88d233c49b675"></a>
@@ -1582,7 +1614,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_6719ab1f1f7655efc2fa43f7eb574fd1.html">libs</a></li><li class="navelem"><a class="el" href="../../dir_ae835f14967616d3091bae2fb59bd644.html">clib</a></li><li class="navelem"><a class="el" href="../../dir_ef67c2bf1ed10ae541fe699381bd7c05.html">include</a></li><li class="navelem"><a class="el" href="../../da/d66/string_8h.html">string.h</a></li>
-    <li class="footer">Generated on Mon Nov 10 2014 16:00:02 for MOSSY 2 by
+    <li class="footer">Generated on Fri Nov 14 2014 22:30:03 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>
