@@ -33,6 +33,6 @@ var string_8h =
     [ "strpbrk", "da/d66/string_8h.html#aba69485c46e2b5bd30f50a7e6ba7a4cf", null ],
     [ "strrchr", "da/d66/string_8h.html#aa9cb93f2675f98f3686d4d454e4a43fe", null ],
     [ "strspn", "da/d66/string_8h.html#a91c52c43f254c0a5f086f5e1093e3235", null ],
-    [ "strstr", "da/d66/string_8h.html#a9b8955ed78305a9f68e032415a62e285", null ],
+    [ "strstr", "da/d66/string_8h.html#a65cbca0013b4c52745fcfd2b16d65c7e", null ],
     [ "strtok", "da/d66/string_8h.html#a8cb460f64c449f2a9b9b7a40569ce0fe", null ]
 ];

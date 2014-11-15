@@ -45,7 +45,7 @@ var NAVTREEINDEX =
 "da/d9b/structcpu__state.html#a417ba50d782ce34addf528d4f79d3771",
 "dc/d34/arch_2x86__64_2int_8h.html#a58713759f0a464c5eb77f9d1b2477bca",
 "dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a8375ae1baa8a7b9273759eece2307f22",
-"functions_vars.html"
+"functions_vars_c.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

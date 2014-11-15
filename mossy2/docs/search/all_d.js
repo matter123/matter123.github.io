@@ -3,8 +3,6 @@ var searchData=
   ['magenta',['MAGENTA',['../d3/d75/namespacestd_1_1TC.html#a2f7c0f1615ecdc2fceb4adeb717ff960',1,'std::TC']]],
   ['magic',['magic',['../d4/d48/structkernel_1_1HEAD.html#a9830aec9e696af31276ff66bbc20c991',1,'kernel::HEAD']]],
   ['magic_5fbreak',['magic_break',['../d0/d7f/namespacehal.html#a19733e5a1a5319869f72f44774aeac1e',1,'hal']]],
-  ['main',['main',['../df/d0a/main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main.cpp']]],
-  ['main_2ecpp',['main.cpp',['../df/d0a/main_8cpp.html',1,'']]],
   ['malloc',['malloc',['../dc/d9c/stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392',1,'malloc():&#160;heap.cpp'],['../d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867',1,'kernel::malloc()']]],
   ['map',['map',['../d2/d70/classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af',1,'x64::recursive_paging::map()'],['../d4/db3/classx86_1_1recursive__paging.html#a48963a9fae102dec3e46473b21b72931',1,'x86::recursive_paging::map()']]],
   ['map_5ffree_5fto_5fvirt_5fcur',['map_free_to_virt_cur',['../d0/d7f/namespacehal.html#aa477aac835558177ef108118f601d96f',1,'hal']]],
@@ -64,7 +62,7 @@ var searchData=
   ['multiboot_5fpalette',['multiboot_palette',['../d7/d10/structhal_1_1multiboot__palette.html',1,'hal']]],
   ['multiboot_5ftag',['multiboot_tag',['../d7/d20/structhal_1_1multiboot__tag.html',1,'hal']]],
   ['multiboot_5fvbe',['multiboot_vbe',['../d6/d74/structhal_1_1multiboot__vbe.html',1,'hal']]],
-  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]],
   ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html',1,'kernel']]],
+  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]],
   ['mutex_2ecpp',['mutex.cpp',['../d0/dbb/mutex_8cpp.html',1,'']]]
 ];
