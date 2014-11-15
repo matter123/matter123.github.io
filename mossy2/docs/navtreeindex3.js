@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"da/d9b/structcpu__state.html#a2889c991ce8b84d51a115e1f200a7c79":[3,0,6,13],
 "da/d9b/structcpu__state.html#a417ba50d782ce34addf528d4f79d3771":[3,0,6,32],
 "da/d9b/structcpu__state.html#a43ff6e955efa9e891ed865172b97589b":[3,0,6,6],
 "da/d9b/structcpu__state.html#a466accc92fd4f5d20b49d9e2b4198bda":[3,0,6,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "dc/d34/arch_2x86__64_2int_8h.html#a51b6c7144eb3e0e3ea67ae624af1705e":[4,0,1,0,2,1,204],
 "dc/d34/arch_2x86__64_2int_8h.html#a5263267258247b6f1a2d0188262011fb":[4,0,1,0,2,1,191],
 "dc/d34/arch_2x86__64_2int_8h.html#a538ee2e53a803c5f4826235fab46bab0":[4,0,1,0,2,1,158],
-"dc/d34/arch_2x86__64_2int_8h.html#a5488f116cf2625b8f0c2d9a0439fbfef":[4,0,1,0,2,1,173],
-"dc/d34/arch_2x86__64_2int_8h.html#a54d0daed4fd534f20347d1615e93f51b":[4,0,1,0,2,1,202]
+"dc/d34/arch_2x86__64_2int_8h.html#a5488f116cf2625b8f0c2d9a0439fbfef":[4,0,1,0,2,1,173]
 };

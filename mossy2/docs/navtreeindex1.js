@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"d3/d7c/ctype_8cpp.html":[4,0,0,1,1],
 "d3/d7c/ctype_8cpp.html#a0008a4e8e7889734dc1d83297de07158":[4,0,0,1,1,3],
 "d3/d7c/ctype_8cpp.html#a25908ae63aac2df990634e1ae5bd14d9":[4,0,0,1,1,1],
 "d3/d7c/ctype_8cpp.html#a3fa45b35c8abf67a950b6d3d4063dede":[4,0,0,1,1,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "d7/da4/cpu__stuff_8h.html#a6fa28502e33e305c4335fe3032dc7799":[4,0,1,0,2,0,1],
 "d7/da4/cpu__stuff_8h.html#ae95c9bac436fc0c33204e878437fba46":[4,0,1,0,2,0,0],
 "d7/db0/namespacex64.html":[3,0,4],
-"d7/db0/namespacex64.html":[2,0,5],
-"d7/dc6/classkernel_1_1spinlock.html":[3,0,2,4]
+"d7/db0/namespacex64.html":[2,0,5]
 };

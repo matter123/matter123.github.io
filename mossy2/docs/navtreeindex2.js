@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"d7/dc6/classkernel_1_1spinlock.html":[3,0,2,4],
 "d7/dc6/classkernel_1_1spinlock.html#a38b6c9e986c9753e1cef4285d35be198":[3,0,2,4,1],
 "d7/dc6/classkernel_1_1spinlock.html#a3f6443a5d549b79a725dc766e44ac684":[3,0,2,4,3],
 "d7/dc6/classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7":[3,0,2,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "da/d9b/structcpu__state.html#a1b83aeaa5b2812e233286c2bbd405fde":[3,0,6,10],
 "da/d9b/structcpu__state.html#a1e45c1630c1ce6248eee4d1fdac0ec05":[3,0,6,21],
 "da/d9b/structcpu__state.html#a202fde91c96ae43a359a8a12d587d3fb":[3,0,6,7],
-"da/d9b/structcpu__state.html#a20bea1cb6c0dbc0c87814665c0f9d997":[3,0,6,39],
-"da/d9b/structcpu__state.html#a2889c991ce8b84d51a115e1f200a7c79":[3,0,6,13]
+"da/d9b/structcpu__state.html#a20bea1cb6c0dbc0c87814665c0f9d997":[3,0,6,39]
 };
