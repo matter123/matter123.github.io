@@ -1,4 +1,6 @@
 <map id="memset32" name="memset32">
-<area shape="rect" id="node2" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="145,5,212,32"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="260,5,343,32"/>
+<area shape="rect" id="node2" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="145,31,212,57"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="266,5,349,32"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="260,56,355,83"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="403,56,529,83"/>
 </map>

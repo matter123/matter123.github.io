@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['test',['test',['../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d',1,'kernel']]],
   ['tick',['tick',['../d0/d7f/namespacehal.html#ac56357cf360822759aa913232c24ada7',1,'hal']]],
   ['timer_5finit',['timer_init',['../d0/d7f/namespacehal.html#ac062d1cf22c32480482c2b42fad48791',1,'hal']]],
   ['to_5fu64',['to_u64',['../df/d4e/classhal_1_1mem__type.html#a36a965ca7e2bced083acbdc5eff7b7af',1,'hal::mem_type']]],

@@ -10,6 +10,7 @@ var searchData=
   ['tasks_2eh',['tasks.h',['../d0/de6/arch_2x64_2tasks_8h.html',1,'']]],
   ['tasks_2eh',['tasks.h',['../d1/df3/arch_2x86_2tasks_8h.html',1,'']]],
   ['tasks_2eh',['tasks.h',['../de/dd7/sys_2sys_2tasks_8h.html',1,'']]],
+  ['test',['test',['../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d',1,'kernel']]],
   ['test_2ecpp',['test.cpp',['../df/dac/test_8cpp.html',1,'']]],
   ['test_2eh',['test.h',['../d2/ddc/test_8h.html',1,'']]],
   ['text_5fcolor_2ecpp',['text_color.cpp',['../d7/dd7/text__color_8cpp.html',1,'']]],

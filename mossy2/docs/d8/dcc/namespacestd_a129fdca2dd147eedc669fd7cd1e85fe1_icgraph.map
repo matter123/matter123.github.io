@@ -1,3 +1,5 @@
 <map id="std::cls" name="std::cls">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="120,5,203,32"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="126,5,209,32"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="120,56,215,83"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="263,56,389,83"/>
 </map>
