@@ -1,6 +1,7 @@
 var searchData=
 [
   ['magic_5fbreak',['magic_break',['../d0/d7f/namespacehal.html#a19733e5a1a5319869f72f44774aeac1e',1,'hal']]],
+  ['main',['main',['../df/d0a/main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main.cpp']]],
   ['malloc',['malloc',['../dc/d9c/stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392',1,'malloc():&#160;heap.cpp'],['../d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867',1,'kernel::malloc()']]],
   ['map',['map',['../d2/d70/classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af',1,'x64::recursive_paging::map()'],['../d4/db3/classx86_1_1recursive__paging.html#a48963a9fae102dec3e46473b21b72931',1,'x86::recursive_paging::map()']]],
   ['map_5ffree_5fto_5fvirt_5fcur',['map_free_to_virt_cur',['../d0/d7f/namespacehal.html#aa477aac835558177ef108118f601d96f',1,'hal']]],
