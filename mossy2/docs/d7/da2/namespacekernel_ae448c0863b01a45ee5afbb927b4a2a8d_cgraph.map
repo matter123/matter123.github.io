@@ -1,4 +1,7 @@
 <map id="kernel::test" name="kernel::test">
 <area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d" title="hal::cls" alt="" coords="148,5,215,32"/>
+<area shape="rect" id="node4" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="148,56,215,83"/>
+<area shape="rect" id="node5" href="$da/d66/string_8h.html#a7a82515b5d377be04817715c5465b647" title="copies chars from src to dest " alt="" coords="150,107,213,133"/>
+<area shape="rect" id="node6" href="$da/d66/string_8h.html#adb8723e585ed29f2370cddf90f6891bc" title="appends src onto dest " alt="" coords="152,157,211,184"/>
 <area shape="rect" id="node3" href="$da/d66/string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b" title="memset32" alt="" coords="263,5,355,32"/>
 </map>
