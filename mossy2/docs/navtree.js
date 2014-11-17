@@ -40,12 +40,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d3/d61/modules_8h.html#ada83f94b13aca263c0fd8779cd2cdb70",
-"d7/db0/namespacex64.html",
-"da/d9b/structcpu__state.html#a202fde91c96ae43a359a8a12d587d3fb",
-"dc/d34/arch_2x86__64_2int_8h.html#a538ee2e53a803c5f4826235fab46bab0",
-"dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a6878400b7fb81e88f26aac943129db02",
-"functions_u.html"
+"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a9abd500434b5594a5e058093ee222282",
+"d7/d79/classhal_1_1ostream.html#adedc54a26b833d53c0c774e68b20e017",
+"da/d9b/classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f",
+"dc/d34/arch_2x86__64_2int_8h.html#a4c065280c7ff82c08e071c0d230e97b5",
+"dd/d0d/arch_2x64_2tasks_8cpp.html#a6ed756e4fb1b3ebdc6ecc489957a679a",
+"functions_m.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

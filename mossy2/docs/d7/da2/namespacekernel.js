@@ -5,5 +5,6 @@ var namespacekernel =
     [ "mutex", "da/d9b/classkernel_1_1mutex.html", "da/d9b/classkernel_1_1mutex" ],
     [ "semaphore", "d4/d6c/classkernel_1_1semaphore.html", "d4/d6c/classkernel_1_1semaphore" ],
     [ "spinlock", "d7/dc6/classkernel_1_1spinlock.html", "d7/dc6/classkernel_1_1spinlock" ],
+    [ "test_module", "d0/de2/structkernel_1_1test__module.html", "d0/de2/structkernel_1_1test__module" ],
     [ "thread_info", "db/db7/structkernel_1_1thread__info.html", "db/db7/structkernel_1_1thread__info" ]
 ];

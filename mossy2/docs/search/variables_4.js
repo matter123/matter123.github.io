@@ -3,6 +3,7 @@ var searchData=
   ['dblue',['DBLUE',['../d3/d75/namespacestd_1_1TC.html#ad429ae15db819bdfe4402ca8363deb85',1,'std::TC']]],
   ['dcyan',['DCYAN',['../d3/d75/namespacestd_1_1TC.html#aeedb70fd88cc5b5a66dbd017b29ac97a',1,'std::TC']]],
   ['dec',['dec',['../d0/d7f/namespacehal.html#ae10c2466ab763ab90d9fe7d4dab48699',1,'hal']]],
+  ['depend_5fcount',['depend_count',['../d0/de2/structkernel_1_1test__module.html#a763c9c936461a29f15c7e3bc201a9031',1,'kernel::test_module']]],
   ['dgray',['DGRAY',['../d3/d75/namespacestd_1_1TC.html#abc7951d5af9a517a6c608f51e36443a4',1,'std::TC']]],
   ['dgreen',['DGREEN',['../d3/d75/namespacestd_1_1TC.html#ad6666be821d858871051dbda7292591d',1,'std::TC']]],
   ['dirty',['dirty',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a1194d80c7d3b4c5e672cf3930b300cda',1,'x64::recursive_paging::pte::dirty()'],['../df/deb/structx86_1_1recursive__paging_1_1pte.html#ace93ef8a8b373b176c32ef42e93bd2bd',1,'x86::recursive_paging::pte::dirty()']]],
