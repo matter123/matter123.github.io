@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"dc/d34/arch_2x86__64_2int_8h.html#a4889c23b67f2c75faa27a1c25b61b15d":[4,0,1,0,2,1,256],
 "dc/d34/arch_2x86__64_2int_8h.html#a497c6b875bca7922cec0ea0d920eaa38":[4,0,1,0,2,1,160],
 "dc/d34/arch_2x86__64_2int_8h.html#a499d34bfb2c932ddda5f9b10d7e0fc3d":[4,0,1,0,2,1,249],
 "dc/d34/arch_2x86__64_2int_8h.html#a49ebb93503a19801e756b2968f8959d7":[4,0,1,0,2,1,119],
@@ -221,14 +222,14 @@ var NAVTREEINDEX4 =
 "dc/d9c/stdlib_8h.html#ae7e665b2cd7db799a932a8745e34d821":[4,0,0,1,0,2,20],
 "dc/d9c/stdlib_8h.html#aec327ac88a4cd588e82a8b0ac752b089":[4,0,0,1,0,2,1],
 "dc/d9c/stdlib_8h.html#afbedc913aa4651b3c3b4b3aecd9b4711":[4,0,0,1,0,2,5],
-"dc/dac/io_8h.html":[4,0,1,4,0,1],
-"dc/dac/io_8h.html#a0223c8898dfec29069879dc51076e28a":[4,0,1,4,0,1,0],
-"dc/dac/io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9":[4,0,1,4,0,1,3],
-"dc/dac/io_8h.html#a6d6ba720cbd995ee57852a8f6dba937c":[4,0,1,4,0,1,5],
-"dc/dac/io_8h.html#a9c1c3745e8a1005612597adc3d7d5e47":[4,0,1,4,0,1,1],
-"dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f":[4,0,1,4,0,1,4],
-"dc/dac/io_8h.html#aa4265e8a86864fa07906645dfb8b5152":[4,0,1,4,0,1,6],
-"dc/dac/io_8h.html#ab2f39bde7b2e87793f55352c72d07ebe":[4,0,1,4,0,1,2],
+"dc/dac/io_8h.html":[4,0,1,4,0,2],
+"dc/dac/io_8h.html#a0223c8898dfec29069879dc51076e28a":[4,0,1,4,0,2,0],
+"dc/dac/io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9":[4,0,1,4,0,2,3],
+"dc/dac/io_8h.html#a6d6ba720cbd995ee57852a8f6dba937c":[4,0,1,4,0,2,5],
+"dc/dac/io_8h.html#a9c1c3745e8a1005612597adc3d7d5e47":[4,0,1,4,0,2,1],
+"dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f":[4,0,1,4,0,2,4],
+"dc/dac/io_8h.html#aa4265e8a86864fa07906645dfb8b5152":[4,0,1,4,0,2,6],
+"dc/dac/io_8h.html#ab2f39bde7b2e87793f55352c72d07ebe":[4,0,1,4,0,2,2],
 "dc/db1/begin_8cpp.html":[4,0,1,8],
 "dc/db1/begin_8cpp.html#a21c0a30384cfb2cff51904a5fd2822fc":[4,0,1,8,0],
 "dc/db1/begin_8cpp.html#a2f1574c6da833f803022d7206ffb2e00":[4,0,1,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "dd/d00/structkernel_1_1mboot__module__t.html#a617e18c82d7ec1ba5ad74a1659e53d69":[3,0,2,1,0],
 "dd/d00/structkernel_1_1mboot__module__t.html#a813a5750937a7a6f18e8d2dabc21075f":[3,0,2,1,2],
 "dd/d00/structkernel_1_1mboot__module__t.html#ae54674cf837e5c4f3a5f7c0e0654f332":[3,0,2,1,1],
-"dd/d00/structkernel_1_1mboot__module__t.html#ae6be63aa07c118ab13b9e213839da4de":[3,0,2,1,3],
-"dd/d0d/arch_2x64_2tasks_8cpp.html":[4,0,1,0,0,6]
+"dd/d00/structkernel_1_1mboot__module__t.html#ae6be63aa07c118ab13b9e213839da4de":[3,0,2,1,3]
 };

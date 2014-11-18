@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.8"/>
-<title>MOSSY 2: src/sys/kstacks.cpp File Reference</title>
+<title>MOSSY 2: src/stdlib/include/build_info.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -85,7 +85,7 @@ var searchBox = new SearchBox("searchBox", "../../search",false,'Search');
   </div>
 </div>
 <script type="text/javascript">
-$(document).ready(function(){initNavTree('d8/d8b/kstacks_8cpp.html','../../');});
+$(document).ready(function(){initNavTree('d0/dc7/build__info_8h.html','../../');});
 </script>
 <div id="doc-content">
 <!-- window showing the filter options -->
@@ -103,50 +103,16 @@ $(document).ready(function(){initNavTree('d8/d8b/kstacks_8cpp.html','../../');})
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
-<div class="title">kstacks.cpp File Reference</div>  </div>
+<div class="title">build_info.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d7/da2/namespacekernel"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html">kernel</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a5cd14b2c228f8729d0a91456f57e1d3e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a5cd14b2c228f8729d0a91456f57e1d3e">kernel::init_kstacks</a> ()</td></tr>
-<tr class="separator:a5cd14b2c228f8729d0a91456f57e1d3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a816dd7de50b298f7da316313ab00c594"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a816dd7de50b298f7da316313ab00c594">kernel::get_max_kstacks</a> ()</td></tr>
-<tr class="separator:a816dd7de50b298f7da316313ab00c594"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d9c0ce5fcaf1370c1895e740ac798f1"><td class="memItemLeft" align="right" valign="top">uintptr_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a1d9c0ce5fcaf1370c1895e740ac798f1">kernel::get_new_stack</a> ()</td></tr>
-<tr class="separator:a1d9c0ce5fcaf1370c1895e740ac798f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06a8e1bc1b0d7a650aba26bd76f95a4e"><td class="memItemLeft" align="right" valign="top">uintptr_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a06a8e1bc1b0d7a650aba26bd76f95a4e">kernel::get_stack</a> (size_t stack)</td></tr>
-<tr class="separator:a06a8e1bc1b0d7a650aba26bd76f95a4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5b15a439c9fd2854756fa49827ca2877"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a5b15a439c9fd2854756fa49827ca2877">kernel::free_stack</a> (uintptr_t ptr_in_stack)</td></tr>
-<tr class="separator:a5b15a439c9fd2854756fa49827ca2877"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:ad86be952c729f377aa41042510027c1b"><td class="memItemLeft" align="right" valign="top">static size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad86be952c729f377aa41042510027c1b">kernel::stacks_taken</a></td></tr>
-<tr class="separator:ad86be952c729f377aa41042510027c1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2785caed558fc14275ab3bc3ec84ddb"><td class="memItemLeft" align="right" valign="top">static uint8_t *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ac2785caed558fc14275ab3bc3ec84ddb">kernel::bitmap</a></td></tr>
-<tr class="separator:ac2785caed558fc14275ab3bc3ec84ddb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac978c9b7cb028a9fae3b2a83268cf6f8"><td class="memItemLeft" align="right" valign="top">static size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ac978c9b7cb028a9fae3b2a83268cf6f8">kernel::total_stacks</a></td></tr>
-<tr class="separator:ac978c9b7cb028a9fae3b2a83268cf6f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6be8a41112d379cb44810ec132f56966"><td class="memItemLeft" align="right" valign="top">uintptr_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a6be8a41112d379cb44810ec132f56966">kernel::stack_start</a></td></tr>
-<tr class="separator:a6be8a41112d379cb44810ec132f56966"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_220d2bd384b446346a1cdcf02b1b2295.html">sys</a></li><li class="navelem"><a class="el" href="../../d8/d8b/kstacks_8cpp.html">kstacks.cpp</a></li>
+    <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_c2f24a5303e07ecee1a447ad8ca3cd94.html">stdlib</a></li><li class="navelem"><a class="el" href="../../dir_e3be2c83f5f3b99e50e3f2ebe4a1bb13.html">include</a></li><li class="navelem"><a class="el" href="../../d0/dc7/build__info_8h.html">build_info.h</a></li>
     <li class="footer">Generated on Mon Nov 17 2014 22:00:05 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>

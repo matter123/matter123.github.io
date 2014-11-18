@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"dd/d0d/arch_2x64_2tasks_8cpp.html":[4,0,1,0,0,6],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a05a5fbbc4ad9f43b9b6b7ddafaf6e021":[4,0,1,0,0,6,3],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a2b4bca1424e526f1921046272e173be2":[4,0,1,0,0,6,1],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a2e167daad9888ab7dcc6c5f642817cc4":[4,0,1,0,0,6,0],
@@ -140,11 +141,11 @@ var NAVTREEINDEX5 =
 "df/d00/unionx64_1_1recursive__paging_1_1pd.html#a348ac779effd8c96bf80be815e1efee5":[3,0,4,3,0,1],
 "df/d00/unionx64_1_1recursive__paging_1_1pd.html#aaea2f3e2e61e3853877196ca0aa6fa9b":[3,0,4,3,0,0],
 "df/d02/gen86_8inc.html":[4,0,1,1,4],
-"df/d1f/panic_8h.html":[4,0,1,4,0,4],
-"df/d1f/panic_8h.html#a06e4bb2a4c3c1b84eb40150ee3268f41":[4,0,1,4,0,4,2],
-"df/d1f/panic_8h.html#a96562ec4e1b4b4de264153555975b989":[4,0,1,4,0,4,0],
-"df/d1f/panic_8h.html#aa38f4bf0908256f59d09f52a167625bd":[4,0,1,4,0,4,1],
-"df/d1f/panic_8h.html#ab5cf9b81e08d7fe019f846f38ce94424":[4,0,1,4,0,4,3],
+"df/d1f/panic_8h.html":[4,0,1,4,0,5],
+"df/d1f/panic_8h.html#a06e4bb2a4c3c1b84eb40150ee3268f41":[4,0,1,4,0,5,2],
+"df/d1f/panic_8h.html#a96562ec4e1b4b4de264153555975b989":[4,0,1,4,0,5,0],
+"df/d1f/panic_8h.html#aa38f4bf0908256f59d09f52a167625bd":[4,0,1,4,0,5,1],
+"df/d1f/panic_8h.html#ab5cf9b81e08d7fe019f846f38ce94424":[4,0,1,4,0,5,3],
 "df/d4e/classhal_1_1mem__type.html":[3,0,1,5],
 "df/d4e/classhal_1_1mem__type.html#a101fab5aa776135084026642be8511cb":[3,0,1,5,10],
 "df/d4e/classhal_1_1mem__type.html#a13a0a1bd0466875c10a637fbd2018dbf":[3,0,1,5,25],
@@ -196,8 +197,8 @@ var NAVTREEINDEX5 =
 "df/db7/structhal_1_1page__opt.html#a108b55f1f9c0a08954a97a00ea37a4a2":[3,0,1,18,0],
 "df/db7/structhal_1_1page__opt.html#a52e922dd76e0ea49189cb92fbfcefb87":[3,0,1,18,1],
 "df/db7/structhal_1_1page__opt.html#af866fe6123ae8f0862689e987b2cce7d":[3,0,1,18,2],
-"df/dc2/namespaceacpi_1_1tables.html":[3,0,0,0],
 "df/dc2/namespaceacpi_1_1tables.html":[2,0,0,1],
+"df/dc2/namespaceacpi_1_1tables.html":[3,0,0,0],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html":[3,0,5,3,4],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#a1329b9e1091d4ff35ae382cc31b927c7":[3,0,5,3,4,6],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#a2e78198f00976f5d7de4f080e3c9d6fd":[3,0,5,3,4,0],
@@ -210,7 +211,7 @@ var NAVTREEINDEX5 =
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#ade52bf4f2a624b783b9132e93d1ad2e8":[3,0,5,3,4,3],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#aeff86255edd53938201f648d73774875":[3,0,5,3,4,8],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#af4c8e319b050e3ceed965461558cbafc":[3,0,5,3,4,7],
-"df/dec/struct_8h.html":[4,0,1,4,0,5],
+"df/dec/struct_8h.html":[4,0,1,4,0,6],
 "df/df6/arch_2x86_2paging_8h.html":[4,0,1,0,1,4],
 "df/df6/arch_2x86_2paging_8h.html#ad2d07eef22e17f45585b7b9a3adbe1c0":[4,0,1,0,1,4,6],
 "df/df6/arch_2x86_2paging_8h.html#ae66fdff887eb0aa5c239781f52e83906":[4,0,1,0,1,4,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "functions_e.html":[3,2,0,4],
 "functions_f.html":[3,2,0,5],
 "functions_func.html":[3,2,1],
-"functions_g.html":[3,2,0,6],
-"functions_h.html":[3,2,0,7]
+"functions_g.html":[3,2,0,6]
 };
