@@ -16,6 +16,7 @@ var searchData=
   ['test_2eh',['test.h',['../d2/ddc/test_8h.html',1,'']]],
   ['test_5ffunc',['test_func',['../d0/de2/structkernel_1_1test__module.html#a6ce59b68fe786efa144a7fb06771aea2',1,'kernel::test_module']]],
   ['test_5fmodule',['test_module',['../d0/de2/structkernel_1_1test__module.html',1,'kernel']]],
+  ['test_5futf8',['test_utf8',['../d2/d7a/libs_2encode_2test_8cpp.html#a08a14e282e2d184868bf7e9480a2af0a',1,'test.cpp']]],
   ['text_5fcolor_2ecpp',['text_color.cpp',['../d7/dd7/text__color_8cpp.html',1,'']]],
   ['text_5fcolor_2eh',['text_color.h',['../d7/df6/text__color_8h.html',1,'']]],
   ['thread_5finfo',['thread_info',['../db/db7/structkernel_1_1thread__info.html',1,'kernel']]],

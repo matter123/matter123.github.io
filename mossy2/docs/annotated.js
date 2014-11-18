@@ -7,6 +7,5 @@ var annotated =
     [ "x64", "d7/db0/namespacex64.html", "d7/db0/namespacex64" ],
     [ "x86", "d1/d08/namespacex86.html", "d1/d08/namespacex86" ],
     [ "cpu_state", "da/d9b/structcpu__state.html", "da/d9b/structcpu__state" ],
-    [ "tm", "d8/d5a/structtm.html", "d8/d5a/structtm" ],
-    [ "utf8", "d8/d41/structutf8.html", null ]
+    [ "tm", "d8/d5a/structtm.html", "d8/d5a/structtm" ]
 ];

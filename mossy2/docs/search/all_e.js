@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['name',['name',['../d0/de2/structkernel_1_1test__module.html#ab62d20827faa3956b1e4a43a442faab1',1,'kernel::test_module']]],
+  ['name',['name',['../d0/de2/structkernel_1_1test__module.html#a716f604fc65f3736052b93c3e278bbb7',1,'kernel::test_module']]],
   ['ne',['ne',['../d0/d7f/namespacehal.html#a416da68cc2ec66f96f4113987feb38cb',1,'hal']]],
   ['new_2eh',['new.h',['../d7/d58/new_8h.html',1,'']]],
   ['next',['next',['../d0/de2/structkernel_1_1test__module.html#a1b2982d8597f4b0a3d034e6a4ebce361',1,'kernel::test_module::next()'],['../d4/d48/structkernel_1_1HEAD.html#ae4bba89b1eed1907e3bb281ad4c584f4',1,'kernel::HEAD::next()'],['../d7/db0/namespacex64.html#a6ed756e4fb1b3ebdc6ecc489957a679a',1,'x64::next()'],['../d1/d08/namespacex86.html#a514f3154661e25cac130ae69696360d9',1,'x86::next()']]],

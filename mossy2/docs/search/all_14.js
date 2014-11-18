@@ -27,7 +27,7 @@ var searchData=
   ['utf32',['UTF32',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a646bf7227a85f82317bb7e3634ddba35',1,'unicode.h']]],
   ['utf32be',['UTF32BE',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a71b5dbe4615a492a7ae756bfa9e1a38b',1,'unicode.h']]],
   ['utf32le',['UTF32LE',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894adaa3600a8878a214af36a7841e861bd6',1,'unicode.h']]],
-  ['utf8',['utf8',['../d8/d41/structutf8.html',1,'utf8'],['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894ac4aa8bf4aaf220c87545078d3c43baaa',1,'UTF8():&#160;unicode.h']]],
+  ['utf8',['UTF8',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894ac4aa8bf4aaf220c87545078d3c43baaa',1,'unicode.h']]],
   ['utf8_2ec',['utf8.c',['../df/d51/utf8_8c.html',1,'']]],
   ['utf8_2eh',['utf8.h',['../db/d7c/utf8_8h.html',1,'']]],
   ['utoa',['utoa',['../dc/d9c/stdlib_8h.html#a5a74d28d5863f08790d9457b84994276',1,'utoa(unsigned int value, char *str, int base):&#160;stdlib.cpp'],['../da/d5c/stdlib_8cpp.html#a5a74d28d5863f08790d9457b84994276',1,'utoa(unsigned int value, char *str, int base):&#160;stdlib.cpp']]]

@@ -13,8 +13,8 @@ var NAVTREEINDEX0 =
 "d0/de2/structkernel_1_1test__module.html#a25c094d2ebbc66a24df573a137e2d68f":[3,0,2,5,4],
 "d0/de2/structkernel_1_1test__module.html#a696b7ed85e1a10965636cbd56825f2c8":[3,0,2,5,1],
 "d0/de2/structkernel_1_1test__module.html#a6ce59b68fe786efa144a7fb06771aea2":[3,0,2,5,5],
+"d0/de2/structkernel_1_1test__module.html#a716f604fc65f3736052b93c3e278bbb7":[3,0,2,5,2],
 "d0/de2/structkernel_1_1test__module.html#a763c9c936461a29f15c7e3bc201a9031":[3,0,2,5,0],
-"d0/de2/structkernel_1_1test__module.html#ab62d20827faa3956b1e4a43a442faab1":[3,0,2,5,2],
 "d0/de3/console_8h.html":[4,0,1,2,0,1],
 "d0/de3/console_8h.html#a0e4347fbf6da02162c9005900ad503b5":[4,0,1,2,0,1,11],
 "d0/de3/console_8h.html#a31d59e79f7e92e7f61913a54f4228396":[4,0,1,2,0,1,6],
@@ -174,6 +174,8 @@ var NAVTREEINDEX0 =
 "d2/d70/classx64_1_1recursive__paging.html#adf478e68e0265fd07dd05f2c5ba3329e":[3,0,4,3,17],
 "d2/d70/classx64_1_1recursive__paging.html#afd86ea79b5a7c7bccbeb776098c3c248":[3,0,4,3,15],
 "d2/d7a/libs_2encode_2test_8cpp.html":[4,0,0,2,1],
+"d2/d7a/libs_2encode_2test_8cpp.html#a08a14e282e2d184868bf7e9480a2af0a":[4,0,0,2,1,1],
+"d2/d7a/libs_2encode_2test_8cpp.html#aa8fd0471c6105e304c0ab276ed74964a":[4,0,0,2,1,0],
 "d2/db4/x86_2hal__idt_8cpp.html":[4,0,1,0,1,1],
 "d2/db4/x86_2hal__idt_8cpp.html#a02550387ade2b6f824ab5c7b0a8a4807":[4,0,1,0,1,1,0],
 "d2/db4/x86_2hal__idt_8cpp.html#a0ad5965fbe70c123dea28c1c1f3fb839":[4,0,1,0,1,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX0 =
 "d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a78521f9a0d1bf200344adc6fe6471339":[3,0,4,3,7,8],
 "d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a86519a0216e3682ff74615cafaf1ac85":[3,0,4,3,7,5],
 "d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a8aba8c4de1b9105eef014c130e12e782":[3,0,4,3,7,4],
-"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a8be89ca3d3f7c7d00371c2b5b0c0f082":[3,0,4,3,7,9],
-"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a91773d598e4c9202e9c4c0687d8f2b82":[3,0,4,3,7,6],
-"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a934af8959ce0da08df67db68da0ec51c":[3,0,4,3,7,0]
+"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a8be89ca3d3f7c7d00371c2b5b0c0f082":[3,0,4,3,7,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"dd/d0d/arch_2x64_2tasks_8cpp.html#a2b4bca1424e526f1921046272e173be2":[4,0,1,0,0,6,1],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a2e167daad9888ab7dcc6c5f642817cc4":[4,0,1,0,0,6,0],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a5fc0a2351d2c5635a733a5210abff18c":[4,0,1,0,0,6,2],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a6ed756e4fb1b3ebdc6ecc489957a679a":[4,0,1,0,0,6,4],
@@ -194,8 +195,8 @@ var NAVTREEINDEX5 =
 "df/db7/structhal_1_1page__opt.html#a108b55f1f9c0a08954a97a00ea37a4a2":[3,0,1,18,0],
 "df/db7/structhal_1_1page__opt.html#a52e922dd76e0ea49189cb92fbfcefb87":[3,0,1,18,1],
 "df/db7/structhal_1_1page__opt.html#af866fe6123ae8f0862689e987b2cce7d":[3,0,1,18,2],
-"df/dc2/namespaceacpi_1_1tables.html":[2,0,0,1],
 "df/dc2/namespaceacpi_1_1tables.html":[3,0,0,0],
+"df/dc2/namespaceacpi_1_1tables.html":[2,0,0,1],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html":[3,0,5,3,4],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#a1329b9e1091d4ff35ae382cc31b927c7":[3,0,5,3,4,6],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#a2e78198f00976f5d7de4f080e3c9d6fd":[3,0,5,3,4,0],
@@ -238,8 +239,8 @@ var NAVTREEINDEX5 =
 "dir_e3be2c83f5f3b99e50e3f2ebe4a1bb13.html":[4,0,1,4,0],
 "dir_ef67c2bf1ed10ae541fe699381bd7c05.html":[4,0,0,1,0],
 "files.html":[4,0],
-"functions.html":[3,2,0,0],
 "functions.html":[3,2,0],
+"functions.html":[3,2,0,0],
 "functions_b.html":[3,2,0,1],
 "functions_c.html":[3,2,0,2],
 "functions_d.html":[3,2,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "functions_func.html":[3,2,1],
 "functions_g.html":[3,2,0,6],
 "functions_h.html":[3,2,0,7],
-"functions_i.html":[3,2,0,8],
-"functions_j.html":[3,2,0,9]
+"functions_i.html":[3,2,0,8]
 };

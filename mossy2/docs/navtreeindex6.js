@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"functions_j.html":[3,2,0,9],
 "functions_k.html":[3,2,0,10],
 "functions_l.html":[3,2,0,11],
 "functions_m.html":[3,2,0,12],
@@ -11,8 +12,8 @@ var NAVTREEINDEX6 =
 "functions_t.html":[3,2,0,18],
 "functions_u.html":[3,2,0,19],
 "functions_v.html":[3,2,0,20],
-"functions_vars.html":[3,2,2,0],
 "functions_vars.html":[3,2,2],
+"functions_vars.html":[3,2,2,0],
 "functions_vars_b.html":[3,2,2,1],
 "functions_vars_c.html":[3,2,2,2],
 "functions_vars_d.html":[3,2,2,3],
@@ -80,8 +81,8 @@ var NAVTREEINDEX6 =
 "globals_t.html":[4,1,0,16],
 "globals_type.html":[4,1,3],
 "globals_u.html":[4,1,0,17],
-"globals_vars.html":[4,1,2,0],
 "globals_vars.html":[4,1,2],
+"globals_vars.html":[4,1,2,0],
 "globals_vars_e.html":[4,1,2,1],
 "globals_vars_k.html":[4,1,2,2],
 "globals_vars_p.html":[4,1,2,3],
