@@ -1,7 +1,7 @@
 var searchData=
 [
   ['test',['test',['../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d',1,'kernel']]],
-  ['test_5fmodule',['test_module',['../d0/de2/structkernel_1_1test__module.html#a4876b969031cfe1cc87cea47a292b47f',1,'kernel::test_module']]],
+  ['test_5fmodule',['test_module',['../d0/de2/structkernel_1_1test__module.html#a924e1e1c547cf8402c812a029366c9f9',1,'kernel::test_module']]],
   ['test_5futf8',['test_utf8',['../d2/d7a/libs_2encode_2test_8cpp.html#a08a14e282e2d184868bf7e9480a2af0a',1,'test.cpp']]],
   ['tick',['tick',['../d0/d7f/namespacehal.html#ac56357cf360822759aa913232c24ada7',1,'hal']]],
   ['timer_5finit',['timer_init',['../d0/d7f/namespacehal.html#ac062d1cf22c32480482c2b42fad48791',1,'hal']]],
