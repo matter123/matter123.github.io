@@ -1,5 +1,7 @@
 var NAVTREEINDEX4 =
 {
+"dc/d34/arch_2x86__64_2int_8h.html#a49ebb93503a19801e756b2968f8959d7":[4,0,1,0,2,1,119],
+"dc/d34/arch_2x86__64_2int_8h.html#a4b38fa59826686b91306963f363d7b08":[4,0,1,0,2,1,243],
 "dc/d34/arch_2x86__64_2int_8h.html#a4c065280c7ff82c08e071c0d230e97b5":[4,0,1,0,2,1,93],
 "dc/d34/arch_2x86__64_2int_8h.html#a4c54ac06fcb5583d137afe77a23bd629":[4,0,1,0,2,1,189],
 "dc/d34/arch_2x86__64_2int_8h.html#a4ccaba04ceef2e6fa81d1e4ba5bb3435":[4,0,1,0,2,1,144],
@@ -247,7 +249,5 @@ var NAVTREEINDEX4 =
 "dd/d00/structkernel_1_1mboot__module__t.html#ae6be63aa07c118ab13b9e213839da4de":[3,0,2,1,3],
 "dd/d0d/arch_2x64_2tasks_8cpp.html":[4,0,1,0,0,6],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a05a5fbbc4ad9f43b9b6b7ddafaf6e021":[4,0,1,0,0,6,3],
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a2b4bca1424e526f1921046272e173be2":[4,0,1,0,0,6,1],
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a2e167daad9888ab7dcc6c5f642817cc4":[4,0,1,0,0,6,0],
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a5fc0a2351d2c5635a733a5210abff18c":[4,0,1,0,0,6,2]
+"dd/d0d/arch_2x64_2tasks_8cpp.html#a2b4bca1424e526f1921046272e173be2":[4,0,1,0,0,6,1]
 };

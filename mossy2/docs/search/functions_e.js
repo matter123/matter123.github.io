@@ -6,6 +6,7 @@ var searchData=
   ['register_5fasm_5fstub_5fint',['register_asm_stub_int',['../d0/d7f/namespacehal.html#af41dcfe227cf671c01ad5cf506e3f89c',1,'hal']]],
   ['register_5fint',['register_int',['../d0/d7f/namespacehal.html#aec24943eea256f5a22244ec07b143b71',1,'hal']]],
   ['register_5fstub_5fint',['register_stub_int',['../d0/d7f/namespacehal.html#a4b3daba30c28c10c98c462983bc9112a',1,'hal']]],
+  ['register_5ftest',['register_test',['../d7/da2/namespacekernel.html#a3a9de1b6a4624e7c89af3be438782b7e',1,'kernel']]],
   ['release',['release',['../d7/dc6/classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a',1,'kernel::spinlock']]],
   ['release_5frange',['release_range',['../d0/d7f/namespacehal.html#ab079723d74cc6fd63bb43e6a4996d4b5',1,'hal']]],
   ['remove_5finvalid',['remove_invalid',['../d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9',1,'hal']]],

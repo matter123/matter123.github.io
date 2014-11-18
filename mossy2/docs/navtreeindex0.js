@@ -189,8 +189,9 @@ var NAVTREEINDEX0 =
 "d2/db4/x86_2hal__idt_8cpp.html#afc7c86db5f36388e59b4c16a84b3316f":[4,0,1,0,1,1,4],
 "d2/dd8/scheduler_8h.html":[4,0,1,5,0,2],
 "d2/dd8/scheduler_8h.html#aa8ee887a1b33655631a3f66d6be3a631":[4,0,1,5,0,2,0],
-"d2/ddc/test_8h.html":[4,0,1,3,4],
-"d2/ddc/test_8h.html#ae448c0863b01a45ee5afbb927b4a2a8d":[4,0,1,3,4,1],
+"d2/ddc/test_8h.html":[4,0,1,4,0,6],
+"d2/ddc/test_8h.html#a3a9de1b6a4624e7c89af3be438782b7e":[4,0,1,4,0,6,1],
+"d2/ddc/test_8h.html#ae448c0863b01a45ee5afbb927b4a2a8d":[4,0,1,4,0,6,2],
 "d2/ddc/x86_2stackframe_8cpp.html":[4,0,1,0,1,5],
 "d2/ddc/x86_2stackframe_8cpp.html#a042d8bab14cc7a32ae9663f738c15dc6":[4,0,1,0,1,5,4],
 "d2/ddc/x86_2stackframe_8cpp.html#a54c515ebc605b6f16bcf2ba5378d5c0e":[4,0,1,0,1,5,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a8aba8c4de1b9105eef014c130e12e782":[3,0,4,3,7,4],
 "d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a8be89ca3d3f7c7d00371c2b5b0c0f082":[3,0,4,3,7,9],
 "d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a91773d598e4c9202e9c4c0687d8f2b82":[3,0,4,3,7,6],
-"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a934af8959ce0da08df67db68da0ec51c":[3,0,4,3,7,0],
-"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a95470f0ee749146d31840e45f9135bce":[3,0,4,3,7,10]
+"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a934af8959ce0da08df67db68da0ec51c":[3,0,4,3,7,0]
 };

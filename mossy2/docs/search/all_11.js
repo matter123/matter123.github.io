@@ -28,6 +28,7 @@ var searchData=
   ['register_5fasm_5fstub_5fint',['register_asm_stub_int',['../d0/d7f/namespacehal.html#af41dcfe227cf671c01ad5cf506e3f89c',1,'hal']]],
   ['register_5fint',['register_int',['../d0/d7f/namespacehal.html#aec24943eea256f5a22244ec07b143b71',1,'hal']]],
   ['register_5fstub_5fint',['register_stub_int',['../d0/d7f/namespacehal.html#a4b3daba30c28c10c98c462983bc9112a',1,'hal']]],
+  ['register_5ftest',['register_test',['../d7/da2/namespacekernel.html#a3a9de1b6a4624e7c89af3be438782b7e',1,'kernel']]],
   ['regs',['regs',['../d0/d7f/namespacehal.html#a4112c182813818b62aefd4e0c29d51cc',1,'hal::regs()'],['../d0/d7f/namespacehal.html#a4112c182813818b62aefd4e0c29d51cc',1,'hal::regs()']]],
   ['rel_5fjmp',['rel_jmp',['../d5/d00/structx86_1_1trampoline.html#a4c3cac09ec1efe9fbd807989f3a01d44',1,'x86::trampoline::rel_jmp()'],['../d2/dde/structx64_1_1trampoline.html#a9b93e404787ee3d5c76bd621118d4ba5',1,'x64::trampoline::rel_jmp()']]],
   ['release',['release',['../d7/dc6/classkernel_1_1spinlock.html#ae58b27f8595ff96dc5510a7d47e0f98a',1,'kernel::spinlock']]],
