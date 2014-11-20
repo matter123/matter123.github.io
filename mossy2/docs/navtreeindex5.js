@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"dd/d0d/arch_2x64_2tasks_8cpp.html":[4,0,1,0,0,6],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a05a5fbbc4ad9f43b9b6b7ddafaf6e021":[4,0,1,0,0,6,3],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a2b4bca1424e526f1921046272e173be2":[4,0,1,0,0,6,1],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a2e167daad9888ab7dcc6c5f642817cc4":[4,0,1,0,0,6,0],
@@ -196,8 +197,8 @@ var NAVTREEINDEX5 =
 "df/db7/structhal_1_1page__opt.html#a108b55f1f9c0a08954a97a00ea37a4a2":[3,0,1,18,0],
 "df/db7/structhal_1_1page__opt.html#a52e922dd76e0ea49189cb92fbfcefb87":[3,0,1,18,1],
 "df/db7/structhal_1_1page__opt.html#af866fe6123ae8f0862689e987b2cce7d":[3,0,1,18,2],
-"df/dc2/namespaceacpi_1_1tables.html":[3,0,0,0],
 "df/dc2/namespaceacpi_1_1tables.html":[2,0,0,1],
+"df/dc2/namespaceacpi_1_1tables.html":[3,0,0,0],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html":[3,0,5,3,4],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#a1329b9e1091d4ff35ae382cc31b927c7":[3,0,5,3,4,6],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#a2e78198f00976f5d7de4f080e3c9d6fd":[3,0,5,3,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "functions_e.html":[3,2,0,4],
 "functions_f.html":[3,2,0,5],
 "functions_func.html":[3,2,1],
-"functions_g.html":[3,2,0,6],
-"functions_h.html":[3,2,0,7]
+"functions_g.html":[3,2,0,6]
 };

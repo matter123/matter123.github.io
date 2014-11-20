@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"d7/d79/classhal_1_1ostream.html#ac1ce1ad31d22419532752c1bfaf9b3b6":[3,0,1,17,12],
 "d7/d79/classhal_1_1ostream.html#ac671ab5b2efffd39fa2a5784982183a5":[3,0,1,17,11],
 "d7/d79/classhal_1_1ostream.html#acddd4c1882c50f73b6f08796904abb87":[3,0,1,17,4],
 "d7/d79/classhal_1_1ostream.html#ace23587cede0306756b4f6610f49e3e9":[3,0,1,17,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "da/d66/string_8h.html#ae8628c986b70205d34a160d2fb740680":[4,0,0,1,0,3,14],
 "da/d66/string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1":[4,0,0,1,0,3,13],
 "da/d66/string_8h.html#af9c752e157fb19960a4381cffd582fb8":[4,0,0,1,0,3,2],
-"da/d83/modules_8cpp.html":[4,0,1,3,1],
-"da/d9b/classkernel_1_1mutex.html":[3,0,2,2]
+"da/d83/modules_8cpp.html":[4,0,1,3,1]
 };

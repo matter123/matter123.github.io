@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"dc/d34/arch_2x86__64_2int_8h.html#a4889c23b67f2c75faa27a1c25b61b15d":[4,0,1,0,2,1,256],
 "dc/d34/arch_2x86__64_2int_8h.html#a497c6b875bca7922cec0ea0d920eaa38":[4,0,1,0,2,1,160],
 "dc/d34/arch_2x86__64_2int_8h.html#a499d34bfb2c932ddda5f9b10d7e0fc3d":[4,0,1,0,2,1,249],
 "dc/d34/arch_2x86__64_2int_8h.html#a49ebb93503a19801e756b2968f8959d7":[4,0,1,0,2,1,119],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "dd/d00/structkernel_1_1mboot__module__t.html#a617e18c82d7ec1ba5ad74a1659e53d69":[3,0,2,1,0],
 "dd/d00/structkernel_1_1mboot__module__t.html#a813a5750937a7a6f18e8d2dabc21075f":[3,0,2,1,2],
 "dd/d00/structkernel_1_1mboot__module__t.html#ae54674cf837e5c4f3a5f7c0e0654f332":[3,0,2,1,1],
-"dd/d00/structkernel_1_1mboot__module__t.html#ae6be63aa07c118ab13b9e213839da4de":[3,0,2,1,3],
-"dd/d0d/arch_2x64_2tasks_8cpp.html":[4,0,1,0,0,6]
+"dd/d00/structkernel_1_1mboot__module__t.html#ae6be63aa07c118ab13b9e213839da4de":[3,0,2,1,3]
 };

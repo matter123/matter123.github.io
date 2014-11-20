@@ -123,8 +123,31 @@ Functions</h2></td></tr>
 <tr class="memitem:abd187dd7a26eb81cc468e49987d15c16"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16">init_tables</a> ()</td></tr>
 <tr class="memdesc:abd187dd7a26eb81cc468e49987d15c16"><td class="mdescLeft">&#160;</td><td class="mdescRight">initalizes the static table portion of acpi  <a href="#abd187dd7a26eb81cc468e49987d15c16">More...</a><br /></td></tr>
 <tr class="separator:abd187dd7a26eb81cc468e49987d15c16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff84c940b3dfda33065e022cd4335665"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d94/namespaceacpi.html#aff84c940b3dfda33065e022cd4335665">has_acpi</a> ()</td></tr>
+<tr class="memdesc:aff84c940b3dfda33065e022cd4335665"><td class="mdescLeft">&#160;</td><td class="mdescRight">determines if acpi exists  <a href="#aff84c940b3dfda33065e022cd4335665">More...</a><br /></td></tr>
+<tr class="separator:aff84c940b3dfda33065e022cd4335665"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
+<a class="anchor" id="aff84c940b3dfda33065e022cd4335665"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool acpi::has_acpi </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>determines if acpi exists </p>
+<p>should be called after <em>init_tables</em> and before attempting to use any acpi feature</p>
+<dl class="section return"><dt>Returns</dt><dd>true is acpi support was found </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>created on 2014-11-19 </dd></dl>
+
+</div>
+</div>
 <a class="anchor" id="abd187dd7a26eb81cc468e49987d15c16"></a>
 <div class="memitem">
 <div class="memproto">
@@ -168,7 +191,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d94/namespaceacpi.html">acpi</a></li>
-    <li class="footer">Generated on Tue Nov 18 2014 15:30:03 for MOSSY 2 by
+    <li class="footer">Generated on Wed Nov 19 2014 16:00:04 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

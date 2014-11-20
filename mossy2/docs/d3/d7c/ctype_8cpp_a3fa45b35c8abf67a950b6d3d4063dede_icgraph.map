@@ -1,5 +1,5 @@
 <map id="isdigit" name="isdigit">
-<area shape="rect" id="node2" href="$d7/d0d/ctype_8h.html#adf38e126f73a010f30af76db2a28c6e1" title="isalnum" alt="" coords="131,5,203,32"/>
+<area shape="rect" id="node2" href="$d7/d0d/ctype_8h.html#adf38e126f73a010f30af76db2a28c6e1" title="checks if char is alphanumeric " alt="" coords="131,5,203,32"/>
 <area shape="rect" id="node3" href="$d7/d0d/ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53" title="isxdigit" alt="" coords="133,56,200,83"/>
 <area shape="rect" id="node4" href="$d8/dcc/namespacestd.html#a0c9af6d56d382dd024287f009ab1e13d" title="std::strtonum" alt="" coords="112,107,221,133"/>
 <area shape="rect" id="node5" href="$da/d5c/stdlib_8cpp.html#aec327ac88a4cd588e82a8b0ac752b089" title="atoi" alt="" coords="271,56,317,83"/>

@@ -1,10 +1,10 @@
 <map id="hal::mem_type::to_u64" name="hal::mem_type::to_u64">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="253,5,399,32"/>
-<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="639,56,785,83"/>
-<area shape="rect" id="node9" href="$df/d4e/classhal_1_1mem__type.html#adaa531e0e90059c0e221c0db79d4082e" title="hal::mem_type::operator==" alt="" coords="224,107,428,133"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="476,5,591,32"/>
-<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="643,5,781,32"/>
-<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="833,56,951,83"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="253,31,399,57"/>
+<area shape="rect" id="node9" href="$df/d4e/classhal_1_1mem__type.html#adaa531e0e90059c0e221c0db79d4082e" title="hal::mem_type::operator==" alt="" coords="224,81,428,108"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="476,31,591,57"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="639,5,785,32"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="643,56,781,83"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="833,5,951,32"/>
 <area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="999,31,1125,57"/>
-<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="841,5,943,32"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="841,56,943,83"/>
 </map>
