@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"da/d66/string_8h.html#af9c752e157fb19960a4381cffd582fb8":[4,0,0,1,0,3,2],
+"da/d83/modules_8cpp.html":[4,0,1,3,1],
 "da/d9b/classkernel_1_1mutex.html":[3,0,2,2],
 "da/d9b/classkernel_1_1mutex.html#a30d76ef8033b9ee0e2c92cb633126870":[3,0,2,2,1],
 "da/d9b/classkernel_1_1mutex.html#a6f767fef1e0f9f6289d5179e1b3d1acb":[3,0,2,2,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "dc/d34/arch_2x86__64_2int_8h.html#a44769d878b8e7482477c093d5d9651c6":[4,0,1,0,2,1,134],
 "dc/d34/arch_2x86__64_2int_8h.html#a44a400532dbb7af7e1b97a3b336d1701":[4,0,1,0,2,1,104],
 "dc/d34/arch_2x86__64_2int_8h.html#a45190e4767a28629aec858d0641486de":[4,0,1,0,2,1,8],
-"dc/d34/arch_2x86__64_2int_8h.html#a45af809432297c7e3a15aeec9c14f4cd":[4,0,1,0,2,1,24],
-"dc/d34/arch_2x86__64_2int_8h.html#a45e264719484c5a7470aa5e6a6c29cfc":[4,0,1,0,2,1,28],
-"dc/d34/arch_2x86__64_2int_8h.html#a47e4d50e5ee1e622ef4b3e1220cde8a0":[4,0,1,0,2,1,221]
+"dc/d34/arch_2x86__64_2int_8h.html#a45af809432297c7e3a15aeec9c14f4cd":[4,0,1,0,2,1,24]
 };

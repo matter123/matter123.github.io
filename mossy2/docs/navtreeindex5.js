@@ -1,5 +1,7 @@
 var NAVTREEINDEX5 =
 {
+"dd/d00/structkernel_1_1mboot__module__t.html#ae54674cf837e5c4f3a5f7c0e0654f332":[3,0,2,1,1],
+"dd/d00/structkernel_1_1mboot__module__t.html#ae6be63aa07c118ab13b9e213839da4de":[3,0,2,1,3],
 "dd/d0d/arch_2x64_2tasks_8cpp.html":[4,0,1,0,0,6],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a05a5fbbc4ad9f43b9b6b7ddafaf6e021":[4,0,1,0,0,6,3],
 "dd/d0d/arch_2x64_2tasks_8cpp.html#a2b4bca1424e526f1921046272e173be2":[4,0,1,0,0,6,1],
@@ -241,13 +243,11 @@ var NAVTREEINDEX5 =
 "dir_e3be2c83f5f3b99e50e3f2ebe4a1bb13.html":[4,0,1,4,0],
 "dir_ef67c2bf1ed10ae541fe699381bd7c05.html":[4,0,0,1,0],
 "files.html":[4,0],
-"functions.html":[3,2,0,0],
 "functions.html":[3,2,0],
+"functions.html":[3,2,0,0],
 "functions_b.html":[3,2,0,1],
 "functions_c.html":[3,2,0,2],
 "functions_d.html":[3,2,0,3],
 "functions_e.html":[3,2,0,4],
-"functions_f.html":[3,2,0,5],
-"functions_func.html":[3,2,1],
-"functions_g.html":[3,2,0,6]
+"functions_f.html":[3,2,0,5]
 };

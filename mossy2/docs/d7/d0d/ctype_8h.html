@@ -116,6 +116,7 @@ Functions</h2></td></tr>
 <tr class="memdesc:adf38e126f73a010f30af76db2a28c6e1"><td class="mdescLeft">&#160;</td><td class="mdescRight">checks if char is alphanumeric  <a href="#adf38e126f73a010f30af76db2a28c6e1">More...</a><br /></td></tr>
 <tr class="separator:adf38e126f73a010f30af76db2a28c6e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a25908ae63aac2df990634e1ae5bd14d9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d0d/ctype_8h.html#a25908ae63aac2df990634e1ae5bd14d9">isalpha</a> (int c)</td></tr>
+<tr class="memdesc:a25908ae63aac2df990634e1ae5bd14d9"><td class="mdescLeft">&#160;</td><td class="mdescRight">check is char is alphabetic  <a href="#a25908ae63aac2df990634e1ae5bd14d9">More...</a><br /></td></tr>
 <tr class="separator:a25908ae63aac2df990634e1ae5bd14d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aea4929b1b41f1a6d723e0312b1f050ed"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d0d/ctype_8h.html#aea4929b1b41f1a6d723e0312b1f050ed">isblank</a> (int c)</td></tr>
 <tr class="separator:aea4929b1b41f1a6d723e0312b1f050ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -167,16 +168,18 @@ Functions</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>1 if alphanumeric, 0 otherwise </dd></dl>
 <dl class="section date"><dt>Date</dt><dd>created on 2014-05-30 </dd></dl>
-<dl class="section see"><dt>See also</dt><dd><a class="el" href="../../d7/d0d/ctype_8h.html#a25908ae63aac2df990634e1ae5bd14d9">isalpha</a> </dd>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="../../d7/d0d/ctype_8h.html#a25908ae63aac2df990634e1ae5bd14d9" title="check is char is alphabetic ">isalpha</a> </dd>
 <dd>
-<a class="el" href="../../d7/d0d/ctype_8h.html#a3fa45b35c8abf67a950b6d3d4063dede">isdigit</a> </dd></dl>
+<a class="el" href="../../d7/d0d/ctype_8h.html#a3fa45b35c8abf67a950b6d3d4063dede">isdigit</a> </dd>
+<dd>
+<a class="el" href="../../d7/d0d/ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53">isxdigit</a> </dd></dl>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d7/d0d/ctype_8h_adf38e126f73a010f30af76db2a28c6e1_cgraph.png" border="0" usemap="#d7/d0d/ctype_8h_adf38e126f73a010f30af76db2a28c6e1_cgraph" alt=""/></div>
 <map name="d7/d0d/ctype_8h_adf38e126f73a010f30af76db2a28c6e1_cgraph" id="d7/d0d/ctype_8h_adf38e126f73a010f30af76db2a28c6e1_cgraph">
-<area shape="rect" id="node2" href="../../d3/d7c/ctype_8cpp.html#a25908ae63aac2df990634e1ae5bd14d9" title="isalpha" alt="" coords="125,5,192,32"/><area shape="rect" id="node3" href="../../d3/d7c/ctype_8cpp.html#a3fa45b35c8abf67a950b6d3d4063dede" title="isdigit" alt="" coords="129,56,188,83"/></map>
+<area shape="rect" id="node2" href="../../d3/d7c/ctype_8cpp.html#a25908ae63aac2df990634e1ae5bd14d9" title="check is char is alphabetic " alt="" coords="125,5,192,32"/><area shape="rect" id="node3" href="../../d3/d7c/ctype_8cpp.html#a3fa45b35c8abf67a950b6d3d4063dede" title="isdigit" alt="" coords="129,56,188,83"/></map>
 </div>
 </p>
 
@@ -195,6 +198,19 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>check is char is alphabetic </p>
+<p>determines if an ascii char is alphabetic i.e. 'A' through 'Z' or 'a' through 'z'</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">c</td><td>an ascii char</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>1 if alphabetic, 0 otherwise </dd></dl>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="../../d7/d0d/ctype_8h.html#a25908ae63aac2df990634e1ae5bd14d9" title="check is char is alphabetic ">isalpha</a> </dd>
+<dd>
+<a class="el" href="../../d7/d0d/ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53">isxdigit</a> </dd></dl>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -486,7 +502,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_6719ab1f1f7655efc2fa43f7eb574fd1.html">libs</a></li><li class="navelem"><a class="el" href="../../dir_ae835f14967616d3091bae2fb59bd644.html">clib</a></li><li class="navelem"><a class="el" href="../../dir_ef67c2bf1ed10ae541fe699381bd7c05.html">include</a></li><li class="navelem"><a class="el" href="../../d7/d0d/ctype_8h.html">ctype.h</a></li>
-    <li class="footer">Generated on Wed Nov 19 2014 16:00:04 for MOSSY 2 by
+    <li class="footer">Generated on Wed Nov 19 2014 18:00:02 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>
