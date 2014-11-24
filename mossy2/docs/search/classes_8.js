@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['test_5fmodule',['test_module',['../d0/de2/structkernel_1_1test__module.html',1,'kernel']]],
-  ['thread_5finfo',['thread_info',['../db/db7/structkernel_1_1thread__info.html',1,'kernel']]],
-  ['tm',['tm',['../d8/d5a/structtm.html',1,'']]],
-  ['trampoline',['trampoline',['../d5/d00/structx86_1_1trampoline.html',1,'x86']]],
-  ['trampoline',['trampoline',['../d2/dde/structx64_1_1trampoline.html',1,'x64']]]
+  ['recursive_5fpaging',['recursive_paging',['../d2/d70/classx64_1_1recursive__paging.html',1,'x64']]],
+  ['recursive_5fpaging',['recursive_paging',['../d4/db3/classx86_1_1recursive__paging.html',1,'x86']]],
+  ['rsdp',['RSDP',['../d4/db4/structacpi_1_1tables_1_1RSDP.html',1,'acpi::tables']]],
+  ['rsdp20',['RSDP20',['../d3/de4/structacpi_1_1tables_1_1RSDP20.html',1,'acpi::tables']]],
+  ['rsdt',['RSDT',['../d9/d9c/structacpi_1_1tables_1_1RSDT.html',1,'acpi::tables']]]
 ];

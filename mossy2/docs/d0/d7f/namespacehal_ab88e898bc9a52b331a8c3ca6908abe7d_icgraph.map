@@ -1,7 +1,7 @@
 <map id="hal::cls" name="hal::cls">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="120,42,215,69"/>
-<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="126,93,209,119"/>
-<area shape="rect" id="node3" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="263,5,393,47"/>
-<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="611,45,737,71"/>
-<area shape="rect" id="node4" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="441,17,563,43"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="126,5,209,32"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="120,56,215,83"/>
+<area shape="rect" id="node4" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="263,19,393,61"/>
+<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="611,59,737,85"/>
+<area shape="rect" id="node5" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="441,31,563,57"/>
 </map>

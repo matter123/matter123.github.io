@@ -1,6 +1,7 @@
 var searchData=
 [
   ['s',['s',['../d4/d6c/classkernel_1_1semaphore.html#ab2c5e46f96202165372f76cafcfa9deb',1,'kernel::semaphore::s()'],['../da/d9b/classkernel_1_1mutex.html#a6f767fef1e0f9f6289d5179e1b3d1acb',1,'kernel::mutex::s()']]],
+  ['safe_5fmemcpy',['safe_memcpy',['../d4/de7/structkernel_1_1fb__info.html#ac03a67a71a256a9ae47808dbcf7161f3',1,'kernel::fb_info']]],
   ['save_5fon_5fhib',['save_on_hib',['../df/d4e/classhal_1_1mem__type.html#ae46f19011eb292ef6eff7bf7ccd0ebbe',1,'hal::mem_type']]],
   ['showbase',['showbase',['../db/d9c/classhal_1_1ios__base.html#a33fc34ba243c6a3f5622953819c3d284',1,'hal::ios_base']]],
   ['sig',['sig',['../d4/db4/structacpi_1_1tables_1_1RSDP.html#a41a5584cb9e5df47283d7c16ccf562e8',1,'acpi::tables::RSDP']]],
@@ -14,6 +15,7 @@ var searchData=
   ['stacks_5ftaken',['stacks_taken',['../d7/da2/namespacekernel.html#ad86be952c729f377aa41042510027c1b',1,'kernel']]],
   ['start',['start',['../d4/de0/structhal_1_1idt__range.html#a95f641b8ea8e76caffde1e19489a7fe5',1,'hal::idt_range::start()'],['../da/d29/structhal_1_1mem__region.html#a08985d298adf99ca9dbcbf39de08f9c7',1,'hal::mem_region::start()'],['../d7/da2/namespacekernel.html#a6361939678d3cb7efde8130184ff13aa',1,'kernel::start()']]],
   ['start_5floc',['start_loc',['../d4/df8/namespaceacpi_1_1os.html#adb6adf8b7cf6cdb1d1017d10e51a2760',1,'acpi::os']]],
+  ['stride',['stride',['../d4/de7/structkernel_1_1fb__info.html#a876b4ca48c37cbf1ac423347cb4c0916',1,'kernel::fb_info']]],
   ['string',['string',['../d6/ddf/structhal_1_1multiboot__command.html#a47b62e8c7b462fc252a238ce214e8b9d',1,'hal::multiboot_command::string()'],['../d9/d51/structhal_1_1multiboot__module.html#a6744e433dba2e86a71ab23c3359a276c',1,'hal::multiboot_module::string()'],['../dd/d00/structkernel_1_1mboot__module__t.html#ae6be63aa07c118ab13b9e213839da4de',1,'kernel::mboot_module_t::string()']]],
   ['sys_5fstack',['sys_stack',['../d7/da2/namespacekernel.html#a2f1574c6da833f803022d7206ffb2e00',1,'kernel']]]
 ];

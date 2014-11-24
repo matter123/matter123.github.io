@@ -1,12 +1,14 @@
 var searchData=
 [
-  ['c',['c',['../d7/d79/classhal_1_1ostream.html#a1ffac2887b152385b40a1ea5c15f9b6a',1,'hal::ostream']]],
+  ['c',['c',['../d7/d79/classhal_1_1ostream.html#a1ffac2887b152385b40a1ea5c15f9b6a',1,'hal::ostream::c()'],['../d6/df4/rand_8c.html#a6ce17b018c47d0f1d0e53a458f741ad3',1,'c():&#160;rand.c']]],
   ['callbacks',['callbacks',['../d0/d7f/namespacehal.html#a79c69e0ed9f8f741df559ac229a448d9',1,'hal']]],
   ['chars',['chars',['../d8/dcc/namespacestd.html#a35f0bd681a78f8a7077d674cc4473474',1,'std']]],
   ['chars_5flow',['chars_low',['../d8/dcc/namespacestd.html#a4735342d5b34f7589e5455cd5439e6ed',1,'std']]],
   ['checksum',['checksum',['../d4/db4/structacpi_1_1tables_1_1RSDP.html#af558ed5916044cbee6a4dc9f6c8b18b4',1,'acpi::tables::RSDP::checksum()'],['../dd/d4e/structacpi_1_1tables_1_1SDT.html#a005773c3c2460352272604c2d1465fcd',1,'acpi::tables::SDT::checksum()']]],
   ['code',['code',['../da/d9b/structcpu__state.html#a84213d5c56030de14af51b73666c5571',1,'cpu_state']]],
   ['code_5fsegment',['code_segment',['../d5/dfe/structx86_1_1idt__entry.html#a1b7e3803dd8db36d34faecac343284d1',1,'x86::idt_entry::code_segment()'],['../da/dd2/structx64_1_1idt__entry.html#a211f1778f248c19fed1e3e7123c7cb90',1,'x64::idt_entry::code_segment()']]],
+  ['codepoint',['codepoint',['../da/dcc/structkernel_1_1glyph__int.html#ac4fd6536177aefaa71b4b9c3d8299ddf',1,'kernel::glyph_int']]],
+  ['col',['col',['../da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888',1,'kernel::glyph_int']]],
   ['color',['color',['../dc/de8/classhal_1_1ConsoleColor.html#a953651c5be82d2a2ba422445581acdce',1,'hal::ConsoleColor']]],
   ['colordef',['ColorDef',['../d0/d7f/namespacehal.html#add26cb88ca66687a6c364ae2467b6551',1,'hal']]],
   ['count',['count',['../d8/de8/namespacex86__64.html#a400047baf98b949833df227c907d7a1e',1,'x86_64::count()'],['../d0/d7f/namespacehal.html#a5480a292d2e7a8631d1c4712058078a9',1,'hal::count()']]],

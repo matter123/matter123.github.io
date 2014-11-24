@@ -1,19 +1,20 @@
 <map id="hal::get_x" name="hal::get_x">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="139,249,288,276"/>
-<area shape="rect" id="node16" href="$d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="153,452,274,478"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="1043,268,1146,294"/>
-<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1201,72,1328,98"/>
-<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="673,46,793,73"/>
-<area shape="rect" id="node6" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="336,300,487,326"/>
-<area shape="rect" id="node7" href="$d1/d08/namespacex86.html#ab9e4d0e4571d9531648f20c875120f08" title="x86::pre_init_handle" alt="" coords="336,350,487,377"/>
-<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="353,401,469,428"/>
-<area shape="rect" id="node9" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="1036,97,1153,124"/>
-<area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#a6487ba4be75874e36c21a667e61300b8" title="hal::wksp_begin" alt="" coords="349,198,474,225"/>
-<area shape="rect" id="node11" href="$d0/d7f/namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="543,198,617,225"/>
-<area shape="rect" id="node12" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="676,198,791,225"/>
-<area shape="rect" id="node15" href="$d0/d7f/namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="549,148,611,174"/>
-<area shape="rect" id="node13" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="841,160,988,186"/>
-<area shape="rect" id="node14" href="$d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="846,236,983,262"/>
-<area shape="rect" id="node17" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="535,464,625,490"/>
-<area shape="rect" id="node18" href="$d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="351,452,471,478"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="139,231,288,257"/>
+<area shape="rect" id="node17" href="$d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="153,509,274,536"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="1062,420,1165,447"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1220,155,1347,181"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="692,15,812,41"/>
+<area shape="rect" id="node6" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="336,104,487,131"/>
+<area shape="rect" id="node7" href="$d1/d08/namespacex86.html#ab9e4d0e4571d9531648f20c875120f08" title="x86::pre_init_handle" alt="" coords="336,205,487,232"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="353,256,469,283"/>
+<area shape="rect" id="node9" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="1055,256,1172,283"/>
+<area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#a6487ba4be75874e36c21a667e61300b8" title="hal::wksp_begin" alt="" coords="349,357,474,384"/>
+<area shape="rect" id="node16" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="535,53,644,80"/>
+<area shape="rect" id="node11" href="$d0/d7f/namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="552,408,627,435"/>
+<area shape="rect" id="node12" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="695,357,809,384"/>
+<area shape="rect" id="node15" href="$d0/d7f/namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="558,307,621,333"/>
+<area shape="rect" id="node13" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="860,319,1007,345"/>
+<area shape="rect" id="node14" href="$d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="865,383,1002,409"/>
+<area shape="rect" id="node18" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="707,509,797,536"/>
+<area shape="rect" id="node19" href="$d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="351,560,471,587"/>
 </map>

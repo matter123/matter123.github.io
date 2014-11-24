@@ -1,0 +1,5 @@
+<map id="kernel::bit_blit" name="kernel::bit_blit">
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a30bda5c9770d1325d078f66495cc171e" title="kernel::draw_char_at" alt="" coords="165,5,323,32"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#af67bb738be84ce9aff10c5be6d1d6632" title="kernel::draw_string_at" alt="" coords="371,5,536,32"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="584,5,711,32"/>
+</map>

@@ -9,7 +9,8 @@
 <area shape="rect" id="node14" href="$d0/d7f/namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="182,325,245,352"/>
 <area shape="rect" id="node15" href="$d0/d7f/namespacehal.html#a999cca0fe332310d9926a431173149f9" title="hal::add_phys_region" alt="" coords="134,427,293,453"/>
 <area shape="rect" id="node16" href="$d0/d7f/namespacehal.html#a640002963c71b7f311ddf99f187a5db7" title="hal::add_virt_region" alt="" coords="139,477,287,504"/>
-<area shape="rect" id="node17" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="157,528,269,555"/>
+<area shape="rect" id="node17" href="$d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="147,528,280,555"/>
+<area shape="rect" id="node18" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="157,579,269,605"/>
 <area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="343,64,464,91"/>
 <area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="346,224,461,251"/>
 <area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="512,224,659,251"/>

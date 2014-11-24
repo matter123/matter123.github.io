@@ -1,11 +1,18 @@
 var searchData=
 [
-  ['debug',['debug',['../d8/dcc/namespacestd.html#a25b422e2a18c02cd925f693e65550a18',1,'std']]],
-  ['debug_5freport_5flevel',['debug_report_level',['../d8/dcc/namespacestd.html#a0c72e3e140c77750bcf74174f57ef9c7',1,'std']]],
-  ['decode_5fchar',['decode_char',['../db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020',1,'decode_char(const char *c):&#160;utf8.c'],['../df/d51/utf8_8c.html#ac859a73f89520ff054de75f2fb986020',1,'decode_char(const char *c):&#160;utf8.c']]],
-  ['detect_5fencoding',['detect_encoding',['../dd/d90/unicode_8h.html#a90c95a1c577613690db956672d68e741',1,'detect_encoding(char *stream, size_t len):&#160;unicode.cpp'],['../dd/d9c/unicode_8cpp.html#ad535b631478cd2c3f6d72d814f2501a9',1,'detect_encoding(char *s, size_t len):&#160;unicode.cpp']]],
-  ['disable_5finterrupts',['disable_interrupts',['../d0/d7f/namespacehal.html#a59a7cd4b190f6f957e3ecfc0028485ca',1,'hal']]],
-  ['do_5fchecksum',['do_checksum',['../df/dc2/namespaceacpi_1_1tables.html#a44e8d10bf85c67a19a09c5580a3fb0fd',1,'acpi::tables::do_checksum(SDT *table)'],['../df/dc2/namespaceacpi_1_1tables.html#a00915672c26a495f941c8fa9c74879a6',1,'acpi::tables::do_checksum()']]],
-  ['dumb_5fmerge',['dumb_merge',['../d7/da2/namespacekernel.html#abda890eb0224f932543b2848fba64ffd',1,'kernel']]],
-  ['dump_5fregs',['dump_regs',['../d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc',1,'hal']]]
+  ['call_5fhandle',['call_handle',['../d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807',1,'hal']]],
+  ['callback',['callback',['../db/d1b/namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c',1,'pc']]],
+  ['calloc',['calloc',['../dc/d9c/stdlib_8h.html#a7b3d8b7cea59b137b167878ec88eb8d6',1,'calloc():&#160;heap.cpp'],['../d7/da2/namespacekernel.html#ad79749380c8e9f3dbb4ef8f90f29d9b7',1,'kernel::calloc()']]],
+  ['can_5fadjust_5fstart',['can_adjust_start',['../df/d4e/classhal_1_1mem__type.html#acc5dec7de212819bdd480af8a5582771',1,'hal::mem_type']]],
+  ['can_5fgrow',['can_grow',['../df/d4e/classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea',1,'hal::mem_type']]],
+  ['can_5fshrink',['can_shrink',['../df/d4e/classhal_1_1mem__type.html#a6b2a69eb8adfc8afa581f67d756db880',1,'hal::mem_type']]],
+  ['char_5fcopy',['char_copy',['../db/d7c/utf8_8h.html#a3276f08e39dbdf3e6132627b501ca7c7',1,'char_copy(char *str, const char *c):&#160;utf8.cpp'],['../d2/db5/utf8_8cpp.html#a3276f08e39dbdf3e6132627b501ca7c7',1,'char_copy(char *str, const char *c):&#160;utf8.cpp']]],
+  ['check',['check',['../d7/dc6/classkernel_1_1spinlock.html#a38b6c9e986c9753e1cef4285d35be198',1,'kernel::spinlock']]],
+  ['cls',['cls',['../d0/d7f/namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d',1,'hal::cls()'],['../d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1',1,'std::cls()']]],
+  ['combine',['combine',['../db/d9c/classhal_1_1ios__base.html#aaf2aeba0ba7971c7fc7dc07c6bdbf705',1,'hal::ios_base']]],
+  ['consolecolor',['ConsoleColor',['../dc/de8/classhal_1_1ConsoleColor.html#aa1cec28e936b5f9cfa39d382ba97770a',1,'hal::ConsoleColor::ConsoleColor(int foreground, int background)'],['../dc/de8/classhal_1_1ConsoleColor.html#a59aac80166a17cfe198ddecba97dfc94',1,'hal::ConsoleColor::ConsoleColor()']]],
+  ['convert',['convert',['../dd/d90/unicode_8h.html#a2b88e13e718326fcab2c717bbef7ae5d',1,'unicode.h']]],
+  ['copy_5frect',['copy_rect',['../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be',1,'kernel']]],
+  ['cpuid',['cpuid',['../d7/da4/cpu__stuff_8h.html#ae95c9bac436fc0c33204e878437fba46',1,'cpu_stuff.h']]],
+  ['create_5ftask',['create_task',['../d7/db0/namespacex64.html#a2b4bca1424e526f1921046272e173be2',1,'x64::create_task()'],['../d1/d08/namespacex86.html#abb449662ba632eb50509ed2a7021bade',1,'x86::create_task()'],['../d7/da2/namespacekernel.html#aa60b33805708791a7818c26c2b87fcdc',1,'kernel::create_task()']]]
 ];

@@ -1,10 +1,17 @@
 var searchData=
 [
   ['fail_5ffast',['fail_fast',['../d0/d7f/namespacehal.html#a7a97308e3fdacd2f8240ba76e010e274',1,'hal']]],
+  ['fb',['fb',['../d7/da2/namespacekernel.html#a0bbf96a70d105da9e9d4eb6a201b1fa0',1,'kernel']]],
+  ['fb_2ecpp',['fb.cpp',['../dc/d75/fb_8cpp.html',1,'']]],
+  ['fb_2eh',['fb.h',['../dc/d25/fb_8h.html',1,'']]],
+  ['fb_5finfo',['fb_info',['../d4/de7/structkernel_1_1fb__info.html',1,'kernel']]],
   ['fill',['fill',['../d0/d7f/namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2',1,'hal']]],
+  ['fill_5fhline',['fill_hline',['../d7/da2/namespacekernel.html#a25625eb5b8183007e48aaa158f20114f',1,'kernel']]],
+  ['fill_5frect',['fill_rect',['../d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67',1,'kernel']]],
+  ['fill_5fvline',['fill_vline',['../d7/da2/namespacekernel.html#a2c0cd7e246bfc51d96c2cc9424e02ab7',1,'kernel']]],
   ['find_5frsdp',['find_rsdp',['../df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e',1,'acpi::tables']]],
-  ['finished',['finished',['../d0/de2/structkernel_1_1test__module.html#a696b7ed85e1a10965636cbd56825f2c8',1,'kernel::test_module']]],
   ['firmware',['firmware',['../df/d4e/classhal_1_1mem__type.html#ae22f51f1f76275a16f9eca84ba52fe29',1,'hal::mem_type']]],
+  ['first',['first',['../d7/da2/namespacekernel.html#ab8ce36169f7c1addbf9776552b044d60',1,'kernel']]],
   ['fix_5fmmap',['fix_mmap',['../d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9',1,'hal::fix_mmap()'],['../d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9',1,'hal::fix_mmap()']]],
   ['free',['free',['../d4/d48/structkernel_1_1HEAD.html#ab2bf2ae287b06c12787225971657a32b',1,'kernel::HEAD::free()'],['../dc/d9c/stdlib_8h.html#afbedc913aa4651b3c3b4b3aecd9b4711',1,'free():&#160;heap.cpp'],['../d7/da2/namespacekernel.html#abf20922f3940efb87c628f39b6f18039',1,'kernel::free()']]],
   ['free_5fcount',['free_count',['../d4/d6c/classkernel_1_1semaphore.html#a4e9d80312310f90a7a99399c5ffb4aa9',1,'kernel::semaphore']]],

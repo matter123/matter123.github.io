@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['vendor_2eh',['vendor.h',['../d5/d52/vendor_8h.html',1,'']]],
-  ['vmmap_2ecpp',['vmmap.cpp',['../d1/d50/vmmap_8cpp.html',1,'']]]
+  ['unicode_2ecpp',['unicode.cpp',['../dd/d9c/unicode_8cpp.html',1,'']]],
+  ['unicode_2eh',['unicode.h',['../dd/d90/unicode_8h.html',1,'']]],
+  ['utf8_2ecpp',['utf8.cpp',['../d2/db5/utf8_8cpp.html',1,'']]],
+  ['utf8_2eh',['utf8.h',['../db/d7c/utf8_8h.html',1,'']]]
 ];

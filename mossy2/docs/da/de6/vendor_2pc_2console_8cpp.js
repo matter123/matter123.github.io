@@ -12,6 +12,7 @@ var vendor_2pc_2console_8cpp =
     [ "setup_vga", "da/de6/vendor_2pc_2console_8cpp.html#a7d3c247ac77d91f21f529e56737f341e", null ],
     [ "width", "da/de6/vendor_2pc_2console_8cpp.html#aa9329e80a6a5dbb16f38855aa7999b0d", null ],
     [ "arrows", "da/de6/vendor_2pc_2console_8cpp.html#a50b01fe133ad35cb54870ce8066e0144", null ],
+    [ "box_draw", "da/de6/vendor_2pc_2console_8cpp.html#a5de3033712469f75aa389ede5993937a", null ],
     [ "dummy", "da/de6/vendor_2pc_2console_8cpp.html#a2ed16fa77781c43bcc534939ac0f20bc", null ],
     [ "greek", "da/de6/vendor_2pc_2console_8cpp.html#a93d5ab78e9575eadcf4717002617d93b", null ],
     [ "latin_extend", "da/de6/vendor_2pc_2console_8cpp.html#a5c02ebaca6b09f9287114e00092ba309", null ],

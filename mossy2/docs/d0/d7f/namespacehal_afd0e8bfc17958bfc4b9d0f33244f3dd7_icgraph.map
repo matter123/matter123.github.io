@@ -1,8 +1,9 @@
 <map id="hal::map_phys_to_virt_cur" name="hal::map_phys_to_virt_cur">
-<area shape="rect" id="node2" href="$d4/df8/namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="244,35,411,61"/>
-<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="269,85,385,112"/>
+<area shape="rect" id="node2" href="$d4/df8/namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="244,21,411,48"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a7d3c247ac77d91f21f529e56737f341e" title="hal::setup_vga" alt="" coords="269,72,385,99"/>
+<area shape="rect" id="node8" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="675,119,785,145"/>
 <area shape="rect" id="node3" href="$df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="459,5,621,32"/>
 <area shape="rect" id="node6" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="475,57,605,98"/>
-<area shape="rect" id="node4" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="669,35,791,61"/>
-<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="839,35,965,61"/>
+<area shape="rect" id="node4" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="669,64,791,91"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="839,89,965,116"/>
 </map>

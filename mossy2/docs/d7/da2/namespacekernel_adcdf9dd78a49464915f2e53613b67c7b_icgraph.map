@@ -1,0 +1,5 @@
+<map id="kernel::get_glyph" name="kernel::get_glyph">
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a30bda5c9770d1325d078f66495cc171e" title="kernel::draw_char_at" alt="" coords="187,5,344,32"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#af67bb738be84ce9aff10c5be6d1d6632" title="kernel::draw_string_at" alt="" coords="392,5,557,32"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="605,5,732,32"/>
+</map>

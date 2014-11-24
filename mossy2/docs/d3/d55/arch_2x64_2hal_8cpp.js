@@ -18,5 +18,5 @@ var arch_2x64_2hal_8cpp =
     [ "halt", "d3/d55/arch_2x64_2hal_8cpp.html#af08b2c49fc695d8a9b5dd132c92d7b7b", null ],
     [ "init_arch", "d3/d55/arch_2x64_2hal_8cpp.html#a04d71c4fc51d9524effc72614e0d72a1", null ],
     [ "magic_break", "d3/d55/arch_2x64_2hal_8cpp.html#a19733e5a1a5319869f72f44774aeac1e", null ],
-    [ "types", "d3/d55/arch_2x64_2hal_8cpp.html#acc806b20f1bb82541b1118eb5e011847", null ]
+    [ "types", "d3/d55/arch_2x64_2hal_8cpp.html#a4cda54dff12b082b800005de462a5cfb", null ]
 ];
