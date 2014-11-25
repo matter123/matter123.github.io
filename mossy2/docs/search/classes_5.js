@@ -1,7 +1,6 @@
 var searchData=
 [
   ['mbf_5fhead',['mbf_head',['../d3/da9/structkernel_1_1mbf__head.html',1,'kernel']]],
-  ['mboot_5fmodule_5ft',['mboot_module_t',['../dd/d00/structkernel_1_1mboot__module__t.html',1,'kernel']]],
   ['mem_5fregion',['mem_region',['../da/d29/structhal_1_1mem__region.html',1,'hal']]],
   ['mem_5fregs',['mem_regs',['../d4/d5d/structhal_1_1mem__regs.html',1,'hal']]],
   ['mem_5ftype',['mem_type',['../df/d4e/classhal_1_1mem__type.html',1,'hal']]],

@@ -51,6 +51,7 @@ var searchData=
   ['toupper',['toupper',['../d3/d7c/ctype_8cpp.html#a9c2f57ac3865af9006fdbfd5db9fd517',1,'toupper(int c):&#160;ctype.cpp'],['../d7/d0d/ctype_8h.html#a9c2f57ac3865af9006fdbfd5db9fd517',1,'toupper(int c):&#160;ctype.cpp']]],
   ['trampoline',['trampoline',['../d5/d00/structx86_1_1trampoline.html',1,'x86']]],
   ['trampoline',['trampoline',['../d2/dde/structx64_1_1trampoline.html',1,'x64']]],
+  ['transparent',['TRANSPARENT',['../d3/d75/namespacestd_1_1TC.html#a8f6ea56408a7d81ff15db2461e4e022d',1,'std::TC']]],
   ['type',['type',['../d5/dfe/structx86_1_1idt__entry.html#a6bdd0f35897c41136e0e5636ea3105c7',1,'x86::idt_entry::type()'],['../da/dd2/structx64_1_1idt__entry.html#a052c5c66d3d1322502efb76d1bdb3301',1,'x64::idt_entry::type()'],['../da/d29/structhal_1_1mem__region.html#ac5acda9383dbab42becee55f04688d8f',1,'hal::mem_region::type()'],['../d7/d20/structhal_1_1multiboot__tag.html#a99dd1022ce626f22ce20513fe8847ae3',1,'hal::multiboot_tag::type()'],['../d1/d83/structhal_1_1multiboot__mmap__ent.html#a6b0b125d606f31ea9bba95c3cb1f4ea4',1,'hal::multiboot_mmap_ent::type()'],['../d1/d11/structhal_1_1multiboot__fb.html#a524d38ae7884149b5934a4640daafe25',1,'hal::multiboot_fb::type()']]],
   ['typedef_2ehpp',['typedef.hpp',['../d6/d48/typedef_8hpp.html',1,'']]],
   ['types',['types',['../d0/d7f/namespacehal.html#a4cda54dff12b082b800005de462a5cfb',1,'hal::types()'],['../d0/d7f/namespacehal.html#a4cda54dff12b082b800005de462a5cfb',1,'hal::types()'],['../d0/d7f/namespacehal.html#a4cda54dff12b082b800005de462a5cfb',1,'hal::types()']]]

@@ -1,5 +1,5 @@
 <map id="kernel::draw_string_at" name="kernel::draw_string_at">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a30bda5c9770d1325d078f66495cc171e" title="kernel::draw_char_at" alt="" coords="219,56,376,83"/>
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204" title="kernel::draw_char_at" alt="" coords="219,56,376,83"/>
 <area shape="rect" id="node5" href="$db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="245,107,349,133"/>
 <area shape="rect" id="node7" href="$db/d7c/utf8_8h.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="245,157,349,184"/>
 <area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#adcdf9dd78a49464915f2e53613b67c7b" title="kernel::get_glyph" alt="" coords="424,5,557,32"/>

@@ -11,7 +11,7 @@
 <area shape="rect" id="node37" href="$dc/d9c/stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42" title="rand" alt="" coords="237,881,288,908"/>
 <area shape="rect" id="node38" href="$d7/da2/namespacekernel.html#ac16b8ce9ceccaa627d2524ffdddbd46d" title="kernel::get_w" alt="" coords="208,932,317,958"/>
 <area shape="rect" id="node39" href="$d7/da2/namespacekernel.html#ad8873c419f1177672f1ea967a10961e0" title="kernel::get_h" alt="" coords="209,982,316,1009"/>
-<area shape="rect" id="node40" href="$d7/da2/namespacekernel.html#af67bb738be84ce9aff10c5be6d1d6632" title="kernel::draw_string_at" alt="" coords="180,1205,345,1232"/>
+<area shape="rect" id="node40" href="$d7/da2/namespacekernel.html#ae359f5def3051aa2ac414c23250951dd" title="kernel::draw_string_at" alt="" coords="180,1205,345,1232"/>
 <area shape="rect" id="node43" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="202,780,323,806"/>
 <area shape="rect" id="node47" href="$d3/d94/namespaceacpi.html#aff84c940b3dfda33065e022cd4335665" title="determines if acpi exists " alt="" coords="207,1154,319,1181"/>
 <area shape="rect" id="node48" href="$d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="203,545,323,572"/>
@@ -43,7 +43,7 @@
 <area shape="rect" id="node31" href="$d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="893,1089,1005,1116"/>
 <area shape="rect" id="node32" href="$d7/da2/namespacekernel.html#abf20922f3940efb87c628f39b6f18039" title="kernel::free" alt="" coords="901,1140,997,1166"/>
 <area shape="rect" id="node34" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="393,741,584,768"/>
-<area shape="rect" id="node41" href="$d7/da2/namespacekernel.html#a30bda5c9770d1325d078f66495cc171e" title="kernel::draw_char_at" alt="" coords="410,1285,567,1312"/>
+<area shape="rect" id="node41" href="$d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204" title="kernel::draw_char_at" alt="" coords="410,1285,567,1312"/>
 <area shape="rect" id="node42" href="$db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="437,1234,541,1261"/>
 <area shape="rect" id="node44" href="$d4/df8/namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11" title="initalizes acpi os interface " alt="" coords="412,893,565,920"/>
 <area shape="rect" id="node45" href="$df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="407,944,570,970"/>

@@ -20,6 +20,5 @@ var searchData=
   ['fromlsb',['fromLSB',['../d0/d7f/namespacehal.html#a75fa70b44deff2c33e7de5e26b25b6a7',1,'hal']]],
   ['frommsb',['fromMSB',['../d0/d7f/namespacehal.html#aacecddabc9e49eedc26f3d3b268548d0',1,'hal']]],
   ['fs',['fs',['../da/d9b/structcpu__state.html#a0fc1d3c22b185f549b0371e28ddaaa02',1,'cpu_state']]],
-  ['full',['FULL',['../d7/da2/namespacekernel.html#ada83f94b13aca263c0fd8779cd2cdb70',1,'kernel']]],
   ['funcs',['funcs',['../db/d1b/namespacepc.html#a14ccd0da56c54524d4a97f2437a52c60',1,'pc']]]
 ];

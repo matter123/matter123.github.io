@@ -16,7 +16,6 @@ var searchData=
   ['blue_5fpos',['blue_pos',['../d2/d2e/structhal_1_1multiboot__ci__1.html#af068765927bba819bc6735b443adf63a',1,'hal::multiboot_ci_1']]],
   ['boot64_2einc',['boot64.inc',['../de/de4/boot64_8inc.html',1,'']]],
   ['boot86_2einc',['boot86.inc',['../d9/d48/boot86_8inc.html',1,'']]],
-  ['bootconsole_2eh',['bootconsole.h',['../df/d84/bootconsole_8h.html',1,'']]],
   ['bootinfo',['bootinfo',['../df/d4e/classhal_1_1mem__type.html#a101fab5aa776135084026642be8511cb',1,'hal::mem_type']]],
   ['box_5fdraw',['box_draw',['../d0/d7f/namespacehal.html#a5de3033712469f75aa389ede5993937a',1,'hal']]],
   ['bpp',['bpp',['../d1/d11/structhal_1_1multiboot__fb.html#a93653682ea0eb51497760c31f99dabdc',1,'hal::multiboot_fb::bpp()'],['../d4/de7/structkernel_1_1fb__info.html#a900e53c7d4d512c1c18248e1cb74e568',1,'kernel::fb_info::bpp()']]],

@@ -8,5 +8,6 @@ var searchData=
   ['vbe_5fmode_5finfo',['vbe_mode_info',['../d6/d74/structhal_1_1multiboot__vbe.html#a70d8ba0ab169e57bfcb77819d7cde963',1,'hal::multiboot_vbe']]],
   ['vendor_2eh',['vendor.h',['../d5/d52/vendor_8h.html',1,'']]],
   ['videobuffer',['videobuffer',['../df/d4e/classhal_1_1mem__type.html#a13a0a1bd0466875c10a637fbd2018dbf',1,'hal::mem_type']]],
-  ['vmmap_2ecpp',['vmmap.cpp',['../d1/d50/vmmap_8cpp.html',1,'']]]
+  ['vmmap_2ecpp',['vmmap.cpp',['../d1/d50/vmmap_8cpp.html',1,'']]],
+  ['vterm_2ecpp',['vterm.cpp',['../db/dec/vterm_8cpp.html',1,'']]]
 ];

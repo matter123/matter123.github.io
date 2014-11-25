@@ -16,6 +16,7 @@ var text__color_8h =
     [ "LGRAY", "d7/df6/text__color_8h.html#a33edf34f3d6711196700eaa3bbaf9764", null ],
     [ "MAGENTA", "d7/df6/text__color_8h.html#a2f7c0f1615ecdc2fceb4adeb717ff960", null ],
     [ "RED", "d7/df6/text__color_8h.html#abc4d3081cf653a50f8cd5dcea0c18628", null ],
+    [ "TRANSPARENT", "d7/df6/text__color_8h.html#a8f6ea56408a7d81ff15db2461e4e022d", null ],
     [ "WHITE", "d7/df6/text__color_8h.html#a0beddad35cef86ba56550e10891eca25", null ],
     [ "YELLOW", "d7/df6/text__color_8h.html#a43a2da8cf6ba73efb2658584e625a2b5", null ]
 ];
