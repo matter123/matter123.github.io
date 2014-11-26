@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['c',['c',['../d7/d79/classhal_1_1ostream.html#a1ffac2887b152385b40a1ea5c15f9b6a',1,'hal::ostream::c()'],['../d6/df4/rand_8c.html#a6ce17b018c47d0f1d0e53a458f741ad3',1,'c():&#160;rand.c']]],
+  ['c',['c',['../d6/df4/rand_8c.html#a6ce17b018c47d0f1d0e53a458f741ad3',1,'rand.c']]],
   ['call_5fhandle',['call_handle',['../d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807',1,'hal']]],
   ['callback',['callback',['../db/d1b/namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c',1,'pc']]],
   ['callbacks',['callbacks',['../d0/d7f/namespacehal.html#a79c69e0ed9f8f741df559ac229a448d9',1,'hal']]],
@@ -18,13 +18,10 @@ var searchData=
   ['code_5fsegment',['code_segment',['../d5/dfe/structx86_1_1idt__entry.html#a1b7e3803dd8db36d34faecac343284d1',1,'x86::idt_entry::code_segment()'],['../da/dd2/structx64_1_1idt__entry.html#a211f1778f248c19fed1e3e7123c7cb90',1,'x64::idt_entry::code_segment()']]],
   ['codepoint',['codepoint',['../da/dcc/structkernel_1_1glyph__int.html#ac4fd6536177aefaa71b4b9c3d8299ddf',1,'kernel::glyph_int::codepoint()'],['../dd/d90/unicode_8h.html#aa8fad74679109c30b4668b8c419bda66',1,'codepoint():&#160;unicode.h']]],
   ['col',['col',['../da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888',1,'kernel::glyph_int']]],
-  ['color',['color',['../dc/de8/classhal_1_1ConsoleColor.html#a953651c5be82d2a2ba422445581acdce',1,'hal::ConsoleColor']]],
   ['colordef',['ColorDef',['../d0/d7f/namespacehal.html#add26cb88ca66687a6c364ae2467b6551',1,'hal']]],
   ['combine',['combine',['../db/d9c/classhal_1_1ios__base.html#aaf2aeba0ba7971c7fc7dc07c6bdbf705',1,'hal::ios_base']]],
   ['console_2ecpp',['console.cpp',['../d9/dda/console_8cpp.html',1,'']]],
   ['console_2eh',['console.h',['../d0/de3/console_8h.html',1,'']]],
-  ['consolecolor',['ConsoleColor',['../dc/de8/classhal_1_1ConsoleColor.html#aa1cec28e936b5f9cfa39d382ba97770a',1,'hal::ConsoleColor::ConsoleColor(int foreground, int background)'],['../dc/de8/classhal_1_1ConsoleColor.html#a59aac80166a17cfe198ddecba97dfc94',1,'hal::ConsoleColor::ConsoleColor()']]],
-  ['consolecolor',['ConsoleColor',['../dc/de8/classhal_1_1ConsoleColor.html',1,'hal']]],
   ['conv_2ehpp',['conv.hpp',['../dc/dd9/conv_8hpp.html',1,'']]],
   ['convert',['convert',['../dd/d90/unicode_8h.html#a2b88e13e718326fcab2c717bbef7ae5d',1,'unicode.h']]],
   ['copy_5frect',['copy_rect',['../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be',1,'kernel::copy_rect(int x, int y, int w, int h, void *rect_buf)'],['../d7/da2/namespacekernel.html#afe9157b4d21ba4a63432f0a7844890af',1,'kernel::copy_rect(int src_x, int src_y, int w, int h, int dest_x, int dest_y)']]],

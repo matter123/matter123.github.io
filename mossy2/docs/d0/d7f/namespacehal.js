@@ -1,6 +1,5 @@
 var namespacehal =
 [
-    [ "ConsoleColor", "dc/de8/classhal_1_1ConsoleColor.html", "dc/de8/classhal_1_1ConsoleColor" ],
     [ "idt_range", "d4/de0/structhal_1_1idt__range.html", "d4/de0/structhal_1_1idt__range" ],
     [ "ios_base", "db/d9c/classhal_1_1ios__base.html", "db/d9c/classhal_1_1ios__base" ],
     [ "mem_region", "da/d29/structhal_1_1mem__region.html", "da/d29/structhal_1_1mem__region" ],

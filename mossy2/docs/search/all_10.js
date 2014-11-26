@@ -51,7 +51,7 @@ var searchData=
   ['prev',['prev',['../d4/d48/structkernel_1_1HEAD.html#a74ef9ed0ee68c0f9e54547665fd7a634',1,'kernel::HEAD']]],
   ['print',['print',['../d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306',1,'hal::ostream']]],
   ['print_5fboot_5fmsg',['print_boot_msg',['../d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b',1,'hal::print_boot_msg(const char *level, const char *app, const char *msg)'],['../d0/d7f/namespacehal.html#a7854e96165a7643b4d804d9b779e822a',1,'hal::print_boot_msg(const char *msg, bool ok, bool hlt)']]],
-  ['printc',['printc',['../d0/d7f/namespacehal.html#adf343534a8f851c0f34d612d474d48c4',1,'hal']]],
+  ['printc',['printc',['../d0/d7f/namespacehal.html#a04bd4faadc3cbaf9cd307f953c51edae',1,'hal::printc(uint32_t, color, const char *glyph)'],['../d0/d7f/namespacehal.html#adf343534a8f851c0f34d612d474d48c4',1,'hal::printc(ConsoleColor c, const char *glyph)']]],
   ['priority',['priority',['../db/db7/structkernel_1_1thread__info.html#af6783c1abc64cd2f5d913ddc229711af',1,'kernel::thread_info']]],
   ['pt',['pt',['../da/dce/unionx64_1_1recursive__paging_1_1pt.html',1,'x64::recursive_paging']]],
   ['pt',['pt',['../d6/d6d/unionx86_1_1recursive__paging_1_1pt.html',1,'x86::recursive_paging']]],

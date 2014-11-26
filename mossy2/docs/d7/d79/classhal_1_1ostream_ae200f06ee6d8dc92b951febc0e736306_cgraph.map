@@ -1,12 +1,6 @@
 <map id="hal::ostream::print" name="hal::ostream::print">
 <area shape="rect" id="node2" href="$db/d7c/utf8_8h.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="193,5,297,32"/>
-<area shape="rect" id="node3" href="$db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="372,43,476,69"/>
-<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#adf343534a8f851c0f34d612d474d48c4" title="hal::printc" alt="" coords="203,132,288,159"/>
-<area shape="rect" id="node4" href="$d2/db5/utf8_8cpp.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="565,43,669,69"/>
-<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#aa9329e80a6a5dbb16f38855aa7999b0d" title="hal::width" alt="" coords="382,93,466,120"/>
-<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a601082757b3228e73d4f45d8cad38530" title="hal::height" alt="" coords="379,144,469,171"/>
-<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#ad49d2e8377a31906bc4dc84f255817f8" title="hal::scroll" alt="" coords="383,195,465,221"/>
-<area shape="rect" id="node9" href="$d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204" title="kernel::draw_char_at" alt="" coords="345,245,503,272"/>
-<area shape="rect" id="node10" href="$d7/da2/namespacekernel.html#adcdf9dd78a49464915f2e53613b67c7b" title="kernel::get_glyph" alt="" coords="551,220,684,247"/>
-<area shape="rect" id="node11" href="$d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe" title="kernel::bit_blit" alt="" coords="561,271,673,297"/>
+<area shape="rect" id="node3" href="$db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="193,56,297,83"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a04bd4faadc3cbaf9cd307f953c51edae" title="hal::printc" alt="" coords="203,107,288,133"/>
+<area shape="rect" id="node4" href="$d2/db5/utf8_8cpp.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="345,56,449,83"/>
 </map>
