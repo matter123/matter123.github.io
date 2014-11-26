@@ -1,11 +1,10 @@
 <map id="memmove" name="memmove">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="163,5,245,32"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="504,107,621,133"/>
-<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="147,107,261,133"/>
-<area shape="rect" id="node9" href="$d7/da2/namespacekernel.html#a6e4897103f6c207a9c2531daf8634859" title="kernel::scoot" alt="" coords="151,183,257,209"/>
-<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="669,132,796,159"/>
-<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="309,107,456,133"/>
-<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="314,157,451,184"/>
-<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="511,157,614,184"/>
-<area shape="rect" id="node10" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="327,208,439,235"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="504,27,621,54"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="147,39,261,66"/>
+<area shape="rect" id="node8" href="$d7/da2/namespacekernel.html#a6e4897103f6c207a9c2531daf8634859" title="kernel::scoot" alt="" coords="151,115,257,142"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="669,52,796,79"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="309,27,456,54"/>
+<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="314,78,451,104"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="511,78,614,104"/>
+<area shape="rect" id="node9" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="327,128,439,155"/>
 </map>

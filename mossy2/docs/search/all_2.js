@@ -20,6 +20,7 @@ var searchData=
   ['box_5fdraw',['box_draw',['../d0/d7f/namespacehal.html#a5de3033712469f75aa389ede5993937a',1,'hal']]],
   ['bpp',['bpp',['../d1/d11/structhal_1_1multiboot__fb.html#a93653682ea0eb51497760c31f99dabdc',1,'hal::multiboot_fb::bpp()'],['../d4/de7/structkernel_1_1fb__info.html#a900e53c7d4d512c1c18248e1cb74e568',1,'kernel::fb_info::bpp()']]],
   ['buf',['buf',['../d3/d75/namespacestd_1_1TC.html#a6bb6f38882ea438ca58b0e352899b8a1',1,'std::TC']]],
+  ['build_5finfo_2eh',['build_info.h',['../d0/dc7/build__info_8h.html',1,'']]],
   ['byte_5forder',['byte_order',['../d0/d7f/namespacehal.html#af25009464e4501d3c509c87f19dbb842',1,'hal']]],
   ['byteorder_2ehpp',['byteorder.hpp',['../d1/d7e/byteorder_8hpp.html',1,'']]]
 ];

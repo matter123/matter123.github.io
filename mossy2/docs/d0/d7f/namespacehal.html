@@ -324,6 +324,8 @@ Functions</h2></td></tr>
 <tr class="separator:a63960711ee1b053d5548d350229a23c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a63960711ee1b053d5548d350229a23c9"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9">fix_mmap</a> ()</td></tr>
 <tr class="separator:a63960711ee1b053d5548d350229a23c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79b97ba68d19fbbcb86eb92643b6de0b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b">ready</a> ()</td></tr>
+<tr class="separator:a79b97ba68d19fbbcb86eb92643b6de0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af51a986a8f578845948a4f527673b609"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#af51a986a8f578845948a4f527673b609">program_vga</a> ()</td></tr>
 <tr class="separator:af51a986a8f578845948a4f527673b609"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3470f9ff1d6a545749c4c39ff47c9677"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a3470f9ff1d6a545749c4c39ff47c9677">printc</a> (<a class="el" href="../../dc/de8/classhal_1_1ConsoleColor.html">ConsoleColor</a> <a class="el" href="../../d6/df4/rand_8c.html#a6ce17b018c47d0f1d0e53a458f741ad3">c</a>, unsigned char let)</td></tr>
@@ -393,6 +395,12 @@ Variables</h2></td></tr>
 <tr class="separator:a9102dd97b56e35ee0707c4e14a130663"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac0773156d81fade8e12f42776abb3c5b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d49/global_8h.html#acd057786f59efe7934fc1865979d0d63">pointer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#ac0773156d81fade8e12f42776abb3c5b">wksp_ptr</a> =(<a class="el" href="../../d2/d49/global_8h.html#acd057786f59efe7934fc1865979d0d63">pointer</a>)&amp;<a class="el" href="../../d0/d7f/namespacehal.html#a132f4cff7a5aab23e3ed948279b4cfe6">k_end</a></td></tr>
 <tr class="separator:ac0773156d81fade8e12f42776abb3c5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa29d4f2aea2bd41826baa9bac072b0cc"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#aa29d4f2aea2bd41826baa9bac072b0cc">wx</a></td></tr>
+<tr class="separator:aa29d4f2aea2bd41826baa9bac072b0cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96989da9fb154287870c3b834cdfe8af"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a96989da9fb154287870c3b834cdfe8af">wy</a></td></tr>
+<tr class="separator:a96989da9fb154287870c3b834cdfe8af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5dd85630be6dc468082de58b104bb91"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#ad5dd85630be6dc468082de58b104bb91">ready</a></td></tr>
+<tr class="separator:ad5dd85630be6dc468082de58b104bb91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa2111c1c5b3e144f220e7109bbccc206"><td class="memItemLeft" align="right" valign="top">uint16_t *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#aa2111c1c5b3e144f220e7109bbccc206">mon</a> =reinterpret_cast&lt;uint16_t *&gt;(<a class="el" href="../../d0/d7f/namespacehal.html#a5da0fee39be6c7659d059d24765593b3">get_page_offset_addr</a>()+0xB8000)</td></tr>
 <tr class="separator:aa2111c1c5b3e144f220e7109bbccc206"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1cad533f81b1d2d53f9f474f77a1449c"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a1cad533f81b1d2d53f9f474f77a1449c">x</a></td></tr>
@@ -779,7 +787,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d0/d7f/namespacehal_ab88e898bc9a52b331a8c3ca6908abe7d_cgraph.png" border="0" usemap="#d0/d7f/namespacehal_ab88e898bc9a52b331a8c3ca6908abe7d_cgraph" alt=""/></div>
 <map name="d0/d7f/namespacehal_ab88e898bc9a52b331a8c3ca6908abe7d_cgraph" id="d0/d7f/namespacehal_ab88e898bc9a52b331a8c3ca6908abe7d_cgraph">
-<area shape="rect" id="node2" href="../../da/d66/string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b" title="memset32" alt="" coords="120,5,212,32"/></map>
+<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67" title="kernel::fill_rect" alt="" coords="120,5,236,32"/><area shape="rect" id="node4" href="../../d7/da2/namespacekernel.html#ac16b8ce9ceccaa627d2524ffdddbd46d" title="kernel::get_w" alt="" coords="123,56,233,83"/><area shape="rect" id="node5" href="../../d7/da2/namespacekernel.html#ad8873c419f1177672f1ea967a10961e0" title="kernel::get_h" alt="" coords="125,107,231,133"/><area shape="rect" id="node3" href="../../da/d66/string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b" title="memset32" alt="" coords="284,5,376,32"/></map>
 </div>
 </p>
 
@@ -788,7 +796,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d0/d7f/namespacehal_ab88e898bc9a52b331a8c3ca6908abe7d_icgraph.png" border="0" usemap="#d0/d7f/namespacehal_ab88e898bc9a52b331a8c3ca6908abe7d_icgraph" alt=""/></div>
 <map name="d0/d7f/namespacehal_ab88e898bc9a52b331a8c3ca6908abe7d_icgraph" id="d0/d7f/namespacehal_ab88e898bc9a52b331a8c3ca6908abe7d_icgraph">
-<area shape="rect" id="node2" href="../../d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="126,5,209,32"/><area shape="rect" id="node3" href="../../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="120,56,215,83"/><area shape="rect" id="node4" href="../../df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="263,19,393,61"/><area shape="rect" id="node6" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="611,59,737,85"/><area shape="rect" id="node5" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="441,31,563,57"/></map>
+<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="120,42,215,69"/><area shape="rect" id="node6" href="../../d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b" title="hal::ready" alt="" coords="124,93,211,119"/><area shape="rect" id="node3" href="../../df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="263,5,393,47"/><area shape="rect" id="node5" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="611,45,737,71"/><area shape="rect" id="node4" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="441,17,563,43"/></map>
 </div>
 </p>
 
@@ -1451,6 +1459,15 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d0/d7f/namespacehal_a601082757b3228e73d4f45d8cad38530_icgraph.png" border="0" usemap="#d0/d7f/namespacehal_a601082757b3228e73d4f45d8cad38530_icgraph" alt=""/></div>
+<map name="d0/d7f/namespacehal_a601082757b3228e73d4f45d8cad38530_icgraph" id="d0/d7f/namespacehal_a601082757b3228e73d4f45d8cad38530_icgraph">
+<area shape="rect" id="node2" href="../../d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="143,5,225,32"/></map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a04d71c4fc51d9524effc72614e0d72a1"></a>
@@ -2038,15 +2055,6 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 
 <p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../d0/d7f/namespacehal_adf343534a8f851c0f34d612d474d48c4_cgraph.png" border="0" usemap="#d0/d7f/namespacehal_adf343534a8f851c0f34d612d474d48c4_cgraph" alt=""/></div>
-<map name="d0/d7f/namespacehal_adf343534a8f851c0f34d612d474d48c4_cgraph" id="d0/d7f/namespacehal_adf343534a8f851c0f34d612d474d48c4_cgraph">
-<area shape="rect" id="node2" href="../../db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="139,5,243,32"/><area shape="rect" id="node3" href="../../d2/db5/utf8_8cpp.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="291,5,395,32"/></map>
-</div>
-</p>
-
-<p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d0/d7f/namespacehal_adf343534a8f851c0f34d612d474d48c4_icgraph.png" border="0" usemap="#d0/d7f/namespacehal_adf343534a8f851c0f34d612d474d48c4_icgraph" alt=""/></div>
@@ -2076,6 +2084,30 @@ Here is the call graph for this function:</div>
 <div class="center"><img src="../../d0/d7f/namespacehal_af51a986a8f578845948a4f527673b609_cgraph.png" border="0" usemap="#d0/d7f/namespacehal_af51a986a8f578845948a4f527673b609_cgraph" alt=""/></div>
 <map name="d0/d7f/namespacehal_af51a986a8f578845948a4f527673b609_cgraph" id="d0/d7f/namespacehal_af51a986a8f578845948a4f527673b609_cgraph">
 <area shape="rect" id="node2" href="../../dc/dac/io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="193,5,234,32"/><area shape="rect" id="node3" href="../../dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="188,56,239,83"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a79b97ba68d19fbbcb86eb92643b6de0b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void hal::ready </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d0/d7f/namespacehal_a79b97ba68d19fbbcb86eb92643b6de0b_cgraph.png" border="0" usemap="#d0/d7f/namespacehal_a79b97ba68d19fbbcb86eb92643b6de0b_cgraph" alt=""/></div>
+<map name="d0/d7f/namespacehal_a79b97ba68d19fbbcb86eb92643b6de0b_cgraph" id="d0/d7f/namespacehal_a79b97ba68d19fbbcb86eb92643b6de0b_cgraph">
+<area shape="rect" id="node2" href="../../d0/d7f/namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d" title="hal::cls" alt="" coords="140,56,207,83"/><area shape="rect" id="node3" href="../../d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67" title="kernel::fill_rect" alt="" coords="255,5,371,32"/><area shape="rect" id="node5" href="../../d7/da2/namespacekernel.html#ac16b8ce9ceccaa627d2524ffdddbd46d" title="kernel::get_w" alt="" coords="258,56,367,83"/><area shape="rect" id="node6" href="../../d7/da2/namespacekernel.html#ad8873c419f1177672f1ea967a10961e0" title="kernel::get_h" alt="" coords="259,107,366,133"/><area shape="rect" id="node4" href="../../da/d66/string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b" title="memset32" alt="" coords="419,5,511,32"/></map>
 </div>
 </p>
 
@@ -2365,7 +2397,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d0/d7f/namespacehal_a0e4347fbf6da02162c9005900ad503b5_cgraph.png" border="0" usemap="#d0/d7f/namespacehal_a0e4347fbf6da02162c9005900ad503b5_cgraph" alt=""/></div>
 <map name="d0/d7f/namespacehal_a0e4347fbf6da02162c9005900ad503b5_cgraph" id="d0/d7f/namespacehal_a0e4347fbf6da02162c9005900ad503b5_cgraph">
-<area shape="rect" id="node2" href="../../d0/d7f/namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d" title="hal::cls" alt="" coords="149,5,216,32"/><area shape="rect" id="node4" href="../../da/d66/string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="136,56,229,83"/><area shape="rect" id="node5" href="../../da/d66/string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="145,107,221,133"/><area shape="rect" id="node3" href="../../da/d66/string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b" title="memset32" alt="" coords="277,5,369,32"/></map>
+<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="136,5,269,32"/><area shape="rect" id="node4" href="../../d7/da2/namespacekernel.html#ac16b8ce9ceccaa627d2524ffdddbd46d" title="kernel::get_w" alt="" coords="148,56,257,83"/><area shape="rect" id="node5" href="../../d0/d7f/namespacehal.html#a601082757b3228e73d4f45d8cad38530" title="hal::height" alt="" coords="158,107,247,133"/><area shape="rect" id="node3" href="../../da/d66/string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="317,5,396,32"/></map>
 </div>
 </p>
 
@@ -3299,6 +3331,26 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
+<a class="anchor" id="ad5dd85630be6dc468082de58b104bb91"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool hal::ready</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a4112c182813818b62aefd4e0c29d51cc"></a>
 <div class="memitem">
 <div class="memproto">
@@ -3479,6 +3531,46 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
+<a class="anchor" id="aa29d4f2aea2bd41826baa9bac072b0cc"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int hal::wx</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a96989da9fb154287870c3b834cdfe8af"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int hal::wy</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a1cad533f81b1d2d53f9f474f77a1449c"></a>
 <div class="memitem">
 <div class="memproto">
@@ -3509,7 +3601,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d7f/namespacehal.html">hal</a></li>
-    <li class="footer">Generated on Tue Nov 25 2014 09:00:03 for MOSSY 2 by
+    <li class="footer">Generated on Tue Nov 25 2014 22:00:04 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

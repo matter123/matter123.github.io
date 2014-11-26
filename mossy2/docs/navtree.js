@@ -40,12 +40,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a934af8959ce0da08df67db68da0ec51c",
-"d7/d58/new_8h.html#afea8decef8f286c8d73c89a1a81d4555",
-"da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c",
-"dc/d34/arch_2x86__64_2int_8h.html#a184d7094e40c264fd504fd13067bad33",
-"dc/d75/fb_8cpp.html#ae14f904e1f7c47b66fb0b79faf529d0d",
-"df/db7/structhal_1_1page__opt.html#a108b55f1f9c0a08954a97a00ea37a4a2"
+"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a91773d598e4c9202e9c4c0687d8f2b82",
+"d7/d58/new_8h.html#a7f5a0f061d65c77264411a2914503659",
+"da/d66/string_8h.html#a6c1484d7e2c695d7615e6cb5d976348e",
+"dc/d34/arch_2x86__64_2int_8h.html#a0ab5bbf2f2e3ade3079b111475f36fe1",
+"dc/d34/arch_2x86__64_2int_8h.html#aff04c9183f2b7877a5ee993d20ec80db",
+"df/d4e/classhal_1_1mem__type.html#ae46f19011eb292ef6eff7bf7ccd0ebbe"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,6 +1,6 @@
 <map id="hal::ostream::print" name="hal::ostream::print">
 <area shape="rect" id="node2" href="$db/d7c/utf8_8h.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="193,5,297,32"/>
-<area shape="rect" id="node3" href="$db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="345,81,449,108"/>
+<area shape="rect" id="node3" href="$db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="193,56,297,83"/>
 <area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#adf343534a8f851c0f34d612d474d48c4" title="hal::printc" alt="" coords="203,107,288,133"/>
-<area shape="rect" id="node4" href="$d2/db5/utf8_8cpp.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="497,81,601,108"/>
+<area shape="rect" id="node4" href="$d2/db5/utf8_8cpp.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="345,56,449,83"/>
 </map>
