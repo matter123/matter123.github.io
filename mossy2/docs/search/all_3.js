@@ -18,7 +18,7 @@ var searchData=
   ['code_5fsegment',['code_segment',['../d5/dfe/structx86_1_1idt__entry.html#a1b7e3803dd8db36d34faecac343284d1',1,'x86::idt_entry::code_segment()'],['../da/dd2/structx64_1_1idt__entry.html#a211f1778f248c19fed1e3e7123c7cb90',1,'x64::idt_entry::code_segment()']]],
   ['codepoint',['codepoint',['../da/dcc/structkernel_1_1glyph__int.html#ac4fd6536177aefaa71b4b9c3d8299ddf',1,'kernel::glyph_int::codepoint()'],['../dd/d90/unicode_8h.html#aa8fad74679109c30b4668b8c419bda66',1,'codepoint():&#160;unicode.h']]],
   ['col',['col',['../da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888',1,'kernel::glyph_int']]],
-  ['colordef',['ColorDef',['../d0/d7f/namespacehal.html#add26cb88ca66687a6c364ae2467b6551',1,'hal']]],
+  ['color',['color',['../d7/d79/classhal_1_1ostream.html#a022f5ed3efa9e73768eb77be6c7e9eac',1,'hal::ostream']]],
   ['combine',['combine',['../db/d9c/classhal_1_1ios__base.html#aaf2aeba0ba7971c7fc7dc07c6bdbf705',1,'hal::ios_base']]],
   ['console_2ecpp',['console.cpp',['../d9/dda/console_8cpp.html',1,'']]],
   ['console_2eh',['console.h',['../d0/de3/console_8h.html',1,'']]],

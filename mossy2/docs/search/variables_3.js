@@ -9,6 +9,7 @@ var searchData=
   ['code_5fsegment',['code_segment',['../d5/dfe/structx86_1_1idt__entry.html#a1b7e3803dd8db36d34faecac343284d1',1,'x86::idt_entry::code_segment()'],['../da/dd2/structx64_1_1idt__entry.html#a211f1778f248c19fed1e3e7123c7cb90',1,'x64::idt_entry::code_segment()']]],
   ['codepoint',['codepoint',['../da/dcc/structkernel_1_1glyph__int.html#ac4fd6536177aefaa71b4b9c3d8299ddf',1,'kernel::glyph_int']]],
   ['col',['col',['../da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888',1,'kernel::glyph_int']]],
+  ['color',['color',['../d7/d79/classhal_1_1ostream.html#a022f5ed3efa9e73768eb77be6c7e9eac',1,'hal::ostream']]],
   ['count',['count',['../d8/de8/namespacex86__64.html#a400047baf98b949833df227c907d7a1e',1,'x86_64::count()'],['../d0/d7f/namespacehal.html#a5480a292d2e7a8631d1c4712058078a9',1,'hal::count()']]],
   ['cout',['cout',['../d0/d7f/namespacehal.html#a313e0ab6d0735538fa42c52df5b947b8',1,'hal']]],
   ['cpu_5fstate',['cpu_state',['../db/db7/structkernel_1_1thread__info.html#afbb9ae3c7d61cce6a2ae83bced998101',1,'kernel::thread_info']]],

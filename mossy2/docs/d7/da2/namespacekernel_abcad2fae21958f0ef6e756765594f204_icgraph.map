@@ -1,4 +1,6 @@
 <map id="kernel::draw_char_at" name="kernel::draw_char_at">
 <area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#ae359f5def3051aa2ac414c23250951dd" title="kernel::draw_string_at" alt="" coords="211,5,376,32"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#adf343534a8f851c0f34d612d474d48c4" title="hal::printc" alt="" coords="251,56,336,83"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="251,56,336,83"/>
+<area shape="rect" id="node4" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="424,56,564,83"/>
+<area shape="rect" id="node5" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="612,56,800,83"/>
 </map>

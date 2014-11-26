@@ -11,6 +11,6 @@ var searchData=
   ['pre_5finit_5fhandle',['pre_init_handle',['../d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27',1,'x64::pre_init_handle()'],['../d1/d08/namespacex86.html#ab9e4d0e4571d9531648f20c875120f08',1,'x86::pre_init_handle()']]],
   ['print',['print',['../d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306',1,'hal::ostream']]],
   ['print_5fboot_5fmsg',['print_boot_msg',['../d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b',1,'hal::print_boot_msg(const char *level, const char *app, const char *msg)'],['../d0/d7f/namespacehal.html#a7854e96165a7643b4d804d9b779e822a',1,'hal::print_boot_msg(const char *msg, bool ok, bool hlt)']]],
-  ['printc',['printc',['../d0/d7f/namespacehal.html#a04bd4faadc3cbaf9cd307f953c51edae',1,'hal::printc(uint32_t, color, const char *glyph)'],['../d0/d7f/namespacehal.html#adf343534a8f851c0f34d612d474d48c4',1,'hal::printc(ConsoleColor c, const char *glyph)']]],
+  ['printc',['printc',['../d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95',1,'hal']]],
   ['pt_5foff',['PT_OFF',['../d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535',1,'x64']]]
 ];

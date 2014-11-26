@@ -40,12 +40,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a934af8959ce0da08df67db68da0ec51c",
-"d7/d58/new_8h.html#afea8decef8f286c8d73c89a1a81d4555",
-"da/d66/string_8h.html#a8cb460f64c449f2a9b9b7a40569ce0fe",
-"dc/d34/arch_2x86__64_2int_8h.html#a2d8a45c4cf0bc180fdbdcd35d81e7b84",
-"dc/d9c/stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42",
-"df/deb/structx86_1_1recursive__paging_1_1pte.html#af4c8e319b050e3ceed965461558cbafc"
+"d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a91773d598e4c9202e9c4c0687d8f2b82",
+"d7/d58/new_8h.html#a7f5a0f061d65c77264411a2914503659",
+"da/d66/string_8h.html#a71663781d2aaf48be73d6a9a0cedb0de",
+"dc/d34/arch_2x86__64_2int_8h.html#a2a73acc186409627eeb1446ba9c6808c",
+"dc/d9c/stdlib_8h.html",
+"df/deb/structx86_1_1recursive__paging_1_1pte.html#ade52bf4f2a624b783b9132e93d1ad2e8"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

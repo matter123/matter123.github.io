@@ -1,5 +1,7 @@
 <map id="kernel::bit_blit" name="kernel::bit_blit">
 <area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204" title="kernel::draw_char_at" alt="" coords="165,31,323,57"/>
 <area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#ae359f5def3051aa2ac414c23250951dd" title="kernel::draw_string_at" alt="" coords="371,5,536,32"/>
-<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#adf343534a8f851c0f34d612d474d48c4" title="hal::printc" alt="" coords="411,56,496,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="411,56,496,83"/>
+<area shape="rect" id="node5" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="584,56,724,83"/>
+<area shape="rect" id="node6" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="772,56,960,83"/>
 </map>

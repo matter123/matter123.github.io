@@ -1,6 +1,5 @@
 var console_8cpp =
 [
-    [ "ColorDef", "d9/dda/console_8cpp.html#add26cb88ca66687a6c364ae2467b6551", null ],
     [ "dump_regs", "d9/dda/console_8cpp.html#aa9d131f3b4d65c8694a31ee401dcddfc", null ],
     [ "print_boot_msg", "d9/dda/console_8cpp.html#ae21f395a9732aff65b70f56dc8a7ed8b", null ],
     [ "print_boot_msg", "d9/dda/console_8cpp.html#a7854e96165a7643b4d804d9b779e822a", null ],

@@ -12,19 +12,18 @@
 <area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#a59a7cd4b190f6f957e3ecfc0028485ca" title="hal::disable_interrupts" alt="" coords="672,563,835,589"/>
 <area shape="rect" id="node13" href="$d0/d7f/namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="500,208,563,235"/>
 <area shape="rect" id="node15" href="$d0/d7f/namespacehal.html#a6487ba4be75874e36c21a667e61300b8" title="hal::wksp_begin" alt="" coords="691,284,816,311"/>
-<area shape="rect" id="node23" href="$d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="458,157,605,184"/>
-<area shape="rect" id="node25" href="$d0/d7f/namespacehal.html#ad8d37887f71f5ca1ff2440f2a97512c8" title="hal::page_align" alt="" coords="472,411,591,437"/>
-<area shape="rect" id="node27" href="$d0/d7f/namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="494,259,569,285"/>
-<area shape="rect" id="node28" href="$d0/d7f/namespacehal.html#ad231ce640650f0ef67962ff41f7b5014" title="hal::sort" alt="" coords="494,309,569,336"/>
-<area shape="rect" id="node29" href="$da/d66/string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="485,461,578,488"/>
+<area shape="rect" id="node22" href="$d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="458,157,605,184"/>
+<area shape="rect" id="node24" href="$d0/d7f/namespacehal.html#ad8d37887f71f5ca1ff2440f2a97512c8" title="hal::page_align" alt="" coords="472,411,591,437"/>
+<area shape="rect" id="node26" href="$d0/d7f/namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="494,259,569,285"/>
+<area shape="rect" id="node27" href="$d0/d7f/namespacehal.html#ad231ce640650f0ef67962ff41f7b5014" title="hal::sort" alt="" coords="494,309,569,336"/>
+<area shape="rect" id="node28" href="$da/d66/string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="485,461,578,488"/>
 <area shape="rect" id="node14" href="$da/d66/string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="714,233,793,260"/>
 <area shape="rect" id="node16" href="$dc/d9c/stdlib_8h.html#ab42640268f26e065efd044cfe80591bd" title="itoa" alt="" coords="947,233,994,260"/>
 <area shape="rect" id="node18" href="$da/d66/string_8h.html#adb8723e585ed29f2370cddf90f6891bc" title="appends src onto dest " alt="" coords="941,284,1000,311"/>
 <area shape="rect" id="node19" href="$d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="896,335,1045,361"/>
 <area shape="rect" id="node17" href="$d8/dcc/namespacestd.html#a48baa81cb509054ae53168ca5b0fda96" title="std::numtostr" alt="" coords="1093,233,1203,260"/>
-<area shape="rect" id="node20" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="1105,284,1191,311"/>
-<area shape="rect" id="node21" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="1115,335,1181,361"/>
-<area shape="rect" id="node22" href="$d0/d7f/namespacehal.html#add26cb88ca66687a6c364ae2467b6551" title="hal::ColorDef" alt="" coords="1095,385,1201,412"/>
-<area shape="rect" id="node24" href="$df/d4e/classhal_1_1mem__type.html#a36a965ca7e2bced083acbdc5eff7b7af" title="hal::mem_type::to_u64" alt="" coords="668,132,839,159"/>
-<area shape="rect" id="node26" href="$df/d4e/classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea" title="hal::mem_type::can_grow" alt="" coords="659,411,848,437"/>
+<area shape="rect" id="node20" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="1105,309,1191,336"/>
+<area shape="rect" id="node21" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="1115,360,1181,387"/>
+<area shape="rect" id="node23" href="$df/d4e/classhal_1_1mem__type.html#a36a965ca7e2bced083acbdc5eff7b7af" title="hal::mem_type::to_u64" alt="" coords="668,132,839,159"/>
+<area shape="rect" id="node25" href="$df/d4e/classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea" title="hal::mem_type::can_grow" alt="" coords="659,411,848,437"/>
 </map>
