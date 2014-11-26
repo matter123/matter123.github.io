@@ -1,3 +1,6 @@
 <map id="hal::height" name="hal::height">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="143,5,225,32"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="144,5,227,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#adf343534a8f851c0f34d612d474d48c4" title="hal::printc" alt="" coords="143,56,228,83"/>
+<area shape="rect" id="node4" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="276,56,416,83"/>
+<area shape="rect" id="node5" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="464,56,652,83"/>
 </map>

@@ -50,6 +50,7 @@ var searchData=
   ['is_5fchar_5fequal',['is_char_equal',['../db/d7c/utf8_8h.html#a39d500e9f00a06fea05637b651f15664',1,'is_char_equal(const char *c1, const char *c2):&#160;utf8.cpp'],['../d2/db5/utf8_8cpp.html#a39d500e9f00a06fea05637b651f15664',1,'is_char_equal(const char *c1, const char *c2):&#160;utf8.cpp']]],
   ['is_5fleap',['is_leap',['../de/daf/time_8cpp.html#a8fceec1f878ad8b0f44bb23d5ec96351',1,'time.cpp']]],
   ['is_5fmore_5frestrictive',['is_more_restrictive',['../df/d4e/classhal_1_1mem__type.html#aa1f57cd09c12a0eb963c8809a720bb0b',1,'hal::mem_type']]],
+  ['is_5fready',['is_ready',['../d0/d7f/namespacehal.html#afcbc607a4377f9f9d60ebaa2cc52ef46',1,'hal']]],
   ['is_5fsingle_5fencoding',['is_single_encoding',['../dd/d9c/unicode_8cpp.html#a21dfb20ab40adcabdd783d7937cb4525',1,'unicode.cpp']]],
   ['isalnum',['isalnum',['../d3/d7c/ctype_8cpp.html#adf38e126f73a010f30af76db2a28c6e1',1,'isalnum(int c):&#160;ctype.cpp'],['../d7/d0d/ctype_8h.html#adf38e126f73a010f30af76db2a28c6e1',1,'isalnum(int c):&#160;ctype.cpp']]],
   ['isalpha',['isalpha',['../d3/d7c/ctype_8cpp.html#a25908ae63aac2df990634e1ae5bd14d9',1,'isalpha(int c):&#160;ctype.cpp'],['../d7/d0d/ctype_8h.html#a25908ae63aac2df990634e1ae5bd14d9',1,'isalpha(int c):&#160;ctype.cpp']]],
