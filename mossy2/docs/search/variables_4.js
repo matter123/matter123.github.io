@@ -13,6 +13,5 @@ var searchData=
   ['dpl',['DPL',['../d5/dfe/structx86_1_1idt__entry.html#a91be00c432196d1b720218548ed2d45b',1,'x86::idt_entry::DPL()'],['../da/dd2/structx64_1_1idt__entry.html#a62fcdab9b93fe80094127d9ad3ed6deb',1,'x64::idt_entry::DPL()']]],
   ['dred',['DRED',['../d3/d75/namespacestd_1_1TC.html#acf842507bf13e9a5a60e6ab2a615f966',1,'std::TC']]],
   ['ds',['ds',['../da/d9b/structcpu__state.html#a43ff6e955efa9e891ed865172b97589b',1,'cpu_state']]],
-  ['dummy',['dummy',['../d0/d7f/namespacehal.html#a2ed16fa77781c43bcc534939ac0f20bc',1,'hal']]],
   ['dyellow',['DYELLOW',['../d3/d75/namespacestd_1_1TC.html#a136bbfef387548148a7c742c4a892277',1,'std::TC']]]
 ];

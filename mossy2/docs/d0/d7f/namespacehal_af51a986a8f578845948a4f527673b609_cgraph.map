@@ -1,4 +1,0 @@
-<map id="hal::program_vga" name="hal::program_vga">
-<area shape="rect" id="node2" href="$dc/dac/io_8h.html#a0223c8898dfec29069879dc51076e28a" title="inb" alt="" coords="193,5,234,32"/>
-<area shape="rect" id="node3" href="$dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="188,56,239,83"/>
-</map>

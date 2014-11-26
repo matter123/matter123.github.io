@@ -52,7 +52,6 @@ var searchData=
   ['glyphs',['glyphs',['../d7/da2/namespacekernel.html#ad25a050d6254afd7637c5f7a22977d41',1,'kernel']]],
   ['gmtime',['gmtime',['../de/df7/time_8h.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp'],['../de/daf/time_8cpp.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp']]],
   ['gmtime_5fr',['gmtime_r',['../de/df7/time_8h.html#a138035504d1935152ac0777510aa3801',1,'gmtime_r(const time_t *time, struct tm *ptr):&#160;time.cpp'],['../de/daf/time_8cpp.html#a2096b096d410c71d9f03bed1c22ede02',1,'gmtime_r(const time_t *t, struct tm *ptr):&#160;time.cpp']]],
-  ['greek',['greek',['../d0/d7f/namespacehal.html#a93d5ab78e9575eadcf4717002617d93b',1,'hal']]],
   ['green',['green',['../d7/d10/structhal_1_1multiboot__palette.html#a40672fa8f46fe87247de770d391d03e1',1,'hal::multiboot_palette::green()'],['../d3/d75/namespacestd_1_1TC.html#a279c81dcd0d56697a90b52cd46daf6f2',1,'std::TC::GREEN()']]],
   ['green_5fmask',['green_mask',['../d2/d2e/structhal_1_1multiboot__ci__1.html#ad63dcac068d1fb6508f4f6e990b19a71',1,'hal::multiboot_ci_1']]],
   ['green_5fpos',['green_pos',['../d2/d2e/structhal_1_1multiboot__ci__1.html#a40b3b5546e1ac5bf40bae8308f064b6b',1,'hal::multiboot_ci_1']]],

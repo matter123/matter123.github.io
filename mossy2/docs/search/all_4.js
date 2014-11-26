@@ -29,7 +29,6 @@ var searchData=
   ['dred',['DRED',['../d3/d75/namespacestd_1_1TC.html#acf842507bf13e9a5a60e6ab2a615f966',1,'std::TC']]],
   ['ds',['ds',['../da/d9b/structcpu__state.html#a43ff6e955efa9e891ed865172b97589b',1,'cpu_state']]],
   ['dumb_5fmerge',['dumb_merge',['../d7/da2/namespacekernel.html#abda890eb0224f932543b2848fba64ffd',1,'kernel']]],
-  ['dummy',['dummy',['../d0/d7f/namespacehal.html#a2ed16fa77781c43bcc534939ac0f20bc',1,'hal']]],
   ['dump_5fregs',['dump_regs',['../d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc',1,'hal']]],
   ['dyellow',['DYELLOW',['../d3/d75/namespacestd_1_1TC.html#a136bbfef387548148a7c742c4a892277',1,'std::TC']]]
 ];

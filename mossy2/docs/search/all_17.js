@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['x',['x',['../d0/d7f/namespacehal.html#a1cad533f81b1d2d53f9f474f77a1449c',1,'hal']]],
   ['x64',['x64',['../d7/db0/namespacex64.html',1,'']]],
   ['x86',['x86',['../d1/d08/namespacex86.html',1,'']]],
   ['x86_5f64',['x86_64',['../d8/de8/namespacex86__64.html',1,'']]],

@@ -10,6 +10,5 @@ var searchData=
   ['mod_5fend',['mod_end',['../d9/d51/structhal_1_1multiboot__module.html#a87846fb9ef070811ac6e6abaed2cf768',1,'hal::multiboot_module']]],
   ['mod_5fstart',['mod_start',['../d9/d51/structhal_1_1multiboot__module.html#a6d1029f3da9287ca3a5902255a641a69',1,'hal::multiboot_module']]],
   ['mods',['mods',['../d0/d7f/namespacehal.html#a296e618d3f553ca51a04b6f0a05b4ed1',1,'hal']]],
-  ['modulus',['modulus',['../d6/df4/rand_8c.html#a5f7d779233d0758d1e90f6d83c185fba',1,'rand.c']]],
-  ['mon',['mon',['../d0/d7f/namespacehal.html#aa2111c1c5b3e144f220e7109bbccc206',1,'hal']]]
+  ['modulus',['modulus',['../d6/df4/rand_8c.html#a5f7d779233d0758d1e90f6d83c185fba',1,'rand.c']]]
 ];

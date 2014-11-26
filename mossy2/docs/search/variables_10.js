@@ -8,7 +8,7 @@ var searchData=
   ['passed',['passed',['../de/d97/classkernel_1_1test__module.html#a0d9e6da38152c610636bfa2332faa178',1,'kernel::test_module']]],
   ['pat',['pat',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a91773d598e4c9202e9c4c0687d8f2b82',1,'x64::recursive_paging::pte']]],
   ['pci_5fmmap',['pci_mmap',['../df/d4e/classhal_1_1mem__type.html#a3c1428d5b34e5019854db51a1758d64c',1,'hal::mem_type']]],
-  ['pd',['pd',['../db/d6c/x86_2paging_8cpp.html#ab26f526f6f5608a0fd0b0a1339ed70e7',1,'pd():&#160;paging.cpp'],['../d0/d7f/namespacehal.html#a42ccbd99e789b80735bae041006ccadf',1,'hal::pd()']]],
+  ['pd',['pd',['../db/d6c/x86_2paging_8cpp.html#ab26f526f6f5608a0fd0b0a1339ed70e7',1,'paging.cpp']]],
   ['pic_5frange',['pic_range',['../db/d1b/namespacepc.html#a21ff9d8d9974cee6bfd738d510b7e639',1,'pc']]],
   ['pid',['PID',['../db/db7/structkernel_1_1thread__info.html#ada75ed9a6c1a8c6cabf9a0b3199e8614',1,'kernel::thread_info']]],
   ['pitch',['pitch',['../d1/d11/structhal_1_1multiboot__fb.html#a75b2bb2dfaad48cbd3cfce7720d1035f',1,'hal::multiboot_fb']]],
@@ -16,6 +16,5 @@ var searchData=
   ['present',['present',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#aaa2eb557772c1ddf7398b93b3e5fa6d4',1,'x64::recursive_paging::pte::present()'],['../d9/d2d/structx64_1_1recursive__paging_1_1pde.html#a7090279057017a1a596de0d77b527aff',1,'x64::recursive_paging::pde::present()'],['../dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#aa99c4fa0278ccaecfa3018fbc57a8513',1,'x64::recursive_paging::pdpte::present()'],['../de/dba/structx64_1_1recursive__paging_1_1pml4e.html#a1706e34c36c01adb06e55de17b2bd858',1,'x64::recursive_paging::pml4e::present()'],['../d7/d6d/structx86_1_1recursive__paging_1_1pde.html#a8d4fd0d4dbcf921aa13201db8df23811',1,'x86::recursive_paging::pde::present()'],['../df/deb/structx86_1_1recursive__paging_1_1pte.html#a50fb2c9ed38be2a6e4b320833b50cd9c',1,'x86::recursive_paging::pte::present()'],['../d5/dfe/structx86_1_1idt__entry.html#a7289ef46b9d6b59d3dd298f238bb8e1c',1,'x86::idt_entry::present()'],['../da/dd2/structx64_1_1idt__entry.html#a34eaefed789351ce4335c41f172a709a',1,'x64::idt_entry::present()']]],
   ['prev',['prev',['../d4/d48/structkernel_1_1HEAD.html#a74ef9ed0ee68c0f9e54547665fd7a634',1,'kernel::HEAD']]],
   ['priority',['priority',['../db/db7/structkernel_1_1thread__info.html#af6783c1abc64cd2f5d913ddc229711af',1,'kernel::thread_info']]],
-  ['pt_5fvga',['pt_vga',['../d0/d7f/namespacehal.html#a4eacff0da1cabcb609bbfdc7e6feb92c',1,'hal']]],
   ['ptra',['ptra',['../de/daf/time_8cpp.html#a4df37f13e9fb76d595bc309900fb7408',1,'time.cpp']]]
 ];

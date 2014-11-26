@@ -48,7 +48,6 @@ var searchData=
   ['mod_5fstart',['mod_start',['../d9/d51/structhal_1_1multiboot__module.html#a6d1029f3da9287ca3a5902255a641a69',1,'hal::multiboot_module']]],
   ['mods',['mods',['../d0/d7f/namespacehal.html#a296e618d3f553ca51a04b6f0a05b4ed1',1,'hal']]],
   ['modulus',['modulus',['../d6/df4/rand_8c.html#a5f7d779233d0758d1e90f6d83c185fba',1,'rand.c']]],
-  ['mon',['mon',['../d0/d7f/namespacehal.html#aa2111c1c5b3e144f220e7109bbccc206',1,'hal']]],
   ['multiboot_2ecpp',['multiboot.cpp',['../d9/dd7/multiboot_8cpp.html',1,'']]],
   ['multiboot_2eh',['multiboot.h',['../d1/dc0/multiboot_8h.html',1,'']]],
   ['multiboot_5fci_5f0',['multiboot_ci_0',['../d5/d5e/structhal_1_1multiboot__ci__0.html',1,'hal']]],
@@ -62,7 +61,7 @@ var searchData=
   ['multiboot_5fpalette',['multiboot_palette',['../d7/d10/structhal_1_1multiboot__palette.html',1,'hal']]],
   ['multiboot_5ftag',['multiboot_tag',['../d7/d20/structhal_1_1multiboot__tag.html',1,'hal']]],
   ['multiboot_5fvbe',['multiboot_vbe',['../d6/d74/structhal_1_1multiboot__vbe.html',1,'hal']]],
-  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]],
   ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html',1,'kernel']]],
+  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]],
   ['mutex_2ecpp',['mutex.cpp',['../d0/dbb/mutex_8cpp.html',1,'']]]
 ];

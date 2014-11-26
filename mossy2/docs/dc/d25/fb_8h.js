@@ -9,6 +9,7 @@ var fb_8h =
     [ "bit_blit", "dc/d25/fb_8h.html#abd8a6f1757294d943ed6eda6905b5bbe", null ],
     [ "bit_blit", "dc/d25/fb_8h.html#ae14f904e1f7c47b66fb0b79faf529d0d", null ],
     [ "copy_rect", "dc/d25/fb_8h.html#af2c053e24139ec5dd3d85f481a8df6be", null ],
+    [ "copy_rect", "dc/d25/fb_8h.html#afe9157b4d21ba4a63432f0a7844890af", null ],
     [ "fill_hline", "dc/d25/fb_8h.html#a25625eb5b8183007e48aaa158f20114f", null ],
     [ "fill_rect", "dc/d25/fb_8h.html#a4936d52cfed90d3a7f8a860a5c97ab67", null ],
     [ "fill_vline", "dc/d25/fb_8h.html#a2c0cd7e246bfc51d96c2cc9424e02ab7", null ],
