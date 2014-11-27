@@ -1,11 +1,11 @@
 <map id="kernel::fill_rect" name="kernel::fill_rect">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="896,121,1023,148"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="169,43,255,69"/>
-<area shape="rect" id="node6" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="179,93,245,120"/>
-<area shape="rect" id="node4" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="303,43,443,69"/>
-<area shape="rect" id="node5" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="491,43,679,69"/>
-<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="325,93,420,120"/>
-<area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b" title="hal::ready" alt="" coords="744,203,831,229"/>
-<area shape="rect" id="node8" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="519,145,650,186"/>
-<area shape="rect" id="node9" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="727,148,848,175"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="169,33,255,60"/>
+<area shape="rect" id="node5" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="179,93,245,120"/>
+<area shape="rect" id="node3" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="303,15,443,41"/>
+<area shape="rect" id="node4" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="491,5,679,32"/>
+<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="325,93,420,120"/>
+<area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b" title="hal::ready" alt="" coords="744,173,831,200"/>
+<area shape="rect" id="node7" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="519,57,650,98"/>
+<area shape="rect" id="node9" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="896,123,1023,149"/>
+<area shape="rect" id="node8" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="727,68,848,95"/>
 </map>

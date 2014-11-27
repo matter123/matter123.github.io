@@ -17,5 +17,6 @@ var fb_8h =
     [ "get_h", "dc/d25/fb_8h.html#ad8873c419f1177672f1ea967a10961e0", null ],
     [ "get_w", "dc/d25/fb_8h.html#ac16b8ce9ceccaa627d2524ffdddbd46d", null ],
     [ "init_fb", "dc/d25/fb_8h.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf", null ],
-    [ "pack_rgb", "dc/d25/fb_8h.html#a61f0eed7275e2ba7829bf649d880f91f", null ]
+    [ "pack_rgb", "dc/d25/fb_8h.html#a61f0eed7275e2ba7829bf649d880f91f", null ],
+    [ "put_pixel", "dc/d25/fb_8h.html#a355d8850e9f616d4df16325d54f05a75", null ]
 ];

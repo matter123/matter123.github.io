@@ -13,8 +13,6 @@ var searchData=
   ['detect_5fencoding',['detect_encoding',['../dd/d90/unicode_8h.html#a90c95a1c577613690db956672d68e741',1,'detect_encoding(char *stream, size_t len):&#160;unicode.cpp'],['../dd/d9c/unicode_8cpp.html#ad535b631478cd2c3f6d72d814f2501a9',1,'detect_encoding(char *s, size_t len):&#160;unicode.cpp']]],
   ['dgray',['DGRAY',['../d3/d75/namespacestd_1_1TC.html#abc7951d5af9a517a6c608f51e36443a4',1,'std::TC']]],
   ['dgreen',['DGREEN',['../d3/d75/namespacestd_1_1TC.html#ad6666be821d858871051dbda7292591d',1,'std::TC']]],
-  ['dib',['dib',['../d1/d90/structkernel_1_1bmp.html#a92e551c2d6007de0d2a86bc267a8b7ac',1,'kernel::bmp']]],
-  ['dibhead',['dibhead',['../d8/dec/structkernel_1_1dibhead.html',1,'kernel']]],
   ['dirty',['dirty',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a1194d80c7d3b4c5e672cf3930b300cda',1,'x64::recursive_paging::pte::dirty()'],['../df/deb/structx86_1_1recursive__paging_1_1pte.html#ace93ef8a8b373b176c32ef42e93bd2bd',1,'x86::recursive_paging::pte::dirty()']]],
   ['disable_5finterrupts',['disable_interrupts',['../d0/d7f/namespacehal.html#a59a7cd4b190f6f957e3ecfc0028485ca',1,'hal']]],
   ['dl_5fcritical',['dl_critical',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8affac25085a53b4762533b9d88d44f3727c4',1,'std']]],

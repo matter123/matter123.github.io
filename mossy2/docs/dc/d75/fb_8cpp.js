@@ -13,5 +13,7 @@ var fb_8cpp =
     [ "get_w", "dc/d75/fb_8cpp.html#ac16b8ce9ceccaa627d2524ffdddbd46d", null ],
     [ "init_fb", "dc/d75/fb_8cpp.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf", null ],
     [ "pack_rgb", "dc/d75/fb_8cpp.html#a61f0eed7275e2ba7829bf649d880f91f", null ],
+    [ "put_pixel", "dc/d75/fb_8cpp.html#a355d8850e9f616d4df16325d54f05a75", null ],
+    [ "set_background", "dc/d75/fb_8cpp.html#a962e91919c6c79029c5a57f917cdb72a", null ],
     [ "fb", "dc/d75/fb_8cpp.html#a23978d28f56999e1726be40d2422e6f0", null ]
 ];

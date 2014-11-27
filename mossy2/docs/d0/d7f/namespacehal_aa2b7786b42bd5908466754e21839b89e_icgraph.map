@@ -1,8 +1,7 @@
 <map id="hal::get_tag_count" name="hal::get_tag_count">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a3b01c47c48ddc65c0585a70a1d1fca5a" title="kernel::load_background" alt="" coords="389,5,569,32"/>
-<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="195,56,341,83"/>
-<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="425,107,534,133"/>
-<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#ad3347cac35eac3e3e6f58c17d0eef83f" title="kernel::init_tr" alt="" coords="215,157,321,184"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="617,81,744,108"/>
-<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="421,56,538,83"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="195,5,341,32"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="393,56,503,83"/>
+<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#ad3347cac35eac3e3e6f58c17d0eef83f" title="kernel::init_tr" alt="" coords="215,107,321,133"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="389,5,507,32"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="555,56,681,83"/>
 </map>

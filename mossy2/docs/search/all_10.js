@@ -53,10 +53,11 @@ var searchData=
   ['print_5fboot_5fmsg',['print_boot_msg',['../d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b',1,'hal::print_boot_msg(const char *level, const char *app, const char *msg)'],['../d0/d7f/namespacehal.html#a7854e96165a7643b4d804d9b779e822a',1,'hal::print_boot_msg(const char *msg, bool ok, bool hlt)']]],
   ['printc',['printc',['../d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95',1,'hal']]],
   ['priority',['priority',['../db/db7/structkernel_1_1thread__info.html#af6783c1abc64cd2f5d913ddc229711af',1,'kernel::thread_info']]],
-  ['pt',['pt',['../da/dce/unionx64_1_1recursive__paging_1_1pt.html',1,'x64::recursive_paging']]],
   ['pt',['pt',['../d6/d6d/unionx86_1_1recursive__paging_1_1pt.html',1,'x86::recursive_paging']]],
+  ['pt',['pt',['../da/dce/unionx64_1_1recursive__paging_1_1pt.html',1,'x64::recursive_paging']]],
   ['pt_5foff',['PT_OFF',['../d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535',1,'x64']]],
-  ['pte',['pte',['../df/deb/structx86_1_1recursive__paging_1_1pte.html',1,'x86::recursive_paging']]],
   ['pte',['pte',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html',1,'x64::recursive_paging']]],
-  ['ptra',['ptra',['../de/daf/time_8cpp.html#a4df37f13e9fb76d595bc309900fb7408',1,'time.cpp']]]
+  ['pte',['pte',['../df/deb/structx86_1_1recursive__paging_1_1pte.html',1,'x86::recursive_paging']]],
+  ['ptra',['ptra',['../de/daf/time_8cpp.html#a4df37f13e9fb76d595bc309900fb7408',1,'time.cpp']]],
+  ['put_5fpixel',['put_pixel',['../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75',1,'kernel']]]
 ];

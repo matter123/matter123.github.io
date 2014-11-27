@@ -3,7 +3,6 @@ var searchData=
   ['b',['b',['../d7/d79/classhal_1_1ostream.html#aec1cb245bc6ef8eefa6071b5a9657cc9',1,'hal::ostream::b()'],['../d0/d7f/namespacehal.html#a4fed10c299a524bd601f718c8fabf46b',1,'hal::b()']]],
   ['back_5fcolor',['back_color',['../d7/d79/classhal_1_1ostream.html#a10e4d0092d9010e3e1c89eabd2f7e9e7',1,'hal::ostream']]],
   ['backcolor',['BACKCOLOR',['../d3/d75/namespacestd_1_1TC.html#ab81e1da35492fc12c9afa4ba3f4a7029',1,'std::TC']]],
-  ['background',['background',['../d7/da2/namespacekernel.html#a5f369c271a5ec13acfe235e5570070da',1,'kernel']]],
   ['base',['base',['../d2/d70/classx64_1_1recursive__paging.html#a8d2b037fed46c292b0228dea560022ec',1,'x64::recursive_paging::base()'],['../d3/de7/structx86_1_1IDTR.html#a92830f21d42a31f8a1681523168ed0a7',1,'x86::IDTR::base()'],['../db/d2e/structx64_1_1IDTR.html#a98b7b7d7b56a458f92446111e8021abe',1,'x64::IDTR::base()'],['../db/d9c/classhal_1_1ios__base.html#aa563c131a11053d83bdc8328079bdf9e',1,'hal::ios_base::base()']]],
   ['begin',['begin',['../d3/de4/structacpi_1_1tables_1_1RSDP20.html#a240791add12be015dbbe4c654b7051b8',1,'acpi::tables::RSDP20::begin()'],['../d5/d00/structx86_1_1trampoline.html#a0006cfeaa2b434725cd265e1301f238d',1,'x86::trampoline::begin()'],['../d2/dde/structx64_1_1trampoline.html#a45f78d854a5d9d166efdb6da7c104cd0',1,'x64::trampoline::begin()']]],
   ['big',['big',['../d7/d6d/structx86_1_1recursive__paging_1_1pde.html#a37fc2b3130542c3a3331563ad7a6e6ff',1,'x86::recursive_paging::pde']]],

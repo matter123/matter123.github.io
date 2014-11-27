@@ -1,8 +1,5 @@
 var namespacekernel =
 [
-    [ "bmhead", "d9/d31/structkernel_1_1bmhead.html", "d9/d31/structkernel_1_1bmhead" ],
-    [ "bmp", "d1/d90/structkernel_1_1bmp.html", "d1/d90/structkernel_1_1bmp" ],
-    [ "dibhead", "d8/dec/structkernel_1_1dibhead.html", "d8/dec/structkernel_1_1dibhead" ],
     [ "fb_info", "d4/de7/structkernel_1_1fb__info.html", "d4/de7/structkernel_1_1fb__info" ],
     [ "glyph_int", "da/dcc/structkernel_1_1glyph__int.html", "da/dcc/structkernel_1_1glyph__int" ],
     [ "HEAD", "d4/d48/structkernel_1_1HEAD.html", "d4/d48/structkernel_1_1HEAD" ],
