@@ -1,7 +1,0 @@
-<map id="hal::ready" name="hal::ready">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d" title="hal::cls" alt="" coords="140,56,207,83"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67" title="kernel::fill_rect" alt="" coords="255,5,371,32"/>
-<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#ac16b8ce9ceccaa627d2524ffdddbd46d" title="kernel::get_w" alt="" coords="258,56,367,83"/>
-<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#ad8873c419f1177672f1ea967a10961e0" title="kernel::get_h" alt="" coords="259,107,366,133"/>
-<area shape="rect" id="node4" href="$da/d66/string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b" title="memset32" alt="" coords="419,5,511,32"/>
-</map>

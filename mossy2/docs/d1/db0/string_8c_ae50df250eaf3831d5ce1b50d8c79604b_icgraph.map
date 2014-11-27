@@ -1,13 +1,12 @@
 <map id="memset32" name="memset32">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67" title="kernel::fill_rect" alt="" coords="148,63,264,89"/>
-<area shape="rect" id="node12" href="$d7/da2/namespacekernel.html#a25625eb5b8183007e48aaa158f20114f" title="kernel::fill_hline" alt="" coords="145,113,267,140"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="315,33,400,60"/>
-<area shape="rect" id="node6" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="324,93,391,120"/>
-<area shape="rect" id="node4" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="448,15,588,41"/>
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67" title="kernel::fill_rect" alt="" coords="148,36,264,63"/>
+<area shape="rect" id="node11" href="$d7/da2/namespacekernel.html#a25625eb5b8183007e48aaa158f20114f" title="kernel::fill_hline" alt="" coords="145,87,267,113"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="315,11,400,37"/>
+<area shape="rect" id="node6" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="324,63,391,89"/>
+<area shape="rect" id="node4" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="448,7,588,33"/>
 <area shape="rect" id="node5" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="636,5,824,32"/>
-<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="471,93,565,120"/>
-<area shape="rect" id="node11" href="$d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b" title="hal::ready" alt="" coords="889,173,976,200"/>
+<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="471,64,565,91"/>
 <area shape="rect" id="node8" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="665,57,795,98"/>
-<area shape="rect" id="node10" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1041,123,1168,149"/>
+<area shape="rect" id="node10" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1041,96,1168,123"/>
 <area shape="rect" id="node9" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="872,68,993,95"/>
 </map>

@@ -45,7 +45,7 @@ var NAVTREEINDEX =
 "da/d66/string_8h.html#a7a82515b5d377be04817715c5465b647",
 "dc/d34/arch_2x86__64_2int_8h.html#a281f699848b84c05d01bfc06b7eaa839",
 "dc/d7a/pic_8h.html",
-"df/deb/structx86_1_1recursive__paging_1_1pte.html#aa38fa9b72d9eac44b6ec6ee327277aed"
+"df/dc2/namespaceacpi_1_1tables.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

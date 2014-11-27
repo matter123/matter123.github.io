@@ -8,6 +8,8 @@ var searchData=
   ['map_5ffree_5fto_5fvirt_5fcur',['map_free_to_virt_cur',['../d0/d7f/namespacehal.html#aa477aac835558177ef108118f601d96f',1,'hal']]],
   ['map_5fphys_5fto_5fvirt_5fcur',['map_phys_to_virt_cur',['../d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7',1,'hal']]],
   ['master',['master',['../df/d77/structx86_1_1recursive__paging_1_1page__map.html#a907d805cc44150174aa49d8d3de8058c',1,'x86::recursive_paging::page_map']]],
+  ['math_2ecpp',['math.cpp',['../dd/d2d/math_8cpp.html',1,'']]],
+  ['math_2eh',['math.h',['../df/db1/math_8h.html',1,'']]],
   ['math_2ehpp',['math.hpp',['../d4/d78/math_8hpp.html',1,'']]],
   ['max',['max',['../d8/dcc/namespacestd.html#afdb0985300047fc04bb3e2af35aee342',1,'std']]],
   ['max_5fcp',['max_cp',['../d3/da9/structkernel_1_1mbf__head.html#aef7b6de1477e7df3afbc2422ca213194',1,'kernel::mbf_head']]],

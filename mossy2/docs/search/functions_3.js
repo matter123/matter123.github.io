@@ -12,6 +12,7 @@ var searchData=
   ['combine',['combine',['../db/d9c/classhal_1_1ios__base.html#aaf2aeba0ba7971c7fc7dc07c6bdbf705',1,'hal::ios_base']]],
   ['convert',['convert',['../dd/d90/unicode_8h.html#a2b88e13e718326fcab2c717bbef7ae5d',1,'unicode.h']]],
   ['copy_5frect',['copy_rect',['../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be',1,'kernel::copy_rect(int x, int y, int w, int h, void *rect_buf)'],['../d7/da2/namespacekernel.html#afe9157b4d21ba4a63432f0a7844890af',1,'kernel::copy_rect(int src_x, int src_y, int w, int h, int dest_x, int dest_y)']]],
+  ['cos',['cos',['../df/db1/math_8h.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp'],['../dd/d2d/math_8cpp.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp']]],
   ['cpuid',['cpuid',['../d7/da4/cpu__stuff_8h.html#ae95c9bac436fc0c33204e878437fba46',1,'cpu_stuff.h']]],
   ['create_5ftask',['create_task',['../d7/db0/namespacex64.html#a2b4bca1424e526f1921046272e173be2',1,'x64::create_task()'],['../d1/d08/namespacex86.html#abb449662ba632eb50509ed2a7021bade',1,'x86::create_task()'],['../d7/da2/namespacekernel.html#aa60b33805708791a7818c26c2b87fcdc',1,'kernel::create_task()']]]
 ];
