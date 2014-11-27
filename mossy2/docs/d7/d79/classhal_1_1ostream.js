@@ -14,5 +14,7 @@ var classhal_1_1ostream =
     [ "print", "d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306", null ],
     [ "b", "d7/d79/classhal_1_1ostream.html#aec1cb245bc6ef8eefa6071b5a9657cc9", null ],
     [ "back_color", "d7/d79/classhal_1_1ostream.html#a10e4d0092d9010e3e1c89eabd2f7e9e7", null ],
-    [ "color", "d7/d79/classhal_1_1ostream.html#a022f5ed3efa9e73768eb77be6c7e9eac", null ]
+    [ "color", "d7/d79/classhal_1_1ostream.html#a022f5ed3efa9e73768eb77be6c7e9eac", null ],
+    [ "def_back_color", "d7/d79/classhal_1_1ostream.html#a96d0c5dd0e4b6130e197f03ec03a2c20", null ],
+    [ "def_color", "d7/d79/classhal_1_1ostream.html#a7488513736240e2072fda9c85f1eb21c", null ]
 ];

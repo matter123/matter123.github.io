@@ -1,8 +1,11 @@
 var searchData=
 [
+  ['dark',['dark',['../d7/da2/namespacekernel.html#af37f81d7fed238d964c9db1625c36f20',1,'kernel']]],
   ['dblue',['DBLUE',['../d3/d75/namespacestd_1_1TC.html#ad429ae15db819bdfe4402ca8363deb85',1,'std::TC']]],
   ['dcyan',['DCYAN',['../d3/d75/namespacestd_1_1TC.html#aeedb70fd88cc5b5a66dbd017b29ac97a',1,'std::TC']]],
   ['dec',['dec',['../d0/d7f/namespacehal.html#ae10c2466ab763ab90d9fe7d4dab48699',1,'hal']]],
+  ['def_5fback_5fcolor',['def_back_color',['../d7/d79/classhal_1_1ostream.html#a96d0c5dd0e4b6130e197f03ec03a2c20',1,'hal::ostream']]],
+  ['def_5fcolor',['def_color',['../d7/d79/classhal_1_1ostream.html#a7488513736240e2072fda9c85f1eb21c',1,'hal::ostream']]],
   ['def_5fcp_5fidx',['def_cp_idx',['../d3/da9/structkernel_1_1mbf__head.html#ad682ed42e1741c7d63b3ce9a5de81497',1,'kernel::mbf_head']]],
   ['depends',['depends',['../de/d97/classkernel_1_1test__module.html#a6bcc957a8d41d93c32c0ddd2e642ba29',1,'kernel::test_module']]],
   ['dgray',['DGRAY',['../d3/d75/namespacestd_1_1TC.html#abc7951d5af9a517a6c608f51e36443a4',1,'std::TC']]],

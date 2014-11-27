@@ -1,0 +1,5 @@
+<map id="kernel::noise" name="kernel::noise">
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a962e91919c6c79029c5a57f917cdb72a" title="kernel::set_background" alt="" coords="157,5,331,32"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="379,5,488,32"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="536,5,663,32"/>
+</map>

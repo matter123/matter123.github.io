@@ -6,6 +6,7 @@ var searchData=
   ['length',['length',['../d3/de4/structacpi_1_1tables_1_1RSDP20.html#a1e0f2a7f34a671dbbfc5511dfd6b2d57',1,'acpi::tables::RSDP20::length()'],['../dd/d4e/structacpi_1_1tables_1_1SDT.html#abc0fbd0273a7edfa827d06f2de8d163d',1,'acpi::tables::SDT::length()']]],
   ['lgray',['LGRAY',['../d3/d75/namespacestd_1_1TC.html#a33edf34f3d6711196700eaa3bbaf9764',1,'std::TC']]],
   ['lidt',['lidt',['../d1/d21/x64_2hal__idt_8cpp.html#a49616695dc8ee5c4ddb93f26bb0fd46b',1,'lidt(x64::IDTR *idtr):&#160;hal_idt.cpp'],['../d2/db4/x86_2hal__idt_8cpp.html#a2275107a045c0401c369afa8fcf01ef0',1,'lidt(x86::IDTR *idtr):&#160;hal_idt.cpp']]],
+  ['light',['light',['../d7/da2/namespacekernel.html#a38c911239d411b62463a3c2f8b80248e',1,'kernel']]],
   ['limit',['limit',['../d3/de7/structx86_1_1IDTR.html#a3550e4bf11ef30f9fe39cb0413ff1cf4',1,'x86::IDTR::limit()'],['../db/d2e/structx64_1_1IDTR.html#aa88c8f9ad005d310c0d356fe92c5ea42',1,'x64::IDTR::limit()']]],
   ['lltoa',['lltoa',['../dc/d9c/stdlib_8h.html#acd218cd10c147ffe997dc19954fbfb25',1,'lltoa(long long value, char *str, int base):&#160;stdlib.cpp'],['../da/d5c/stdlib_8cpp.html#acd218cd10c147ffe997dc19954fbfb25',1,'lltoa(long long value, char *str, int base):&#160;stdlib.cpp']]],
   ['load_5ftable',['load_table',['../df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f',1,'acpi::tables']]],

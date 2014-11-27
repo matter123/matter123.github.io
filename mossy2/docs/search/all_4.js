@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['dark',['dark',['../d7/da2/namespacekernel.html#af37f81d7fed238d964c9db1625c36f20',1,'kernel']]],
   ['dblue',['DBLUE',['../d3/d75/namespacestd_1_1TC.html#ad429ae15db819bdfe4402ca8363deb85',1,'std::TC']]],
   ['dcyan',['DCYAN',['../d3/d75/namespacestd_1_1TC.html#aeedb70fd88cc5b5a66dbd017b29ac97a',1,'std::TC']]],
   ['debug',['debug',['../d8/dcc/namespacestd.html#a25b422e2a18c02cd925f693e65550a18',1,'std']]],
@@ -8,6 +9,8 @@ var searchData=
   ['debug_5freport_5flevel',['debug_report_level',['../d8/dcc/namespacestd.html#a0c72e3e140c77750bcf74174f57ef9c7',1,'std']]],
   ['dec',['dec',['../d0/d7f/namespacehal.html#ae10c2466ab763ab90d9fe7d4dab48699',1,'hal']]],
   ['decode_5fchar',['decode_char',['../db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020',1,'decode_char(const char *c):&#160;utf8.cpp'],['../d2/db5/utf8_8cpp.html#ac859a73f89520ff054de75f2fb986020',1,'decode_char(const char *c):&#160;utf8.cpp']]],
+  ['def_5fback_5fcolor',['def_back_color',['../d7/d79/classhal_1_1ostream.html#a96d0c5dd0e4b6130e197f03ec03a2c20',1,'hal::ostream']]],
+  ['def_5fcolor',['def_color',['../d7/d79/classhal_1_1ostream.html#a7488513736240e2072fda9c85f1eb21c',1,'hal::ostream']]],
   ['def_5fcp_5fidx',['def_cp_idx',['../d3/da9/structkernel_1_1mbf__head.html#ad682ed42e1741c7d63b3ce9a5de81497',1,'kernel::mbf_head']]],
   ['depends',['depends',['../de/d97/classkernel_1_1test__module.html#a6bcc957a8d41d93c32c0ddd2e642ba29',1,'kernel::test_module']]],
   ['detect_5fencoding',['detect_encoding',['../dd/d90/unicode_8h.html#a90c95a1c577613690db956672d68e741',1,'detect_encoding(char *stream, size_t len):&#160;unicode.cpp'],['../dd/d9c/unicode_8cpp.html#ad535b631478cd2c3f6d72d814f2501a9',1,'detect_encoding(char *s, size_t len):&#160;unicode.cpp']]],
