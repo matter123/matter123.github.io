@@ -1,17 +1,19 @@
 var searchData=
 [
-  ['page_5fmap',['page_map',['../df/d77/structx86_1_1recursive__paging_1_1page__map.html',1,'x86::recursive_paging']]],
-  ['page_5fopt',['page_opt',['../df/db7/structhal_1_1page__opt.html',1,'hal']]],
-  ['pd',['pd',['../df/d00/unionx64_1_1recursive__paging_1_1pd.html',1,'x64::recursive_paging']]],
-  ['pd',['pd',['../de/d6e/unionx86_1_1recursive__paging_1_1pd.html',1,'x86::recursive_paging']]],
-  ['pde',['pde',['../d7/d6d/structx86_1_1recursive__paging_1_1pde.html',1,'x86::recursive_paging']]],
-  ['pde',['pde',['../d9/d2d/structx64_1_1recursive__paging_1_1pde.html',1,'x64::recursive_paging']]],
-  ['pdpt',['pdpt',['../dd/dff/unionx64_1_1recursive__paging_1_1pdpt.html',1,'x64::recursive_paging']]],
-  ['pdpte',['pdpte',['../dd/d42/structx64_1_1recursive__paging_1_1pdpte.html',1,'x64::recursive_paging']]],
-  ['pml4',['pml4',['../d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html',1,'x64::recursive_paging']]],
-  ['pml4e',['pml4e',['../de/dba/structx64_1_1recursive__paging_1_1pml4e.html',1,'x64::recursive_paging']]],
-  ['pt',['pt',['../da/dce/unionx64_1_1recursive__paging_1_1pt.html',1,'x64::recursive_paging']]],
-  ['pt',['pt',['../d6/d6d/unionx86_1_1recursive__paging_1_1pt.html',1,'x86::recursive_paging']]],
-  ['pte',['pte',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html',1,'x64::recursive_paging']]],
-  ['pte',['pte',['../df/deb/structx86_1_1recursive__paging_1_1pte.html',1,'x86::recursive_paging']]]
+  ['mbf_5fhead',['mbf_head',['../d3/da9/structkernel_1_1mbf__head.html',1,'kernel']]],
+  ['mem_5fregion',['mem_region',['../da/d29/structhal_1_1mem__region.html',1,'hal']]],
+  ['mem_5fregs',['mem_regs',['../d4/d5d/structhal_1_1mem__regs.html',1,'hal']]],
+  ['mem_5ftype',['mem_type',['../df/d4e/classhal_1_1mem__type.html',1,'hal']]],
+  ['multiboot_5fci_5f0',['multiboot_ci_0',['../d5/d5e/structhal_1_1multiboot__ci__0.html',1,'hal']]],
+  ['multiboot_5fci_5f1',['multiboot_ci_1',['../d2/d2e/structhal_1_1multiboot__ci__1.html',1,'hal']]],
+  ['multiboot_5fcommand',['multiboot_command',['../d6/ddf/structhal_1_1multiboot__command.html',1,'hal']]],
+  ['multiboot_5ffb',['multiboot_fb',['../d1/d11/structhal_1_1multiboot__fb.html',1,'hal']]],
+  ['multiboot_5fheader',['multiboot_header',['../d6/dc7/structhal_1_1multiboot__header.html',1,'hal']]],
+  ['multiboot_5fmmap',['multiboot_mmap',['../d3/d06/structhal_1_1multiboot__mmap.html',1,'hal']]],
+  ['multiboot_5fmmap_5fent',['multiboot_mmap_ent',['../d1/d83/structhal_1_1multiboot__mmap__ent.html',1,'hal']]],
+  ['multiboot_5fmodule',['multiboot_module',['../d9/d51/structhal_1_1multiboot__module.html',1,'hal']]],
+  ['multiboot_5fpalette',['multiboot_palette',['../d7/d10/structhal_1_1multiboot__palette.html',1,'hal']]],
+  ['multiboot_5ftag',['multiboot_tag',['../d7/d20/structhal_1_1multiboot__tag.html',1,'hal']]],
+  ['multiboot_5fvbe',['multiboot_vbe',['../d6/d74/structhal_1_1multiboot__vbe.html',1,'hal']]],
+  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html',1,'kernel']]]
 ];

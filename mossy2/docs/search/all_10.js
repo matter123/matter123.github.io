@@ -56,7 +56,7 @@ var searchData=
   ['pt',['pt',['../da/dce/unionx64_1_1recursive__paging_1_1pt.html',1,'x64::recursive_paging']]],
   ['pt',['pt',['../d6/d6d/unionx86_1_1recursive__paging_1_1pt.html',1,'x86::recursive_paging']]],
   ['pt_5foff',['PT_OFF',['../d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535',1,'x64']]],
-  ['pte',['pte',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html',1,'x64::recursive_paging']]],
   ['pte',['pte',['../df/deb/structx86_1_1recursive__paging_1_1pte.html',1,'x86::recursive_paging']]],
+  ['pte',['pte',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html',1,'x64::recursive_paging']]],
   ['ptra',['ptra',['../de/daf/time_8cpp.html#a4df37f13e9fb76d595bc309900fb7408',1,'time.cpp']]]
 ];

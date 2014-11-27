@@ -10,6 +10,7 @@ var vterm_8cpp =
     [ "scroll", "db/dec/vterm_8cpp.html#a0e4347fbf6da02162c9005900ad503b5", null ],
     [ "width", "db/dec/vterm_8cpp.html#aa9329e80a6a5dbb16f38855aa7999b0d", null ],
     [ "is_ready", "db/dec/vterm_8cpp.html#afcbc607a4377f9f9d60ebaa2cc52ef46", null ],
+    [ "last_back", "db/dec/vterm_8cpp.html#a5f1fc2439c5d7827a7c2867aaa9a60ad", null ],
     [ "wx", "db/dec/vterm_8cpp.html#aa29d4f2aea2bd41826baa9bac072b0cc", null ],
     [ "wy", "db/dec/vterm_8cpp.html#a96989da9fb154287870c3b834cdfe8af", null ]
 ];
