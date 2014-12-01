@@ -4,6 +4,7 @@ var multiboot_8h =
     [ "multiboot_tag", "d7/d20/structhal_1_1multiboot__tag.html", "d7/d20/structhal_1_1multiboot__tag" ],
     [ "multiboot_command", "d6/ddf/structhal_1_1multiboot__command.html", "d6/ddf/structhal_1_1multiboot__command" ],
     [ "multiboot_module", "d9/d51/structhal_1_1multiboot__module.html", "d9/d51/structhal_1_1multiboot__module" ],
+    [ "multiboot_module_int", "d0/d99/structhal_1_1multiboot__module__int.html", "d0/d99/structhal_1_1multiboot__module__int" ],
     [ "multiboot_mmap_ent", "d1/d83/structhal_1_1multiboot__mmap__ent.html", "d1/d83/structhal_1_1multiboot__mmap__ent" ],
     [ "multiboot_vbe", "d6/d74/structhal_1_1multiboot__vbe.html", "d6/d74/structhal_1_1multiboot__vbe" ],
     [ "multiboot_fb", "d1/d11/structhal_1_1multiboot__fb.html", "d1/d11/structhal_1_1multiboot__fb" ],

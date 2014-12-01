@@ -12,6 +12,7 @@ var searchData=
   ['multiboot_5fmmap',['multiboot_mmap',['../d3/d06/structhal_1_1multiboot__mmap.html',1,'hal']]],
   ['multiboot_5fmmap_5fent',['multiboot_mmap_ent',['../d1/d83/structhal_1_1multiboot__mmap__ent.html',1,'hal']]],
   ['multiboot_5fmodule',['multiboot_module',['../d9/d51/structhal_1_1multiboot__module.html',1,'hal']]],
+  ['multiboot_5fmodule_5fint',['multiboot_module_int',['../d0/d99/structhal_1_1multiboot__module__int.html',1,'hal']]],
   ['multiboot_5fpalette',['multiboot_palette',['../d7/d10/structhal_1_1multiboot__palette.html',1,'hal']]],
   ['multiboot_5ftag',['multiboot_tag',['../d7/d20/structhal_1_1multiboot__tag.html',1,'hal']]],
   ['multiboot_5fvbe',['multiboot_vbe',['../d6/d74/structhal_1_1multiboot__vbe.html',1,'hal']]],
