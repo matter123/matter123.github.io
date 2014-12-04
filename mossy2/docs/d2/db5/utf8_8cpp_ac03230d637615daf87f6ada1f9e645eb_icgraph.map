@@ -22,9 +22,9 @@
 <area shape="rect" id="node14" href="$d1/db0/string_8c.html#ac116e4e059d49382df963b34f91b0608" title="mbstok" alt="" coords="557,637,628,664"/>
 <area shape="rect" id="node15" href="$d1/db0/string_8c.html#aa244c56ef4a76ffbba5c0c1c6f5139b2" title="mbslen" alt="" coords="558,283,627,309"/>
 <area shape="rect" id="node20" href="$d2/db5/utf8_8cpp.html#ad7c5699de973c41a66072f7b6dead7c6" title="skips chars in string " alt="" coords="535,333,650,360"/>
-<area shape="rect" id="node17" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="947,254,1077,295"/>
-<area shape="rect" id="node19" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1295,231,1421,257"/>
-<area shape="rect" id="node18" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="1125,257,1247,284"/>
+<area shape="rect" id="node17" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="947,195,1077,237"/>
+<area shape="rect" id="node19" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="949,261,1075,288"/>
+<area shape="rect" id="node18" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="1125,203,1247,229"/>
 <area shape="rect" id="node29" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="349,651,435,677"/>
 <area shape="rect" id="node27" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="711,789,899,816"/>
 </map>

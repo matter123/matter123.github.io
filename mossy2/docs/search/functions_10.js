@@ -10,7 +10,6 @@ var searchData=
   ['set_5fpassed',['set_passed',['../de/d97/classkernel_1_1test__module.html#a9f8cb4cb97f591fd8eb65402a61b8a60',1,'kernel::test_module']]],
   ['set_5freg',['set_reg',['../d2/d2d/arch_8h.html#ad2a5fe557c248b09971b07873319494c',1,'arch.h']]],
   ['set_5fstack_5fpointer',['set_stack_pointer',['../d2/d2d/arch_8h.html#aaaf27f035afe8c9427ad611c2d30de00',1,'arch.h']]],
-  ['setup_5fvga',['setup_vga',['../d0/d7f/namespacehal.html#a7d3c247ac77d91f21f529e56737f341e',1,'hal']]],
   ['signal',['signal',['../d4/d6c/classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4',1,'kernel::semaphore']]],
   ['sin',['sin',['../df/db1/math_8h.html#ab0aeb9c9537af5dbff41b34bf93874bc',1,'sin(double angle):&#160;math.cpp'],['../dd/d2d/math_8cpp.html#ab0aeb9c9537af5dbff41b34bf93874bc',1,'sin(double angle):&#160;math.cpp']]],
   ['sort',['sort',['../d0/d7f/namespacehal.html#ad231ce640650f0ef67962ff41f7b5014',1,'hal']]],

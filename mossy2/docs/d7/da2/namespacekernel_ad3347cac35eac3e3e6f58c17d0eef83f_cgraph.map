@@ -1,4 +1,7 @@
 <map id="kernel::init_tr" name="kernel::init_tr">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#aa2b7786b42bd5908466754e21839b89e" title="hal::get_tag_count" alt="" coords="160,5,301,32"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#abea6f4be3270077bbff27c081d400527" title="hal::get_tag" alt="" coords="181,56,280,83"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#aa2b7786b42bd5908466754e21839b89e" title="hal::get_tag_count" alt="" coords="164,5,305,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#abea6f4be3270077bbff27c081d400527" title="hal::get_tag" alt="" coords="185,56,284,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="160,107,309,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="357,81,443,108"/>
+<area shape="rect" id="node6" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="367,132,433,159"/>
 </map>

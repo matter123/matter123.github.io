@@ -21,7 +21,6 @@ var searchData=
   ['set_5fpassed',['set_passed',['../de/d97/classkernel_1_1test__module.html#a9f8cb4cb97f591fd8eb65402a61b8a60',1,'kernel::test_module']]],
   ['set_5freg',['set_reg',['../d2/d2d/arch_8h.html#ad2a5fe557c248b09971b07873319494c',1,'arch.h']]],
   ['set_5fstack_5fpointer',['set_stack_pointer',['../d2/d2d/arch_8h.html#aaaf27f035afe8c9427ad611c2d30de00',1,'arch.h']]],
-  ['setup_5fvga',['setup_vga',['../d0/d7f/namespacehal.html#a7d3c247ac77d91f21f529e56737f341e',1,'hal']]],
   ['showbase',['showbase',['../db/d9c/classhal_1_1ios__base.html#a33fc34ba243c6a3f5622953819c3d284',1,'hal::ios_base']]],
   ['sig',['sig',['../d4/db4/structacpi_1_1tables_1_1RSDP.html#a41a5584cb9e5df47283d7c16ccf562e8',1,'acpi::tables::RSDP']]],
   ['signal',['signal',['../d4/d6c/classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4',1,'kernel::semaphore']]],
