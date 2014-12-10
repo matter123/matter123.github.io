@@ -1,6 +1,7 @@
 var searchData=
 [
   ['dark',['dark',['../d7/da2/namespacekernel.html#af37f81d7fed238d964c9db1625c36f20',1,'kernel']]],
+  ['data',['data',['../de/d03/classunicode_1_1bytes.html#a4bd8363d58f28bc9f46db93641fa23be',1,'unicode::bytes::data()'],['../d4/da2/classunicode_1_1codepoints.html#a44c861bbe89888389e89005cee8b750f',1,'unicode::codepoints::data()'],['../d2/d47/classunicode_1_1codeunits.html#a787f859e90734af0c324c8ebc7fda262',1,'unicode::codeunits::data()']]],
   ['dblue',['DBLUE',['../d3/d75/namespacestd_1_1TC.html#ad429ae15db819bdfe4402ca8363deb85',1,'std::TC']]],
   ['dcyan',['DCYAN',['../d3/d75/namespacestd_1_1TC.html#aeedb70fd88cc5b5a66dbd017b29ac97a',1,'std::TC']]],
   ['debug',['debug',['../d8/dcc/namespacestd.html#a25b422e2a18c02cd925f693e65550a18',1,'std']]],
@@ -8,7 +9,7 @@ var searchData=
   ['debug_5flevel',['debug_level',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8aff',1,'std']]],
   ['debug_5freport_5flevel',['debug_report_level',['../d8/dcc/namespacestd.html#a0c72e3e140c77750bcf74174f57ef9c7',1,'std']]],
   ['dec',['dec',['../d0/d7f/namespacehal.html#ae10c2466ab763ab90d9fe7d4dab48699',1,'hal']]],
-  ['decode_5fchar',['decode_char',['../db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020',1,'decode_char(const char *c):&#160;utf8.cpp'],['../d2/db5/utf8_8cpp.html#ac859a73f89520ff054de75f2fb986020',1,'decode_char(const char *c):&#160;utf8.cpp']]],
+  ['decode_5fchar',['decode_char',['../db/da4/namespaceunidoe_1_1utf8.html#a0d4561b0c7989a1c84fcc464fdac20ab',1,'unidoe::utf8::decode_char()'],['../dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46',1,'unicode::utf8::decode_char()']]],
   ['def_5fback_5fcolor',['def_back_color',['../d7/d79/classhal_1_1ostream.html#a96d0c5dd0e4b6130e197f03ec03a2c20',1,'hal::ostream']]],
   ['def_5fcolor',['def_color',['../d7/d79/classhal_1_1ostream.html#a7488513736240e2072fda9c85f1eb21c',1,'hal::ostream']]],
   ['def_5fcp_5fidx',['def_cp_idx',['../d3/da9/structkernel_1_1mbf__head.html#ad682ed42e1741c7d63b3ce9a5de81497',1,'kernel::mbf_head']]],

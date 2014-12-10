@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['value',['value',['../de/d03/classunicode_1_1bytes.html#a5d609bf5f6d0be3db10567118a6ec130',1,'unicode::bytes::value()'],['../d4/da2/classunicode_1_1codepoints.html#a3c3605c494ba5beed31b684b237de8cf',1,'unicode::codepoints::value()'],['../d2/d47/classunicode_1_1codeunits.html#a79ab3a015021f27b260515376fc57bed',1,'unicode::codeunits::value()']]],
   ['vbe_5fcontrol_5finfo',['vbe_control_info',['../d6/d74/structhal_1_1multiboot__vbe.html#a886d19f26fd2fbb9df166a1f26fd42b7',1,'hal::multiboot_vbe']]],
   ['vbe_5finterface_5flen',['vbe_interface_len',['../d6/d74/structhal_1_1multiboot__vbe.html#a264885e25c3777471bf03004fa733a55',1,'hal::multiboot_vbe']]],
   ['vbe_5finterface_5foff',['vbe_interface_off',['../d6/d74/structhal_1_1multiboot__vbe.html#aaf4e12ccb4acfabeab936ad768ac889b',1,'hal::multiboot_vbe']]],

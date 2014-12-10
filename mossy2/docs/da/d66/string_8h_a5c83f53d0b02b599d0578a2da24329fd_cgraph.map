@@ -1,8 +1,8 @@
 <map id="mbsncmp" name="mbsncmp">
-<area shape="rect" id="node2" href="$db/d7c/utf8_8h.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="143,5,247,32"/>
-<area shape="rect" id="node3" href="$db/d7c/utf8_8h.html#a39d500e9f00a06fea05637b651f15664" title="determines if two chars are the same " alt="" coords="140,56,249,83"/>
-<area shape="rect" id="node6" href="$db/d7c/utf8_8h.html#add1d6efacb795a346837fd619941380a" title="gets the next char in a string " alt="" coords="306,107,393,133"/>
-<area shape="rect" id="node7" href="$db/d7c/utf8_8h.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="297,157,401,184"/>
-<area shape="rect" id="node4" href="$d2/db5/utf8_8cpp.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="449,81,553,108"/>
-<area shape="rect" id="node5" href="$d2/db5/utf8_8cpp.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="297,56,401,83"/>
+<area shape="rect" id="node2" href="$db/da4/namespaceunidoe_1_1utf8.html#abc403a4a2a245d488379f83bd7bcb8b5" title="counts number of bytes in char " alt="" coords="140,5,329,32"/>
+<area shape="rect" id="node3" href="$db/da4/namespaceunidoe_1_1utf8.html#a2b281274029f317bb737e23538c9ed27" title="determines if two chars are the same " alt="" coords="159,57,311,98"/>
+<area shape="rect" id="node6" href="$db/da4/namespaceunidoe_1_1utf8.html#a836837140e6204f41e81813680dba61b" title="gets the next char in a string " alt="" coords="390,123,561,149"/>
+<area shape="rect" id="node7" href="$db/da4/namespaceunidoe_1_1utf8.html#a0d4561b0c7989a1c84fcc464fdac20ab" title="turns c into codepoint " alt="" coords="381,173,570,200"/>
+<area shape="rect" id="node4" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="621,90,756,131"/>
+<area shape="rect" id="node5" href="$dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46" title="turns c into codepoint " alt="" coords="377,72,573,99"/>
 </map>

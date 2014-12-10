@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['x64',['x64',['../d7/db0/namespacex64.html',1,'']]],
-  ['x86',['x86',['../d1/d08/namespacex86.html',1,'']]],
-  ['x86_5f64',['x86_64',['../d8/de8/namespacex86__64.html',1,'']]]
+  ['unicode',['unicode',['../d9/df7/namespaceunicode.html',1,'']]],
+  ['unidoe',['unidoe',['../d7/ddf/namespaceunidoe.html',1,'']]],
+  ['utf8',['utf8',['../db/da4/namespaceunidoe_1_1utf8.html',1,'unidoe']]],
+  ['utf8',['utf8',['../dd/db0/namespaceunicode_1_1utf8.html',1,'unicode']]]
 ];

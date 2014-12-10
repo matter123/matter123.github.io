@@ -1,6 +1,6 @@
 <map id="mbspbrk" name="mbspbrk">
-<area shape="rect" id="node2" href="$db/d7c/utf8_8h.html#a39d500e9f00a06fea05637b651f15664" title="determines if two chars are the same " alt="" coords="132,22,241,48"/>
-<area shape="rect" id="node5" href="$db/d7c/utf8_8h.html#add1d6efacb795a346837fd619941380a" title="gets the next char in a string " alt="" coords="298,72,385,99"/>
-<area shape="rect" id="node3" href="$d2/db5/utf8_8cpp.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="441,22,545,48"/>
-<area shape="rect" id="node4" href="$d2/db5/utf8_8cpp.html#ac859a73f89520ff054de75f2fb986020" title="turns c into codepoint " alt="" coords="289,22,393,48"/>
+<area shape="rect" id="node2" href="$db/da4/namespaceunidoe_1_1utf8.html#a2b281274029f317bb737e23538c9ed27" title="determines if two chars are the same " alt="" coords="132,8,284,50"/>
+<area shape="rect" id="node5" href="$db/da4/namespaceunidoe_1_1utf8.html#a836837140e6204f41e81813680dba61b" title="gets the next char in a string " alt="" coords="345,74,515,101"/>
+<area shape="rect" id="node3" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="576,16,711,58"/>
+<area shape="rect" id="node4" href="$dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46" title="turns c into codepoint " alt="" coords="332,24,528,50"/>
 </map>

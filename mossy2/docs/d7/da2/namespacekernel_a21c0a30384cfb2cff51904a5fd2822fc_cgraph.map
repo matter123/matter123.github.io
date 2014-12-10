@@ -42,7 +42,7 @@
 <area shape="rect" id="node39" href="$da/d66/string_8h.html#a432f1999d4aafec2886b29ab93b31b16" title="appends src onto dest " alt="" coords="419,1515,486,1541"/>
 <area shape="rect" id="node40" href="$da/d66/string_8h.html#a008e171a518fe0e0352f31b245e03875" title="strlen" alt="" coords="423,1565,482,1592"/>
 <area shape="rect" id="node41" href="$da/d66/string_8h.html#aa244c56ef4a76ffbba5c0c1c6f5139b2" title="mbslen" alt="" coords="418,1616,487,1643"/>
-<area shape="rect" id="node42" href="$db/d7c/utf8_8h.html#ac03230d637615daf87f6ada1f9e645eb" title="counts number of bytes in char " alt="" coords="401,1667,505,1693"/>
+<area shape="rect" id="node42" href="$db/da4/namespaceunidoe_1_1utf8.html#abc403a4a2a245d488379f83bd7bcb8b5" title="counts number of bytes in char " alt="" coords="358,1667,547,1693"/>
 <area shape="rect" id="node43" href="$d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="397,1717,509,1744"/>
 <area shape="rect" id="node44" href="$d7/da2/namespacekernel.html#abf20922f3940efb87c628f39b6f18039" title="kernel::free" alt="" coords="405,1221,501,1248"/>
 <area shape="rect" id="node46" href="$db/d1b/namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="408,1819,497,1845"/>

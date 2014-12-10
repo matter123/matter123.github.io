@@ -1,17 +1,17 @@
 var searchData=
 [
   ['id',['id',['../d5/d00/structx86_1_1trampoline.html#a2fb886fbb021e8dbd6c96f4e0eb46bff',1,'x86::trampoline::id()'],['../d5/d00/structx86_1_1trampoline.html#af4ade3cec75e8c5c5d8df7f5ced75a51',1,'x86::trampoline::id()'],['../d2/dde/structx64_1_1trampoline.html#ad5f7b2b786b09e517c02e471839a13d5',1,'x64::trampoline::id()']]],
-  ['idt',['IDT',['../db/d1d/structx86_1_1IDT.html',1,'x86']]],
   ['idt',['IDT',['../d2/d12/structx64_1_1IDT.html',1,'x64']]],
+  ['idt',['IDT',['../db/d1d/structx86_1_1IDT.html',1,'x86']]],
   ['idt',['idt',['../d0/d7f/namespacehal.html#a73c7118d6be652c3a2b33b5cceaaba32',1,'hal']]],
   ['idt_2eh',['idt.h',['../d3/d0e/x64_2idt_8h.html',1,'']]],
   ['idt_2eh',['idt.h',['../d4/d2b/x86_2idt_8h.html',1,'']]],
   ['idt_5fentry',['idt_entry',['../da/dd2/structx64_1_1idt__entry.html',1,'x64']]],
   ['idt_5fentry',['idt_entry',['../d5/dfe/structx86_1_1idt__entry.html',1,'x86']]],
   ['idt_5frange',['idt_range',['../d4/de0/structhal_1_1idt__range.html',1,'hal']]],
-  ['idtr',['IDTR',['../d3/de7/structx86_1_1IDTR.html',1,'x86']]],
-  ['idtr',['idtr',['../d0/d7f/namespacehal.html#a4601cbebb9f7feab2ff11156c37326c2',1,'hal']]],
   ['idtr',['IDTR',['../db/d2e/structx64_1_1IDTR.html',1,'x64']]],
+  ['idtr',['idtr',['../d0/d7f/namespacehal.html#a4601cbebb9f7feab2ff11156c37326c2',1,'hal']]],
+  ['idtr',['IDTR',['../d3/de7/structx86_1_1IDTR.html',1,'x86']]],
   ['ign',['ign',['../d9/d2d/structx64_1_1recursive__paging_1_1pde.html#a71d3027db1770299759cade949405a53',1,'x64::recursive_paging::pde::ign()'],['../dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a83c1f15b4d59a32539b9d33ac80118ef',1,'x64::recursive_paging::pdpte::ign()'],['../de/dba/structx64_1_1recursive__paging_1_1pml4e.html#a286d313695d44316ddfa9a2db95a3c35',1,'x64::recursive_paging::pml4e::ign()']]],
   ['inb',['inb',['../dc/dac/io_8h.html#a0223c8898dfec29069879dc51076e28a',1,'io.h']]],
   ['init',['init',['../d2/d70/classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350',1,'x64::recursive_paging::init()'],['../d4/db3/classx86_1_1recursive__paging.html#ae08058ef5695ad6402c2df7afe858cea',1,'x86::recursive_paging::init()'],['../d7/db0/namespacex64.html#a575557386534fb9cd595d7427a71e225',1,'x64::init()'],['../d1/d08/namespacex86.html#a097f25f0a93b122e21ab7ebf7115434d',1,'x86::init()'],['../d7/da2/namespacekernel.html#afa148d05e51d7847edb108cf991d3b17',1,'kernel::init()']]],
@@ -47,7 +47,7 @@ var searchData=
   ['io_5fwait',['io_wait',['../dc/dac/io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9',1,'io.h']]],
   ['ios_5fbase',['ios_base',['../db/d9c/classhal_1_1ios__base.html',1,'hal']]],
   ['ios_5fbase',['ios_base',['../db/d9c/classhal_1_1ios__base.html#a4fb31064f5428e0dd9582f6df2f73a90',1,'hal::ios_base::ios_base()'],['../db/d9c/classhal_1_1ios__base.html#a1baa3d6f91c3bf08247c430db83e972d',1,'hal::ios_base::ios_base(int base, int uppercase, int showbase)'],['../db/d9c/classhal_1_1ios__base.html#a4b1e8d4c93470b17cd158c3ccbb69946',1,'hal::ios_base::ios_base(int base, int uppercase, int showbase, int min_digits)'],['../db/d9c/classhal_1_1ios__base.html#a4e300d9a241bb5a5c92dd1cbca4b310f',1,'hal::ios_base::ios_base(int base)']]],
-  ['is_5fchar_5fequal',['is_char_equal',['../db/d7c/utf8_8h.html#a39d500e9f00a06fea05637b651f15664',1,'is_char_equal(const char *c1, const char *c2):&#160;utf8.cpp'],['../d2/db5/utf8_8cpp.html#a39d500e9f00a06fea05637b651f15664',1,'is_char_equal(const char *c1, const char *c2):&#160;utf8.cpp']]],
+  ['is_5fchar_5fequal',['is_char_equal',['../db/da4/namespaceunidoe_1_1utf8.html#a2b281274029f317bb737e23538c9ed27',1,'unidoe::utf8::is_char_equal()'],['../dd/db0/namespaceunicode_1_1utf8.html#ae5efbc3c1e4a3b9754715076af6d451a',1,'unicode::utf8::is_char_equal()']]],
   ['is_5fleap',['is_leap',['../de/daf/time_8cpp.html#a8fceec1f878ad8b0f44bb23d5ec96351',1,'time.cpp']]],
   ['is_5fmore_5frestrictive',['is_more_restrictive',['../df/d4e/classhal_1_1mem__type.html#aa1f57cd09c12a0eb963c8809a720bb0b',1,'hal::mem_type']]],
   ['is_5fready',['is_ready',['../d0/d7f/namespacehal.html#afcbc607a4377f9f9d60ebaa2cc52ef46',1,'hal']]],
@@ -66,5 +66,6 @@ var searchData=
   ['ist',['IST',['../da/dd2/structx64_1_1idt__entry.html#a29ece6fee6c7425b5c7c47a94eb1d090',1,'x64::idt_entry']]],
   ['isupper',['isupper',['../d3/d7c/ctype_8cpp.html#adadd6582d46775aab6a51e29d16d9f77',1,'isupper(int c):&#160;ctype.cpp'],['../d7/d0d/ctype_8h.html#adadd6582d46775aab6a51e29d16d9f77',1,'isupper(int c):&#160;ctype.cpp']]],
   ['isxdigit',['isxdigit',['../d3/d7c/ctype_8cpp.html#adaf3aadefe3fc4fb07b6be0d7b880f53',1,'isxdigit(int c):&#160;ctype.cpp'],['../d7/d0d/ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53',1,'isxdigit(int c):&#160;ctype.cpp']]],
+  ['iterators_2eh',['iterators.h',['../da/d59/iterators_8h.html',1,'']]],
   ['itoa',['itoa',['../dc/d9c/stdlib_8h.html#ab42640268f26e065efd044cfe80591bd',1,'itoa(int value, char *str, int base):&#160;stdlib.cpp'],['../da/d5c/stdlib_8cpp.html#ab42640268f26e065efd044cfe80591bd',1,'itoa(int value, char *str, int base):&#160;stdlib.cpp']]]
 ];

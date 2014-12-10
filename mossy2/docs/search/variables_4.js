@@ -1,6 +1,7 @@
 var searchData=
 [
   ['dark',['dark',['../d7/da2/namespacekernel.html#af37f81d7fed238d964c9db1625c36f20',1,'kernel']]],
+  ['data',['data',['../de/d03/classunicode_1_1bytes.html#a4bd8363d58f28bc9f46db93641fa23be',1,'unicode::bytes::data()'],['../d4/da2/classunicode_1_1codepoints.html#a44c861bbe89888389e89005cee8b750f',1,'unicode::codepoints::data()'],['../d2/d47/classunicode_1_1codeunits.html#a787f859e90734af0c324c8ebc7fda262',1,'unicode::codeunits::data()']]],
   ['dblue',['DBLUE',['../d3/d75/namespacestd_1_1TC.html#ad429ae15db819bdfe4402ca8363deb85',1,'std::TC']]],
   ['dcyan',['DCYAN',['../d3/d75/namespacestd_1_1TC.html#aeedb70fd88cc5b5a66dbd017b29ac97a',1,'std::TC']]],
   ['dec',['dec',['../d0/d7f/namespacehal.html#ae10c2466ab763ab90d9fe7d4dab48699',1,'hal']]],
