@@ -8,7 +8,7 @@ var classunicode_1_1bytes =
     [ "next", "de/d03/classunicode_1_1bytes.html#a295b80e0683f771abad914a7ff27eead", null ],
     [ "prev", "de/d03/classunicode_1_1bytes.html#a3f038a8277faa1fac4ae9ebf1f26e3e6", null ],
     [ "value", "de/d03/classunicode_1_1bytes.html#a5d609bf5f6d0be3db10567118a6ec130", null ],
-    [ "begin", "de/d03/classunicode_1_1bytes.html#a00b142a9c8752db0bbf286f3e9e4ad0f", null ],
-    [ "data", "de/d03/classunicode_1_1bytes.html#a4bd8363d58f28bc9f46db93641fa23be", null ],
-    [ "end", "de/d03/classunicode_1_1bytes.html#aec46abb06c54a615e1b5031ecdf4fe64", null ]
+    [ "_begin", "de/d03/classunicode_1_1bytes.html#aff24df4fe76f2c8430eff1cb63733f05", null ],
+    [ "_end", "de/d03/classunicode_1_1bytes.html#a374d8e529949d98492851fe20b6ee6ee", null ],
+    [ "data", "de/d03/classunicode_1_1bytes.html#a4bd8363d58f28bc9f46db93641fa23be", null ]
 ];

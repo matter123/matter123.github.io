@@ -1,6 +1,7 @@
 <map id="unicode::codepoints::has_next" name="unicode::codepoints::has_next">
 <area shape="rect" id="node2" href="$dd/db0/namespaceunicode_1_1utf8.html#ab5a566d5c9d4fce766407c96c0fc06b0" title="skips chars in string " alt="" coords="228,5,363,47"/>
 <area shape="rect" id="node5" href="$d4/da2/classunicode_1_1codepoints.html#a3fe2fac213152aca37563a5b7ea4d089" title="unicode::codepoints::end" alt="" coords="204,71,387,98"/>
-<area shape="rect" id="node3" href="$dd/db0/namespaceunicode_1_1utf8.html#adaa0afbff453a214de925c6773d500c4" title="gets the next char in a string " alt="" coords="435,13,613,39"/>
-<area shape="rect" id="node4" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="661,5,796,47"/>
+<area shape="rect" id="node3" href="$dd/db0/namespaceunicode_1_1utf8.html#adaa0afbff453a214de925c6773d500c4" title="gets the next char in a string " alt="" coords="443,15,622,42"/>
+<area shape="rect" id="node4" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="679,35,813,76"/>
+<area shape="rect" id="node6" href="$dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46" title="turns c into codepoint " alt="" coords="435,67,631,94"/>
 </map>
