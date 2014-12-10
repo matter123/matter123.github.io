@@ -1,8 +1,7 @@
 <map id="kernel::draw_string_at" name="kernel::draw_string_at">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204" title="kernel::draw_char_at" alt="" coords="235,56,392,83"/>
-<area shape="rect" id="node5" href="$db/da4/namespaceunidoe_1_1utf8.html#a0d4561b0c7989a1c84fcc464fdac20ab" title="turns c into codepoint " alt="" coords="219,111,408,137"/>
-<area shape="rect" id="node7" href="$db/da4/namespaceunidoe_1_1utf8.html#abc403a4a2a245d488379f83bd7bcb8b5" title="counts number of bytes in char " alt="" coords="219,161,408,188"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#adcdf9dd78a49464915f2e53613b67c7b" title="kernel::get_glyph" alt="" coords="457,5,590,32"/>
-<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe" title="kernel::bit_blit" alt="" coords="467,56,579,83"/>
-<area shape="rect" id="node6" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="456,107,591,149"/>
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204" title="kernel::draw_char_at" alt="" coords="238,45,395,72"/>
+<area shape="rect" id="node5" href="$dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46" title="turns c into codepoint " alt="" coords="219,96,415,123"/>
+<area shape="rect" id="node6" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="463,118,597,159"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#adcdf9dd78a49464915f2e53613b67c7b" title="kernel::get_glyph" alt="" coords="463,5,597,32"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe" title="kernel::bit_blit" alt="" coords="474,56,586,83"/>
 </map>

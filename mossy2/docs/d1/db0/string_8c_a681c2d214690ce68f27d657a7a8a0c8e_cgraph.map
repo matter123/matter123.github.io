@@ -1,5 +1,4 @@
 <map id="mbsncpy" name="mbsncpy">
-<area shape="rect" id="node2" href="$db/da4/namespaceunidoe_1_1utf8.html#abc403a4a2a245d488379f83bd7bcb8b5" title="counts number of bytes in char " alt="" coords="135,5,324,32"/>
-<area shape="rect" id="node3" href="$db/da4/namespaceunidoe_1_1utf8.html#a0d33f7953bc98255290b96f0bc737342" title="copies char from c to str " alt="" coords="143,56,316,83"/>
-<area shape="rect" id="node4" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="372,49,507,90"/>
+<area shape="rect" id="node2" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="363,5,497,47"/>
+<area shape="rect" id="node3" href="$dd/db0/namespaceunicode_1_1utf8.html#aa829613027369e2122ea2c35a21c303e" title="copies char from c to str " alt="" coords="135,38,315,65"/>
 </map>

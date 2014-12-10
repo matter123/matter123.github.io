@@ -6,7 +6,6 @@ var namespaces =
     [ "pc", "db/d1b/namespacepc.html", null ],
     [ "std", "d8/dcc/namespacestd.html", "d8/dcc/namespacestd" ],
     [ "unicode", "d9/df7/namespaceunicode.html", "d9/df7/namespaceunicode" ],
-    [ "unidoe", "d7/ddf/namespaceunidoe.html", "d7/ddf/namespaceunidoe" ],
     [ "x64", "d7/db0/namespacex64.html", null ],
     [ "x86", "d1/d08/namespacex86.html", null ],
     [ "x86_64", "d8/de8/namespacex86__64.html", null ]

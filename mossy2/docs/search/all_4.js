@@ -9,7 +9,7 @@ var searchData=
   ['debug_5flevel',['debug_level',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8aff',1,'std']]],
   ['debug_5freport_5flevel',['debug_report_level',['../d8/dcc/namespacestd.html#a0c72e3e140c77750bcf74174f57ef9c7',1,'std']]],
   ['dec',['dec',['../d0/d7f/namespacehal.html#ae10c2466ab763ab90d9fe7d4dab48699',1,'hal']]],
-  ['decode_5fchar',['decode_char',['../db/da4/namespaceunidoe_1_1utf8.html#a0d4561b0c7989a1c84fcc464fdac20ab',1,'unidoe::utf8::decode_char()'],['../dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46',1,'unicode::utf8::decode_char()']]],
+  ['decode_5fchar',['decode_char',['../dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46',1,'unicode::utf8']]],
   ['def_5fback_5fcolor',['def_back_color',['../d7/d79/classhal_1_1ostream.html#a96d0c5dd0e4b6130e197f03ec03a2c20',1,'hal::ostream']]],
   ['def_5fcolor',['def_color',['../d7/d79/classhal_1_1ostream.html#a7488513736240e2072fda9c85f1eb21c',1,'hal::ostream']]],
   ['def_5fcp_5fidx',['def_cp_idx',['../d3/da9/structkernel_1_1mbf__head.html#ad682ed42e1741c7d63b3ce9a5de81497',1,'kernel::mbf_head']]],

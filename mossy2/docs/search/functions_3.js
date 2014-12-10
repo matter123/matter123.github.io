@@ -6,7 +6,7 @@ var searchData=
   ['can_5fadjust_5fstart',['can_adjust_start',['../df/d4e/classhal_1_1mem__type.html#acc5dec7de212819bdd480af8a5582771',1,'hal::mem_type']]],
   ['can_5fgrow',['can_grow',['../df/d4e/classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea',1,'hal::mem_type']]],
   ['can_5fshrink',['can_shrink',['../df/d4e/classhal_1_1mem__type.html#a6b2a69eb8adfc8afa581f67d756db880',1,'hal::mem_type']]],
-  ['char_5fcopy',['char_copy',['../db/da4/namespaceunidoe_1_1utf8.html#a0d33f7953bc98255290b96f0bc737342',1,'unidoe::utf8::char_copy()'],['../dd/db0/namespaceunicode_1_1utf8.html#aa829613027369e2122ea2c35a21c303e',1,'unicode::utf8::char_copy()']]],
+  ['char_5fcopy',['char_copy',['../dd/db0/namespaceunicode_1_1utf8.html#aa829613027369e2122ea2c35a21c303e',1,'unicode::utf8']]],
   ['check',['check',['../d7/dc6/classkernel_1_1spinlock.html#a38b6c9e986c9753e1cef4285d35be198',1,'kernel::spinlock']]],
   ['cls',['cls',['../d0/d7f/namespacehal.html#ab88e898bc9a52b331a8c3ca6908abe7d',1,'hal::cls()'],['../d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1',1,'std::cls()']]],
   ['codepoints',['codepoints',['../d4/da2/classunicode_1_1codepoints.html#a3621b100858bd724a4b28b9fbd053bc1',1,'unicode::codepoints']]],

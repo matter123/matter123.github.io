@@ -1,17 +1,16 @@
 <map id="hal::ostream::operator&lt;&lt;" name="hal::ostream::operator&lt;&lt;">
-<area shape="rect" id="node2" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="241,56,381,83"/>
-<area shape="rect" id="node16" href="$d8/dcc/namespacestd.html#a48baa81cb509054ae53168ca5b0fda96" title="std::numtostr" alt="" coords="257,107,366,133"/>
-<area shape="rect" id="node3" href="$db/da4/namespaceunidoe_1_1utf8.html#abc403a4a2a245d488379f83bd7bcb8b5" title="counts number of bytes in char " alt="" coords="429,5,619,32"/>
-<area shape="rect" id="node4" href="$db/da4/namespaceunidoe_1_1utf8.html#a0d4561b0c7989a1c84fcc464fdac20ab" title="turns c into codepoint " alt="" coords="667,31,856,57"/>
-<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="481,157,567,184"/>
-<area shape="rect" id="node5" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="904,23,1039,65"/>
-<area shape="rect" id="node7" href="$dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="736,81,787,108"/>
-<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#aa9329e80a6a5dbb16f38855aa7999b0d" title="hal::width" alt="" coords="719,132,803,159"/>
-<area shape="rect" id="node9" href="$d0/d7f/namespacehal.html#a601082757b3228e73d4f45d8cad38530" title="hal::height" alt="" coords="717,183,806,209"/>
-<area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#ad49d2e8377a31906bc4dc84f255817f8" title="scroll screen " alt="" coords="720,233,803,260"/>
-<area shape="rect" id="node11" href="$d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67" title="kernel::fill_rect" alt="" coords="703,284,819,311"/>
-<area shape="rect" id="node13" href="$d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204" title="kernel::draw_char_at" alt="" coords="683,335,840,361"/>
-<area shape="rect" id="node12" href="$da/d66/string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b" title="memset32" alt="" coords="925,284,1017,311"/>
-<area shape="rect" id="node14" href="$d7/da2/namespacekernel.html#adcdf9dd78a49464915f2e53613b67c7b" title="kernel::get_glyph" alt="" coords="905,335,1038,361"/>
-<area shape="rect" id="node15" href="$d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe" title="kernel::bit_blit" alt="" coords="915,385,1027,412"/>
+<area shape="rect" id="node2" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="241,38,381,65"/>
+<area shape="rect" id="node15" href="$d8/dcc/namespacestd.html#a48baa81cb509054ae53168ca5b0fda96" title="std::numtostr" alt="" coords="257,89,366,115"/>
+<area shape="rect" id="node3" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="807,5,941,47"/>
+<area shape="rect" id="node4" href="$dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46" title="turns c into codepoint " alt="" coords="563,38,759,65"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="429,165,515,191"/>
+<area shape="rect" id="node6" href="$dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="635,89,686,115"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#aa9329e80a6a5dbb16f38855aa7999b0d" title="hal::width" alt="" coords="619,139,703,166"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a601082757b3228e73d4f45d8cad38530" title="hal::height" alt="" coords="616,190,705,217"/>
+<area shape="rect" id="node9" href="$d0/d7f/namespacehal.html#ad49d2e8377a31906bc4dc84f255817f8" title="scroll screen " alt="" coords="619,241,702,267"/>
+<area shape="rect" id="node10" href="$d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67" title="kernel::fill_rect" alt="" coords="603,291,719,318"/>
+<area shape="rect" id="node12" href="$d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204" title="kernel::draw_char_at" alt="" coords="582,342,739,369"/>
+<area shape="rect" id="node11" href="$da/d66/string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b" title="memset32" alt="" coords="828,291,920,318"/>
+<area shape="rect" id="node13" href="$d7/da2/namespacekernel.html#adcdf9dd78a49464915f2e53613b67c7b" title="kernel::get_glyph" alt="" coords="807,342,941,369"/>
+<area shape="rect" id="node14" href="$d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe" title="kernel::bit_blit" alt="" coords="818,393,930,419"/>
 </map>
