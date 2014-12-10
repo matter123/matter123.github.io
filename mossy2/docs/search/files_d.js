@@ -11,7 +11,7 @@ var searchData=
   ['stackframe_2eh',['stackframe.h',['../de/dad/stackframe_8h.html',1,'']]],
   ['stdlib_2ecpp',['stdlib.cpp',['../da/d5c/stdlib_8cpp.html',1,'']]],
   ['stdlib_2eh',['stdlib.h',['../dc/d9c/stdlib_8h.html',1,'']]],
-  ['string_2ec',['string.c',['../d1/db0/string_8c.html',1,'']]],
+  ['string_2ecpp',['string.cpp',['../d5/d24/string_8cpp.html',1,'']]],
   ['string_2eh',['string.h',['../da/d66/string_8h.html',1,'']]],
   ['struct_2eh',['struct.h',['../df/dec/struct_8h.html',1,'']]],
   ['style_2emd',['style.md',['../d4/d54/style_8md.html',1,'']]],

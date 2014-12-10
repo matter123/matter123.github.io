@@ -5,6 +5,6 @@ var dir_ae835f14967616d3091bae2fb59bd644 =
     [ "math.cpp", "dd/d2d/math_8cpp.html", "dd/d2d/math_8cpp" ],
     [ "rand.c", "d6/df4/rand_8c.html", "d6/df4/rand_8c" ],
     [ "stdlib.cpp", "da/d5c/stdlib_8cpp.html", "da/d5c/stdlib_8cpp" ],
-    [ "string.c", "d1/db0/string_8c.html", "d1/db0/string_8c" ],
+    [ "string.cpp", "d5/d24/string_8cpp.html", "d5/d24/string_8cpp" ],
     [ "time.cpp", "de/daf/time_8cpp.html", "de/daf/time_8cpp" ]
 ];
