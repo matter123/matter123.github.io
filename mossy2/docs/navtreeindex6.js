@@ -1,5 +1,8 @@
 var NAVTREEINDEX6 =
 {
+"de/dd7/sys_2sys_2tasks_8h.html":[4,0,1,4,0,6],
+"de/dd7/sys_2sys_2tasks_8h.html#a42aa075aa1bf373faef12862f3035d3f":[4,0,1,4,0,6,1],
+"de/dd7/sys_2sys_2tasks_8h.html#aa60b33805708791a7818c26c2b87fcdc":[4,0,1,4,0,6,2],
 "de/ddf/syscall_8h.html":[4,0,1,4,0,5],
 "de/de4/boot64_8inc.html":[4,0,1,1,1],
 "de/df7/time_8h.html":[4,0,0,1,0,5],
@@ -129,8 +132,8 @@ var NAVTREEINDEX6 =
 "functions_t.html":[3,2,0,19],
 "functions_u.html":[3,2,0,20],
 "functions_v.html":[3,2,0,21],
-"functions_vars.html":[3,2,2],
 "functions_vars.html":[3,2,2,0],
+"functions_vars.html":[3,2,2],
 "functions_vars_a.html":[3,2,2,1],
 "functions_vars_b.html":[3,2,2,2],
 "functions_vars_c.html":[3,2,2,3],
@@ -159,8 +162,8 @@ var NAVTREEINDEX6 =
 "functions_x.html":[3,2,0,23],
 "functions_z.html":[3,2,0,24],
 "functions_~.html":[3,2,0,25],
-"globals.html":[4,1,0,0],
 "globals.html":[4,1,0],
+"globals.html":[4,1,0,0],
 "globals_a.html":[4,1,0,1],
 "globals_c.html":[4,1,0,2],
 "globals_d.html":[4,1,0,3],

@@ -13,5 +13,6 @@ var unicode_8h =
       [ "UNKNOWN", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a6ce26a62afab55d7606ad4e92428b30c", null ]
     ] ],
     [ "convert", "dd/d90/unicode_8h.html#a2b88e13e718326fcab2c717bbef7ae5d", null ],
+    [ "copy_codeunit", "dd/d90/unicode_8h.html#a1c3840bed1eeaab82287e99f6915cdc2", null ],
     [ "detect_encoding", "dd/d90/unicode_8h.html#a90c95a1c577613690db956672d68e741", null ]
 ];

@@ -1,4 +1,6 @@
 <map id="test_strcpy" name="test_strcpy">
-<area shape="rect" id="node2" href="$dc/d9c/stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="148,5,212,32"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="260,5,356,32"/>
+<area shape="rect" id="node2" href="$dc/d9c/stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="149,5,213,32"/>
+<area shape="rect" id="node4" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="148,56,215,83"/>
+<area shape="rect" id="node5" href="$d9/d54/copy_8cpp.html#a7a82515b5d377be04817715c5465b647" title="copies chars from src to dest " alt="" coords="150,107,213,133"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="263,5,359,32"/>
 </map>
