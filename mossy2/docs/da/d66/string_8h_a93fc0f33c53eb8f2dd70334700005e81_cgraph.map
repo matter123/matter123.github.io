@@ -1,4 +1,9 @@
 <map id="strlcpy" name="strlcpy">
-<area shape="rect" id="node2" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="347,5,481,47"/>
-<area shape="rect" id="node3" href="$dd/db0/namespaceunicode_1_1utf8.html#aa829613027369e2122ea2c35a21c303e" title="copies char from c to str " alt="" coords="119,38,299,65"/>
+<area shape="rect" id="node2" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="537,35,672,77"/>
+<area shape="rect" id="node3" href="$dd/db0/namespaceunicode_1_1utf8.html#aa829613027369e2122ea2c35a21c303e" title="copies char from c to str " alt="" coords="309,43,489,69"/>
+<area shape="rect" id="node4" href="$d2/d47/classunicode_1_1codeunits.html#a7c9c2f7544b0e17f1e32c3b21d5c57ad" title="unicode::codeunits\l::begin" alt="" coords="119,94,261,135"/>
+<area shape="rect" id="node5" href="$d2/d47/classunicode_1_1codeunits.html#a02dae54e3e75ff43145bf2ea0e5bde88" title="unicode::codeunits\l::has_next" alt="" coords="119,159,261,201"/>
+<area shape="rect" id="node7" href="$d2/d47/classunicode_1_1codeunits.html#aec40b032238213ba535e719d6f981b4a" title="unicode::codeunits\l::next" alt="" coords="119,225,261,266"/>
+<area shape="rect" id="node8" href="$d2/d47/classunicode_1_1codeunits.html#a79ab3a015021f27b260515376fc57bed" title="unicode::codeunits\l::value" alt="" coords="119,290,261,331"/>
+<area shape="rect" id="node6" href="$dd/db0/namespaceunicode_1_1utf8.html#a814aae2912b8320a00254fa5e938c094" title="gets the next char in a string " alt="" coords="310,167,489,193"/>
 </map>

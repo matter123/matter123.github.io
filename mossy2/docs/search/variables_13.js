@@ -5,7 +5,7 @@ var searchData=
   ['tags',['tags',['../d0/d7f/namespacehal.html#a7b854378277fe7cd46e642ec5e7331bb',1,'hal']]],
   ['tasks',['tasks',['../d7/db0/namespacex64.html#a9912e716207b08f893a31b24cf33e826',1,'x64::tasks()'],['../d1/d08/namespacex86.html#a21ab1c9329e6764a80872379e722aefe',1,'x86::tasks()']]],
   ['test_5ffunc',['test_func',['../de/d97/classkernel_1_1test__module.html#a6ce59b68fe786efa144a7fb06771aea2',1,'kernel::test_module']]],
-  ['test_5fmodule',['test_module',['../d2/db5/utf8_8cpp.html#a0753d089ed3c8e792534abd5806c492b',1,'utf8.cpp']]],
+  ['test_5fmodule',['test_module',['../d9/d54/copy_8cpp.html#a0753d089ed3c8e792534abd5806c492b',1,'test_module():&#160;copy.cpp'],['../d2/db5/utf8_8cpp.html#a0753d089ed3c8e792534abd5806c492b',1,'test_module():&#160;utf8.cpp']]],
   ['timers',['timers',['../d0/d7f/namespacehal.html#acdb82900cdc508dca4b957f6eb1ccb31',1,'hal']]],
   ['tm_5fhour',['tm_hour',['../d8/d5a/structtm.html#a3e7ca4e37f1abcaf56b8a916c38eb9fe',1,'tm']]],
   ['tm_5fisdst',['tm_isdst',['../d8/d5a/structtm.html#a5645ca0580c8ab2c24f6c2965d9c9f9c',1,'tm']]],

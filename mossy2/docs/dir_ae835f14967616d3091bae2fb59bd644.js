@@ -1,6 +1,7 @@
 var dir_ae835f14967616d3091bae2fb59bd644 =
 [
     [ "include", "dir_ef67c2bf1ed10ae541fe699381bd7c05.html", "dir_ef67c2bf1ed10ae541fe699381bd7c05" ],
+    [ "string", "dir_0a02f203dde819d4854c894560ff5fb3.html", "dir_0a02f203dde819d4854c894560ff5fb3" ],
     [ "ctype.cpp", "d3/d7c/ctype_8cpp.html", "d3/d7c/ctype_8cpp" ],
     [ "math.cpp", "dd/d2d/math_8cpp.html", "dd/d2d/math_8cpp" ],
     [ "rand.c", "d6/df4/rand_8c.html", "d6/df4/rand_8c" ],
