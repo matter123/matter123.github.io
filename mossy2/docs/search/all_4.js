@@ -14,7 +14,7 @@ var searchData=
   ['def_5fcolor',['def_color',['../d7/d79/classhal_1_1ostream.html#a7488513736240e2072fda9c85f1eb21c',1,'hal::ostream']]],
   ['def_5fcp_5fidx',['def_cp_idx',['../d3/da9/structkernel_1_1mbf__head.html#ad682ed42e1741c7d63b3ce9a5de81497',1,'kernel::mbf_head']]],
   ['depends',['depends',['../de/d97/classkernel_1_1test__module.html#a6bcc957a8d41d93c32c0ddd2e642ba29',1,'kernel::test_module']]],
-  ['detect_5fencoding',['detect_encoding',['../dd/d90/unicode_8h.html#a90c95a1c577613690db956672d68e741',1,'detect_encoding(char *stream, size_t len):&#160;unicode.cpp'],['../dd/d9c/unicode_8cpp.html#ad535b631478cd2c3f6d72d814f2501a9',1,'detect_encoding(char *s, size_t len):&#160;unicode.cpp']]],
+  ['detect_5fencoding',['detect_encoding',['../d9/df7/namespaceunicode.html#a9b86941d1be3e3c1694f090cc58a6db2',1,'unicode::detect_encoding()'],['../dd/d9c/unicode_8cpp.html#ad535b631478cd2c3f6d72d814f2501a9',1,'detect_encoding():&#160;unicode.cpp']]],
   ['dgray',['DGRAY',['../d3/d75/namespacestd_1_1TC.html#abc7951d5af9a517a6c608f51e36443a4',1,'std::TC']]],
   ['dgreen',['DGREEN',['../d3/d75/namespacestd_1_1TC.html#ad6666be821d858871051dbda7292591d',1,'std::TC']]],
   ['dirty',['dirty',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a1194d80c7d3b4c5e672cf3930b300cda',1,'x64::recursive_paging::pte::dirty()'],['../df/deb/structx86_1_1recursive__paging_1_1pte.html#ace93ef8a8b373b176c32ef42e93bd2bd',1,'x86::recursive_paging::pte::dirty()']]],

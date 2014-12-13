@@ -13,7 +13,7 @@ var heap_8cpp =
     [ "realloc", "de/d90/heap_8cpp.html#afe82a8e24a49fef45f4712d1f27135fd", null ],
     [ "scoot", "de/d90/heap_8cpp.html#a6e4897103f6c207a9c2531daf8634859", null ],
     [ "split", "de/d90/heap_8cpp.html#a35990e81f3e169a134faf78ae35ddc70", null ],
-    [ "test_heap", "de/d90/heap_8cpp.html#afe132d1ba54cbd41381cb5720b9aed57", null ],
+    [ "test_heap", "de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc", null ],
     [ "start", "de/d90/heap_8cpp.html#a6361939678d3cb7efde8130184ff13aa", null ],
-    [ "test_module", "de/d90/heap_8cpp.html#a835cdd11c1066323d14e6689156f60f4", null ]
+    [ "test_module", "de/d90/heap_8cpp.html#a0753d089ed3c8e792534abd5806c492b", null ]
 ];

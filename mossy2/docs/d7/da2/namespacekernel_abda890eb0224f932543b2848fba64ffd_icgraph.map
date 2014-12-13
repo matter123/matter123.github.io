@@ -1,11 +1,7 @@
 <map id="kernel::dumb_merge" name="kernel::dumb_merge">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#abf20922f3940efb87c628f39b6f18039" title="kernel::free" alt="" coords="209,157,305,183"/>
-<area shape="rect" id="node8" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="365,245,477,271"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="373,42,468,69"/>
-<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#afe132d1ba54cbd41381cb5720b9aed57" title="kernel::test_heap" alt="" coords="353,93,488,119"/>
-<area shape="rect" id="node9" href="$de/d90/heap_8cpp.html#a86107594327f3a001230df9802cd4422" title="operator delete" alt="" coords="360,143,481,170"/>
-<area shape="rect" id="node10" href="$de/d90/heap_8cpp.html#aaa8d8403dca7d813a59dd1f07728349d" title="operator delete[]" alt="" coords="355,194,486,221"/>
-<area shape="rect" id="node4" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="536,5,667,47"/>
-<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="538,71,665,98"/>
-<area shape="rect" id="node5" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="715,13,836,39"/>
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#abf20922f3940efb87c628f39b6f18039" title="kernel::free" alt="" coords="209,56,305,83"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="363,5,475,32"/>
+<area shape="rect" id="node3" href="$de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc" title="test_heap" alt="" coords="375,56,462,83"/>
+<area shape="rect" id="node5" href="$de/d90/heap_8cpp.html#a86107594327f3a001230df9802cd4422" title="operator delete" alt="" coords="358,107,479,133"/>
+<area shape="rect" id="node6" href="$de/d90/heap_8cpp.html#aaa8d8403dca7d813a59dd1f07728349d" title="operator delete[]" alt="" coords="353,157,484,184"/>
 </map>

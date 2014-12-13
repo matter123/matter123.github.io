@@ -1,18 +1,18 @@
 var unicode_8h =
 [
-    [ "codepoint", "dd/d90/unicode_8h.html#aa8fad74679109c30b4668b8c419bda66", null ],
-    [ "encoding", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894", [
-      [ "ASCII", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894af9c208c7d7a0f102f2683165540c882d", null ],
-      [ "UTF8", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894ac4aa8bf4aaf220c87545078d3c43baaa", null ],
-      [ "UTF16LE", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a68e145f0dd31779a93cea9b9bffa4e09", null ],
-      [ "UTF16BE", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a14dde7b43be7c3de661b4b30cd988ee6", null ],
-      [ "UTF16", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a09f95aafce7d0add220c0491dc5cb9fd", null ],
-      [ "UTF32LE", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894adaa3600a8878a214af36a7841e861bd6", null ],
-      [ "UTF32BE", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a71b5dbe4615a492a7ae756bfa9e1a38b", null ],
-      [ "UTF32", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a646bf7227a85f82317bb7e3634ddba35", null ],
-      [ "UNKNOWN", "dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a6ce26a62afab55d7606ad4e92428b30c", null ]
+    [ "codepoint", "dd/d90/unicode_8h.html#a7ff8d2b5ed3e7fbc8da9fcad9953e81d", null ],
+    [ "encoding", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fd", [
+      [ "ASCII", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fda84fca2999795d64e1e70efb5d51157a8", null ],
+      [ "UTF8", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fda6668915293ed049c6e92eede82a16768", null ],
+      [ "UTF16LE", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fda52ba957e8a41bd0b66d17ef84b8980f1", null ],
+      [ "UTF16BE", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fda1fb5f86e7de529b2dff6606b7a3dcb12", null ],
+      [ "UTF16", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fda4f8d3957165f6ecd331f60f60516b63b", null ],
+      [ "UTF32LE", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fdaf554d1d252532eae18f1063303a0decd", null ],
+      [ "UTF32BE", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fda3f8508e2d4109913abde78286bfbbf63", null ],
+      [ "UTF32", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fda7015e88a7c0b99d93cdb7141b0cd327f", null ],
+      [ "UNKNOWN", "dd/d90/unicode_8h.html#a6db0bb929719ee226bd7bf7d0915c1fdae385b6d4418c01b54bc70df6fece1d66", null ]
     ] ],
-    [ "convert", "dd/d90/unicode_8h.html#a2b88e13e718326fcab2c717bbef7ae5d", null ],
-    [ "copy_codeunit", "dd/d90/unicode_8h.html#a1c3840bed1eeaab82287e99f6915cdc2", null ],
-    [ "detect_encoding", "dd/d90/unicode_8h.html#a90c95a1c577613690db956672d68e741", null ]
+    [ "convert", "dd/d90/unicode_8h.html#ab0250a3e635f90d069330c00bf9474cf", null ],
+    [ "copy_codeunit", "dd/d90/unicode_8h.html#ae529271be7b5e635f3a560fe2171b375", null ],
+    [ "detect_encoding", "dd/d90/unicode_8h.html#a9b86941d1be3e3c1694f090cc58a6db2", null ]
 ];

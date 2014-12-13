@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['unknown',['UNKNOWN',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a6ce26a62afab55d7606ad4e92428b30c',1,'unicode.h']]],
-  ['utf16',['UTF16',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a09f95aafce7d0add220c0491dc5cb9fd',1,'unicode.h']]],
-  ['utf16be',['UTF16BE',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a14dde7b43be7c3de661b4b30cd988ee6',1,'unicode.h']]],
-  ['utf16le',['UTF16LE',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a68e145f0dd31779a93cea9b9bffa4e09',1,'unicode.h']]],
-  ['utf32',['UTF32',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a646bf7227a85f82317bb7e3634ddba35',1,'unicode.h']]],
-  ['utf32be',['UTF32BE',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894a71b5dbe4615a492a7ae756bfa9e1a38b',1,'unicode.h']]],
-  ['utf32le',['UTF32LE',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894adaa3600a8878a214af36a7841e861bd6',1,'unicode.h']]],
-  ['utf8',['UTF8',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894ac4aa8bf4aaf220c87545078d3c43baaa',1,'unicode.h']]]
+  ['unknown',['UNKNOWN',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fdae385b6d4418c01b54bc70df6fece1d66',1,'unicode']]],
+  ['utf16',['UTF16',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda4f8d3957165f6ecd331f60f60516b63b',1,'unicode']]],
+  ['utf16be',['UTF16BE',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda1fb5f86e7de529b2dff6606b7a3dcb12',1,'unicode']]],
+  ['utf16le',['UTF16LE',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda52ba957e8a41bd0b66d17ef84b8980f1',1,'unicode']]],
+  ['utf32',['UTF32',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda7015e88a7c0b99d93cdb7141b0cd327f',1,'unicode']]],
+  ['utf32be',['UTF32BE',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda3f8508e2d4109913abde78286bfbbf63',1,'unicode']]],
+  ['utf32le',['UTF32LE',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fdaf554d1d252532eae18f1063303a0decd',1,'unicode']]],
+  ['utf8',['UTF8',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda6668915293ed049c6e92eede82a16768',1,'unicode']]]
 ];

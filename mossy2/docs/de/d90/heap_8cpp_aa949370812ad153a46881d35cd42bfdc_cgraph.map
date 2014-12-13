@@ -1,0 +1,6 @@
+<map id="test_heap" name="test_heap">
+<area shape="rect" id="node2" href="$dc/d9c/stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="140,5,204,32"/>
+<area shape="rect" id="node4" href="$dc/d9c/stdlib_8h.html#afbedc913aa4651b3c3b4b3aecd9b4711" title="free" alt="" coords="148,56,196,83"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="282,5,378,32"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#abda890eb0224f932543b2848fba64ffd" title="kernel::dumb_merge" alt="" coords="252,56,408,83"/>
+</map>

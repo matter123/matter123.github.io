@@ -25,7 +25,7 @@ var searchData=
   ['alloc_5ffunc',['alloc_func',['../d2/d70/classx64_1_1recursive__paging.html#a450f42166b3dd1342b8497b3af71dfb4',1,'x64::recursive_paging::alloc_func()'],['../d4/db3/classx86_1_1recursive__paging.html#a4cffa17864bc8a6e7daa86d8b6db7aa1',1,'x86::recursive_paging::alloc_func()']]],
   ['and',['AND',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31ac12d9237207eecf2239bbdd4f96a5c00',1,'kernel']]],
   ['arch_2eh',['arch.h',['../d2/d2d/arch_8h.html',1,'']]],
-  ['ascii',['ASCII',['../dd/d90/unicode_8h.html#ab1000d1f2ea9878f60bc119650013894af9c208c7d7a0f102f2683165540c882d',1,'unicode.h']]],
+  ['ascii',['ASCII',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda84fca2999795d64e1e70efb5d51157a8',1,'unicode']]],
   ['asctime',['asctime',['../de/df7/time_8h.html#a68a0e9d22417dfcf9c0be64261352e64',1,'asctime(const struct tm *timeptr):&#160;time.h'],['../de/daf/time_8cpp.html#ae3b8c29a35f3137802c32e8e54ed8e6d',1,'asctime(const tm *timeptr):&#160;time.cpp']]],
   ['assert',['assert',['../d8/dcc/namespacestd.html#ac5cd6c10f3b85540626b27f1e00cd30d',1,'std']]],
   ['atof',['atof',['../dc/d9c/stdlib_8h.html#a5aff941a8b7b49b2e7160449a3d413fc',1,'stdlib.h']]],

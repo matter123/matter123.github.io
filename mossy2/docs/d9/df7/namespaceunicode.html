@@ -105,7 +105,10 @@ $(document).ready(function(){initNavTree('d9/df7/namespaceunicode.html','../../'
 <div class="header">
   <div class="summary">
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#nested-classes">Classes</a>  </div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">unicode Namespace Reference</div>  </div>
 </div><!--header-->
@@ -124,14 +127,256 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d47/classunicode_1_1codeunits.html">codeunits</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a7ff8d2b5ed3e7fbc8da9fcad9953e81d"><td class="memItemLeft" align="right" valign="top">typedef uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df7/namespaceunicode.html#a7ff8d2b5ed3e7fbc8da9fcad9953e81d">codepoint</a></td></tr>
+<tr class="separator:a7ff8d2b5ed3e7fbc8da9fcad9953e81d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a6db0bb929719ee226bd7bf7d0915c1fd"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd">encoding</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda84fca2999795d64e1e70efb5d51157a8">ASCII</a> = 0x01, 
+<a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda6668915293ed049c6e92eede82a16768">UTF8</a> = 0x01, 
+<a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda52ba957e8a41bd0b66d17ef84b8980f1">UTF16LE</a> = 0x02, 
+<a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda1fb5f86e7de529b2dff6606b7a3dcb12">UTF16BE</a> = 0x04, 
+<br />
+&#160;&#160;<a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda4f8d3957165f6ecd331f60f60516b63b">UTF16</a> = 0x06, 
+<a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fdaf554d1d252532eae18f1063303a0decd">UTF32LE</a> = 0x08, 
+<a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda3f8508e2d4109913abde78286bfbbf63">UTF32BE</a> = 0x10, 
+<a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda7015e88a7c0b99d93cdb7141b0cd327f">UTF32</a> = 0x18, 
+<br />
+&#160;&#160;<a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fdae385b6d4418c01b54bc70df6fece1d66">UNKNOWN</a> = 0xFF
+<br />
+ }</td></tr>
+<tr class="memdesc:a6db0bb929719ee226bd7bf7d0915c1fd"><td class="mdescLeft">&#160;</td><td class="mdescRight">the accepted encodings  <a href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd">More...</a><br /></td></tr>
+<tr class="separator:a6db0bb929719ee226bd7bf7d0915c1fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a9b86941d1be3e3c1694f090cc58a6db2"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd">encoding</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df7/namespaceunicode.html#a9b86941d1be3e3c1694f090cc58a6db2">detect_encoding</a> (char *stream, size_t len)</td></tr>
+<tr class="memdesc:a9b86941d1be3e3c1694f090cc58a6db2"><td class="mdescLeft">&#160;</td><td class="mdescRight">detects encoding of <em>stream</em>  <a href="#a9b86941d1be3e3c1694f090cc58a6db2">More...</a><br /></td></tr>
+<tr class="separator:a9b86941d1be3e3c1694f090cc58a6db2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab0250a3e635f90d069330c00bf9474cf"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df7/namespaceunicode.html#ab0250a3e635f90d069330c00bf9474cf">convert</a> (char *stream, size_t in_len, enum <a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd">encoding</a> from, enum <a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd">encoding</a> to, char **out_stream, size_t out_len)</td></tr>
+<tr class="memdesc:ab0250a3e635f90d069330c00bf9474cf"><td class="mdescLeft">&#160;</td><td class="mdescRight">general purpose encoding conversion  <a href="#ab0250a3e635f90d069330c00bf9474cf">More...</a><br /></td></tr>
+<tr class="separator:ab0250a3e635f90d069330c00bf9474cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae529271be7b5e635f3a560fe2171b375"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df7/namespaceunicode.html#ae529271be7b5e635f3a560fe2171b375">copy_codeunit</a> (char *dest, char *src)</td></tr>
+<tr class="separator:ae529271be7b5e635f3a560fe2171b375"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a class="anchor" id="a7ff8d2b5ed3e7fbc8da9fcad9953e81d"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef uint32_t <a class="el" href="../../d9/df7/namespaceunicode.html#a7ff8d2b5ed3e7fbc8da9fcad9953e81d">unicode::codepoint</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fd"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd">unicode::encoding</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>the accepted encodings </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fda84fca2999795d64e1e70efb5d51157a8"></a>ASCII&#160;</td><td class="fielddoc">
+<p>basic ascii 0-127 </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fda6668915293ed049c6e92eede82a16768"></a>UTF8&#160;</td><td class="fielddoc">
+<p>UTF8 </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fda52ba957e8a41bd0b66d17ef84b8980f1"></a>UTF16LE&#160;</td><td class="fielddoc">
+<p>UTF16 little endian </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fda1fb5f86e7de529b2dff6606b7a3dcb12"></a>UTF16BE&#160;</td><td class="fielddoc">
+<p>UTF16 big endian </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fda4f8d3957165f6ecd331f60f60516b63b"></a>UTF16&#160;</td><td class="fielddoc">
+<p>UTF16 unknown endian </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fdaf554d1d252532eae18f1063303a0decd"></a>UTF32LE&#160;</td><td class="fielddoc">
+<p>UTF32 little endian </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fda3f8508e2d4109913abde78286bfbbf63"></a>UTF32BE&#160;</td><td class="fielddoc">
+<p>UTF32 big endian </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fda7015e88a7c0b99d93cdb7141b0cd327f"></a>UTF32&#160;</td><td class="fielddoc">
+<p>UTF16 unknown endian </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="a6db0bb929719ee226bd7bf7d0915c1fdae385b6d4418c01b54bc70df6fece1d66"></a>UNKNOWN&#160;</td><td class="fielddoc">
+<p>Unknown encoding </p>
+</td></tr>
+</table>
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a class="anchor" id="ab0250a3e635f90d069330c00bf9474cf"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int unicode::convert </td>
+          <td>(</td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>stream</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>in_len</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">enum encoding&#160;</td>
+          <td class="paramname"><em>from</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">enum encoding&#160;</td>
+          <td class="paramname"><em>to</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char **&#160;</td>
+          <td class="paramname"><em>out_stream</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>out_len</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>general purpose encoding conversion </p>
+<p>converts a stream between two different encodings</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">stream</td><td>input stream of bytes </td></tr>
+    <tr><td class="paramname">in_len</td><td>input stream length </td></tr>
+    <tr><td class="paramname">from</td><td>best guess of input stream encoding </td></tr>
+    <tr><td class="paramname">to</td><td>desired output encoding </td></tr>
+    <tr><td class="paramname">out_stream</td><td>pointer to output stream of bytes </td></tr>
+    <tr><td class="paramname">out_len</td><td>max length of output stream</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section note"><dt>Note</dt><dd>if both out_stream and out_len are NULL and 0, respectively <em>convert</em> will allocate a stream of the required length, the caller is responsible to <em>free</em> the stream when done</dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>number of bytes copied to <em>out_stream</em> if the values is larger than <em>out_len</em>, the output stream was not big enough to contain the entire input stream, and the value returned is how big the output stream needs to be</dd></dl>
+<dl class="section date"><dt>Date</dt><dd>created on 2014-10-19 </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="ae529271be7b5e635f3a560fe2171b375"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void unicode::copy_codeunit </td>
+          <td>(</td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>dest</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>src</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d9/df7/namespaceunicode_ae529271be7b5e635f3a560fe2171b375_icgraph.png" border="0" usemap="#d9/df7/namespaceunicode_ae529271be7b5e635f3a560fe2171b375_icgraph" alt=""/></div>
+<map name="d9/df7/namespaceunicode_ae529271be7b5e635f3a560fe2171b375_icgraph" id="d9/df7/namespaceunicode_ae529271be7b5e635f3a560fe2171b375_icgraph">
+<area shape="rect" id="node2" href="../../d9/d54/copy_8cpp.html#a93fc0f33c53eb8f2dd70334700005e81" title="copies upto num bytes from src to dest " alt="" coords="235,5,300,32"/><area shape="rect" id="node4" href="../../d9/d54/copy_8cpp.html#a681c2d214690ce68f27d657a7a8a0c8e" title="copies upto num bytes from src to dest " alt="" coords="227,56,308,83"/><area shape="rect" id="node3" href="../../d9/d54/copy_8cpp.html#a74d26d42f0bed9ce97c8356c858492f6" title="test_strcpy" alt="" coords="356,5,451,32"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a9b86941d1be3e3c1694f090cc58a6db2"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd">encoding</a> unicode::detect_encoding </td>
+          <td>(</td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>stream</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>len</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>detects encoding of <em>stream</em> </p>
+<p>using various properties of each format guess the encoding of the stream</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">stream</td><td>pointer to a stream of bytes </td></tr>
+    <tr><td class="paramname">len</td><td>length of stream</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>the detected encoding, or UNKOWN if unable to detect encoding </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>created on 2014-10-18 </dd></dl>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d9/df7/namespaceunicode_a9b86941d1be3e3c1694f090cc58a6db2_cgraph.png" border="0" usemap="#d9/df7/namespaceunicode_a9b86941d1be3e3c1694f090cc58a6db2_cgraph" alt=""/></div>
+<map name="d9/df7/namespaceunicode_a9b86941d1be3e3c1694f090cc58a6db2_cgraph" id="d9/df7/namespaceunicode_a9b86941d1be3e3c1694f090cc58a6db2_cgraph">
+<area shape="rect" id="node2" href="../../dd/d9c/unicode_8cpp.html#a7c22f583e945ade8987732c6fd2509c2" title="isascii" alt="" coords="240,5,300,32"/></map>
+</div>
+</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/df7/namespaceunicode.html">unicode</a></li>
-    <li class="footer">Generated on Sat Dec 13 2014 11:00:10 for MOSSY 2 by
+    <li class="footer">Generated on Sat Dec 13 2014 11:30:02 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

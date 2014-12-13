@@ -1,10 +1,9 @@
 <map id="mbsncpy" name="mbsncpy">
-<area shape="rect" id="node2" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="553,41,688,82"/>
-<area shape="rect" id="node3" href="$dd/db0/namespaceunicode_1_1utf8.html#aa829613027369e2122ea2c35a21c303e" title="copies char from c to str " alt="" coords="325,48,505,75"/>
-<area shape="rect" id="node4" href="$d2/d47/classunicode_1_1codeunits.html#a7c9c2f7544b0e17f1e32c3b21d5c57ad" title="unicode::codeunits\l::begin" alt="" coords="135,100,277,141"/>
-<area shape="rect" id="node5" href="$d2/d47/classunicode_1_1codeunits.html#a02dae54e3e75ff43145bf2ea0e5bde88" title="unicode::codeunits\l::has_next" alt="" coords="135,165,277,206"/>
-<area shape="rect" id="node7" href="$d2/d47/classunicode_1_1codeunits.html#aec40b032238213ba535e719d6f981b4a" title="unicode::codeunits\l::next" alt="" coords="135,230,277,272"/>
-<area shape="rect" id="node8" href="$dd/d90/unicode_8h.html#a1c3840bed1eeaab82287e99f6915cdc2" title="copy_codeunit" alt="" coords="149,296,263,323"/>
-<area shape="rect" id="node9" href="$d2/d47/classunicode_1_1codeunits.html#a79ab3a015021f27b260515376fc57bed" title="unicode::codeunits\l::value" alt="" coords="135,348,277,389"/>
-<area shape="rect" id="node6" href="$dd/db0/namespaceunicode_1_1utf8.html#a814aae2912b8320a00254fa5e938c094" title="gets the next char in a string " alt="" coords="326,172,505,199"/>
+<area shape="rect" id="node2" href="$d2/d47/classunicode_1_1codeunits.html#a7c9c2f7544b0e17f1e32c3b21d5c57ad" title="unicode::codeunits\l::begin" alt="" coords="150,5,293,47"/>
+<area shape="rect" id="node3" href="$d2/d47/classunicode_1_1codeunits.html#a02dae54e3e75ff43145bf2ea0e5bde88" title="unicode::codeunits\l::has_next" alt="" coords="150,71,293,112"/>
+<area shape="rect" id="node5" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="583,165,717,207"/>
+<area shape="rect" id="node6" href="$d2/d47/classunicode_1_1codeunits.html#aec40b032238213ba535e719d6f981b4a" title="unicode::codeunits\l::next" alt="" coords="150,136,293,177"/>
+<area shape="rect" id="node7" href="$d9/df7/namespaceunicode.html#ae529271be7b5e635f3a560fe2171b375" title="unicode::copy_codeunit" alt="" coords="135,253,308,279"/>
+<area shape="rect" id="node8" href="$d2/d47/classunicode_1_1codeunits.html#a79ab3a015021f27b260515376fc57bed" title="unicode::codeunits\l::value" alt="" coords="150,304,293,345"/>
+<area shape="rect" id="node4" href="$dd/db0/namespaceunicode_1_1utf8.html#a814aae2912b8320a00254fa5e938c094" title="gets the next char in a string " alt="" coords="356,143,535,170"/>
 </map>
