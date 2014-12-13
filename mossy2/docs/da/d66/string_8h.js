@@ -29,7 +29,7 @@ var string_8h =
     [ "strlen", "da/d66/string_8h.html#a008e171a518fe0e0352f31b245e03875", null ],
     [ "strncat", "da/d66/string_8h.html#a432f1999d4aafec2886b29ab93b31b16", null ],
     [ "strncmp", "da/d66/string_8h.html#a6666865e6caf66fd05d4b8bd6c074cd2", null ],
-    [ "strncpy", "da/d66/string_8h.html#a26f62cd03235f1a3e4f88d233c49b675", null ],
+    [ "strncpy", "da/d66/string_8h.html#a79444f3b14514186a5e4f67cdbec2738", null ],
     [ "strpbrk", "da/d66/string_8h.html#aba69485c46e2b5bd30f50a7e6ba7a4cf", null ],
     [ "strrchr", "da/d66/string_8h.html#aa9cb93f2675f98f3686d4d454e4a43fe", null ],
     [ "strspn", "da/d66/string_8h.html#a91c52c43f254c0a5f086f5e1093e3235", null ],
