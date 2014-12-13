@@ -1,10 +1,11 @@
 <map id="kernel::malloc" name="kernel::malloc">
 <area shape="rect" id="node2" href="$df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="165,5,328,32"/>
-<area shape="rect" id="node4" href="$d9/d54/copy_8cpp.html#a74d26d42f0bed9ce97c8356c858492f6" title="test_strcpy" alt="" coords="199,56,294,83"/>
-<area shape="rect" id="node5" href="$de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc" title="test_heap" alt="" coords="203,107,290,133"/>
-<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#ad79749380c8e9f3dbb4ef8f90f29d9b7" title="kernel::calloc" alt="" coords="193,157,300,184"/>
-<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="191,208,303,235"/>
-<area shape="rect" id="node8" href="$de/d90/heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719" title="operator new" alt="" coords="193,259,301,285"/>
-<area shape="rect" id="node9" href="$de/d90/heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f" title="operator new[]" alt="" coords="187,309,306,336"/>
+<area shape="rect" id="node4" href="$d9/d63/cat_8cpp.html#a84c49de8678f498bf065033366ff85b8" title="test_strcat" alt="" coords="201,56,292,83"/>
+<area shape="rect" id="node5" href="$d9/d54/copy_8cpp.html#a74d26d42f0bed9ce97c8356c858492f6" title="test_strcpy" alt="" coords="199,107,294,133"/>
+<area shape="rect" id="node6" href="$de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc" title="test_heap" alt="" coords="203,157,290,184"/>
+<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#ad79749380c8e9f3dbb4ef8f90f29d9b7" title="kernel::calloc" alt="" coords="193,208,300,235"/>
+<area shape="rect" id="node8" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="191,259,303,285"/>
+<area shape="rect" id="node9" href="$de/d90/heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719" title="operator new" alt="" coords="193,309,301,336"/>
+<area shape="rect" id="node10" href="$de/d90/heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f" title="operator new[]" alt="" coords="187,360,306,387"/>
 <area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="376,5,497,32"/>
 </map>
