@@ -1,12 +1,11 @@
 var NAVTREEINDEX1 =
 {
-"d3/d7c/ctype_8cpp.html#adadd6582d46775aab6a51e29d16d9f77":[4,0,0,1,2,10],
 "d3/d7c/ctype_8cpp.html#adaf3aadefe3fc4fb07b6be0d7b880f53":[4,0,0,1,2,11],
 "d3/d7c/ctype_8cpp.html#adf38e126f73a010f30af76db2a28c6e1":[4,0,0,1,2,0],
 "d3/d7c/ctype_8cpp.html#aea4929b1b41f1a6d723e0312b1f050ed":[4,0,0,1,2,2],
 "d3/d7c/ctype_8cpp.html#af29554b3ec04ea7684482bffed5dbce6":[4,0,0,1,2,8],
-"d3/d94/namespaceacpi.html":[2,0,0],
 "d3/d94/namespaceacpi.html":[3,0,0],
+"d3/d94/namespaceacpi.html":[2,0,0],
 "d3/da9/structkernel_1_1mbf__head.html":[3,0,2,3],
 "d3/da9/structkernel_1_1mbf__head.html#a13c1d5cccbe84e6036c99e9a3be66421":[3,0,2,3,4],
 "d3/da9/structkernel_1_1mbf__head.html#a16f3b33591a5208ef0451da956914560":[3,0,2,3,1],
@@ -60,9 +59,9 @@ var NAVTREEINDEX1 =
 "d4/d6c/classkernel_1_1semaphore.html#ab2c5e46f96202165372f76cafcfa9deb":[3,0,2,5,6],
 "d4/d6c/classkernel_1_1semaphore.html#ad11859b0bf0af7ec71ecc20ca6f45d97":[3,0,2,5,1],
 "d4/d6c/classkernel_1_1semaphore.html#aeab884aeb097e2311953687d438f73c6":[3,0,2,5,0],
-"d4/d78/math_8hpp.html":[4,0,1,3,0,3],
-"d4/d78/math_8hpp.html#a8b1d3412ba4a286f6c82ee5a67b7134a":[4,0,1,3,0,3,1],
-"d4/d78/math_8hpp.html#afdb0985300047fc04bb3e2af35aee342":[4,0,1,3,0,3,0],
+"d4/d78/math_8hpp.html":[4,0,1,3,0,2],
+"d4/d78/math_8hpp.html#a8b1d3412ba4a286f6c82ee5a67b7134a":[4,0,1,3,0,2,1],
+"d4/d78/math_8hpp.html#afdb0985300047fc04bb3e2af35aee342":[4,0,1,3,0,2,0],
 "d4/d9b/hal_2hal_2int_8h.html":[4,0,1,2,0,3],
 "d4/d9b/hal_2hal_2int_8h.html#a19c7a8cead20bdcf199c4912364bc526":[4,0,1,2,0,3,1],
 "d4/d9b/hal_2hal_2int_8h.html#a251c88f3d1923667dcfc161656bcc6fa":[4,0,1,2,0,3,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX1 =
 "d7/d0d/ctype_8h.html#a9c2f57ac3865af9006fdbfd5db9fd517":[4,0,0,1,0,1,13],
 "d7/d0d/ctype_8h.html#ac79d6114c9df7350cedcd8cf921a6ea4":[4,0,0,1,0,1,12],
 "d7/d0d/ctype_8h.html#adadd6582d46775aab6a51e29d16d9f77":[4,0,0,1,0,1,10],
-"d7/d0d/ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53":[4,0,0,1,0,1,11]
+"d7/d0d/ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53":[4,0,0,1,0,1,11],
+"d7/d0d/ctype_8h.html#adf38e126f73a010f30af76db2a28c6e1":[4,0,0,1,0,1,0]
 };

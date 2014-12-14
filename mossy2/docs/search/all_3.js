@@ -33,7 +33,7 @@ var searchData=
   ['conv_2ehpp',['conv.hpp',['../dc/dd9/conv_8hpp.html',1,'']]],
   ['convert',['convert',['../d9/df7/namespaceunicode.html#ab0250a3e635f90d069330c00bf9474cf',1,'unicode']]],
   ['copy_2ecpp',['copy.cpp',['../d9/d54/copy_8cpp.html',1,'']]],
-  ['copy_5fcodeunit',['copy_codeunit',['../d9/df7/namespaceunicode.html#ae529271be7b5e635f3a560fe2171b375',1,'unicode::copy_codeunit(char *dest, char *src)'],['../d9/df7/namespaceunicode.html#a1aff48ff502cb9a369fa5131fa29e494',1,'unicode::copy_codeunit(char *str, const char *c)']]],
+  ['copy_5fcodeunit',['copy_codeunit',['../d9/df7/namespaceunicode.html#ae529271be7b5e635f3a560fe2171b375',1,'unicode']]],
   ['copy_5frect',['copy_rect',['../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be',1,'kernel::copy_rect(int x, int y, int w, int h, void *rect_buf)'],['../d7/da2/namespacekernel.html#afe9157b4d21ba4a63432f0a7844890af',1,'kernel::copy_rect(int src_x, int src_y, int w, int h, int dest_x, int dest_y)']]],
   ['cos',['cos',['../df/db1/math_8h.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp'],['../dd/d2d/math_8cpp.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp']]],
   ['count',['count',['../d8/de8/namespacex86__64.html#a400047baf98b949833df227c907d7a1e',1,'x86_64::count()'],['../d0/d7f/namespacehal.html#a5480a292d2e7a8631d1c4712058078a9',1,'hal::count()']]],
