@@ -115,6 +115,12 @@ $(document).ready(function(){initNavTree('d9/d54/copy_8cpp.html','../../');});
 Functions</h2></td></tr>
 <tr class="memitem:a74d26d42f0bed9ce97c8356c858492f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/copy_8cpp.html#a74d26d42f0bed9ce97c8356c858492f6">test_strcpy</a> () __attribute__((used))</td></tr>
 <tr class="separator:a74d26d42f0bed9ce97c8356c858492f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb83c95b0cdfdc603d71f23328f14cb1"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/copy_8cpp.html#aeb83c95b0cdfdc603d71f23328f14cb1">memcpy</a> (void *dest, const void *src, size_t num)</td></tr>
+<tr class="memdesc:aeb83c95b0cdfdc603d71f23328f14cb1"><td class="mdescLeft">&#160;</td><td class="mdescRight">copies memory  <a href="#aeb83c95b0cdfdc603d71f23328f14cb1">More...</a><br /></td></tr>
+<tr class="separator:aeb83c95b0cdfdc603d71f23328f14cb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8628c986b70205d34a160d2fb740680"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/copy_8cpp.html#ae8628c986b70205d34a160d2fb740680">memmove</a> (void *dest, const void *src, size_t num)</td></tr>
+<tr class="memdesc:ae8628c986b70205d34a160d2fb740680"><td class="mdescLeft">&#160;</td><td class="mdescRight">copies potentially overlapping memory  <a href="#ae8628c986b70205d34a160d2fb740680">More...</a><br /></td></tr>
+<tr class="separator:ae8628c986b70205d34a160d2fb740680"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7a82515b5d377be04817715c5465b647"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/copy_8cpp.html#a7a82515b5d377be04817715c5465b647">strcpy</a> (char *dest, const char *src)</td></tr>
 <tr class="memdesc:a7a82515b5d377be04817715c5465b647"><td class="mdescLeft">&#160;</td><td class="mdescRight">copies chars from <em>src</em> to <em>dest</em>  <a href="#a7a82515b5d377be04817715c5465b647">More...</a><br /></td></tr>
 <tr class="separator:a7a82515b5d377be04817715c5465b647"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -189,6 +195,116 @@ Here is the call graph for this function:</div>
 <div class="center"><img src="../../d9/d54/copy_8cpp_a681c2d214690ce68f27d657a7a8a0c8e_cgraph.png" border="0" usemap="#d9/d54/copy_8cpp_a681c2d214690ce68f27d657a7a8a0c8e_cgraph" alt=""/></div>
 <map name="d9/d54/copy_8cpp_a681c2d214690ce68f27d657a7a8a0c8e_cgraph" id="d9/d54/copy_8cpp_a681c2d214690ce68f27d657a7a8a0c8e_cgraph">
 <area shape="rect" id="node2" href="../../d2/d47/classunicode_1_1codeunits.html#a7c9c2f7544b0e17f1e32c3b21d5c57ad" title="unicode::codeunits\l::begin" alt="" coords="150,5,293,47"/><area shape="rect" id="node3" href="../../d2/d47/classunicode_1_1codeunits.html#a02dae54e3e75ff43145bf2ea0e5bde88" title="unicode::codeunits\l::has_next" alt="" coords="150,71,293,112"/><area shape="rect" id="node5" href="../../dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="583,165,717,207"/><area shape="rect" id="node6" href="../../d2/d47/classunicode_1_1codeunits.html#aec40b032238213ba535e719d6f981b4a" title="unicode::codeunits\l::next" alt="" coords="150,136,293,177"/><area shape="rect" id="node7" href="../../d9/df7/namespaceunicode.html#ae529271be7b5e635f3a560fe2171b375" title="unicode::copy_codeunit" alt="" coords="135,253,308,279"/><area shape="rect" id="node8" href="../../d2/d47/classunicode_1_1codeunits.html#a79ab3a015021f27b260515376fc57bed" title="unicode::codeunits\l::value" alt="" coords="150,304,293,345"/><area shape="rect" id="node4" href="../../dd/db0/namespaceunicode_1_1utf8.html#a814aae2912b8320a00254fa5e938c094" title="gets the next char in a string " alt="" coords="356,143,535,170"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="aeb83c95b0cdfdc603d71f23328f14cb1"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void* memcpy </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>dest</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const void *&#160;</td>
+          <td class="paramname"><em>src</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>num</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>copies memory </p>
+<p>using a left-to-right copy, copy <em>num</em> bytes from <em>src</em> to <em>dest</em> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">dest</td><td>pointer to a block of memory at least <em>num</em> bytes big, MUST NOT overlap with <em>src</em> </td></tr>
+    <tr><td class="paramname">src</td><td>pointer to a block of memory at least <em>num</em> bytes big, MUST NOT overlap with <em>dest</em> </td></tr>
+    <tr><td class="paramname">num</td><td>number of bytes to copy from <em>src</em> to <em>dest</em> </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>a pointer equal to <em>dest</em> </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>created on 2014-06-13 </dd></dl>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="../../da/d66/string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory ">memmove</a> </dd></dl>
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d9/d54/copy_8cpp_aeb83c95b0cdfdc603d71f23328f14cb1_icgraph.png" border="0" usemap="#d9/d54/copy_8cpp_aeb83c95b0cdfdc603d71f23328f14cb1_icgraph" alt=""/></div>
+<map name="d9/d54/copy_8cpp_aeb83c95b0cdfdc603d71f23328f14cb1_icgraph" id="d9/d54/copy_8cpp_aeb83c95b0cdfdc603d71f23328f14cb1_icgraph">
+<area shape="rect" id="node2" href="../../df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="132,5,295,32"/><area shape="rect" id="node4" href="../../df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="148,57,279,98"/><area shape="rect" id="node5" href="../../d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="140,123,287,149"/><area shape="rect" id="node8" href="../../d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="707,325,824,352"/><area shape="rect" id="node12" href="../../d0/d7f/namespacehal.html#ad231ce640650f0ef67962ff41f7b5014" title="hal::sort" alt="" coords="176,173,251,200"/><area shape="rect" id="node13" href="../../d0/d7f/namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="176,224,251,251"/><area shape="rect" id="node14" href="../../d0/d7f/namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="182,275,245,301"/><area shape="rect" id="node15" href="../../d0/d7f/namespacehal.html#a999cca0fe332310d9926a431173149f9" title="hal::add_phys_region" alt="" coords="134,376,293,403"/><area shape="rect" id="node16" href="../../d0/d7f/namespacehal.html#a640002963c71b7f311ddf99f187a5db7" title="hal::add_virt_region" alt="" coords="139,427,287,453"/><area shape="rect" id="node17" href="../../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="147,477,280,504"/><area shape="rect" id="node20" href="../../d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="157,528,269,555"/><area shape="rect" id="node3" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="343,35,464,61"/><area shape="rect" id="node6" href="../../d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="346,224,461,251"/><area shape="rect" id="node7" href="../../d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="512,275,659,301"/><area shape="rect" id="node10" href="../../d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="517,224,654,251"/><area shape="rect" id="node9" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="872,325,999,352"/><area shape="rect" id="node11" href="../../d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="714,249,817,276"/><area shape="rect" id="node18" href="../../d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="531,452,640,479"/><area shape="rect" id="node19" href="../../d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="362,427,445,453"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="ae8628c986b70205d34a160d2fb740680"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void* memmove </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>dest</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const void *&#160;</td>
+          <td class="paramname"><em>src</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>num</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>copies potentially overlapping memory </p>
+<p>using a left-to-right or right-to-left copy, copy <em>num</em> bytes from <em>src</em> to <em>dest</em> safely</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">dest</td><td>pointer to a block of memory at least <em>num</em> bytes big, MAY overlap with <em>src</em> </td></tr>
+    <tr><td class="paramname">src</td><td>pointer to a block of memory at least <em>num</em> bytes big, MAY overlap with <em>dest</em> </td></tr>
+    <tr><td class="paramname">num</td><td>number of bytes to copy from <em>src</em> to <em>dest</em> </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>pointer equal to <em>dest</em> </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>created on 2014-06-13 </dd></dl>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="../../da/d66/string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory ">memcpy</a> </dd></dl>
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d9/d54/copy_8cpp_ae8628c986b70205d34a160d2fb740680_icgraph.png" border="0" usemap="#d9/d54/copy_8cpp_ae8628c986b70205d34a160d2fb740680_icgraph" alt=""/></div>
+<map name="d9/d54/copy_8cpp_ae8628c986b70205d34a160d2fb740680_icgraph" id="d9/d54/copy_8cpp_ae8628c986b70205d34a160d2fb740680_icgraph">
+<area shape="rect" id="node2" href="../../d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="504,27,621,54"/><area shape="rect" id="node4" href="../../d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="147,39,261,66"/><area shape="rect" id="node8" href="../../d7/da2/namespacekernel.html#a6e4897103f6c207a9c2531daf8634859" title="kernel::scoot" alt="" coords="151,115,257,142"/><area shape="rect" id="node3" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="669,52,796,79"/><area shape="rect" id="node5" href="../../d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="309,27,456,54"/><area shape="rect" id="node6" href="../../d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="314,78,451,104"/><area shape="rect" id="node7" href="../../d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="511,78,614,104"/><area shape="rect" id="node9" href="../../d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="327,128,439,155"/></map>
 </div>
 </p>
 
@@ -421,7 +537,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_6719ab1f1f7655efc2fa43f7eb574fd1.html">libs</a></li><li class="navelem"><a class="el" href="../../dir_ae835f14967616d3091bae2fb59bd644.html">clib</a></li><li class="navelem"><a class="el" href="../../dir_0a02f203dde819d4854c894560ff5fb3.html">string</a></li><li class="navelem"><a class="el" href="../../d9/d54/copy_8cpp.html">copy.cpp</a></li>
-    <li class="footer">Generated on Sat Dec 13 2014 13:30:43 for MOSSY 2 by
+    <li class="footer">Generated on Sat Dec 13 2014 20:00:08 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

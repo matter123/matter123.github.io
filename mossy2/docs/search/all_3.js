@@ -27,6 +27,7 @@ var searchData=
   ['col',['col',['../da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888',1,'kernel::glyph_int']]],
   ['color',['color',['../d7/d79/classhal_1_1ostream.html#a022f5ed3efa9e73768eb77be6c7e9eac',1,'hal::ostream']]],
   ['combine',['combine',['../db/d9c/classhal_1_1ios__base.html#aaf2aeba0ba7971c7fc7dc07c6bdbf705',1,'hal::ios_base']]],
+  ['compare_2ecpp',['compare.cpp',['../d8/d69/compare_8cpp.html',1,'']]],
   ['console_2ecpp',['console.cpp',['../d9/dda/console_8cpp.html',1,'']]],
   ['console_2eh',['console.h',['../d0/de3/console_8h.html',1,'']]],
   ['conv_2ehpp',['conv.hpp',['../dc/dd9/conv_8hpp.html',1,'']]],

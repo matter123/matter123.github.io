@@ -3,6 +3,7 @@ var searchData=
   ['cat_2ecpp',['cat.cpp',['../d9/d63/cat_8cpp.html',1,'']]],
   ['codepoints_2ecpp',['codepoints.cpp',['../dc/d66/codepoints_8cpp.html',1,'']]],
   ['codeunits_2ecpp',['codeunits.cpp',['../d9/d37/codeunits_8cpp.html',1,'']]],
+  ['compare_2ecpp',['compare.cpp',['../d8/d69/compare_8cpp.html',1,'']]],
   ['console_2ecpp',['console.cpp',['../d9/dda/console_8cpp.html',1,'']]],
   ['console_2eh',['console.h',['../d0/de3/console_8h.html',1,'']]],
   ['conv_2ehpp',['conv.hpp',['../dc/dd9/conv_8hpp.html',1,'']]],

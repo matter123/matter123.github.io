@@ -1,6 +1,8 @@
 var copy_8cpp =
 [
     [ "mbsncpy", "d9/d54/copy_8cpp.html#a681c2d214690ce68f27d657a7a8a0c8e", null ],
+    [ "memcpy", "d9/d54/copy_8cpp.html#aeb83c95b0cdfdc603d71f23328f14cb1", null ],
+    [ "memmove", "d9/d54/copy_8cpp.html#ae8628c986b70205d34a160d2fb740680", null ],
     [ "strcpy", "d9/d54/copy_8cpp.html#a7a82515b5d377be04817715c5465b647", null ],
     [ "strlcpy", "d9/d54/copy_8cpp.html#a93fc0f33c53eb8f2dd70334700005e81", null ],
     [ "strncpy", "d9/d54/copy_8cpp.html#a26f62cd03235f1a3e4f88d233c49b675", null ],
