@@ -7,5 +7,6 @@ var pfa_8cpp =
     [ "count", "d6/d1b/pfa_8cpp.html#a400047baf98b949833df227c907d7a1e", null ],
     [ "end", "d6/d1b/pfa_8cpp.html#ac520c825a9d877d289a0baadc74c5616", null ],
     [ "k_data_end", "d6/d1b/pfa_8cpp.html#ad530007194b1cb8c41bb48790f125bd5", null ],
+    [ "k_stack_end", "d6/d1b/pfa_8cpp.html#a9cf9043ab5397399220079c006781ad2", null ],
     [ "stack", "d6/d1b/pfa_8cpp.html#a3f468a72b497e105fe69ca9a4d4480f5", null ]
 ];

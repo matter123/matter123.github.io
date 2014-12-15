@@ -1,6 +1,9 @@
 <map id="x64::recursive_paging::init" name="x64::recursive_paging::init">
-<area shape="rect" id="node2" href="$d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="216,31,339,57"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="411,5,513,32"/>
-<area shape="rect" id="node5" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="387,56,537,83"/>
-<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="585,5,712,32"/>
+<area shape="rect" id="node2" href="$d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="216,32,339,59"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="805,32,908,59"/>
+<area shape="rect" id="node5" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="398,32,549,59"/>
+<area shape="rect" id="node6" href="$d8/de8/namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="387,83,560,110"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="956,32,1083,59"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd" title="hal::unmap_virt_cur" alt="" coords="608,32,757,59"/>
+<area shape="rect" id="node8" href="$d8/de8/namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="621,83,745,110"/>
 </map>

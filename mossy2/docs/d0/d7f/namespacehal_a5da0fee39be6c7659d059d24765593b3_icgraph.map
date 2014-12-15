@@ -1,5 +1,9 @@
 <map id="hal::get_page_offset_addr" name="hal::get_page_offset_addr">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="243,5,389,32"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="437,5,555,32"/>
-<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="603,5,729,32"/>
+<area shape="rect" id="node2" href="$d8/de8/namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="243,56,416,83"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="256,107,403,133"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd" title="hal::unmap_virt_cur" alt="" coords="464,5,613,32"/>
+<area shape="rect" id="node4" href="$d8/de8/namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="477,56,601,83"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="669,56,771,83"/>
+<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="827,81,953,108"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="661,107,779,133"/>
 </map>

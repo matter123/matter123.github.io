@@ -1,12 +1,15 @@
 <map id="hal::register_int" name="hal::register_int">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="209,5,299,32"/>
-<area shape="rect" id="node5" href="$d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="193,56,315,83"/>
-<area shape="rect" id="node7" href="$d1/d08/namespacex86.html#ad2d07eef22e17f45585b7b9a3adbe1c0" title="x86::init_paging" alt="" coords="193,107,315,133"/>
-<area shape="rect" id="node9" href="$d7/da2/namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631" title="kernel::init_scheduler" alt="" coords="175,157,333,184"/>
-<area shape="rect" id="node10" href="$db/d1b/namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="209,208,299,235"/>
-<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="405,5,508,32"/>
-<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="580,95,707,121"/>
-<area shape="rect" id="node6" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="381,56,532,83"/>
-<area shape="rect" id="node8" href="$d1/d08/namespacex86.html#ab9e4d0e4571d9531648f20c875120f08" title="x86::pre_init_handle" alt="" coords="381,107,532,133"/>
-<area shape="rect" id="node11" href="$d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="397,183,517,209"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="632,5,723,32"/>
+<area shape="rect" id="node5" href="$d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="193,107,315,133"/>
+<area shape="rect" id="node10" href="$d1/d08/namespacex86.html#ad2d07eef22e17f45585b7b9a3adbe1c0" title="x86::init_paging" alt="" coords="193,157,315,184"/>
+<area shape="rect" id="node12" href="$d7/da2/namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631" title="kernel::init_scheduler" alt="" coords="175,208,333,235"/>
+<area shape="rect" id="node13" href="$db/d1b/namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="423,259,513,285"/>
+<area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="809,157,911,184"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="968,196,1095,223"/>
+<area shape="rect" id="node6" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="393,107,543,133"/>
+<area shape="rect" id="node7" href="$d8/de8/namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="381,157,555,184"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd" title="hal::unmap_virt_cur" alt="" coords="603,107,752,133"/>
+<area shape="rect" id="node9" href="$d8/de8/namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="615,157,739,184"/>
+<area shape="rect" id="node11" href="$d1/d08/namespacex86.html#ab9e4d0e4571d9531648f20c875120f08" title="x86::pre_init_handle" alt="" coords="393,208,543,235"/>
+<area shape="rect" id="node14" href="$d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="800,233,920,260"/>
 </map>

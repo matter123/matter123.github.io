@@ -1,5 +1,7 @@
 <map id="kernel::copy_rect" name="kernel::copy_rect">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="187,5,296,32"/>
-<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="200,56,283,83"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="344,5,471,32"/>
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0" title="kernel::reset_fb" alt="" coords="187,31,309,57"/>
+<area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="207,81,289,108"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="357,5,467,32"/>
+<area shape="rect" id="node5" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="379,56,445,83"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="515,5,641,32"/>
 </map>

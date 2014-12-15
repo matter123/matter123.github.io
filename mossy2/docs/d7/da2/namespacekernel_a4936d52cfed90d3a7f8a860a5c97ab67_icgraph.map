@@ -1,6 +1,5 @@
 <map id="kernel::fill_rect" name="kernel::fill_rect">
 <area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="169,5,255,32"/>
-<area shape="rect" id="node5" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="179,56,245,83"/>
 <area shape="rect" id="node3" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="303,5,443,32"/>
 <area shape="rect" id="node4" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="491,5,679,32"/>
 </map>

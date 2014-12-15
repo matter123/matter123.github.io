@@ -44,6 +44,7 @@ var searchData=
   ['stacks_5ftaken',['stacks_taken',['../d7/da2/namespacekernel.html#ad86be952c729f377aa41042510027c1b',1,'kernel']]],
   ['start',['start',['../d4/de0/structhal_1_1idt__range.html#a95f641b8ea8e76caffde1e19489a7fe5',1,'hal::idt_range::start()'],['../da/d29/structhal_1_1mem__region.html#a08985d298adf99ca9dbcbf39de08f9c7',1,'hal::mem_region::start()'],['../d7/da2/namespacekernel.html#a6361939678d3cb7efde8130184ff13aa',1,'kernel::start()']]],
   ['start_5floc',['start_loc',['../d4/df8/namespaceacpi_1_1os.html#adb6adf8b7cf6cdb1d1017d10e51a2760',1,'acpi::os']]],
+  ['state_5fbuf_5fbegin',['state_buf_begin',['../d0/d7f/namespacehal.html#a5baf13b4fdbfc39eb2146bb3875331d6',1,'hal']]],
   ['std',['std',['../d8/dcc/namespacestd.html',1,'']]],
   ['stdlib_2ecpp',['stdlib.cpp',['../da/d5c/stdlib_8cpp.html',1,'']]],
   ['stdlib_2eh',['stdlib.h',['../dc/d9c/stdlib_8h.html',1,'']]],

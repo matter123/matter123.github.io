@@ -16,7 +16,9 @@ var fb_8cpp =
     [ "noise", "dc/d75/fb_8cpp.html#abffe30725431328d828ae4f2d8d72507", null ],
     [ "pack_rgb", "dc/d75/fb_8cpp.html#a61f0eed7275e2ba7829bf649d880f91f", null ],
     [ "put_pixel", "dc/d75/fb_8cpp.html#a355d8850e9f616d4df16325d54f05a75", null ],
+    [ "reset_fb", "dc/d75/fb_8cpp.html#ad0d14b76602f710c46cbc4ea768e18d0", null ],
     [ "set_background", "dc/d75/fb_8cpp.html#a962e91919c6c79029c5a57f917cdb72a", null ],
+    [ "background_img", "dc/d75/fb_8cpp.html#a6f5cf47ff1a7ef4fb1702e6fba39b04a", null ],
     [ "dark", "dc/d75/fb_8cpp.html#af37f81d7fed238d964c9db1625c36f20", null ],
     [ "fb", "dc/d75/fb_8cpp.html#a23978d28f56999e1726be40d2422e6f0", null ],
     [ "light", "dc/d75/fb_8cpp.html#a38c911239d411b62463a3c2f8b80248e", null ]

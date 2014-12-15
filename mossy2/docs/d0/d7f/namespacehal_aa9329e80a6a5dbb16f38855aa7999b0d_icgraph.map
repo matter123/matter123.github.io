@@ -1,11 +1,8 @@
 <map id="hal::width" name="hal::width">
 <area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a7854e96165a7643b4d804d9b779e822a" title="hal::print_boot_msg" alt="" coords="137,5,287,32"/>
 <area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="151,56,273,83"/>
-<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="169,107,255,133"/>
-<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="359,5,450,32"/>
-<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="345,56,465,83"/>
-<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="565,5,668,32"/>
-<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="759,5,885,32"/>
-<area shape="rect" id="node9" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="335,107,475,133"/>
-<area shape="rect" id="node10" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="523,107,711,133"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="349,31,440,57"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a02550387ade2b6f824ab5c7b0a8a4807" title="hal::call_handle" alt="" coords="335,81,455,108"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="503,31,605,57"/>
+<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="653,31,780,57"/>
 </map>

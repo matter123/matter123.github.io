@@ -1,4 +1,27 @@
 <map id="hal::unmap_virt_cur" name="hal::unmap_virt_cur">
-<area shape="rect" id="node2" href="$d8/de8/namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="203,5,376,32"/>
-<area shape="rect" id="node3" href="$d8/dcc/namespacestd.html#afdb0985300047fc04bb3e2af35aee342" title="std::max" alt="" coords="424,5,503,32"/>
+<area shape="rect" id="node2" href="$d8/de8/namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="203,176,376,203"/>
+<area shape="rect" id="node3" href="$d7/db0/namespacex64.html#ab3f41b6c905fa03a19be14e0a5f000a0" title="x64::paging_ready" alt="" coords="448,20,589,47"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="444,71,593,97"/>
+<area shape="rect" id="node7" href="$d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="457,151,580,177"/>
+<area shape="rect" id="node19" href="$d0/d7f/namespacehal.html#a5da0fee39be6c7659d059d24765593b3" title="hal::get_page_offset_addr" alt="" coords="424,201,613,228"/>
+<area shape="rect" id="node20" href="$d0/d7f/namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="425,252,612,279"/>
+<area shape="rect" id="node26" href="$d8/dcc/namespacestd.html#afdb0985300047fc04bb3e2af35aee342" title="std::max" alt="" coords="479,303,558,329"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="704,5,789,32"/>
+<area shape="rect" id="node6" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="713,56,780,83"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="686,107,807,133"/>
+<area shape="rect" id="node15" href="$d2/d70/classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350" title="x64::recursive_paging\l::init" alt="" coords="665,158,828,199"/>
+<area shape="rect" id="node17" href="$d8/de8/namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="661,224,832,251"/>
+<area shape="rect" id="node9" href="$d0/d7f/namespacehal.html#a4b3daba30c28c10c98c462983bc9112a" title="hal::register_stub_int" alt="" coords="880,17,1036,44"/>
+<area shape="rect" id="node11" href="$d1/d21/x64_2hal__idt_8cpp.html#a0ad5965fbe70c123dea28c1c1f3fb839" title="exc_stub_sched" alt="" coords="895,68,1021,95"/>
+<area shape="rect" id="node12" href="$db/d1b/namespacepc.html#abf1e0ca15190365b51b564d399dc9d6c" title="pc::callback" alt="" coords="909,119,1007,145"/>
+<area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#af41dcfe227cf671c01ad5cf506e3f89c" title="hal::register_asm_stub_int" alt="" coords="1084,17,1275,44"/>
+<area shape="rect" id="node13" href="$d2/d2d/arch_8h.html#a2256b8dcfeb5985e49f21ed5e4794943" title="get_int_num" alt="" coords="1128,93,1231,120"/>
+<area shape="rect" id="node14" href="$dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="1154,144,1205,171"/>
+<area shape="rect" id="node16" href="$d7/db0/namespacex64.html#a17d0ad570be106167f3587ae21b31324" title="x64::PML4_OFF" alt="" coords="899,169,1017,196"/>
+<area shape="rect" id="node18" href="$d7/da2/namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="906,221,1010,248"/>
+<area shape="rect" id="node21" href="$d2/d70/classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="665,293,828,334"/>
+<area shape="rect" id="node22" href="$d7/db0/namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="899,272,1017,299"/>
+<area shape="rect" id="node23" href="$d7/db0/namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="907,323,1009,349"/>
+<area shape="rect" id="node24" href="$d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="907,373,1009,400"/>
+<area shape="rect" id="node25" href="$d7/db0/namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="904,424,1012,451"/>
 </map>

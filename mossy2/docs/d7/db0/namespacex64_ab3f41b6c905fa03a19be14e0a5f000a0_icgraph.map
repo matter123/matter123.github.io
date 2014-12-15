@@ -1,4 +1,7 @@
 <map id="x64::paging_ready" name="x64::paging_ready">
-<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="195,5,297,32"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="345,5,472,32"/>
+<area shape="rect" id="node2" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="613,31,716,57"/>
+<area shape="rect" id="node4" href="$d8/de8/namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="195,31,368,57"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="764,31,891,57"/>
+<area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd" title="hal::unmap_virt_cur" alt="" coords="416,31,565,57"/>
+<area shape="rect" id="node6" href="$d8/de8/namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="429,81,553,108"/>
 </map>

@@ -1,7 +1,10 @@
 <map id="x64::PML4_OFF" name="x64::PML4_OFF">
-<area shape="rect" id="node2" href="$d2/d70/classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350" title="x64::recursive_paging\l::init" alt="" coords="172,23,335,65"/>
-<area shape="rect" id="node3" href="$d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="383,31,505,57"/>
-<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="577,5,680,32"/>
-<area shape="rect" id="node6" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="553,56,704,83"/>
-<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="752,5,879,32"/>
+<area shape="rect" id="node2" href="$d2/d70/classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350" title="x64::recursive_paging\l::init" alt="" coords="172,25,335,66"/>
+<area shape="rect" id="node3" href="$d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="383,32,505,59"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="972,32,1075,59"/>
+<area shape="rect" id="node6" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="565,32,715,59"/>
+<area shape="rect" id="node7" href="$d8/de8/namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6" title="x86_64::add_free_page" alt="" coords="553,83,727,110"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1123,32,1249,59"/>
+<area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd" title="hal::unmap_virt_cur" alt="" coords="775,32,924,59"/>
+<area shape="rect" id="node9" href="$d8/de8/namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="787,83,911,110"/>
 </map>

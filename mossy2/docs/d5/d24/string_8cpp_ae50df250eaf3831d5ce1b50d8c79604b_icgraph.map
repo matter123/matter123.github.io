@@ -1,8 +1,7 @@
 <map id="memset32" name="memset32">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67" title="kernel::fill_rect" alt="" coords="148,31,264,57"/>
-<area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#a25625eb5b8183007e48aaa158f20114f" title="kernel::fill_hline" alt="" coords="145,81,267,108"/>
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67" title="kernel::fill_rect" alt="" coords="148,5,264,32"/>
+<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a25625eb5b8183007e48aaa158f20114f" title="kernel::fill_hline" alt="" coords="145,56,267,83"/>
 <area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="315,5,400,32"/>
-<area shape="rect" id="node6" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="324,56,391,83"/>
 <area shape="rect" id="node4" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="448,5,588,32"/>
 <area shape="rect" id="node5" href="$d7/d79/classhal_1_1ostream.html#a459b9943672cf63abf52795d5e178f0e" title="hal::ostream::operator\&lt;\&lt;" alt="" coords="636,5,824,32"/>
 </map>
