@@ -12,6 +12,6 @@ var searchData=
   ['remove_5finvalid',['remove_invalid',['../d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9',1,'hal']]],
   ['reserve_5frange',['reserve_range',['../d0/d7f/namespacehal.html#a9171645550c7ad1ab28040ef2bcc4d97',1,'hal']]],
   ['reset_5fcounter',['reset_counter',['../d0/d7f/namespacehal.html#a49389c248291e7145ce498ebfa9f3ecf',1,'hal']]],
-  ['reset_5ffb',['reset_fb',['../d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0',1,'kernel']]],
+  ['reset_5ffb',['reset_fb',['../d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0',1,'kernel::reset_fb()'],['../d7/da2/namespacekernel.html#a7339fb7bafea6a0c27b18ffdbd528251',1,'kernel::reset_fb(int x, int y, int w, int h, int img_x, int img_y)'],['../d7/da2/namespacekernel.html#aafc4f8f375f470d51684cc6f155df326',1,'kernel::reset_fb(int x, int y, int w, int h)']]],
   ['run_5ftest',['run_test',['../de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d',1,'kernel::test_module']]]
 ];

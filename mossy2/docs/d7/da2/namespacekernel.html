@@ -163,6 +163,8 @@ Functions</h2></td></tr>
 <tr class="separator:a9b8c7cd21c16aa2a1b99091d7fff0ccf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad0d14b76602f710c46cbc4ea768e18d0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0">reset_fb</a> ()</td></tr>
 <tr class="separator:ad0d14b76602f710c46cbc4ea768e18d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7339fb7bafea6a0c27b18ffdbd528251"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a7339fb7bafea6a0c27b18ffdbd528251">reset_fb</a> (int x, int y, int w, int h, int img_x, int img_y)</td></tr>
+<tr class="separator:a7339fb7bafea6a0c27b18ffdbd528251"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a355d8850e9f616d4df16325d54f05a75"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75">put_pixel</a> (int x, int y, uint32_t color)</td></tr>
 <tr class="separator:a355d8850e9f616d4df16325d54f05a75"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af2c053e24139ec5dd3d85f481a8df6be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be">copy_rect</a> (int x, int y, int w, int h, void *rect_buf)</td></tr>
@@ -225,6 +227,8 @@ Functions</h2></td></tr>
 <tr class="separator:a42aa075aa1bf373faef12862f3035d3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa8ee887a1b33655631a3f66d6be3a631"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631">init_scheduler</a> (<a class="el" href="../../db/db7/structkernel_1_1thread__info.html">thread_info</a> *cur_task)</td></tr>
 <tr class="separator:aa8ee887a1b33655631a3f66d6be3a631"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafc4f8f375f470d51684cc6f155df326"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#aafc4f8f375f470d51684cc6f155df326">reset_fb</a> (int x, int y, int w, int h)</td></tr>
+<tr class="separator:aafc4f8f375f470d51684cc6f155df326"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa60b33805708791a7818c26c2b87fcdc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/db7/structkernel_1_1thread__info.html">thread_info</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#aa60b33805708791a7818c26c2b87fcdc">create_task</a> (uintptr_t stack, void *func, bool kernel, uint32_t PID)</td></tr>
 <tr class="separator:aa60b33805708791a7818c26c2b87fcdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3347cac35eac3e3e6f58c17d0eef83f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad3347cac35eac3e3e6f58c17d0eef83f">init_tr</a> ()</td></tr>
@@ -1018,6 +1022,15 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d7/da2/namespacekernel_ad8873c419f1177672f1ea967a10961e0_icgraph.png" border="0" usemap="#d7/da2/namespacekernel_ad8873c419f1177672f1ea967a10961e0_icgraph" alt=""/></div>
+<map name="d7/da2/namespacekernel_ad8873c419f1177672f1ea967a10961e0_icgraph" id="d7/da2/namespacekernel_ad8873c419f1177672f1ea967a10961e0_icgraph">
+<area shape="rect" id="node2" href="../../d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="160,5,243,32"/></map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a816dd7de50b298f7da316313ab00c594"></a>
@@ -1575,6 +1588,44 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
+<a class="anchor" id="aafc4f8f375f470d51684cc6f155df326"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void kernel::reset_fb </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>w</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>h</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ad0d14b76602f710c46cbc4ea768e18d0"></a>
 <div class="memitem">
 <div class="memproto">
@@ -1603,6 +1654,65 @@ Here is the caller graph for this function:</div>
 <div class="center"><img src="../../d7/da2/namespacekernel_ad0d14b76602f710c46cbc4ea768e18d0_icgraph.png" border="0" usemap="#d7/da2/namespacekernel_ad0d14b76602f710c46cbc4ea768e18d0_icgraph" alt=""/></div>
 <map name="d7/da2/namespacekernel_ad0d14b76602f710c46cbc4ea768e18d0_icgraph" id="d7/da2/namespacekernel_ad0d14b76602f710c46cbc4ea768e18d0_icgraph">
 <area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="176,5,285,32"/><area shape="rect" id="node4" href="../../d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="197,56,264,83"/><area shape="rect" id="node3" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="333,5,460,32"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a7339fb7bafea6a0c27b18ffdbd528251"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void kernel::reset_fb </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>w</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>h</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>img_x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>img_y</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d7/da2/namespacekernel_a7339fb7bafea6a0c27b18ffdbd528251_cgraph.png" border="0" usemap="#d7/da2/namespacekernel_a7339fb7bafea6a0c27b18ffdbd528251_cgraph" alt=""/></div>
+<map name="d7/da2/namespacekernel_a7339fb7bafea6a0c27b18ffdbd528251_cgraph" id="d7/da2/namespacekernel_a7339fb7bafea6a0c27b18ffdbd528251_cgraph">
+<area shape="rect" id="node2" href="../../da/d66/string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="176,5,255,32"/></map>
 </div>
 </p>
 
@@ -2041,7 +2151,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/da2/namespacekernel.html">kernel</a></li>
-    <li class="footer">Generated on Sun Dec 14 2014 22:00:14 for MOSSY 2 by
+    <li class="footer">Generated on Mon Dec 15 2014 14:30:18 for MOSSY 2 by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>
