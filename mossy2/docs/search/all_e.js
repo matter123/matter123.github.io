@@ -12,6 +12,7 @@ var searchData=
   ['normalize',['normalize',['../dd/db0/namespaceunicode_1_1utf8.html#a302f3535d531172ef0e2bf009c826be3',1,'unicode::utf8']]],
   ['normalizen',['normalizen',['../dd/db0/namespaceunicode_1_1utf8.html#aa84eb90412853ab709fdc13d1c69ef0c',1,'unicode::utf8']]],
   ['not',['NOT',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a0518c45de17d540abebce25c9afa5fa9',1,'kernel']]],
+  ['nullptr_5ft',['nullptr_t',['../d8/dcc/namespacestd.html#a434932eec359f259df5e75c242397884',1,'std']]],
   ['num_5fcolor',['num_color',['../d5/d5e/structhal_1_1multiboot__ci__0.html#a6b8cd1e54a0a6307c93f4721e788289c',1,'hal::multiboot_ci_0']]],
   ['num_5fglyphs',['num_glyphs',['../d3/da9/structkernel_1_1mbf__head.html#a13c1d5cccbe84e6036c99e9a3be66421',1,'kernel::mbf_head']]],
   ['numtostr',['numtostr',['../d8/dcc/namespacestd.html#a48baa81cb509054ae53168ca5b0fda96',1,'std']]],

@@ -1,5 +1,6 @@
 <map id="kernel::reset_fb" name="kernel::reset_fb">
 <area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="176,5,285,32"/>
-<area shape="rect" id="node4" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="197,56,264,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="189,56,272,83"/>
+<area shape="rect" id="node5" href="$d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="197,107,264,133"/>
 <area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="333,5,460,32"/>
 </map>

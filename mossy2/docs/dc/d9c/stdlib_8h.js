@@ -22,5 +22,6 @@ var stdlib_8h =
     [ "stroull", "dc/d9c/stdlib_8h.html#aa0a26a3a229e2feaed02a91671a0db1d", null ],
     [ "ulltoa", "dc/d9c/stdlib_8h.html#ae7e665b2cd7db799a932a8745e34d821", null ],
     [ "ultoa", "dc/d9c/stdlib_8h.html#abcb262a9b96810d8483a665d6100f813", null ],
-    [ "utoa", "dc/d9c/stdlib_8h.html#a5a74d28d5863f08790d9457b84994276", null ]
+    [ "utoa", "dc/d9c/stdlib_8h.html#a5a74d28d5863f08790d9457b84994276", null ],
+    [ "nullptr_t", "dc/d9c/stdlib_8h.html#a434932eec359f259df5e75c242397884", null ]
 ];

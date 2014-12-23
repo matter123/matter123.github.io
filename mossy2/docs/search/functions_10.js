@@ -9,6 +9,7 @@ var searchData=
   ['set_5fmon',['set_mon',['../de/daf/time_8cpp.html#a92e17d55930effdd8b42ef998f1549fd',1,'time.cpp']]],
   ['set_5freg',['set_reg',['../d2/d2d/arch_8h.html#ad2a5fe557c248b09971b07873319494c',1,'arch.h']]],
   ['set_5fstack_5fpointer',['set_stack_pointer',['../d2/d2d/arch_8h.html#aaaf27f035afe8c9427ad611c2d30de00',1,'arch.h']]],
+  ['shared_5fptr',['shared_ptr',['../df/ddb/classstd_1_1shared__ptr.html#a1a7e1c3ab5154e771577d2f4ad974a4b',1,'std::shared_ptr::shared_ptr()'],['../df/ddb/classstd_1_1shared__ptr.html#a79084db346ba101fdb18a37f0481a055',1,'std::shared_ptr::shared_ptr(nullptr_t)'],['../df/ddb/classstd_1_1shared__ptr.html#a398695580da180bff406e5b5660a6457',1,'std::shared_ptr::shared_ptr(T *ptr)'],['../df/ddb/classstd_1_1shared__ptr.html#a052c2dd7ee2638230730dd7706ece4dc',1,'std::shared_ptr::shared_ptr(const shared_ptr&lt; T &gt; &amp;rhs)'],['../df/ddb/classstd_1_1shared__ptr.html#a42e16e92900c3a9740003f70ffd3757a',1,'std::shared_ptr::shared_ptr(shared_ptr&lt; T &gt; &amp;&amp;rhs)'],['../df/ddb/classstd_1_1shared__ptr.html#a487f41d4ba10660114fc57e6077380b6',1,'std::shared_ptr::shared_ptr(const unique_ptr&lt; T &gt; &amp;&amp;rhs)']]],
   ['signal',['signal',['../d4/d6c/classkernel_1_1semaphore.html#aa670699082b90df8b501b2fe4fc2afc4',1,'kernel::semaphore']]],
   ['sin',['sin',['../df/db1/math_8h.html#ab0aeb9c9537af5dbff41b34bf93874bc',1,'sin(double angle):&#160;math.cpp'],['../dd/d2d/math_8cpp.html#ab0aeb9c9537af5dbff41b34bf93874bc',1,'sin(double angle):&#160;math.cpp']]],
   ['sort',['sort',['../d0/d7f/namespacehal.html#ad231ce640650f0ef67962ff41f7b5014',1,'hal']]],
@@ -41,5 +42,6 @@ var searchData=
   ['strtok',['strtok',['../da/d66/string_8h.html#a8cb460f64c449f2a9b9b7a40569ce0fe',1,'strtok(char *str, const char *delim):&#160;string.cpp'],['../d5/d24/string_8cpp.html#a8cb460f64c449f2a9b9b7a40569ce0fe',1,'strtok(char *str, const char *delim):&#160;string.cpp']]],
   ['strtonum',['strtonum',['../d8/dcc/namespacestd.html#a0c9af6d56d382dd024287f009ab1e13d',1,'std']]],
   ['subtract_5fleap',['subtract_leap',['../de/daf/time_8cpp.html#ab144c07538190318db1f1eacb9eeec26',1,'time.cpp']]],
+  ['swap',['swap',['../df/ddb/classstd_1_1shared__ptr.html#ac83851289b4ad49263ce429bfc30948c',1,'std::shared_ptr::swap()'],['../dd/def/classstd_1_1unique__ptr.html#ad140028ad258497bddbf54fde162aeb0',1,'std::unique_ptr::swap()'],['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a0960ad58b9c526b0e590e75bacd81b1f',1,'std::unique_ptr&lt; T[]&gt;::swap()']]],
   ['swap_5fbyte_5forder',['swap_byte_order',['../d0/d7f/namespacehal.html#aa445d3ada0aa6545228b18c031982422',1,'hal']]]
 ];
