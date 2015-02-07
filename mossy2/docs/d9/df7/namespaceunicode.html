@@ -410,6 +410,22 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>general purpose encoding conversion </p>
+<dl class="section note"><dt>Note</dt><dd>currently not implemented</dd></dl>
+<p>converts a stream between two different encodings</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">stream</td><td>input stream of bytes </td></tr>
+    <tr><td class="paramname">in_len</td><td>input stream length </td></tr>
+    <tr><td class="paramname">from</td><td>best guess of input stream encoding </td></tr>
+    <tr><td class="paramname">to</td><td>desired output encoding </td></tr>
+    <tr><td class="paramname">out_stream</td><td>pointer to output stream of bytes </td></tr>
+    <tr><td class="paramname">out_len</td><td>max length of output stream</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section note"><dt>Note</dt><dd>if both out_stream and out_len are NULL and 0, respectively <em>convert</em> will allocate a stream of the required length, the caller is responsible to <em>free</em> the stream when done</dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>number of bytes copied to <em>out_stream</em> if the values is larger than <em>out_len</em>, the output stream was not big enough to contain the entire input stream, and the value returned is how big the output stream needs to be</dd></dl>
+<dl class="section date"><dt>Date</dt><dd>created on 2014-10-19</dd></dl>
 <p>converts a stream between two different encodings</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
@@ -508,7 +524,7 @@ Here is the caller graph for this function:</div>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>the detected encoding, or UNKOWN if unable to detect encoding </dd></dl>
 <dl class="section date"><dt>Date</dt><dd>created on 2014-10-18</dd></dl>
-<p>uses he </p>
+<p>uses heuristics to try to detect </p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -579,7 +595,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/df7/namespaceunicode.html">unicode</a></li>
-    <li class="footer">Generated on Sat Feb 7 2015 14:00:03 for MOSSY by
+    <li class="footer">Generated on Sat Feb 7 2015 14:30:03 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

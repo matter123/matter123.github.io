@@ -11,7 +11,7 @@ var searchData=
   ['fill_5fvline',['fill_vline',['../d7/da2/namespacekernel.html#a2c0cd7e246bfc51d96c2cc9424e02ab7',1,'kernel']]],
   ['find_5frsdp',['find_rsdp',['../df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e',1,'acpi::tables']]],
   ['firmware',['firmware',['../df/d4e/classhal_1_1mem__type.html#ae22f51f1f76275a16f9eca84ba52fe29',1,'hal::mem_type']]],
-  ['first',['first',['../d7/da2/namespacekernel.html#ab8ce36169f7c1addbf9776552b044d60',1,'kernel::first()'],['../d7/da2/namespacekernel.html#ab8ce36169f7c1addbf9776552b044d60',1,'kernel::first()']]],
+  ['first',['first',['../d7/da2/namespacekernel.html#ab8ce36169f7c1addbf9776552b044d60',1,'kernel']]],
   ['fix_5fmmap',['fix_mmap',['../d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9',1,'hal::fix_mmap()'],['../d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9',1,'hal::fix_mmap()']]],
   ['free',['free',['../d4/d48/structkernel_1_1HEAD.html#ab2bf2ae287b06c12787225971657a32b',1,'kernel::HEAD::free()'],['../da/d01/srcs_2c_2include_2stdlib_8h.html#afbedc913aa4651b3c3b4b3aecd9b4711',1,'free():&#160;heap.cpp'],['../d7/da2/namespacekernel.html#abf20922f3940efb87c628f39b6f18039',1,'kernel::free()'],['../db/d3c/sysroot_2usr_2include_2stdlib_8h.html#afbedc913aa4651b3c3b4b3aecd9b4711',1,'free():&#160;heap.cpp']]],
   ['free_5fcount',['free_count',['../d4/d6c/classkernel_1_1semaphore.html#a4e9d80312310f90a7a99399c5ffb4aa9',1,'kernel::semaphore']]],

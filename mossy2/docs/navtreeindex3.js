@@ -1,8 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"d8/d8b/kstacks_8cpp.html#a06a8e1bc1b0d7a650aba26bd76f95a4e":[4,0,0,1,5,3,3],
-"d8/d8b/kstacks_8cpp.html#a1d9c0ce5fcaf1370c1895e740ac798f1":[4,0,0,1,5,3,2],
-"d8/d8b/kstacks_8cpp.html#a5b15a439c9fd2854756fa49827ca2877":[4,0,0,1,5,3,0],
 "d8/d8b/kstacks_8cpp.html#a5cd14b2c228f8729d0a91456f57e1d3e":[4,0,0,1,5,3,4],
 "d8/d8b/kstacks_8cpp.html#a6be8a41112d379cb44810ec132f56966":[4,0,0,1,5,3,6],
 "d8/d8b/kstacks_8cpp.html#a816dd7de50b298f7da316313ab00c594":[4,0,0,1,5,3,1],
@@ -237,7 +234,7 @@ var NAVTREEINDEX3 =
 "da/d2c/acpi__os_8h.html#a0cdb498f84308d92c7dfb232638ca1c7":[4,0,0,1,0,0,1,2],
 "da/d2c/acpi__os_8h.html#a75c26c986600efd3f56c543936c40688":[4,0,0,1,0,0,1,0],
 "da/d2c/acpi__os_8h.html#a7fe890295fc09985e0dcf4d894e51a11":[4,0,0,1,0,0,1,1],
-"da/d4b/unique__ptr_8h.html":[4,0,0,1,4,0,9],
+"da/d4b/unique__ptr_8h.html":[4,0,0,1,4,0,8],
 "da/d5c/stdlib_8cpp.html":[4,0,0,0,5],
 "da/d5c/stdlib_8cpp.html#a53e8d1f366b7581b51b222c2e02aa765":[4,0,0,0,5,2],
 "da/d5c/stdlib_8cpp.html#a5a74d28d5863f08790d9457b84994276":[4,0,0,0,5,8],
@@ -249,5 +246,8 @@ var NAVTREEINDEX3 =
 "da/d5c/stdlib_8cpp.html#ae7e665b2cd7db799a932a8745e34d821":[4,0,0,0,5,6],
 "da/d5c/stdlib_8cpp.html#aec327ac88a4cd588e82a8b0ac752b089":[4,0,0,0,5,0],
 "da/d9b/classkernel_1_1mutex.html":[3,0,2,4],
-"da/d9b/classkernel_1_1mutex.html#a30d76ef8033b9ee0e2c92cb633126870":[3,0,2,4,1]
+"da/d9b/classkernel_1_1mutex.html#a30d76ef8033b9ee0e2c92cb633126870":[3,0,2,4,1],
+"da/d9b/classkernel_1_1mutex.html#a6f767fef1e0f9f6289d5179e1b3d1acb":[3,0,2,4,4],
+"da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2":[3,0,2,4,0],
+"da/d9b/classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78":[3,0,2,4,3]
 };

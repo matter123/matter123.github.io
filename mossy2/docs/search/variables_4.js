@@ -8,7 +8,7 @@ var searchData=
   ['def_5fback_5fcolor',['def_back_color',['../d7/d79/classhal_1_1ostream.html#a96d0c5dd0e4b6130e197f03ec03a2c20',1,'hal::ostream']]],
   ['def_5fcolor',['def_color',['../d7/d79/classhal_1_1ostream.html#a7488513736240e2072fda9c85f1eb21c',1,'hal::ostream']]],
   ['def_5fcp_5fidx',['def_cp_idx',['../d3/da9/structkernel_1_1mbf__head.html#ad682ed42e1741c7d63b3ce9a5de81497',1,'kernel::mbf_head']]],
-  ['depends',['depends',['../de/d97/classkernel_1_1test__module.html#a173e797a28c264e65e508af7717d41c9',1,'kernel::test_module']]],
+  ['depends',['depends',['../de/d97/classkernel_1_1test__module.html#a6bcc957a8d41d93c32c0ddd2e642ba29',1,'kernel::test_module']]],
   ['dgray',['DGRAY',['../d3/d75/namespacestd_1_1TC.html#abc7951d5af9a517a6c608f51e36443a4',1,'std::TC']]],
   ['dgreen',['DGREEN',['../d3/d75/namespacestd_1_1TC.html#ad6666be821d858871051dbda7292591d',1,'std::TC']]],
   ['dirty',['dirty',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a1194d80c7d3b4c5e672cf3930b300cda',1,'x64::recursive_paging::pte::dirty()'],['../df/deb/structx86_1_1recursive__paging_1_1pte.html#ace93ef8a8b373b176c32ef42e93bd2bd',1,'x86::recursive_paging::pte::dirty()']]],

@@ -9,7 +9,6 @@ var dir_26333bac0cd0266176c413fafa046ee7 =
       [ "shared_ptr", "df/ddb/classstd_1_1shared__ptr.html", "df/ddb/classstd_1_1shared__ptr" ]
     ] ],
     [ "struct.h", "df/dec/struct_8h.html", null ],
-    [ "test.h", "dd/db4/srcs_2kernel_2stdlib_2include_2test_8h.html", "dd/db4/srcs_2kernel_2stdlib_2include_2test_8h" ],
     [ "text_color.h", "d7/df6/text__color_8h.html", "d7/df6/text__color_8h" ],
     [ "unique_ptr.h", "da/d4b/unique__ptr_8h.html", [
       [ "unique_ptr", "dd/def/classstd_1_1unique__ptr.html", "dd/def/classstd_1_1unique__ptr" ],
