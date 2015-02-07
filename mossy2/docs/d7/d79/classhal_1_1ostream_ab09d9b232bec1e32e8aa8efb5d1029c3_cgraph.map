@@ -1,6 +1,6 @@
 <map id="hal::ostream::operator&lt;&lt;" name="hal::ostream::operator&lt;&lt;">
 <area shape="rect" id="node2" href="$d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306" title="hal::ostream::print" alt="" coords="241,38,381,65"/>
-<area shape="rect" id="node13" href="$d8/dcc/namespacestd.html#a9802506ca8db2480cbb6240745041541" title="std::numtostr" alt="" coords="257,89,366,115"/>
+<area shape="rect" id="node13" href="$d8/dcc/namespacestd.html#a9802506ca8db2480cbb6240745041541" title="turns a number into a string " alt="" coords="257,89,366,115"/>
 <area shape="rect" id="node3" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="807,5,941,47"/>
 <area shape="rect" id="node4" href="$dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46" title="turns c into codepoint " alt="" coords="563,38,759,65"/>
 <area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95" title="hal::printc" alt="" coords="429,114,515,141"/>

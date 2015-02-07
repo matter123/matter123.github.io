@@ -145,9 +145,11 @@ Enumerations</h2></td></tr>
 Functions</h2></td></tr>
 <tr class="memitem:a9802506ca8db2480cbb6240745041541"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:a9802506ca8db2480cbb6240745041541"><td class="memTemplItemLeft" align="right" valign="top">char *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/dcc/namespacestd.html#a9802506ca8db2480cbb6240745041541">numtostr</a> (T value, char *str, int base, bool uppercase, int min_digits=0)</td></tr>
+<tr class="memdesc:a9802506ca8db2480cbb6240745041541"><td class="mdescLeft">&#160;</td><td class="mdescRight">turns a number into a string  <a href="#a9802506ca8db2480cbb6240745041541">More...</a><br /></td></tr>
 <tr class="separator:a9802506ca8db2480cbb6240745041541"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0c9af6d56d382dd024287f009ab1e13d"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:a0c9af6d56d382dd024287f009ab1e13d"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/dcc/namespacestd.html#a0c9af6d56d382dd024287f009ab1e13d">strtonum</a> (const char *str, T def)</td></tr>
+<tr class="memdesc:a0c9af6d56d382dd024287f009ab1e13d"><td class="mdescLeft">&#160;</td><td class="mdescRight">converts a string into a number  <a href="#a0c9af6d56d382dd024287f009ab1e13d">More...</a><br /></td></tr>
 <tr class="separator:a0c9af6d56d382dd024287f009ab1e13d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a25b422e2a18c02cd925f693e65550a18"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcc/namespacestd.html#a25b422e2a18c02cd925f693e65550a18">debug</a> (<a class="el" href="../../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8aff">debug_level</a> level, const char *s)</td></tr>
 <tr class="separator:a25b422e2a18c02cd925f693e65550a18"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -430,6 +432,22 @@ template&lt;class T &gt; </div>
       </table>
 </div><div class="memdoc">
 
+<p>turns a number into a string </p>
+<p>using the various paramaters turn <em>value</em> into a string and store the string in \</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">value</td><td>the value to convert into a string </td></tr>
+    <tr><td class="paramname">str</td><td>the location to store the string </td></tr>
+    <tr><td class="paramname">base</td><td>which base to use, limited to 2-36 </td></tr>
+    <tr><td class="paramname">uppercase</td><td>on bases greater than 10, should the letters be uppercase or lowercase </td></tr>
+    <tr><td class="paramname">min_digits</td><td>minimum number of digits to store in str, if the representation is less than <em>min_digits</em> then it will be left padded with '0' </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd><em>str</em> </dd></dl>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="../../d8/dcc/namespacestd.html#a0c9af6d56d382dd024287f009ab1e13d" title="converts a string into a number ">strtonum</a> </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>created on 2014-05-30 </dd></dl>
+
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -482,6 +500,19 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>converts a string into a number </p>
+<p>converts <em>str</em> into a number if no numerals are found return <em>def</em> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">str</td><td>the string to search </td></tr>
+    <tr><td class="paramname">def</td><td>the default value if no numerals are found </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>the number or <em>def</em> </dd></dl>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="../../d8/dcc/namespacestd.html#a9802506ca8db2480cbb6240745041541" title="turns a number into a string ">numtostr</a> </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>created on 2014-05-30 </dd></dl>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -610,7 +641,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/dcc/namespacestd.html">std</a></li>
-    <li class="footer">Generated on Sat Feb 7 2015 13:30:34 for MOSSY by
+    <li class="footer">Generated on Sat Feb 7 2015 14:00:03 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

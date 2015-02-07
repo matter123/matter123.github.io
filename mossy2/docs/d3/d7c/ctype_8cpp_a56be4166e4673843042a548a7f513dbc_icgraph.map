@@ -1,5 +1,5 @@
 <map id="isspace" name="isspace">
-<area shape="rect" id="node2" href="$d8/dcc/namespacestd.html#a0c9af6d56d382dd024287f009ab1e13d" title="std::strtonum" alt="" coords="124,56,233,83"/>
+<area shape="rect" id="node2" href="$d8/dcc/namespacestd.html#a0c9af6d56d382dd024287f009ab1e13d" title="converts a string into a number " alt="" coords="124,56,233,83"/>
 <area shape="rect" id="node3" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#aec327ac88a4cd588e82a8b0ac752b089" title="atoi" alt="" coords="283,5,329,32"/>
 <area shape="rect" id="node4" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#ad92c5a918e5bcd89416deb3b64fb46ee" title="atol" alt="" coords="283,56,329,83"/>
 <area shape="rect" id="node5" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a53e8d1f366b7581b51b222c2e02aa765" title="atoll" alt="" coords="281,107,331,133"/>

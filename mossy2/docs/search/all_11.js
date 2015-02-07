@@ -60,6 +60,6 @@ var searchData=
   ['rsi',['rsi',['../da/d9b/structcpu__state.html#a912e2db17309aa3738cecce250852ff8',1,'cpu_state']]],
   ['rsp',['rsp',['../da/d9b/structcpu__state.html#a20bea1cb6c0dbc0c87814665c0f9d997',1,'cpu_state']]],
   ['rsv',['rsv',['../d1/d11/structhal_1_1multiboot__fb.html#abba9b2b1ecece905ee08f2d61b36c948',1,'hal::multiboot_fb']]],
-  ['run_5ftest',['run_test',['../de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d',1,'kernel::test_module']]],
+  ['run_5ftest',['run_test',['../de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d',1,'kernel::test_module::run_test()'],['../de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d',1,'kernel::test_module::run_test()']]],
   ['running',['running',['../db/db7/structkernel_1_1thread__info.html#a553f05dde5dda18663db4bfe99779441',1,'kernel::thread_info']]]
 ];
