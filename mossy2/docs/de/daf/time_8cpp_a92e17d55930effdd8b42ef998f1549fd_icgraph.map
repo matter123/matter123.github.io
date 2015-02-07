@@ -1,5 +1,4 @@
 <map id="set_mon" name="set_mon">
-<area shape="rect" id="node2" href="$de/daf/time_8cpp.html#a2096b096d410c71d9f03bed1c22ede02" title="gmtime_r" alt="" coords="132,5,216,32"/>
-<area shape="rect" id="node3" href="$de/daf/time_8cpp.html#ae897ee7729bae1675853975fd5327a07" title="gmtime" alt="" coords="264,5,336,32"/>
-<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="384,5,511,32"/>
+<area shape="rect" id="node2" href="$d7/d4e/sysroot_2usr_2include_2time_8h.html#a138035504d1935152ac0777510aa3801" title="gmtime_r" alt="" coords="132,5,216,32"/>
+<area shape="rect" id="node3" href="$d7/d4e/sysroot_2usr_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07" title="gmtime" alt="" coords="264,5,336,32"/>
 </map>

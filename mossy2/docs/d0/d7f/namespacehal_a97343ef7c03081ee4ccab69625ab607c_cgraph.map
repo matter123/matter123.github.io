@@ -3,7 +3,7 @@
 <area shape="rect" id="node5" href="$db/d1b/namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="203,208,293,235"/>
 <area shape="rect" id="node16" href="$d0/d7f/namespacehal.html#ac062d1cf22c32480482c2b42fad48791" title="hal::timer_init" alt="" coords="193,385,303,412"/>
 <area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="399,5,485,32"/>
-<area shape="rect" id="node4" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="409,56,475,83"/>
+<area shape="rect" id="node4" href="$d3/df7/srcs_2c_2include_2string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="409,56,475,83"/>
 <area shape="rect" id="node6" href="$d0/d7f/namespacehal.html#a9171645550c7ad1ab28040ef2bcc4d97" title="hal::reserve_range" alt="" coords="371,107,513,133"/>
 <area shape="rect" id="node7" href="$dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f" title="outb" alt="" coords="835,284,886,311"/>
 <area shape="rect" id="node8" href="$dc/dac/io_8h.html#a57733eea22ed9baa625835e4f8ad6ae9" title="io_wait" alt="" coords="827,360,894,387"/>

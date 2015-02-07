@@ -1,6 +1,6 @@
 <map id="kernel::free" name="kernel::free">
 <area shape="rect" id="node2" href="$de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc" title="test_heap" alt="" coords="171,5,258,32"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="159,56,271,83"/>
-<area shape="rect" id="node4" href="$de/d90/heap_8cpp.html#a86107594327f3a001230df9802cd4422" title="operator delete" alt="" coords="154,107,275,133"/>
-<area shape="rect" id="node5" href="$de/d90/heap_8cpp.html#aaa8d8403dca7d813a59dd1f07728349d" title="operator delete[]" alt="" coords="149,157,280,184"/>
+<area shape="rect" id="node3" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be" title="realloc" alt="" coords="183,80,247,107"/>
+<area shape="rect" id="node4" href="$de/d90/heap_8cpp.html#a86107594327f3a001230df9802cd4422" title="operator delete" alt="" coords="154,131,275,157"/>
+<area shape="rect" id="node5" href="$de/d90/heap_8cpp.html#aaa8d8403dca7d813a59dd1f07728349d" title="operator delete[]" alt="" coords="149,181,280,208"/>
 </map>

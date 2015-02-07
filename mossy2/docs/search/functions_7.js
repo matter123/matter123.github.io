@@ -46,6 +46,6 @@ var searchData=
   ['get_5fy',['get_y',['../d0/d7f/namespacehal.html#a31d59e79f7e92e7f61913a54f4228396',1,'hal']]],
   ['get_5fyour_5febp',['get_your_ebp',['../d0/d7f/namespacehal.html#a6357f58f2d1aa4526f96551dad7ff155',1,'hal']]],
   ['getcolor',['getColor',['../d3/d75/namespacestd_1_1TC.html#af3e4d3fd78fc6b30bda6ad8f4ae1d2da',1,'std::TC']]],
-  ['gmtime',['gmtime',['../de/df7/time_8h.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp'],['../de/daf/time_8cpp.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp']]],
-  ['gmtime_5fr',['gmtime_r',['../de/df7/time_8h.html#a138035504d1935152ac0777510aa3801',1,'gmtime_r(const time_t *time, struct tm *ptr):&#160;time.cpp'],['../de/daf/time_8cpp.html#a2096b096d410c71d9f03bed1c22ede02',1,'gmtime_r(const time_t *t, struct tm *ptr):&#160;time.cpp']]]
+  ['gmtime',['gmtime',['../d2/d70/srcs_2c_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp'],['../de/daf/time_8cpp.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp'],['../d7/d4e/sysroot_2usr_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp']]],
+  ['gmtime_5fr',['gmtime_r',['../d2/d70/srcs_2c_2include_2time_8h.html#a138035504d1935152ac0777510aa3801',1,'gmtime_r(const time_t *time, struct tm *ptr):&#160;time.cpp'],['../de/daf/time_8cpp.html#a2096b096d410c71d9f03bed1c22ede02',1,'gmtime_r(const time_t *t, struct tm *ptr):&#160;time.cpp'],['../d7/d4e/sysroot_2usr_2include_2time_8h.html#a138035504d1935152ac0777510aa3801',1,'gmtime_r(const time_t *time, struct tm *ptr):&#160;time.cpp']]]
 ];

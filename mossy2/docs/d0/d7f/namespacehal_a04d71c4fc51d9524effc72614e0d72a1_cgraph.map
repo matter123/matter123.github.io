@@ -6,8 +6,8 @@
 <area shape="rect" id="node36" href="$d7/db0/namespacex64.html#ab3f41b6c905fa03a19be14e0a5f000a0" title="x64::paging_ready" alt="" coords="616,1091,757,1117"/>
 <area shape="rect" id="node39" href="$d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="156,1211,293,1237"/>
 <area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="872,664,957,691"/>
-<area shape="rect" id="node4" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="881,715,948,741"/>
-<area shape="rect" id="node6" href="$da/d66/string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="405,1008,481,1035"/>
+<area shape="rect" id="node4" href="$d3/df7/srcs_2c_2include_2string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="881,715,948,741"/>
+<area shape="rect" id="node6" href="$d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="405,1008,481,1035"/>
 <area shape="rect" id="node7" href="$d1/d21/x64_2hal__idt_8cpp.html#a49616695dc8ee5c4ddb93f26bb0fd46b" title="lidt" alt="" coords="422,704,463,731"/>
 <area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="854,765,975,792"/>
 <area shape="rect" id="node13" href="$d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc" title="hal::dump_regs" alt="" coords="626,360,747,387"/>
@@ -47,5 +47,5 @@
 <area shape="rect" id="node47" href="$d0/d7f/namespacehal.html#ad8d37887f71f5ca1ff2440f2a97512c8" title="hal::page_align" alt="" coords="627,1489,746,1516"/>
 <area shape="rect" id="node48" href="$d0/d7f/namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="649,1439,724,1465"/>
 <area shape="rect" id="node49" href="$d0/d7f/namespacehal.html#ad231ce640650f0ef67962ff41f7b5014" title="hal::sort" alt="" coords="649,1540,724,1567"/>
-<area shape="rect" id="node50" href="$da/d66/string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="640,1287,733,1313"/>
+<area shape="rect" id="node50" href="$d3/df7/srcs_2c_2include_2string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="640,1287,733,1313"/>
 </map>

@@ -3,22 +3,21 @@
 <area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#aaedd544c8d9fe4a3c4a5060a541186fe" title="hal::add_virt_mem_arch" alt="" coords="199,347,377,374"/>
 <area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a2cf30f5cd953ae5539089abc3007fbbd" title="hal::add_virt_region" alt="" coords="433,386,581,413"/>
 <area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a3967389502235d4afbd3dd03911e82b1" title="hal::add_virt_mem_vendor" alt="" coords="191,398,385,425"/>
-<area shape="rect" id="node6" href="$da/d66/string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="250,449,326,475"/>
+<area shape="rect" id="node6" href="$d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="250,449,326,475"/>
 <area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9" title="hal::fix_mmap" alt="" coords="231,209,345,235"/>
 <area shape="rect" id="node8" href="$d0/d7f/namespacehal.html#ace1ca19eef6f4da729c9ef26836f63d2" title="hal::fill" alt="" coords="476,82,539,109"/>
 <area shape="rect" id="node10" href="$d0/d7f/namespacehal.html#a6487ba4be75874e36c21a667e61300b8" title="hal::wksp_begin" alt="" coords="661,158,787,185"/>
-<area shape="rect" id="node17" href="$d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="434,31,581,58"/>
-<area shape="rect" id="node19" href="$d0/d7f/namespacehal.html#ad8d37887f71f5ca1ff2440f2a97512c8" title="hal::page_align" alt="" coords="448,285,567,311"/>
-<area shape="rect" id="node21" href="$d0/d7f/namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="470,133,545,159"/>
-<area shape="rect" id="node22" href="$d0/d7f/namespacehal.html#ad231ce640650f0ef67962ff41f7b5014" title="hal::sort" alt="" coords="470,183,545,210"/>
-<area shape="rect" id="node23" href="$da/d66/string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="461,335,554,362"/>
-<area shape="rect" id="node9" href="$da/d66/string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="685,107,763,134"/>
-<area shape="rect" id="node11" href="$dc/d9c/stdlib_8h.html#ab42640268f26e065efd044cfe80591bd" title="itoa" alt="" coords="918,107,965,134"/>
-<area shape="rect" id="node13" href="$da/d66/string_8h.html#adb8723e585ed29f2370cddf90f6891bc" title="appends src onto dest " alt="" coords="912,158,971,185"/>
-<area shape="rect" id="node14" href="$d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="867,209,1016,235"/>
-<area shape="rect" id="node12" href="$d8/dcc/namespacestd.html#a48baa81cb509054ae53168ca5b0fda96" title="std::numtostr" alt="" coords="1064,107,1173,134"/>
-<area shape="rect" id="node15" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="1076,183,1161,210"/>
-<area shape="rect" id="node16" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="1085,234,1152,261"/>
-<area shape="rect" id="node18" href="$df/d4e/classhal_1_1mem__type.html#a36a965ca7e2bced083acbdc5eff7b7af" title="hal::mem_type::to_u64" alt="" coords="639,6,809,33"/>
-<area shape="rect" id="node20" href="$df/d4e/classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea" title="hal::mem_type::can_grow" alt="" coords="629,285,819,311"/>
+<area shape="rect" id="node16" href="$d0/d7f/namespacehal.html#ad79442f103afec48a964fc97e94046a9" title="hal::remove_invalid" alt="" coords="434,31,581,58"/>
+<area shape="rect" id="node18" href="$d0/d7f/namespacehal.html#ad8d37887f71f5ca1ff2440f2a97512c8" title="hal::page_align" alt="" coords="448,285,567,311"/>
+<area shape="rect" id="node20" href="$d0/d7f/namespacehal.html#a267200e6f8bc3e9bd429f48c66f392a1" title="hal::split" alt="" coords="470,133,545,159"/>
+<area shape="rect" id="node21" href="$d0/d7f/namespacehal.html#ad231ce640650f0ef67962ff41f7b5014" title="hal::sort" alt="" coords="470,183,545,210"/>
+<area shape="rect" id="node22" href="$d3/df7/srcs_2c_2include_2string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="461,335,554,362"/>
+<area shape="rect" id="node9" href="$d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="685,107,763,134"/>
+<area shape="rect" id="node11" href="$da/d01/srcs_2c_2include_2stdlib_8h.html#ab42640268f26e065efd044cfe80591bd" title="itoa" alt="" coords="918,107,965,134"/>
+<area shape="rect" id="node12" href="$d3/df7/srcs_2c_2include_2string_8h.html#adb8723e585ed29f2370cddf90f6891bc" title="appends src onto dest " alt="" coords="912,158,971,185"/>
+<area shape="rect" id="node13" href="$d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="867,209,1016,235"/>
+<area shape="rect" id="node14" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="1064,183,1149,210"/>
+<area shape="rect" id="node15" href="$d3/df7/srcs_2c_2include_2string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="1073,234,1140,261"/>
+<area shape="rect" id="node17" href="$df/d4e/classhal_1_1mem__type.html#a36a965ca7e2bced083acbdc5eff7b7af" title="hal::mem_type::to_u64" alt="" coords="639,6,809,33"/>
+<area shape="rect" id="node19" href="$df/d4e/classhal_1_1mem__type.html#acd58d1fd08b5f937a0f8b9ce0ea1c5ea" title="hal::mem_type::can_grow" alt="" coords="629,285,819,311"/>
 </map>

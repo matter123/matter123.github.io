@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['gen64_2einc',['gen64.inc',['../d6/d3c/gen64_8inc.html',1,'']]],
-  ['gen86_2einc',['gen86.inc',['../df/d02/gen86_8inc.html',1,'']]],
   ['get',['get',['../df/ddb/classstd_1_1shared__ptr.html#ab618758e8a3e1cfd214977d449e742c8',1,'std::shared_ptr::get()'],['../dd/def/classstd_1_1unique__ptr.html#ac300680bd5a0b3f21d40a6f886e06e65',1,'std::unique_ptr::get()'],['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a8e91ac8568784079e607b05d268ba917',1,'std::unique_ptr&lt; T[]&gt;::get()']]],
   ['get_5fbpp',['get_bpp',['../d7/da2/namespacekernel.html#a66c8fc01f728b890ae3743974c43a187',1,'kernel']]],
   ['get_5fbyte_5forder',['get_byte_order',['../d2/d2d/arch_8h.html#a1618732cd7561dd1ca5e44291f56aac6',1,'get_byte_order():&#160;hal.cpp'],['../d3/d55/arch_2x64_2hal_8cpp.html#a1618732cd7561dd1ca5e44291f56aac6',1,'get_byte_order():&#160;hal.cpp'],['../d9/d6b/arch_2x86_2hal_8cpp.html#a1618732cd7561dd1ca5e44291f56aac6',1,'get_byte_order():&#160;hal.cpp']]],
@@ -52,8 +50,8 @@ var searchData=
   ['global_2eh',['global.h',['../d2/d49/global_8h.html',1,'']]],
   ['glyph_5fint',['glyph_int',['../da/dcc/structkernel_1_1glyph__int.html',1,'kernel']]],
   ['glyphs',['glyphs',['../d7/da2/namespacekernel.html#ad25a050d6254afd7637c5f7a22977d41',1,'kernel']]],
-  ['gmtime',['gmtime',['../de/df7/time_8h.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp'],['../de/daf/time_8cpp.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp']]],
-  ['gmtime_5fr',['gmtime_r',['../de/df7/time_8h.html#a138035504d1935152ac0777510aa3801',1,'gmtime_r(const time_t *time, struct tm *ptr):&#160;time.cpp'],['../de/daf/time_8cpp.html#a2096b096d410c71d9f03bed1c22ede02',1,'gmtime_r(const time_t *t, struct tm *ptr):&#160;time.cpp']]],
+  ['gmtime',['gmtime',['../d2/d70/srcs_2c_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp'],['../de/daf/time_8cpp.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp'],['../d7/d4e/sysroot_2usr_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp']]],
+  ['gmtime_5fr',['gmtime_r',['../d2/d70/srcs_2c_2include_2time_8h.html#a138035504d1935152ac0777510aa3801',1,'gmtime_r(const time_t *time, struct tm *ptr):&#160;time.cpp'],['../de/daf/time_8cpp.html#a2096b096d410c71d9f03bed1c22ede02',1,'gmtime_r(const time_t *t, struct tm *ptr):&#160;time.cpp'],['../d7/d4e/sysroot_2usr_2include_2time_8h.html#a138035504d1935152ac0777510aa3801',1,'gmtime_r(const time_t *time, struct tm *ptr):&#160;time.cpp']]],
   ['green',['green',['../d7/d10/structhal_1_1multiboot__palette.html#a40672fa8f46fe87247de770d391d03e1',1,'hal::multiboot_palette::green()'],['../d3/d75/namespacestd_1_1TC.html#a279c81dcd0d56697a90b52cd46daf6f2',1,'std::TC::GREEN()']]],
   ['green_5fmask',['green_mask',['../d2/d2e/structhal_1_1multiboot__ci__1.html#ad63dcac068d1fb6508f4f6e990b19a71',1,'hal::multiboot_ci_1']]],
   ['green_5fpos',['green_pos',['../d2/d2e/structhal_1_1multiboot__ci__1.html#a40b3b5546e1ac5bf40bae8308f064b6b',1,'hal::multiboot_ci_1']]],

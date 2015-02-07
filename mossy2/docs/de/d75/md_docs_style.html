@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.8"/>
-<title>MOSSY 2: Style and coding guidelines</title>
+<title>MOSSY: Style and coding guidelines</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -30,7 +30,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
-   <div id="projectname">MOSSY 2
+   <div id="projectname">MOSSY
    </div>
   </td>
  </tr>
@@ -132,14 +132,42 @@ $(document).ready(function(){initNavTree('de/d75/md_docs_style.html','../../');}
 </div>
  <h2>Coding guidelines </h2>
 <h3>symbol names</h3>
-<p>All symbols are to be in <em>underscore_case</em>. Systems Hungarian is forbidden, Apps Hungarian is acceptable. Symbol names in global, namespace, fille, class, struct, union, or function scope should be descriptive and only use full words and common acronyms and abbreviations. Symbols named tmp and its derivatives are only acceptable when in block scope. One character symbols are resverd and not available for normal use. A list of uses for each letter is listed below.</p>
-<h3>explination of reseved varibiles names</h3>
+<p>All symbols are to be in <em>underscore_case</em>. Systems Hungarian is forbidden, Apps Hungarian is acceptable. Symbol names in global, namespace, file, class, struct, union, or function scope should be descriptive and only use full words and common acronyms and abbreviations. Symbols named tmp and its derivatives are only acceptable when in block scope. One character symbols are reserved and not available for normal use. A list of uses for each letter is listed below.</p>
+<h3>explanation of reserved variables names</h3>
+<h4>a</h4>
+<p>an accumulator, acceleration </p><h4>b</h4>
+<p>a byte </p><h4>c</h4>
+<p>a color, or a count, or a single UTF-8 character </p><h4>d</h4>
+<p>time delta (td is preferred) </p><h4>e</h4>
+<p>no known use at this time </p><h4>f</h4>
+<p>a function pointer </p><h4>g</h4>
+<p>no known use at this time </p><h4>h</h4>
+<p>a hash </p><h4>i</h4>
+<p>index the first </p><h4>j</h4>
+<p>index the second </p><h4>k</h4>
+<p>index the third </p><h4>l</h4>
+<p>a location, a lambada </p><h4>m</h4>
+<p>no known use at this time </p><h4>n</h4>
+<p>no known use at this time </p><h4>o</h4>
+<p>no known use at this time </p><h4>p</h4>
+<p>a pointer </p><h4>q</h4>
+<p>no known use at this time </p><h4>r</h4>
+<p>rotation </p><h4>s</h4>
+<p>speed, size_t index </p><h4>t</h4>
+<p>time, a token </p><h4>u</h4>
+<p>no known use at this time </p><h4>v</h4>
+<p>version </p><h4>w</h4>
+<p>no known use at this time </p><h4>x</h4>
+<p>axis the first </p><h4>y</h4>
+<p>axis the second </p><h4>y</h4>
+<p>axis the third</p>
+<p>One character symbols should only be used in a minimized scope. You may not suffix a one character symbol with a number to notate another symbol representing a similar concept, for example you may not have p and p2 together. You may have a one character symbol suffixed with a number in a scope but it must consume the allowance for said symbol </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Dec 23 2014 09:30:03 for MOSSY 2 by
+    <li class="footer">Generated on Sat Feb 7 2015 13:30:34 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

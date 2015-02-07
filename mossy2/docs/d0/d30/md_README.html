@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.8"/>
-<title>MOSSY 2: mossy2</title>
+<title>MOSSY: mossy2</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -30,7 +30,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
-   <div id="projectname">MOSSY 2
+   <div id="projectname">MOSSY
    </div>
   </td>
  </tr>
@@ -101,21 +101,21 @@ $(document).ready(function(){initNavTree('d0/d30/md_README.html','../../');});
 <div class="title">mossy2 </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>Mossy is a hobbiest operating system, for the purpose of teaching myself, C++, portability, and code standards. Mossy2 is based off of, but shares little code from, <a href="http://bitbucket.org/matter123/mossy">Mossy1</a>. Mossy2 is mostly C++ with a little bit of intel syntax assembly for boot services,</p>
+<div class="textblock"><p>Mossy is a hobbyist operating system, for the purpose of teaching myself, C++, portability, and code standards. Mossy2 is based off of, but shares little code from, <a href="http://bitbucket.org/matter123/mossy">Mossy1</a>. Mossy2 is mostly C++ with a little bit of intel syntax assembly for boot services,</p>
 <h2>Building </h2>
 <p>Building The Mossy Operating System requires a few runtime dependencies on the host computer namely:</p><ul>
-<li>A Unix like enviorment</li>
-<li>gcc cross-compiled for your target (<a href="http://wiki.osdev.org/GCC_Cross-Compiler">building a cross compiler</a>)</li>
-<li>python (2 or 3) to create runtime dependencies</li>
+<li>gcc cross-compiled for your target (<a href="http://wiki.osdev.org/GCC_Cross-Compiler">building a cross compiler</a>) <em>or</em> clang</li>
+<li>python 3</li>
 <li>grub 1.99 or later, grub 1.98 and earlier have difficulty executing elf64 binaries need for X64</li>
-<li>nasm 2.10 or later </li>
+<li>nasm 2.10 or later</li>
+<li>optionally PIL or Pillow if the font was modified If this is a your first time building from this particular source tree you need to run <code>./build.py reset</code> To build all possible arches run <code>.build.py</code>, a particular arch can be built by running <code>./build.py &lt;arch&gt;</code> </li>
 </ul>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Dec 23 2014 09:30:03 for MOSSY 2 by
+    <li class="footer">Generated on Sat Feb 7 2015 13:30:34 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

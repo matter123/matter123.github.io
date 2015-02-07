@@ -1,5 +1,5 @@
 <map id="x86_64::init_pfa" name="x86_64::init_pfa">
-<area shape="rect" id="node2" href="$da/d66/string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="241,5,317,32"/>
+<area shape="rect" id="node2" href="$d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="241,5,317,32"/>
 <area shape="rect" id="node3" href="$d8/dcc/namespacestd.html#afdb0985300047fc04bb3e2af35aee342" title="std::max" alt="" coords="483,56,562,83"/>
 <area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#abf959e9066eb0c121085f8dda7495f4f" title="hal::get_phys_mem_regions" alt="" coords="177,107,380,133"/>
 <area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#a9427442fe04656ce29bdcc40c004d87a" title="hal::get_phys_mem_region" alt="" coords="181,157,377,184"/>
@@ -10,7 +10,7 @@
 <area shape="rect" id="node23" href="$d0/d7f/namespacehal.html#a5da0fee39be6c7659d059d24765593b3" title="hal::get_page_offset_addr" alt="" coords="428,259,617,285"/>
 <area shape="rect" id="node24" href="$d0/d7f/namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="429,317,616,344"/>
 <area shape="rect" id="node9" href="$d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="708,77,793,104"/>
-<area shape="rect" id="node10" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="717,128,784,155"/>
+<area shape="rect" id="node10" href="$d3/df7/srcs_2c_2include_2string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="717,128,784,155"/>
 <area shape="rect" id="node12" href="$d0/d7f/namespacehal.html#aec24943eea256f5a22244ec07b143b71" title="hal::register_int" alt="" coords="690,179,811,205"/>
 <area shape="rect" id="node19" href="$d2/d70/classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350" title="x64::recursive_paging\l::init" alt="" coords="669,230,832,271"/>
 <area shape="rect" id="node21" href="$d8/de8/namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="665,296,836,323"/>

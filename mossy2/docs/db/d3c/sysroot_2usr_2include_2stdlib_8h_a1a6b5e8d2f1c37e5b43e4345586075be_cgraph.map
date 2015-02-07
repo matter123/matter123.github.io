@@ -1,0 +1,10 @@
+<map id="realloc" name="realloc">
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="277,40,389,66"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="467,40,563,66"/>
+<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#abf20922f3940efb87c628f39b6f18039" title="kernel::free" alt="" coords="285,242,381,269"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#abda890eb0224f932543b2848fba64ffd" title="kernel::dumb_merge" alt="" coords="437,192,593,218"/>
+<area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a6e4897103f6c207a9c2531daf8634859" title="kernel::scoot" alt="" coords="281,293,386,320"/>
+<area shape="rect" id="node8" href="$d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd" title="kernel::realloc" alt="" coords="117,192,229,218"/>
+<area shape="rect" id="node9" href="$d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="294,344,373,370"/>
+<area shape="rect" id="node7" href="$d3/df7/srcs_2c_2include_2string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="469,293,562,320"/>
+</map>

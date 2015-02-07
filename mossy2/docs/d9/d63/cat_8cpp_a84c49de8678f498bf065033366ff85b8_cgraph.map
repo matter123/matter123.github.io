@@ -1,14 +1,6 @@
 <map id="test_strcat" name="test_strcat">
-<area shape="rect" id="node2" href="$dc/d9c/stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="145,15,209,41"/>
-<area shape="rect" id="node4" href="$da/d66/string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="144,75,211,101"/>
-<area shape="rect" id="node5" href="$da/d66/string_8h.html#a7a82515b5d377be04817715c5465b647" title="copies chars from src to dest " alt="" coords="146,125,209,152"/>
-<area shape="rect" id="node6" href="$da/d66/string_8h.html#a93fc0f33c53eb8f2dd70334700005e81" title="copies upto num bytes from src to dest " alt="" coords="145,195,210,221"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="282,5,378,32"/>
-<area shape="rect" id="node7" href="$d2/d47/classunicode_1_1codeunits.html#a7c9c2f7544b0e17f1e32c3b21d5c57ad" title="unicode::codeunits\l::begin" alt="" coords="259,57,401,98"/>
-<area shape="rect" id="node8" href="$d2/d47/classunicode_1_1codeunits.html#a02dae54e3e75ff43145bf2ea0e5bde88" title="unicode::codeunits\l::has_next" alt="" coords="259,122,401,163"/>
-<area shape="rect" id="node10" href="$dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed" title="counts number of bytes in char " alt="" coords="676,246,811,287"/>
-<area shape="rect" id="node11" href="$d2/d47/classunicode_1_1codeunits.html#aec40b032238213ba535e719d6f981b4a" title="unicode::codeunits\l::next" alt="" coords="259,187,401,229"/>
-<area shape="rect" id="node12" href="$d9/df7/namespaceunicode.html#ae529271be7b5e635f3a560fe2171b375" title="unicode::copy_codeunit" alt="" coords="452,304,625,331"/>
-<area shape="rect" id="node13" href="$d2/d47/classunicode_1_1codeunits.html#a79ab3a015021f27b260515376fc57bed" title="unicode::codeunits\l::value" alt="" coords="259,355,401,397"/>
-<area shape="rect" id="node9" href="$dd/db0/namespaceunicode_1_1utf8.html#a814aae2912b8320a00254fa5e938c094" title="gets the next char in a string " alt="" coords="449,195,628,221"/>
+<area shape="rect" id="node2" href="$da/d01/srcs_2c_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="145,5,209,32"/>
+<area shape="rect" id="node3" href="$d3/df7/srcs_2c_2include_2string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="144,56,211,83"/>
+<area shape="rect" id="node4" href="$d3/df7/srcs_2c_2include_2string_8h.html#a7a82515b5d377be04817715c5465b647" title="copies chars from src to dest " alt="" coords="146,107,209,133"/>
+<area shape="rect" id="node5" href="$d3/df7/srcs_2c_2include_2string_8h.html#a93fc0f33c53eb8f2dd70334700005e81" title="copies upto num bytes from src to dest " alt="" coords="145,157,210,184"/>
 </map>

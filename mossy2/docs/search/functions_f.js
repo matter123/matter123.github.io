@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['rand',['rand',['../dc/d9c/stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42',1,'rand():&#160;rand.c'],['../d6/df4/rand_8c.html#a20e50ab9d6b10af0e2940d9419448f42',1,'rand():&#160;rand.c']]],
+  ['rand',['rand',['../da/d01/srcs_2c_2include_2stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42',1,'rand():&#160;rand.c'],['../d6/df4/rand_8c.html#a20e50ab9d6b10af0e2940d9419448f42',1,'rand():&#160;rand.c'],['../db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42',1,'rand():&#160;rand.c']]],
   ['rdmsr',['rdmsr',['../d7/da4/cpu__stuff_8h.html#a6fa28502e33e305c4335fe3032dc7799',1,'cpu_stuff.h']]],
   ['ready',['ready',['../d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b',1,'hal']]],
-  ['realloc',['realloc',['../dc/d9c/stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be',1,'realloc():&#160;heap.cpp'],['../d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd',1,'kernel::realloc()']]],
+  ['realloc',['realloc',['../da/d01/srcs_2c_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be',1,'realloc():&#160;heap.cpp'],['../d7/da2/namespacekernel.html#afe82a8e24a49fef45f4712d1f27135fd',1,'kernel::realloc()'],['../db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be',1,'realloc():&#160;heap.cpp']]],
   ['register_5fasm_5fstub_5fint',['register_asm_stub_int',['../d0/d7f/namespacehal.html#af41dcfe227cf671c01ad5cf506e3f89c',1,'hal']]],
   ['register_5fint',['register_int',['../d0/d7f/namespacehal.html#aec24943eea256f5a22244ec07b143b71',1,'hal']]],
   ['register_5fstub_5fint',['register_stub_int',['../d0/d7f/namespacehal.html#a4b3daba30c28c10c98c462983bc9112a',1,'hal']]],
