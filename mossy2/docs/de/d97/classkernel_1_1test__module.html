@@ -113,6 +113,9 @@ $(document).ready(function(){initNavTree('de/d97/classkernel_1_1test__module.htm
 </div><!--header-->
 <div class="contents">
 
+<p>a class to store information about a test module  
+ <a href="../../de/d97/classkernel_1_1test__module.html#details">More...</a></p>
+
 <p><code>#include &lt;test.h&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for kernel::test_module:</div>
@@ -125,12 +128,16 @@ Collaboration diagram for kernel::test_module:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a8127161c7f6929c639a507d022a5c947"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/classkernel_1_1test__module.html#a8127161c7f6929c639a507d022a5c947">test_module</a> (const char *test_name, void(*test_function)())</td></tr>
+<tr class="memdesc:a8127161c7f6929c639a507d022a5c947"><td class="mdescLeft">&#160;</td><td class="mdescRight">constructs a <a class="el" href="../../de/d97/classkernel_1_1test__module.html" title="a class to store information about a test module ">test_module</a> with no dependencies  <a href="#a8127161c7f6929c639a507d022a5c947">More...</a><br /></td></tr>
 <tr class="separator:a8127161c7f6929c639a507d022a5c947"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9f828aa46139a8f17c908e86b123c795"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/classkernel_1_1test__module.html#a9f828aa46139a8f17c908e86b123c795">test_module</a> (const char *test_name, void(*test_function)(), const char *dependencies)</td></tr>
+<tr class="memdesc:a9f828aa46139a8f17c908e86b123c795"><td class="mdescLeft">&#160;</td><td class="mdescRight">constructs a test module with dependenencies  <a href="#a9f828aa46139a8f17c908e86b123c795">More...</a><br /></td></tr>
 <tr class="separator:a9f828aa46139a8f17c908e86b123c795"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad4254a2cf875130f774b17c0f7f4053d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d">run_test</a> ()</td></tr>
+<tr class="memdesc:ad4254a2cf875130f774b17c0f7f4053d"><td class="mdescLeft">&#160;</td><td class="mdescRight">runs the tests  <a href="#ad4254a2cf875130f774b17c0f7f4053d">More...</a><br /></td></tr>
 <tr class="separator:ad4254a2cf875130f774b17c0f7f4053d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75098c2329bfb5926adf5fb09601e7b1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d97/classkernel_1_1test__module.html">test_module</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1">get_next</a> ()</td></tr>
+<tr class="memdesc:a75098c2329bfb5926adf5fb09601e7b1"><td class="mdescLeft">&#160;</td><td class="mdescRight">gets the next <a class="el" href="../../de/d97/classkernel_1_1test__module.html" title="a class to store information about a test module ">test_module</a> in the linked list  <a href="#a75098c2329bfb5926adf5fb09601e7b1">More...</a><br /></td></tr>
 <tr class="separator:a75098c2329bfb5926adf5fb09601e7b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
@@ -146,7 +153,11 @@ Private Attributes</h2></td></tr>
 <tr class="memitem:a0d9e6da38152c610636bfa2332faa178"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/classkernel_1_1test__module.html#a0d9e6da38152c610636bfa2332faa178">passed</a></td></tr>
 <tr class="separator:a0d9e6da38152c610636bfa2332faa178"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>a class to store information about a test module </p>
+<p>this class provides the bulk of the magic required to make unit tests work</p>
+<dl class="section note"><dt>Note</dt><dd>the standard implementation of a test module is to have a static pointer to this class and initalize it pointing to a static function which runs the test, and the constructors are built around that. </dd></dl>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a8127161c7f6929c639a507d022a5c947"></a>
 <div class="memitem">
 <div class="memproto">
@@ -170,6 +181,16 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>constructs a <a class="el" href="../../de/d97/classkernel_1_1test__module.html" title="a class to store information about a test module ">test_module</a> with no dependencies </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">test_name</td><td>a 8 byte string of the name of the module </td></tr>
+    <tr><td class="paramname">test_function</td><td>the function to call to run the modules tests</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section date"><dt>Date</dt><dd>craeted on 2015-02-07 </dd></dl>
 
 </div>
 </div>
@@ -203,6 +224,17 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>constructs a test module with dependenencies </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">test_name</td><td>a 8 byte string of the name of the module </td></tr>
+    <tr><td class="paramname">test_function</td><td>the function to call to run the modules tests </td></tr>
+    <tr><td class="paramname">dependencies</td><td>a string of module names this module depends each name should be padded so they are 8 bytes long</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section date"><dt>Date</dt><dd>craeted on 2015-02-07 </dd></dl>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
@@ -219,12 +251,15 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>gets the next <a class="el" href="../../de/d97/classkernel_1_1test__module.html" title="a class to store information about a test module ">test_module</a> in the linked list </p>
+<p>[long description] </p><dl class="section return"><dt>Returns</dt><dd>[description] </dd></dl>
+
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../de/d97/classkernel_1_1test__module_a75098c2329bfb5926adf5fb09601e7b1_icgraph.png" border="0" usemap="#de/d97/classkernel_1_1test__module_a75098c2329bfb5926adf5fb09601e7b1_icgraph" alt=""/></div>
 <map name="de/d97/classkernel_1_1test__module_a75098c2329bfb5926adf5fb09601e7b1_icgraph" id="de/d97/classkernel_1_1test__module_a75098c2329bfb5926adf5fb09601e7b1_icgraph">
-<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="204,42,299,69"/><area shape="rect" id="node3" href="../../df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="347,5,477,47"/><area shape="rect" id="node5" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="349,71,475,98"/><area shape="rect" id="node4" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="525,13,647,39"/></map>
+<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="runs all tests " alt="" coords="204,42,299,69"/><area shape="rect" id="node3" href="../../df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="347,5,477,47"/><area shape="rect" id="node5" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="349,71,475,98"/><area shape="rect" id="node4" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="525,13,647,39"/></map>
 </div>
 </p>
 
@@ -243,6 +278,9 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
+<p>runs the tests </p>
+<p>searches the linked list for the depends and runs all depends before calling <em>test_func</em> and finally sets <em>passed</em> to true </p>
+
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -257,7 +295,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../de/d97/classkernel_1_1test__module_ad4254a2cf875130f774b17c0f7f4053d_icgraph.png" border="0" usemap="#de/d97/classkernel_1_1test__module_ad4254a2cf875130f774b17c0f7f4053d_icgraph" alt=""/></div>
 <map name="de/d97/classkernel_1_1test__module_ad4254a2cf875130f774b17c0f7f4053d_icgraph" id="de/d97/classkernel_1_1test__module_ad4254a2cf875130f774b17c0f7f4053d_icgraph">
-<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="204,42,299,69"/><area shape="rect" id="node3" href="../../df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="347,5,477,47"/><area shape="rect" id="node5" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="349,71,475,98"/><area shape="rect" id="node4" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="525,13,647,39"/></map>
+<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="runs all tests " alt="" coords="204,42,299,69"/><area shape="rect" id="node3" href="../../df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="347,5,477,47"/><area shape="rect" id="node5" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="349,71,475,98"/><area shape="rect" id="node4" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="525,13,647,39"/></map>
 </div>
 </p>
 
@@ -281,6 +319,7 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>a string of module names that this module depends on </p>
 
 </div>
 </div>
@@ -301,6 +340,7 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>the name of the module </p>
 
 </div>
 </div>
@@ -321,6 +361,7 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>the next module in the linked list </p>
 
 </div>
 </div>
@@ -341,6 +382,7 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>an indicator if this module has already passed it checks </p>
 
 </div>
 </div>
@@ -361,6 +403,7 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>function to run during test </p>
 
 </div>
 </div>
@@ -374,7 +417,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/da2/namespacekernel.html">kernel</a></li><li class="navelem"><a class="el" href="../../de/d97/classkernel_1_1test__module.html">test_module</a></li>
-    <li class="footer">Generated on Sat Feb 7 2015 14:30:03 for MOSSY by
+    <li class="footer">Generated on Sat Feb 7 2015 15:00:07 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

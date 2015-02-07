@@ -5,7 +5,7 @@
 <area shape="rect" id="node21" href="$d4/db3/classx86_1_1recursive__paging.html#a48963a9fae102dec3e46473b21b72931" title="x86::recursive_paging::map" alt="" coords="157,279,357,305"/>
 <area shape="rect" id="node23" href="$d8/de8/namespacex86__64.html#a745ade80f8f9ab88b821db3f3b91230b" title="x86_64::get_free_page" alt="" coords="172,215,343,241"/>
 <area shape="rect" id="node28" href="$d7/da2/namespacekernel.html#aa38f4bf0908256f59d09f52a167625bd" title="kernel::panic" alt="" coords="205,461,309,488"/>
-<area shape="rect" id="node29" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="kernel::test_module\l::run_test" alt="" coords="182,45,333,86"/>
+<area shape="rect" id="node29" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="runs the tests " alt="" coords="182,45,333,86"/>
 <area shape="rect" id="node3" href="$d7/db0/namespacex64.html#a2755ca2e5ba9d7e53f7a1da6cca7a3ad" title="x64::handle" alt="" coords="452,157,549,184"/>
 <area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#aa477aac835558177ef108118f601d96f" title="hal::map_free_to_virt_cur" alt="" coords="407,107,594,133"/>
 <area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="405,56,596,83"/>
@@ -27,5 +27,5 @@
 <area shape="rect" id="node26" href="$d1/d08/namespacex86.html#ad2d07eef22e17f45585b7b9a3adbe1c0" title="x86::init_paging" alt="" coords="439,208,562,235"/>
 <area shape="rect" id="node25" href="$d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27" title="x64::pre_init_handle" alt="" coords="655,208,806,235"/>
 <area shape="rect" id="node27" href="$d1/d08/namespacex86.html#ab9e4d0e4571d9531648f20c875120f08" title="x86::pre_init_handle" alt="" coords="655,157,806,184"/>
-<area shape="rect" id="node30" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="683,5,778,32"/>
+<area shape="rect" id="node30" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="runs all tests " alt="" coords="683,5,778,32"/>
 </map>

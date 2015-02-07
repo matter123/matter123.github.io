@@ -20,7 +20,7 @@
 <area shape="rect" id="node14" href="$d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="1135,155,1211,181"/>
 <area shape="rect" id="node16" href="$d0/d7f/namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="629,311,815,337"/>
 <area shape="rect" id="node17" href="$d2/d70/classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8" title="x64::recursive_paging\l::unmap" alt="" coords="884,307,1047,349"/>
-<area shape="rect" id="node23" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="435,411,529,437"/>
-<area shape="rect" id="node24" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="kernel::test_module\l::run_test" alt="" coords="890,401,1041,442"/>
-<area shape="rect" id="node25" href="$de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="kernel::test_module\l::get_next" alt="" coords="647,459,797,501"/>
+<area shape="rect" id="node23" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="runs all tests " alt="" coords="435,411,529,437"/>
+<area shape="rect" id="node24" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="runs the tests " alt="" coords="890,401,1041,442"/>
+<area shape="rect" id="node25" href="$de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="gets the next test_module in the linked list " alt="" coords="647,459,797,501"/>
 </map>

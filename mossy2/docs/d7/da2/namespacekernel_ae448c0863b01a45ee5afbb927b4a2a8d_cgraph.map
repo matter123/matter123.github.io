@@ -1,5 +1,5 @@
 <map id="kernel::test" name="kernel::test">
-<area shape="rect" id="node2" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="kernel::test_module\l::run_test" alt="" coords="148,29,299,71"/>
-<area shape="rect" id="node4" href="$de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="kernel::test_module\l::get_next" alt="" coords="148,95,299,136"/>
+<area shape="rect" id="node2" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="runs the tests " alt="" coords="148,29,299,71"/>
+<area shape="rect" id="node4" href="$de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="gets the next test_module in the linked list " alt="" coords="148,95,299,136"/>
 <area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="347,37,451,63"/>
 </map>

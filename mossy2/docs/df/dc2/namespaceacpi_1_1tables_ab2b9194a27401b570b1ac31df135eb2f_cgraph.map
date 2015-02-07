@@ -1,11 +1,11 @@
 <map id="acpi::tables::load_table" name="acpi::tables::load_table">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="kernel::test" alt="" coords="233,91,327,118"/>
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="runs all tests " alt="" coords="233,91,327,118"/>
 <area shape="rect" id="node6" href="$d4/df8/namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="197,150,363,177"/>
 <area shape="rect" id="node14" href="$d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="241,251,319,278"/>
 <area shape="rect" id="node15" href="$d4/df8/namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="deallocates firmware memory " alt="" coords="203,201,357,227"/>
 <area shape="rect" id="node18" href="$df/dc2/namespaceacpi_1_1tables.html#a44e8d10bf85c67a19a09c5580a3fb0fd" title="acpi::tables::do_checksum" alt="" coords="184,302,376,329"/>
-<area shape="rect" id="node3" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="kernel::test_module\l::run_test" alt="" coords="687,29,838,71"/>
-<area shape="rect" id="node5" href="$de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="kernel::test_module\l::get_next" alt="" coords="444,84,595,125"/>
+<area shape="rect" id="node3" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="runs the tests " alt="" coords="687,29,838,71"/>
+<area shape="rect" id="node5" href="$de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="gets the next test_module in the linked list " alt="" coords="444,84,595,125"/>
 <area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="918,38,1022,65"/>
 <area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="424,150,615,177"/>
 <area shape="rect" id="node8" href="$d2/d70/classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="663,142,863,169"/>
