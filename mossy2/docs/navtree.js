@@ -38,13 +38,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d3/d20/hal_2hal_2paging_8h.html#aa477aac835558177ef108118f601d96f",
-"d5/d24/string_8cpp.html#a8cb460f64c449f2a9b9b7a40569ce0fe",
-"d8/d8b/kstacks_8cpp.html#a5b15a439c9fd2854756fa49827ca2877",
-"da/d9b/classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78",
-"dc/d34/arch_2x86__64_2int_8h.html#a1c47fe22cb08a842061c1bf62377ebc3",
-"dc/d75/fb_8cpp.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf",
-"df/d6a/shared__ptr_8h.html"
+"d3/d06/structhal_1_1multiboot__mmap.html",
+"d5/d24/string_8cpp.html#a276c5d14b4ca8ffa447a0b30333074f1",
+"d8/d69/compare_8cpp.html",
+"da/d5c/stdlib_8cpp.html#ab42640268f26e065efd044cfe80591bd",
+"dc/d34/arch_2x86__64_2int_8h.html#a10bba99ba6efd7532986c3431c453d77",
+"dc/d75/fb_8cpp.html#a23978d28f56999e1726be40d2422e6f0",
+"df/d4e/classhal_1_1mem__type.html#a59d123703cee2eb048d031248506642d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

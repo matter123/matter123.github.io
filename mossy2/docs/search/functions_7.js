@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['get',['get',['../df/ddb/classstd_1_1shared__ptr.html#ab618758e8a3e1cfd214977d449e742c8',1,'std::shared_ptr::get()'],['../dd/def/classstd_1_1unique__ptr.html#ac300680bd5a0b3f21d40a6f886e06e65',1,'std::unique_ptr::get()'],['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a8e91ac8568784079e607b05d268ba917',1,'std::unique_ptr&lt; T[]&gt;::get()']]],
+  ['get',['get',['../dd/def/classstd_1_1unique__ptr.html#ac300680bd5a0b3f21d40a6f886e06e65',1,'std::unique_ptr::get()'],['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a8e91ac8568784079e607b05d268ba917',1,'std::unique_ptr&lt; T[]&gt;::get()'],['../df/ddb/classstd_1_1shared__ptr.html#ab618758e8a3e1cfd214977d449e742c8',1,'std::shared_ptr::get()']]],
   ['get_5fbpp',['get_bpp',['../d7/da2/namespacekernel.html#a66c8fc01f728b890ae3743974c43a187',1,'kernel']]],
   ['get_5fbyte_5forder',['get_byte_order',['../d2/d2d/arch_8h.html#a1618732cd7561dd1ca5e44291f56aac6',1,'get_byte_order():&#160;hal.cpp'],['../d3/d55/arch_2x64_2hal_8cpp.html#a1618732cd7561dd1ca5e44291f56aac6',1,'get_byte_order():&#160;hal.cpp'],['../d9/d6b/arch_2x86_2hal_8cpp.html#a1618732cd7561dd1ca5e44291f56aac6',1,'get_byte_order():&#160;hal.cpp']]],
   ['get_5fchar_5flen',['get_char_len',['../dd/db0/namespaceunicode_1_1utf8.html#a1758732013e7c0516aa7bc8467fd5aed',1,'unicode::utf8']]],
@@ -24,7 +24,7 @@ var searchData=
   ['get_5fmax_5fkstacks',['get_max_kstacks',['../d7/da2/namespacekernel.html#a816dd7de50b298f7da316313ab00c594',1,'kernel']]],
   ['get_5fmnemonic',['get_mnemonic',['../d2/d2d/arch_8h.html#acdc9db0ec0f58a69573b97b1723866f2',1,'get_mnemonic(cpu_state *s):&#160;hal.cpp'],['../d3/d55/arch_2x64_2hal_8cpp.html#acdc9db0ec0f58a69573b97b1723866f2',1,'get_mnemonic(cpu_state *s):&#160;hal.cpp'],['../d9/d6b/arch_2x86_2hal_8cpp.html#acdc9db0ec0f58a69573b97b1723866f2',1,'get_mnemonic(cpu_state *s):&#160;hal.cpp']]],
   ['get_5fnew_5fstack',['get_new_stack',['../d7/da2/namespacekernel.html#a1d9c0ce5fcaf1370c1895e740ac798f1',1,'kernel']]],
-  ['get_5fnext',['get_next',['../de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1',1,'kernel::test_module']]],
+  ['get_5fnext',['get_next',['../de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1',1,'kernel::test_module::get_next()'],['../de/d97/classkernel_1_1test__module.html#a7ada663b028f68d749aef5a77d6b5e7a',1,'kernel::test_module::get_next()']]],
   ['get_5fnext_5fchar',['get_next_char',['../dd/db0/namespaceunicode_1_1utf8.html#a2df92f12469070eae092725770497bfd',1,'unicode::utf8']]],
   ['get_5fnext_5fframe',['get_next_frame',['../d0/d7f/namespacehal.html#a042d8bab14cc7a32ae9663f738c15dc6',1,'hal']]],
   ['get_5fpage_5foffset_5faddr',['get_page_offset_addr',['../d0/d7f/namespacehal.html#a5da0fee39be6c7659d059d24765593b3',1,'hal']]],

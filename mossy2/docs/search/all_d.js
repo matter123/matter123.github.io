@@ -9,8 +9,8 @@ var searchData=
   ['map_5fphys_5fto_5fvirt_5fcur',['map_phys_to_virt_cur',['../d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7',1,'hal']]],
   ['master',['master',['../df/d77/structx86_1_1recursive__paging_1_1page__map.html#a907d805cc44150174aa49d8d3de8058c',1,'x86::recursive_paging::page_map']]],
   ['math_2ecpp',['math.cpp',['../dd/d2d/math_8cpp.html',1,'']]],
-  ['math_2eh',['math.h',['../d6/dcb/sysroot_2usr_2include_2math_8h.html',1,'']]],
   ['math_2eh',['math.h',['../d2/def/srcs_2c_2include_2math_8h.html',1,'']]],
+  ['math_2eh',['math.h',['../d6/dcb/sysroot_2usr_2include_2math_8h.html',1,'']]],
   ['math_2ehpp',['math.hpp',['../d4/d78/math_8hpp.html',1,'']]],
   ['max',['max',['../d8/dcc/namespacestd.html#afdb0985300047fc04bb3e2af35aee342',1,'std']]],
   ['max_5fcp',['max_cp',['../d3/da9/structkernel_1_1mbf__head.html#aef7b6de1477e7df3afbc2422ca213194',1,'kernel::mbf_head']]],
@@ -37,6 +37,7 @@ var searchData=
   ['memcmp',['memcmp',['../d3/df7/srcs_2c_2include_2string_8h.html#a1e7d61eb280250fb55dce370ba1a1709',1,'memcmp(const void *ptr1, const void *ptr2, size_t num):&#160;compare.cpp'],['../d8/d69/compare_8cpp.html#a1e7d61eb280250fb55dce370ba1a1709',1,'memcmp(const void *ptr1, const void *ptr2, size_t num):&#160;compare.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#a1e7d61eb280250fb55dce370ba1a1709',1,'memcmp(const void *ptr1, const void *ptr2, size_t num):&#160;compare.cpp']]],
   ['memcpy',['memcpy',['../d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1',1,'memcpy(void *dest, const void *src, size_t num):&#160;copy.cpp'],['../d9/d54/copy_8cpp.html#aeb83c95b0cdfdc603d71f23328f14cb1',1,'memcpy(void *dest, const void *src, size_t num):&#160;copy.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1',1,'memcpy(void *dest, const void *src, size_t num):&#160;copy.cpp']]],
   ['memmove',['memmove',['../d3/df7/srcs_2c_2include_2string_8h.html#ae8628c986b70205d34a160d2fb740680',1,'memmove(void *dest, const void *src, size_t num):&#160;copy.cpp'],['../d9/d54/copy_8cpp.html#ae8628c986b70205d34a160d2fb740680',1,'memmove(void *dest, const void *src, size_t num):&#160;copy.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#ae8628c986b70205d34a160d2fb740680',1,'memmove(void *dest, const void *src, size_t num):&#160;copy.cpp']]],
+  ['memory_2eh',['memory.h',['../dc/d18/memory_8h.html',1,'']]],
   ['memset',['memset',['../d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61',1,'memset(void *ptr, int value, size_t num):&#160;string.cpp'],['../d5/d24/string_8cpp.html#a4cb469bec7b722064b97a406346acb61',1,'memset(void *ptr, int value, size_t num):&#160;string.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61',1,'memset(void *ptr, int value, size_t num):&#160;string.cpp']]],
   ['memset16',['memset16',['../d3/df7/srcs_2c_2include_2string_8h.html#aaa76a766ec5f3c40cacc8901ec2d5b81',1,'memset16(uint16_t *ptr, uint16_t value, size_t num):&#160;string.cpp'],['../d5/d24/string_8cpp.html#aaa76a766ec5f3c40cacc8901ec2d5b81',1,'memset16(uint16_t *ptr, uint16_t value, size_t num):&#160;string.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#aaa76a766ec5f3c40cacc8901ec2d5b81',1,'memset16(uint16_t *ptr, uint16_t value, size_t num):&#160;string.cpp']]],
   ['memset32',['memset32',['../d3/df7/srcs_2c_2include_2string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b',1,'memset32(uint32_t *ptr, uint32_t value, size_t num):&#160;string.cpp'],['../d5/d24/string_8cpp.html#ae50df250eaf3831d5ce1b50d8c79604b',1,'memset32(uint32_t *ptr, uint32_t value, size_t num):&#160;string.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b',1,'memset32(uint32_t *ptr, uint32_t value, size_t num):&#160;string.cpp']]],
@@ -65,7 +66,7 @@ var searchData=
   ['multiboot_5fpalette',['multiboot_palette',['../d7/d10/structhal_1_1multiboot__palette.html',1,'hal']]],
   ['multiboot_5ftag',['multiboot_tag',['../d7/d20/structhal_1_1multiboot__tag.html',1,'hal']]],
   ['multiboot_5fvbe',['multiboot_vbe',['../d6/d74/structhal_1_1multiboot__vbe.html',1,'hal']]],
-  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]],
   ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html',1,'kernel']]],
+  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]],
   ['mutex_2ecpp',['mutex.cpp',['../d0/dbb/mutex_8cpp.html',1,'']]]
 ];
