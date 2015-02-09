@@ -7,7 +7,7 @@ var NAVTREE =
       [ "Namespace List", "namespaces.html", "namespaces" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", "namespacemembers_dup" ],
-        [ "Functions", "namespacemembers_func.html", null ],
+        [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
         [ "Variables", "namespacemembers_vars.html", null ],
         [ "Typedefs", "namespacemembers_type.html", null ],
         [ "Enumerations", "namespacemembers_enum.html", null ],
@@ -38,13 +38,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d3/d06/structhal_1_1multiboot__mmap.html",
-"d5/d24/string_8cpp.html#a276c5d14b4ca8ffa447a0b30333074f1",
-"d8/d69/compare_8cpp.html",
-"da/d5c/stdlib_8cpp.html#ab42640268f26e065efd044cfe80591bd",
-"dc/d34/arch_2x86__64_2int_8h.html#a10bba99ba6efd7532986c3431c453d77",
-"dc/d75/fb_8cpp.html#a23978d28f56999e1726be40d2422e6f0",
-"df/d4e/classhal_1_1mem__type.html#a59d123703cee2eb048d031248506642d"
+"d3/d20/hal_2hal_2paging_8h.html#aa6d7cec673e4a4ea06601327ba2642b9",
+"d5/d00/structx86_1_1trampoline.html#a9b5273d1ddaac24815417b863d3beee0",
+"d8/d5a/structtm.html#a93a0ba77cc23796df84405dcbcc57eb1",
+"da/d01/srcs_2c_2include_2stdlib_8h.html#aa6683b7bc1b45d9c3f62ca9c68c904b0",
+"dc/d25/fb_8h.html#abd8a6f1757294d943ed6eda6905b5bbe",
+"dc/d34/arch_2x86__64_2int_8h.html#af54d360a34144cb69511ffe57fa1894d",
+"de/daf/time_8cpp.html#aca5b3929941620e29066999b705754f4",
+"globals_u.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
