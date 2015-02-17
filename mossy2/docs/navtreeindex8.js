@@ -1,5 +1,10 @@
 var NAVTREEINDEX8 =
 {
+"globals_p.html":[4,1,0,11],
+"globals_r.html":[4,1,0,12],
+"globals_s.html":[4,1,0,13],
+"globals_t.html":[4,1,0,14],
+"globals_type.html":[4,1,3],
 "globals_u.html":[4,1,0,15],
 "globals_vars.html":[4,1,2],
 "globals_vars.html":[4,1,2,0],

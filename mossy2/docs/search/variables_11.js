@@ -33,7 +33,7 @@ var searchData=
   ['rip',['rip',['../da/d9b/structcpu__state.html#aedf337188fd0e9d0e582287e10b8e4f1',1,'cpu_state::rip()'],['../d8/d36/structhal_1_1stack__frame.html#ad59c0fe2dc1ba878647e7899c43837db',1,'hal::stack_frame::rip()']]],
   ['row',['row',['../da/dcc/structkernel_1_1glyph__int.html#ac54ba0d4dbf235b020b1f7bf9032d2b3',1,'kernel::glyph_int']]],
   ['rsdp_5fptr',['rsdp_ptr',['../df/dc2/namespaceacpi_1_1tables.html#a467deb9a008836806a5e1a7e113522ca',1,'acpi::tables']]],
-  ['rsdt',['rsdt',['../df/dc2/namespaceacpi_1_1tables.html#a65a9a4b1b9ddbb68103f6253acc66f6c',1,'acpi::tables']]],
+  ['rsdt',['RSDT',['../df/dee/structacpi_1_1acpi.html#aab28cb7d2ce1af3698ab73b57d1f648d',1,'acpi::acpi::RSDT()'],['../df/dc2/namespaceacpi_1_1tables.html#a65a9a4b1b9ddbb68103f6253acc66f6c',1,'acpi::tables::rsdt()']]],
   ['rsdtaddr',['RSDTaddr',['../d4/db4/structacpi_1_1tables_1_1RSDP.html#ab8e6f74ec2c8147621e276d6865da3bf',1,'acpi::tables::RSDP']]],
   ['rsi',['rsi',['../da/d9b/structcpu__state.html#a912e2db17309aa3738cecce250852ff8',1,'cpu_state']]],
   ['rsp',['rsp',['../da/d9b/structcpu__state.html#a20bea1cb6c0dbc0c87814665c0f9d997',1,'cpu_state']]],

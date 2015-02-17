@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['xsdt',['XSDT',['../db/d71/structacpi_1_1tables_1_1XSDT.html',1,'acpi::tables']]]
+  ['unique_5fptr',['unique_ptr',['../dd/def/classstd_1_1unique__ptr.html',1,'std']]],
+  ['unique_5fptr_3c_20t_5b_5d_3e',['unique_ptr&lt; T[]&gt;',['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html',1,'std']]]
 ];

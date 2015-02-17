@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['sdt',['SDT',['../dd/d4e/structacpi_1_1tables_1_1SDT.html',1,'acpi::tables']]],
-  ['semaphore',['semaphore',['../d4/d6c/classkernel_1_1semaphore.html',1,'kernel']]],
-  ['shared_5fptr',['shared_ptr',['../df/ddb/classstd_1_1shared__ptr.html',1,'std']]],
-  ['spinlock',['spinlock',['../d7/dc6/classkernel_1_1spinlock.html',1,'kernel']]],
-  ['stack_5fframe',['stack_frame',['../d8/d36/structhal_1_1stack__frame.html',1,'hal']]]
+  ['recursive_5fpaging',['recursive_paging',['../d4/db3/classx86_1_1recursive__paging.html',1,'x86']]],
+  ['recursive_5fpaging',['recursive_paging',['../d2/d70/classx64_1_1recursive__paging.html',1,'x64']]],
+  ['rsdp',['RSDP',['../d4/db4/structacpi_1_1tables_1_1RSDP.html',1,'acpi::tables']]],
+  ['rsdp20',['RSDP20',['../d3/de4/structacpi_1_1tables_1_1RSDP20.html',1,'acpi::tables']]],
+  ['rsdt',['RSDT',['../d9/d9c/structacpi_1_1tables_1_1RSDT.html',1,'acpi::tables']]]
 ];

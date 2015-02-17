@@ -9,7 +9,7 @@ var classx86_1_1recursive__paging =
     [ "locate", "d4/db3/classx86_1_1recursive__paging.html#a102cc69afa2599d8c0359c4aa9ffdc4e", null ],
     [ "map", "d4/db3/classx86_1_1recursive__paging.html#a48963a9fae102dec3e46473b21b72931", null ],
     [ "unmap", "d4/db3/classx86_1_1recursive__paging.html#a871862e18fdee0f1c310d96d3033daa8", null ],
-    [ "alloc_func", "d4/db3/classx86_1_1recursive__paging.html#a4cffa17864bc8a6e7daa86d8b6db7aa1", null ],
+    [ "alloc_func", "d4/db3/classx86_1_1recursive__paging.html#a10ce6da8550b6e30cfdbfb3fba6af2e3", null ],
     [ "PACKED", "d4/db3/classx86_1_1recursive__paging.html#ac3830c9a4857506d1312cdf05a23f10b", null ],
     [ "PACKED", "d4/db3/classx86_1_1recursive__paging.html#a8c07f72a7a39b3dd05bc2032d612c7a6", null ],
     [ "PACKED", "d4/db3/classx86_1_1recursive__paging.html#a327c963f8423ebff798f8390a4614afe", null ],

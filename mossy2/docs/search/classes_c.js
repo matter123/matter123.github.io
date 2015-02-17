@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['unique_5fptr',['unique_ptr',['../dd/def/classstd_1_1unique__ptr.html',1,'std']]],
-  ['unique_5fptr_3c_20t_5b_5d_3e',['unique_ptr&lt; T[]&gt;',['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html',1,'std']]]
+  ['test_5fmodule',['test_module',['../de/d97/classkernel_1_1test__module.html',1,'kernel']]],
+  ['thread_5finfo',['thread_info',['../db/db7/structkernel_1_1thread__info.html',1,'kernel']]],
+  ['tm',['tm',['../d8/d5a/structtm.html',1,'']]],
+  ['trampoline',['trampoline',['../d5/d00/structx86_1_1trampoline.html',1,'x86']]],
+  ['trampoline',['trampoline',['../d2/dde/structx64_1_1trampoline.html',1,'x64']]]
 ];

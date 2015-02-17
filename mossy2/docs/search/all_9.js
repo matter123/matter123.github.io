@@ -1,8 +1,8 @@
 var searchData=
 [
   ['id',['id',['../d5/d00/structx86_1_1trampoline.html#a2fb886fbb021e8dbd6c96f4e0eb46bff',1,'x86::trampoline::id()'],['../d5/d00/structx86_1_1trampoline.html#af4ade3cec75e8c5c5d8df7f5ced75a51',1,'x86::trampoline::id()'],['../d2/dde/structx64_1_1trampoline.html#ad5f7b2b786b09e517c02e471839a13d5',1,'x64::trampoline::id()']]],
-  ['idt',['IDT',['../db/d1d/structx86_1_1IDT.html',1,'x86']]],
   ['idt',['IDT',['../d2/d12/structx64_1_1IDT.html',1,'x64']]],
+  ['idt',['IDT',['../db/d1d/structx86_1_1IDT.html',1,'x86']]],
   ['idt',['idt',['../d0/d7f/namespacehal.html#a73c7118d6be652c3a2b33b5cceaaba32',1,'hal']]],
   ['idt_2eh',['idt.h',['../d3/d0e/x64_2idt_8h.html',1,'']]],
   ['idt_2eh',['idt.h',['../d4/d2b/x86_2idt_8h.html',1,'']]],
@@ -37,7 +37,7 @@ var searchData=
   ['install_5ftimer_5fcallback',['install_timer_callback',['../d0/d7f/namespacehal.html#ad8570f9e46ffd27f074117cb374f8107',1,'hal']]],
   ['int_2eh',['int.h',['../dc/d34/arch_2x86__64_2int_8h.html',1,'']]],
   ['int_2eh',['int.h',['../d4/d9b/hal_2hal_2int_8h.html',1,'']]],
-  ['int_5fcallback',['int_callback',['../d0/d7f/namespacehal.html#a19c7a8cead20bdcf199c4912364bc526',1,'hal']]],
+  ['int_5fcallback',['int_callback',['../d0/d7f/namespacehal.html#aa8938902ec25717040da39166b43d597',1,'hal']]],
   ['int_5fnum',['int_num',['../da/d9b/structcpu__state.html#a0af4e716f8861cb5d0a25f75f609c8cc',1,'cpu_state']]],
   ['invlpage',['invlpage',['../d7/db0/namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c',1,'x64::invlpage()'],['../d1/d08/namespacex86.html#a098d19891fa8e07820216ef5a2542d4c',1,'x86::invlpage()']]],
   ['inw',['inw',['../dc/dac/io_8h.html#ab2f39bde7b2e87793f55352c72d07ebe',1,'io.h']]],

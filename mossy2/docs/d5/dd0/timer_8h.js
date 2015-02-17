@@ -1,6 +1,6 @@
 var timer_8h =
 [
-    [ "timer_tick", "d5/dd0/timer_8h.html#a9b124a9aa8be5ebeea3647e43a56eace", null ],
+    [ "timer_tick", "d5/dd0/timer_8h.html#ae484aaffec3060922971754079651a42", null ],
     [ "get_counter", "d5/dd0/timer_8h.html#a3a422c7db9a3bb0b20872f402e7acb76", null ],
     [ "get_timer_freq", "d5/dd0/timer_8h.html#a71322183a6079a24e315ec9d5ec78e6c", null ],
     [ "install_timer_callback", "d5/dd0/timer_8h.html#ad8570f9e46ffd27f074117cb374f8107", null ],

@@ -1,6 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"de/daf/time_8cpp.html#aca5b3929941620e29066999b705754f4":[4,0,0,0,7,7],
 "de/daf/time_8cpp.html#ae3b8c29a35f3137802c32e8e54ed8e6d":[4,0,0,0,7,0],
 "de/daf/time_8cpp.html#ae897ee7729bae1675853975fd5327a07":[4,0,0,0,7,1],
 "de/dba/structx64_1_1recursive__paging_1_1pml4e.html":[3,0,5,3,5],
@@ -70,8 +69,8 @@ var NAVTREEINDEX7 =
 "df/db7/structhal_1_1page__opt.html#a108b55f1f9c0a08954a97a00ea37a4a2":[3,0,1,18,0],
 "df/db7/structhal_1_1page__opt.html#a52e922dd76e0ea49189cb92fbfcefb87":[3,0,1,18,1],
 "df/db7/structhal_1_1page__opt.html#af866fe6123ae8f0862689e987b2cce7d":[3,0,1,18,2],
-"df/dc2/namespaceacpi_1_1tables.html":[3,0,0,0],
 "df/dc2/namespaceacpi_1_1tables.html":[2,0,0,1],
+"df/dc2/namespaceacpi_1_1tables.html":[3,0,0,0],
 "df/ddb/classstd_1_1shared__ptr.html":[3,0,3,0],
 "df/ddb/classstd_1_1shared__ptr.html#a0514654a50f974e0ebe743380d1bcf70":[3,0,3,0,12],
 "df/ddb/classstd_1_1shared__ptr.html#a052c2dd7ee2638230730dd7706ece4dc":[3,0,3,0,3],
@@ -108,6 +107,12 @@ var NAVTREEINDEX7 =
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#aeff86255edd53938201f648d73774875":[3,0,6,3,4,8],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html#af4c8e319b050e3ceed965461558cbafc":[3,0,6,3,4,7],
 "df/dec/struct_8h.html":[4,0,0,2,4,0,6],
+"df/dee/structacpi_1_1acpi.html":[3,0,0,1],
+"df/dee/structacpi_1_1acpi.html#a2e360a9b7c332a125cefef95e8554767":[3,0,0,1,0],
+"df/dee/structacpi_1_1acpi.html#a458cde43014d8d9971eb60e291cf49ab":[3,0,0,1,3],
+"df/dee/structacpi_1_1acpi.html#aa140738be38f52534f3deb902d410500":[3,0,0,1,1],
+"df/dee/structacpi_1_1acpi.html#aab28cb7d2ce1af3698ab73b57d1f648d":[3,0,0,1,4],
+"df/dee/structacpi_1_1acpi.html#ad3482dacfa310840060b00cb7b43397e":[3,0,0,1,2],
 "df/df6/arch_2x86_2paging_8h.html":[4,0,0,2,1,1,4],
 "df/df6/arch_2x86_2paging_8h.html#ad2d07eef22e17f45585b7b9a3adbe1c0":[4,0,0,2,1,1,4,6],
 "df/df6/arch_2x86_2paging_8h.html#ae66fdff887eb0aa5c239781f52e83906":[4,0,0,2,1,1,4,7],
@@ -187,8 +192,8 @@ var NAVTREEINDEX7 =
 "functions_t.html":[3,2,0,19],
 "functions_u.html":[3,2,0,20],
 "functions_v.html":[3,2,0,21],
-"functions_vars.html":[3,2,2],
 "functions_vars.html":[3,2,2,0],
+"functions_vars.html":[3,2,2],
 "functions_vars_a.html":[3,2,2,1],
 "functions_vars_b.html":[3,2,2,2],
 "functions_vars_c.html":[3,2,2,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX7 =
 "globals_k.html":[4,1,0,7],
 "globals_l.html":[4,1,0,8],
 "globals_m.html":[4,1,0,9],
-"globals_o.html":[4,1,0,10],
-"globals_p.html":[4,1,0,11],
-"globals_r.html":[4,1,0,12],
-"globals_s.html":[4,1,0,13],
-"globals_t.html":[4,1,0,14],
-"globals_type.html":[4,1,3]
+"globals_o.html":[4,1,0,10]
 };

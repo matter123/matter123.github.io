@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['madt',['MADT',['../df/dee/structacpi_1_1acpi.html#a458cde43014d8d9971eb60e291cf49ab',1,'acpi::acpi']]],
   ['magenta',['MAGENTA',['../d3/d75/namespacestd_1_1TC.html#a2f7c0f1615ecdc2fceb4adeb717ff960',1,'std::TC']]],
   ['magic',['magic',['../d4/d48/structkernel_1_1HEAD.html#a9830aec9e696af31276ff66bbc20c991',1,'kernel::HEAD::magic()'],['../d3/da9/structkernel_1_1mbf__head.html#a16f3b33591a5208ef0451da956914560',1,'kernel::mbf_head::magic()']]],
   ['master',['master',['../df/d77/structx86_1_1recursive__paging_1_1page__map.html#a907d805cc44150174aa49d8d3de8058c',1,'x86::recursive_paging::page_map']]],
