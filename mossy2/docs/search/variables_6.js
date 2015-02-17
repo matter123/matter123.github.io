@@ -5,6 +5,8 @@ var searchData=
   ['firmware',['firmware',['../df/d4e/classhal_1_1mem__type.html#ae22f51f1f76275a16f9eca84ba52fe29',1,'hal::mem_type']]],
   ['firmware_5fctrl_5faddr',['firmware_ctrl_addr',['../d3/d94/namespaceacpi.html#a3c8a3f88eaeeb4e8d8f3fea557dd2863',1,'acpi']]],
   ['first',['first',['../d7/da2/namespacekernel.html#ab8ce36169f7c1addbf9776552b044d60',1,'kernel']]],
+  ['flush_5fsize',['flush_size',['../d3/d94/namespaceacpi.html#a6c0350ed44180925b129cd5ce13fdf4a',1,'acpi']]],
+  ['flush_5fstride',['flush_stride',['../d3/d94/namespaceacpi.html#a137b3e8cc950a19e2e8d303dfcd11987',1,'acpi']]],
   ['free',['free',['../d4/d48/structkernel_1_1HEAD.html#ab2bf2ae287b06c12787225971657a32b',1,'kernel::HEAD']]],
   ['free_5fcount',['free_count',['../d4/d6c/classkernel_1_1semaphore.html#a4e9d80312310f90a7a99399c5ffb4aa9',1,'kernel::semaphore']]],
   ['freq',['freq',['../d0/d7f/namespacehal.html#aebee1c755b55e96b98e48974c3c1aefa',1,'hal']]],

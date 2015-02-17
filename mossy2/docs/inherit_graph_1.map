@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node1" href="$db/dcf/structacpi_1_1MADT__entry.html" title="acpi::MADT_entry" alt="" coords="5,35,140,61"/>
+<area shape="rect" id="node2" href="$df/d27/structacpi_1_1IO__APIC.html" title="acpi::IO_APIC" alt="" coords="215,5,321,32"/>
+<area shape="rect" id="node3" href="$d2/d93/structacpi_1_1unknown__MADT__entry.html" title="acpi::unknown_MADT\l_entry" alt="" coords="188,57,348,98"/>
 </map>

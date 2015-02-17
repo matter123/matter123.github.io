@@ -16,7 +16,7 @@ var searchData=
   ['unique_5fptr_2ehpp',['unique_ptr.hpp',['../df/df8/sysroot_2usr_2include_2unique__ptr_8hpp.html',1,'']]],
   ['unique_5fptr_3c_20t_5b_5d_3e',['unique_ptr&lt; T[]&gt;',['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html',1,'std']]],
   ['unknown',['UNKNOWN',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda74c4bff89e0a7793c28b8149ace1460c',1,'unicode']]],
-  ['unknown_5fmadt_5fentry',['unknown_MADT_entry',['../dd/dd4/structunknown__MADT__entry.html',1,'']]],
+  ['unknown_5fmadt_5fentry',['unknown_MADT_entry',['../d2/d93/structacpi_1_1unknown__MADT__entry.html',1,'acpi']]],
   ['unlock',['unlock',['../da/d9b/classkernel_1_1mutex.html#aca49fd7e78ab0e7b95016afc79d66e78',1,'kernel::mutex']]],
   ['unmap',['unmap',['../d2/d70/classx64_1_1recursive__paging.html#a43033430ce7012454e3937fac93952a8',1,'x64::recursive_paging::unmap()'],['../d4/db3/classx86_1_1recursive__paging.html#a871862e18fdee0f1c310d96d3033daa8',1,'x86::recursive_paging::unmap()']]],
   ['unmap_5fvirt_5fcur',['unmap_virt_cur',['../d0/d7f/namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd',1,'hal']]],

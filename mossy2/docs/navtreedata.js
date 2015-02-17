@@ -30,9 +30,7 @@ var NAVTREE =
         [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", "globals_func" ],
         [ "Variables", "globals_vars.html", "globals_vars" ],
-        [ "Typedefs", "globals_type.html", null ],
-        [ "Enumerations", "globals_enum.html", null ],
-        [ "Enumerator", "globals_eval.html", null ]
+        [ "Typedefs", "globals_type.html", null ]
       ] ]
     ] ]
   ] ]
@@ -41,14 +39,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d2/ddc/x86_2stackframe_8cpp.html",
-"d4/db3/classx86_1_1recursive__paging.html#a96ce985920de05ab6f59fa367f73cb38",
-"d7/df6/text__color_8h.html#abc7951d5af9a517a6c608f51e36443a4",
-"d9/dd7/multiboot_8cpp.html#a53f2419cc8d5f3ceb08e6a60516075ba",
-"db/db7/structkernel_1_1thread__info.html#ada75ed9a6c1a8c6cabf9a0b3199e8614",
-"dc/d34/arch_2x86__64_2int_8h.html#adaa06f52cd620dac23130d35445a987e",
-"de/d37/arch_2x64_2paging_8h.html",
-"functions_p.html"
+"d2/d80/FADT_8h.html#ade259dad8fd4290f94d62846e7c40cbe",
+"d4/d9b/hal_2hal_2int_8h.html#a4b3daba30c28c10c98c462983bc9112a",
+"d7/da2/namespacekernel.html",
+"d9/dd1/sysroot_2usr_2include_2string_8h.html#a276c5d14b4ca8ffa447a0b30333074f1",
+"db/d6c/x86_2paging_8cpp.html#ab26f526f6f5608a0fd0b0a1339ed70e7",
+"dc/d34/arch_2x86__64_2int_8h.html#ab998f1c78e5da3bdf5d7da4c2fbfde4a",
+"dd/def/classstd_1_1unique__ptr.html#aa929a03dc2ccff24bed14c413e160bc7",
+"dir_473e2e101e88a3f228cbb0d58b8e653c.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

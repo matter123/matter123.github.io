@@ -11,6 +11,7 @@ var searchData=
   ['sig',['sig',['../d4/db4/structacpi_1_1tables_1_1RSDP.html#a41a5584cb9e5df47283d7c16ccf562e8',1,'acpi::tables::RSDP']]],
   ['signature',['signature',['../dc/de0/structacpi_1_1SDT.html#a1e00aa68a54671c3e46965f64a938ceb',1,'acpi::SDT::signature()'],['../dd/d4e/structacpi_1_1tables_1_1SDT.html#a449b5099507f7c5daf4b0b9f5c8e4e94',1,'acpi::tables::SDT::Signature()']]],
   ['size',['size',['../d6/dc7/structhal_1_1multiboot__header.html#aa1a8741ee87a6a32ed35220bbbd87ff9',1,'hal::multiboot_header::size()'],['../d7/d20/structhal_1_1multiboot__tag.html#ab67f192ad59d26652056ea30192503b4',1,'hal::multiboot_tag::size()']]],
+  ['sleep_5fbutton_5fcontrol_5fdevice',['sleep_button_control_device',['../d3/d94/namespaceacpi.html#a98f60fbf2d145a899ca39d7efbc6561e',1,'acpi']]],
   ['sleep_5fticks',['sleep_ticks',['../db/db7/structkernel_1_1thread__info.html#acdc306223575402252afeae7dedc0e43',1,'kernel::thread_info']]],
   ['sleeping',['sleeping',['../db/db7/structkernel_1_1thread__info.html#a07f917fb34e17118ee9899d554d0f91e',1,'kernel::thread_info']]],
   ['smi_5fcommand_5fport',['SMI_command_port',['../d3/d94/namespaceacpi.html#a10b4fb523494e5579cb5523b90f21a59',1,'acpi']]],

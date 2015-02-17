@@ -7,6 +7,6 @@ var searchData=
   ['idt_5frange',['idt_range',['../d4/de0/structhal_1_1idt__range.html',1,'hal']]],
   ['idtr',['IDTR',['../d3/de7/structx86_1_1IDTR.html',1,'x86']]],
   ['idtr',['IDTR',['../db/d2e/structx64_1_1IDTR.html',1,'x64']]],
-  ['io_5fapic',['IO_APIC',['../d1/d36/structIO__APIC.html',1,'']]],
+  ['io_5fapic',['IO_APIC',['../df/d27/structacpi_1_1IO__APIC.html',1,'acpi']]],
   ['ios_5fbase',['ios_base',['../db/d9c/classhal_1_1ios__base.html',1,'hal']]]
 ];

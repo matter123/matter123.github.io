@@ -16,6 +16,8 @@ var searchData=
   ['firmware_5fctrl_5faddr',['firmware_ctrl_addr',['../d3/d94/namespaceacpi.html#a3c8a3f88eaeeb4e8d8f3fea557dd2863',1,'acpi']]],
   ['first',['first',['../d7/da2/namespacekernel.html#ab8ce36169f7c1addbf9776552b044d60',1,'kernel']]],
   ['fix_5fmmap',['fix_mmap',['../d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9',1,'hal::fix_mmap()'],['../d0/d7f/namespacehal.html#a63960711ee1b053d5548d350229a23c9',1,'hal::fix_mmap()']]],
+  ['flush_5fsize',['flush_size',['../d3/d94/namespaceacpi.html#a6c0350ed44180925b129cd5ce13fdf4a',1,'acpi']]],
+  ['flush_5fstride',['flush_stride',['../d3/d94/namespaceacpi.html#a137b3e8cc950a19e2e8d303dfcd11987',1,'acpi']]],
   ['free',['free',['../d4/d48/structkernel_1_1HEAD.html#ab2bf2ae287b06c12787225971657a32b',1,'kernel::HEAD::free()'],['../da/d01/srcs_2c_2include_2stdlib_8h.html#afbedc913aa4651b3c3b4b3aecd9b4711',1,'free():&#160;heap.cpp'],['../d7/da2/namespacekernel.html#abf20922f3940efb87c628f39b6f18039',1,'kernel::free()'],['../db/d3c/sysroot_2usr_2include_2stdlib_8h.html#afbedc913aa4651b3c3b4b3aecd9b4711',1,'free():&#160;heap.cpp']]],
   ['free_5fcount',['free_count',['../d4/d6c/classkernel_1_1semaphore.html#a4e9d80312310f90a7a99399c5ffb4aa9',1,'kernel::semaphore']]],
   ['free_5fstack',['free_stack',['../d7/da2/namespacekernel.html#a5b15a439c9fd2854756fa49827ca2877',1,'kernel']]],

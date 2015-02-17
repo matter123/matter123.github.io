@@ -8,7 +8,7 @@ var searchData=
   ['r15',['r15',['../da/d9b/structcpu__state.html#afbc6f6b2bbe2f3df55a57030e40d25d9',1,'cpu_state']]],
   ['r8',['r8',['../da/d9b/structcpu__state.html#a0788749cbade5c0730bf75890446ad93',1,'cpu_state']]],
   ['r9',['r9',['../da/d9b/structcpu__state.html#ab77bc752139b91a10554451d1da5e27d',1,'cpu_state']]],
-  ['raw_5ftable',['raw_table',['../dd/dd4/structunknown__MADT__entry.html#abf0f93c4e9bbe760ce71f3e156a18f8b',1,'unknown_MADT_entry']]],
+  ['raw_5ftable',['raw_table',['../d2/d93/structacpi_1_1unknown__MADT__entry.html#a339f4a18d633f9cfedfe7bdc55d5fa53',1,'acpi::unknown_MADT_entry']]],
   ['rax',['rax',['../da/d9b/structcpu__state.html#a49e20c29be2a6995c698afe74e40911c',1,'cpu_state']]],
   ['rbp',['rbp',['../da/d9b/structcpu__state.html#a9c36d2825cb0a67536558fef801de6da',1,'cpu_state::rbp()'],['../d8/d36/structhal_1_1stack__frame.html#a7c7d969640eb26183c97ec1fe155cebe',1,'hal::stack_frame::rbp()']]],
   ['rbx',['rbx',['../da/d9b/structcpu__state.html#a417ba50d782ce34addf528d4f79d3771',1,'cpu_state']]],
@@ -23,6 +23,7 @@ var searchData=
   ['regs',['regs',['../d0/d7f/namespacehal.html#a4112c182813818b62aefd4e0c29d51cc',1,'hal::regs()'],['../d0/d7f/namespacehal.html#a4112c182813818b62aefd4e0c29d51cc',1,'hal::regs()']]],
   ['rel_5fjmp',['rel_jmp',['../d5/d00/structx86_1_1trampoline.html#a4c3cac09ec1efe9fbd807989f3a01d44',1,'x86::trampoline::rel_jmp()'],['../d2/dde/structx64_1_1trampoline.html#a9b93e404787ee3d5c76bd621118d4ba5',1,'x64::trampoline::rel_jmp()']]],
   ['reset',['RESET',['../d3/d75/namespacestd_1_1TC.html#a737488f11361e15f0700b68590e00f4f',1,'std::TC']]],
+  ['reset_5fregister_5fsupported',['reset_register_supported',['../d3/d94/namespaceacpi.html#a13592f0357c184282ce8a2d5ae1aa6bf',1,'acpi']]],
   ['resv',['resv',['../d3/de4/structacpi_1_1tables_1_1RSDP20.html#a8df80867c84c9ed1833a4df4db88e624',1,'acpi::tables::RSDP20::resv()'],['../d5/dfe/structx86_1_1idt__entry.html#a4a3e6a2556ddca9c64600f5553d093a5',1,'x86::idt_entry::resv()'],['../da/dd2/structx64_1_1idt__entry.html#aae835aa946f86278841b493cadd1fa1e',1,'x64::idt_entry::resv()'],['../d6/dc7/structhal_1_1multiboot__header.html#ade453cbbaf1be1d21c5ea96f82fdccc3',1,'hal::multiboot_header::resv()'],['../d1/d83/structhal_1_1multiboot__mmap__ent.html#a4b38209a07d9a3ed468858207dd3e1a0',1,'hal::multiboot_mmap_ent::resv()'],['../d4/d48/structkernel_1_1HEAD.html#a7d954afd3dbc48bbc0afc840c5d7e12b',1,'kernel::HEAD::resv()'],['../d3/da9/structkernel_1_1mbf__head.html#acc9359b1bcd0648d379721b5696c2483',1,'kernel::mbf_head::resv()'],['../d0/d7f/namespacehal.html#ac9823325983ea704fe074336df7fd85b',1,'hal::resv()']]],
   ['resv_5f1',['resv_1',['../da/dd2/structx64_1_1idt__entry.html#a7bacd183b51347b94aba026cac6f1a93',1,'x64::idt_entry::resv_1()'],['../df/d4e/classhal_1_1mem__type.html#ab64c783fe779e037e98478d0a510e5d1',1,'hal::mem_type::resv_1()']]],
   ['resv_5f2',['resv_2',['../df/d4e/classhal_1_1mem__type.html#a28318cb1eb9ace141fa2b40119f0c28c',1,'hal::mem_type']]],
@@ -39,5 +40,7 @@ var searchData=
   ['rsi',['rsi',['../da/d9b/structcpu__state.html#a912e2db17309aa3738cecce250852ff8',1,'cpu_state']]],
   ['rsp',['rsp',['../da/d9b/structcpu__state.html#a20bea1cb6c0dbc0c87814665c0f9d997',1,'cpu_state']]],
   ['rsv',['rsv',['../d1/d11/structhal_1_1multiboot__fb.html#abba9b2b1ecece905ee08f2d61b36c948',1,'hal::multiboot_fb']]],
+  ['rtc_5fwake_5ffixed_5fnot_5fsupported',['rtc_wake_fixed_not_supported',['../d3/d94/namespaceacpi.html#a99b8b037791868265ef1e4929b8c6e33',1,'acpi']]],
+  ['rtc_5fwake_5ffrom_5fs4',['rtc_wake_from_S4',['../d3/d94/namespaceacpi.html#a9b39fe898f227a6a49f1252d83e01ace',1,'acpi']]],
   ['running',['running',['../db/db7/structkernel_1_1thread__info.html#a553f05dde5dda18663db4bfe99779441',1,'kernel::thread_info']]]
 ];

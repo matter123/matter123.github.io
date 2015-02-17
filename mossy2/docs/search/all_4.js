@@ -2,6 +2,7 @@ var searchData=
 [
   ['dark',['dark',['../d7/da2/namespacekernel.html#af37f81d7fed238d964c9db1625c36f20',1,'kernel']]],
   ['data',['data',['../de/d03/classunicode_1_1bytes.html#ab17770f948371ba2807d7a06c3fa61e7',1,'unicode::bytes::data()'],['../d4/da2/classunicode_1_1codepoints.html#a4461a7619e8bb1ce77a56d7676b4e678',1,'unicode::codepoints::data()'],['../d2/d47/classunicode_1_1codeunits.html#a95348cec2d290e4828d765b9854e22cb',1,'unicode::codeunits::data()']]],
+  ['day_5falarm_5findex',['day_alarm_index',['../d3/d94/namespaceacpi.html#a7d8243a1e12bc532ab83907e6e135779',1,'acpi']]],
   ['dblue',['DBLUE',['../d3/d75/namespacestd_1_1TC.html#ad429ae15db819bdfe4402ca8363deb85',1,'std::TC']]],
   ['dcyan',['DCYAN',['../d3/d75/namespacestd_1_1TC.html#aeedb70fd88cc5b5a66dbd017b29ac97a',1,'std::TC']]],
   ['debug',['debug',['../d8/dcc/namespacestd.html#a25b422e2a18c02cd925f693e65550a18',1,'std']]],
@@ -28,6 +29,7 @@ var searchData=
   ['dma',['dma',['../df/d4e/classhal_1_1mem__type.html#a59d123703cee2eb048d031248506642d',1,'hal::mem_type']]],
   ['dmagenta',['DMAGENTA',['../d3/d75/namespacestd_1_1TC.html#a941f31212771f08291a099a2e564c6b9',1,'std::TC']]],
   ['do_5fchecksum',['do_checksum',['../df/dc2/namespaceacpi_1_1tables.html#a44e8d10bf85c67a19a09c5580a3fb0fd',1,'acpi::tables::do_checksum(SDT *table)'],['../df/dc2/namespaceacpi_1_1tables.html#a00915672c26a495f941c8fa9c74879a6',1,'acpi::tables::do_checksum()']]],
+  ['docking_5fsupported',['docking_supported',['../d3/d94/namespaceacpi.html#af74fe61f56429aa9aea62e3077648523',1,'acpi']]],
   ['dpl',['DPL',['../d5/dfe/structx86_1_1idt__entry.html#a91be00c432196d1b720218548ed2d45b',1,'x86::idt_entry::DPL()'],['../da/dd2/structx64_1_1idt__entry.html#a62fcdab9b93fe80094127d9ad3ed6deb',1,'x64::idt_entry::DPL()']]],
   ['draw_5fchar_5fat',['draw_char_at',['../d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204',1,'kernel']]],
   ['draw_5fstring_5fat',['draw_string_at',['../d7/da2/namespacekernel.html#ae359f5def3051aa2ac414c23250951dd',1,'kernel']]],
@@ -36,5 +38,7 @@ var searchData=
   ['dsdt',['DSDT',['../df/dee/structacpi_1_1acpi.html#aa140738be38f52534f3deb902d410500',1,'acpi::acpi::DSDT()'],['../d3/d94/namespaceacpi.html#abf952c4c43dcd681383f0d511c9b7dde',1,'acpi::DSDT()']]],
   ['dumb_5fmerge',['dumb_merge',['../d7/da2/namespacekernel.html#abda890eb0224f932543b2848fba64ffd',1,'kernel']]],
   ['dump_5fregs',['dump_regs',['../d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc',1,'hal']]],
+  ['duty_5foffset',['duty_offset',['../d3/d94/namespaceacpi.html#ad3ee4ba8d953910ac13fc240a89ed407',1,'acpi']]],
+  ['duty_5fwidth',['duty_width',['../d3/d94/namespaceacpi.html#a788a4bb088dcc98d2f6306ae3fdb990f',1,'acpi']]],
   ['dyellow',['DYELLOW',['../d3/d75/namespacestd_1_1TC.html#a136bbfef387548148a7c742c4a892277',1,'std::TC']]]
 ];

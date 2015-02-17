@@ -16,9 +16,9 @@ var hierarchy =
     [ "x86::IDTR", "d3/de7/structx86_1_1IDTR.html", null ],
     [ "x64::IDTR", "db/d2e/structx64_1_1IDTR.html", null ],
     [ "hal::ios_base", "db/d9c/classhal_1_1ios__base.html", null ],
-    [ "MADT_entry", "d4/d7f/structMADT__entry.html", [
-      [ "IO_APIC", "d1/d36/structIO__APIC.html", null ],
-      [ "unknown_MADT_entry", "dd/dd4/structunknown__MADT__entry.html", null ]
+    [ "acpi::MADT_entry", "db/dcf/structacpi_1_1MADT__entry.html", [
+      [ "acpi::IO_APIC", "df/d27/structacpi_1_1IO__APIC.html", null ],
+      [ "acpi::unknown_MADT_entry", "d2/d93/structacpi_1_1unknown__MADT__entry.html", null ]
     ] ],
     [ "kernel::mbf_head", "d3/da9/structkernel_1_1mbf__head.html", null ],
     [ "hal::mem_region", "da/d29/structhal_1_1mem__region.html", null ],
