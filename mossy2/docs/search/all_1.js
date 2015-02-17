@@ -12,6 +12,8 @@ var searchData=
   ['acpi_5fos_2eh',['acpi_os.h',['../da/d2c/acpi__os_8h.html',1,'']]],
   ['acquire',['acquire',['../d7/dc6/classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7',1,'kernel::spinlock']]],
   ['active',['active',['../db/db7/structkernel_1_1thread__info.html#a4f9fb3042103866acbd5e51ca0c97305',1,'kernel::thread_info']]],
+  ['active_5fhigh',['ACTIVE_HIGH',['../dd/d91/MADT_8h.html#a1c161c9b3d4435e01d5a154d07777f18',1,'MADT.h']]],
+  ['active_5flow',['ACTIVE_LOW',['../dd/d91/MADT_8h.html#a16d20733521f67d662dd3a0bff6150a8',1,'MADT.h']]],
   ['add_5ffree_5fpage',['add_free_page',['../d8/de8/namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6',1,'x86_64']]],
   ['add_5fphys_5fmem_5farch',['add_phys_mem_arch',['../d0/d7f/namespacehal.html#a3949c3c672c8731a6624f705dbe84cb9',1,'hal']]],
   ['add_5fphys_5fmem_5fvendor',['add_phys_mem_vendor',['../d0/d7f/namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc',1,'hal']]],

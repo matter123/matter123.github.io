@@ -48,7 +48,7 @@ var searchData=
   ['getcolor',['getColor',['../d3/d75/namespacestd_1_1TC.html#af3e4d3fd78fc6b30bda6ad8f4ae1d2da',1,'std::TC']]],
   ['global',['global',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a9abd500434b5594a5e058093ee222282',1,'x64::recursive_paging::pte::global()'],['../df/deb/structx86_1_1recursive__paging_1_1pte.html#ade52bf4f2a624b783b9132e93d1ad2e8',1,'x86::recursive_paging::pte::global()']]],
   ['global_2eh',['global.h',['../d2/d49/global_8h.html',1,'']]],
-  ['global_5fsystem_5finterrupt',['global_system_interrupt',['../dd/d91/MADT_8h.html#a30e59b950511dd5de9fc8592dbd3777f',1,'MADT.h']]],
+  ['global_5fdest',['global_dest',['../dd/d91/MADT_8h.html#a9bc5361b5da831771ab99f5d555bd934',1,'MADT.h']]],
   ['glyph_5fint',['glyph_int',['../da/dcc/structkernel_1_1glyph__int.html',1,'kernel']]],
   ['glyphs',['glyphs',['../d7/da2/namespacekernel.html#ad25a050d6254afd7637c5f7a22977d41',1,'kernel']]],
   ['gmtime',['gmtime',['../d2/d70/srcs_2c_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp'],['../de/daf/time_8cpp.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp'],['../d7/d4e/sysroot_2usr_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07',1,'gmtime(const time_t *time):&#160;time.cpp']]],

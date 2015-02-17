@@ -28,6 +28,7 @@ var searchData=
   ['color',['color',['../d7/d79/classhal_1_1ostream.html#a022f5ed3efa9e73768eb77be6c7e9eac',1,'hal::ostream']]],
   ['combine',['combine',['../db/d9c/classhal_1_1ios__base.html#aaf2aeba0ba7971c7fc7dc07c6bdbf705',1,'hal::ios_base']]],
   ['compare_2ecpp',['compare.cpp',['../d8/d69/compare_8cpp.html',1,'']]],
+  ['conforms',['CONFORMS',['../dd/d91/MADT_8h.html#ac250aac56e164674efc0a01091918388',1,'MADT.h']]],
   ['console_2ecpp',['console.cpp',['../d9/dda/console_8cpp.html',1,'']]],
   ['console_2eh',['console.h',['../d0/de3/console_8h.html',1,'']]],
   ['conv_2ehpp',['conv.hpp',['../d1/d21/srcs_2c_2include_2conv_8hpp.html',1,'']]],
@@ -47,12 +48,12 @@ var searchData=
   ['cr3',['cr3',['../da/d9b/structcpu__state.html#a17ad088db0b0d2cde970064d62dde02f',1,'cpu_state']]],
   ['cr4',['cr4',['../da/d9b/structcpu__state.html#ac94b85a4c081c974a343d5cd2783c9e6',1,'cpu_state']]],
   ['create_5ftask',['create_task',['../d7/db0/namespacex64.html#a2b4bca1424e526f1921046272e173be2',1,'x64::create_task()'],['../d1/d08/namespacex86.html#abb449662ba632eb50509ed2a7021bade',1,'x86::create_task()'],['../d7/da2/namespacekernel.html#aa60b33805708791a7818c26c2b87fcdc',1,'kernel::create_task()']]],
-  ['creator_5fid',['creator_ID',['../de/d91/structSDT.html#a4c6831ce6c8c9505c554f5ee94f1b90a',1,'SDT']]],
-  ['creator_5frevision',['creator_revision',['../dd/d4e/structacpi_1_1tables_1_1SDT.html#a4fd00fbdb369209aa1ef46f7167c0509',1,'acpi::tables::SDT::creator_revision()'],['../de/d91/structSDT.html#a72b280afb6d40bfa9d590ac892239d28',1,'SDT::creator_revision()']]],
+  ['creator_5fid',['creator_ID',['../dc/de0/structacpi_1_1SDT.html#a9c1bf7d14cda91f3a9ac39bc0c397496',1,'acpi::SDT']]],
+  ['creator_5frevision',['creator_revision',['../dd/d4e/structacpi_1_1tables_1_1SDT.html#a4fd00fbdb369209aa1ef46f7167c0509',1,'acpi::tables::SDT::creator_revision()'],['../dc/de0/structacpi_1_1SDT.html#a1ff5fa333cf733a2b8ccd1ee232f8356',1,'acpi::SDT::creator_revision()']]],
   ['creatorid',['creatorID',['../dd/d4e/structacpi_1_1tables_1_1SDT.html#ad301c8893decedcdd6aba43bc8f2c402',1,'acpi::tables::SDT']]],
   ['cs',['cs',['../da/d9b/structcpu__state.html#aa7a7ee085e6d2fc267857d8147d6cb61',1,'cpu_state']]],
   ['ctype_2ecpp',['ctype.cpp',['../d3/d7c/ctype_8cpp.html',1,'']]],
-  ['ctype_2eh',['ctype.h',['../d6/d72/sysroot_2usr_2include_2ctype_8h.html',1,'']]],
   ['ctype_2eh',['ctype.h',['../dc/d92/srcs_2c_2include_2ctype_8h.html',1,'']]],
+  ['ctype_2eh',['ctype.h',['../d6/d72/sysroot_2usr_2include_2ctype_8h.html',1,'']]],
   ['cyan',['CYAN',['../d3/d75/namespacestd_1_1TC.html#ae18f558965edbeefd106f1c9e58d06eb',1,'std::TC']]]
 ];

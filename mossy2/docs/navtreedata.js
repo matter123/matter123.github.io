@@ -30,7 +30,9 @@ var NAVTREE =
         [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", "globals_func" ],
         [ "Variables", "globals_vars.html", "globals_vars" ],
-        [ "Typedefs", "globals_type.html", null ]
+        [ "Typedefs", "globals_type.html", null ],
+        [ "Enumerations", "globals_enum.html", null ],
+        [ "Enumerator", "globals_eval.html", null ]
       ] ]
     ] ]
   ] ]
@@ -40,13 +42,13 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d3/d0e/x64_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f",
-"d4/de7/structkernel_1_1fb__info.html#a9882ac292323510bc992e9f90b951696",
-"d8/d4b/hal_8h.html#aaedd544c8d9fe4a3c4a5060a541186fe",
-"da/d01/srcs_2c_2include_2stdlib_8h.html#a53e8d1f366b7581b51b222c2e02aa765",
-"dc/d25/fb_8h.html#a25625eb5b8183007e48aaa158f20114f",
-"dc/d34/arch_2x86__64_2int_8h.html#aeb09520f0db11765d682060e123a737f",
-"de/d97/classkernel_1_1test__module.html#a8127161c7f6929c639a507d022a5c947",
-"globals.html"
+"d4/df8/namespaceacpi_1_1os.html",
+"d8/d5a/structtm.html",
+"da/d01/srcs_2c_2include_2stdlib_8h.html#a5aff941a8b7b49b2e7160449a3d413fc",
+"dc/d25/fb_8h.html#a355d8850e9f616d4df16325d54f05a75",
+"dc/d34/arch_2x86__64_2int_8h.html#aeca50038fa5704b227b078bf75209cb9",
+"de/d90/heap_8cpp.html#abda890eb0224f932543b2848fba64ffd",
+"functions_vars_r.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

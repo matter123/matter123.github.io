@@ -1,4 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$de/d91/structSDT.html" title="SDT" alt="" coords="5,5,53,32"/>
-<area shape="rect" id="node2" href="$d3/d42/structMADT.html" title="MADT" alt="" coords="101,5,161,32"/>
+<area shape="rect" id="node1" href="$d4/d7f/structMADT__entry.html" title="MADT_entry" alt="" coords="5,31,107,57"/>
+<area shape="rect" id="node2" href="$d1/d36/structIO__APIC.html" title="IO_APIC" alt="" coords="201,5,275,32"/>
+<area shape="rect" id="node3" href="$dd/dd4/structunknown__MADT__entry.html" title="unknown_MADT_entry" alt="" coords="155,56,321,83"/>
 </map>

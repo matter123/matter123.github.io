@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['madt',['MADT',['../d3/d42/structMADT.html',1,'MADT'],['../df/dee/structacpi_1_1acpi.html#a458cde43014d8d9971eb60e291cf49ab',1,'acpi::acpi::MADT()']]],
+  ['madt',['MADT',['../df/dee/structacpi_1_1acpi.html#a458cde43014d8d9971eb60e291cf49ab',1,'acpi::acpi']]],
   ['madt_2eh',['MADT.h',['../dd/d91/MADT_8h.html',1,'']]],
   ['madt_5fentry',['MADT_entry',['../d4/d7f/structMADT__entry.html',1,'']]],
   ['magenta',['MAGENTA',['../d3/d75/namespacestd_1_1TC.html#a2f7c0f1615ecdc2fceb4adeb717ff960',1,'std::TC']]],
@@ -70,7 +70,7 @@ var searchData=
   ['multiboot_5fpalette',['multiboot_palette',['../d7/d10/structhal_1_1multiboot__palette.html',1,'hal']]],
   ['multiboot_5ftag',['multiboot_tag',['../d7/d20/structhal_1_1multiboot__tag.html',1,'hal']]],
   ['multiboot_5fvbe',['multiboot_vbe',['../d6/d74/structhal_1_1multiboot__vbe.html',1,'hal']]],
-  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html',1,'kernel']]],
   ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]],
+  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html',1,'kernel']]],
   ['mutex_2ecpp',['mutex.cpp',['../d0/dbb/mutex_8cpp.html',1,'']]]
 ];

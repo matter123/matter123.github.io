@@ -17,7 +17,8 @@ var hierarchy =
     [ "x64::IDTR", "db/d2e/structx64_1_1IDTR.html", null ],
     [ "hal::ios_base", "db/d9c/classhal_1_1ios__base.html", null ],
     [ "MADT_entry", "d4/d7f/structMADT__entry.html", [
-      [ "IO_APIC", "d1/d36/structIO__APIC.html", null ]
+      [ "IO_APIC", "d1/d36/structIO__APIC.html", null ],
+      [ "unknown_MADT_entry", "dd/dd4/structunknown__MADT__entry.html", null ]
     ] ],
     [ "kernel::mbf_head", "d3/da9/structkernel_1_1mbf__head.html", null ],
     [ "hal::mem_region", "da/d29/structhal_1_1mem__region.html", null ],
@@ -41,14 +42,14 @@ var hierarchy =
     [ "hal::page_opt", "df/db7/structhal_1_1page__opt.html", null ],
     [ "x64::recursive_paging::pd", "df/d00/unionx64_1_1recursive__paging_1_1pd.html", null ],
     [ "x86::recursive_paging::pd", "de/d6e/unionx86_1_1recursive__paging_1_1pd.html", null ],
-    [ "x86::recursive_paging::pde", "d7/d6d/structx86_1_1recursive__paging_1_1pde.html", null ],
     [ "x64::recursive_paging::pde", "d9/d2d/structx64_1_1recursive__paging_1_1pde.html", null ],
+    [ "x86::recursive_paging::pde", "d7/d6d/structx86_1_1recursive__paging_1_1pde.html", null ],
     [ "x64::recursive_paging::pdpt", "dd/dff/unionx64_1_1recursive__paging_1_1pdpt.html", null ],
     [ "x64::recursive_paging::pdpte", "dd/d42/structx64_1_1recursive__paging_1_1pdpte.html", null ],
     [ "x64::recursive_paging::pml4", "d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html", null ],
     [ "x64::recursive_paging::pml4e", "de/dba/structx64_1_1recursive__paging_1_1pml4e.html", null ],
-    [ "x86::recursive_paging::pt", "d6/d6d/unionx86_1_1recursive__paging_1_1pt.html", null ],
     [ "x64::recursive_paging::pt", "da/dce/unionx64_1_1recursive__paging_1_1pt.html", null ],
+    [ "x86::recursive_paging::pt", "d6/d6d/unionx86_1_1recursive__paging_1_1pt.html", null ],
     [ "x86::recursive_paging::pte", "df/deb/structx86_1_1recursive__paging_1_1pte.html", null ],
     [ "x64::recursive_paging::pte", "d3/d5e/structx64_1_1recursive__paging_1_1pte.html", null ],
     [ "x86::recursive_paging", "d4/db3/classx86_1_1recursive__paging.html", null ],
@@ -56,10 +57,8 @@ var hierarchy =
     [ "acpi::tables::RSDP", "d4/db4/structacpi_1_1tables_1_1RSDP.html", null ],
     [ "acpi::tables::RSDP20", "d3/de4/structacpi_1_1tables_1_1RSDP20.html", null ],
     [ "acpi::tables::RSDT", "d9/d9c/structacpi_1_1tables_1_1RSDT.html", null ],
+    [ "acpi::SDT", "dc/de0/structacpi_1_1SDT.html", null ],
     [ "acpi::tables::SDT", "dd/d4e/structacpi_1_1tables_1_1SDT.html", null ],
-    [ "SDT", "de/d91/structSDT.html", [
-      [ "MADT", "d3/d42/structMADT.html", null ]
-    ] ],
     [ "kernel::semaphore", "d4/d6c/classkernel_1_1semaphore.html", null ],
     [ "std::shared_ptr< T >", "df/ddb/classstd_1_1shared__ptr.html", null ],
     [ "kernel::spinlock", "d7/dc6/classkernel_1_1spinlock.html", null ],

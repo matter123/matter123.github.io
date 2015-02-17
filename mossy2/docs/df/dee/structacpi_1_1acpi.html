@@ -124,7 +124,7 @@ Collaboration diagram for acpi::acpi:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d6/d51/structacpi_1_1acpi__coll__graph.png" border="0" usemap="#acpi_1_1acpi_coll__map" alt="Collaboration graph"/></div>
 <map name="acpi_1_1acpi_coll__map" id="acpi_1_1acpi_coll__map">
-<area shape="rect" id="node2" href="../../d3/d42/structMADT.html" title="MADT" alt="" coords="74,81,134,108"/><area shape="rect" id="node3" href="../../de/d91/structSDT.html" title="SDT" alt="" coords="20,5,68,32"/></map>
+<area shape="rect" id="node2" href="../../dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="5,5,88,32"/></map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
@@ -135,14 +135,18 @@ Public Attributes</h2></td></tr>
 <tr class="separator:aab28cb7d2ce1af3698ab73b57d1f648d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3482dacfa310840060b00cb7b43397e"><td class="memItemLeft" align="right" valign="top">FADT *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dee/structacpi_1_1acpi.html#ad3482dacfa310840060b00cb7b43397e">FADT</a></td></tr>
 <tr class="separator:ad3482dacfa310840060b00cb7b43397e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a458cde43014d8d9971eb60e291cf49ab"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d42/structMADT.html">MADT</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dee/structacpi_1_1acpi.html#a458cde43014d8d9971eb60e291cf49ab">MADT</a></td></tr>
+<tr class="memitem:a458cde43014d8d9971eb60e291cf49ab"><td class="memItemLeft" align="right" valign="top">MADT *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dee/structacpi_1_1acpi.html#a458cde43014d8d9971eb60e291cf49ab">MADT</a></td></tr>
 <tr class="separator:a458cde43014d8d9971eb60e291cf49ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa140738be38f52534f3deb902d410500"><td class="memItemLeft" align="right" valign="top">DSDT *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dee/structacpi_1_1acpi.html#aa140738be38f52534f3deb902d410500">DSDT</a></td></tr>
 <tr class="separator:aa140738be38f52534f3deb902d410500"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a651970156d9f9c9bb0887bcfc206c93e"><td class="memItemLeft" align="right" valign="top">SSDT **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dee/structacpi_1_1acpi.html#a651970156d9f9c9bb0887bcfc206c93e">SSDTs</a></td></tr>
 <tr class="separator:a651970156d9f9c9bb0887bcfc206c93e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab54804ca2a37cbab8cc011d69c10e14f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d91/structSDT.html">SDT</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dee/structacpi_1_1acpi.html#ab54804ca2a37cbab8cc011d69c10e14f">SDTs</a></td></tr>
+<tr class="memitem:aecbc2cf0807584709c22b53b8792ef94"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dee/structacpi_1_1acpi.html#aecbc2cf0807584709c22b53b8792ef94">SSDT_length</a></td></tr>
+<tr class="separator:aecbc2cf0807584709c22b53b8792ef94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab54804ca2a37cbab8cc011d69c10e14f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html">SDT</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dee/structacpi_1_1acpi.html#ab54804ca2a37cbab8cc011d69c10e14f">SDTs</a></td></tr>
 <tr class="separator:ab54804ca2a37cbab8cc011d69c10e14f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe85c14bcaec4876ce7973d6a6be6ebd"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dee/structacpi_1_1acpi.html#afe85c14bcaec4876ce7973d6a6be6ebd">SDT_length</a></td></tr>
+<tr class="separator:afe85c14bcaec4876ce7973d6a6be6ebd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>struct of acpi tables a struct of acpi tables for import types </p>
@@ -188,7 +192,7 @@ Public Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d42/structMADT.html">MADT</a>* acpi::acpi::MADT</td>
+          <td class="memname">MADT* acpi::acpi::MADT</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -207,12 +211,36 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="afe85c14bcaec4876ce7973d6a6be6ebd"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int acpi::acpi::SDT_length</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ab54804ca2a37cbab8cc011d69c10e14f"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d91/structSDT.html">SDT</a>** acpi::acpi::SDTs</td>
+          <td class="memname"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html">SDT</a>** acpi::acpi::SDTs</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="aecbc2cf0807584709c22b53b8792ef94"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int acpi::acpi::SSDT_length</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -240,7 +268,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d94/namespaceacpi.html">acpi</a></li><li class="navelem"><a class="el" href="../../df/dee/structacpi_1_1acpi.html">acpi</a></li>
-    <li class="footer">Generated on Mon Feb 16 2015 21:00:03 for MOSSY by
+    <li class="footer">Generated on Mon Feb 16 2015 21:30:09 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

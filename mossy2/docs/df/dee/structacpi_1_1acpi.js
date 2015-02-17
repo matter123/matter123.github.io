@@ -5,6 +5,8 @@ var structacpi_1_1acpi =
     [ "FADT", "df/dee/structacpi_1_1acpi.html#ad3482dacfa310840060b00cb7b43397e", null ],
     [ "MADT", "df/dee/structacpi_1_1acpi.html#a458cde43014d8d9971eb60e291cf49ab", null ],
     [ "RSDT", "df/dee/structacpi_1_1acpi.html#aab28cb7d2ce1af3698ab73b57d1f648d", null ],
+    [ "SDT_length", "df/dee/structacpi_1_1acpi.html#afe85c14bcaec4876ce7973d6a6be6ebd", null ],
     [ "SDTs", "df/dee/structacpi_1_1acpi.html#ab54804ca2a37cbab8cc011d69c10e14f", null ],
+    [ "SSDT_length", "df/dee/structacpi_1_1acpi.html#aecbc2cf0807584709c22b53b8792ef94", null ],
     [ "SSDTs", "df/dee/structacpi_1_1acpi.html#a651970156d9f9c9bb0887bcfc206c93e", null ]
 ];
