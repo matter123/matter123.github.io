@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['xor',['XOR',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a196032536dcb4ee500544e31b3ab408c',1,'kernel']]]
+  ['performance_5fserver',['PERFORMANCE_SERVER',['../d3/d94/namespaceacpi.html#ab320746ab55bb1f73954eded29466172a1894fb10b7004d2aa37dd8d470d5d611',1,'acpi']]]
 ];

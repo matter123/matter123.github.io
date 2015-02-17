@@ -41,14 +41,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d3/d0e/x64_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f",
-"d4/df8/namespaceacpi_1_1os.html",
-"d8/d5a/structtm.html",
-"da/d01/srcs_2c_2include_2stdlib_8h.html#a5aff941a8b7b49b2e7160449a3d413fc",
-"dc/d25/fb_8h.html#a355d8850e9f616d4df16325d54f05a75",
-"dc/d34/arch_2x86__64_2int_8h.html#aeca50038fa5704b227b078bf75209cb9",
-"de/d90/heap_8cpp.html#abda890eb0224f932543b2848fba64ffd",
-"functions_vars_r.html"
+"d2/ddc/x86_2stackframe_8cpp.html",
+"d4/db3/classx86_1_1recursive__paging.html#a96ce985920de05ab6f59fa367f73cb38",
+"d7/df6/text__color_8h.html#abc7951d5af9a517a6c608f51e36443a4",
+"d9/dd7/multiboot_8cpp.html#a53f2419cc8d5f3ceb08e6a60516075ba",
+"db/db7/structkernel_1_1thread__info.html#ada75ed9a6c1a8c6cabf9a0b3199e8614",
+"dc/d34/arch_2x86__64_2int_8h.html#adaa06f52cd620dac23130d35445a987e",
+"de/d37/arch_2x64_2paging_8h.html",
+"functions_p.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

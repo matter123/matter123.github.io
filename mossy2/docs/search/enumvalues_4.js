@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['not',['NOT',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a0518c45de17d540abebce25c9afa5fa9',1,'kernel']]]
+  ['mobile',['MOBILE',['../d3/d94/namespaceacpi.html#ab320746ab55bb1f73954eded29466172a62f4da8148c817b4f275898ff1a0832b',1,'acpi']]]
 ];

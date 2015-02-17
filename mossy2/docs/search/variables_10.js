@@ -12,11 +12,18 @@ var searchData=
   ['pic_5frange',['pic_range',['../db/d1b/namespacepc.html#a21ff9d8d9974cee6bfd738d510b7e639',1,'pc']]],
   ['pid',['PID',['../db/db7/structkernel_1_1thread__info.html#ada75ed9a6c1a8c6cabf9a0b3199e8614',1,'kernel::thread_info']]],
   ['pitch',['pitch',['../d1/d11/structhal_1_1multiboot__fb.html#a75b2bb2dfaad48cbd3cfce7720d1035f',1,'hal::multiboot_fb']]],
+  ['pm1a_5fcontrol_5fblock_5fport',['PM1a_control_block_port',['../d3/d94/namespaceacpi.html#ad75213bf68ba71c2a34a0fa508474c0d',1,'acpi']]],
+  ['pm1a_5fevent_5fblock_5fport',['PM1a_event_block_port',['../d3/d94/namespaceacpi.html#a6806f0dac62c129fb7c4d3a767f39153',1,'acpi']]],
+  ['pm1b_5fcontrol_5fblock_5fport',['PM1b_control_block_port',['../d3/d94/namespaceacpi.html#a33744c967f505af93125991009b4a2ce',1,'acpi']]],
+  ['pm1b_5fevent_5fblock_5fport',['PM1b_event_block_port',['../d3/d94/namespaceacpi.html#ae7afd29da89783ae3d29fa5f531019ff',1,'acpi']]],
+  ['pm2_5fcontrol_5fblock_5fport',['PM2_control_block_port',['../d3/d94/namespaceacpi.html#a0743e58cb998a47d07314e889f93ec20',1,'acpi']]],
+  ['pm_5ftimer_5fblock_5fport',['PM_timer_block_port',['../d3/d94/namespaceacpi.html#a414dca0b9f7c1f55340bd331c3a88c84',1,'acpi']]],
   ['pmap',['pmap',['../d4/db3/classx86_1_1recursive__paging.html#a96ce985920de05ab6f59fa367f73cb38',1,'x86::recursive_paging']]],
   ['polarity',['polarity',['../dd/d91/MADT_8h.html#ab209ddf46032006f648292a141e5e546',1,'MADT.h']]],
   ['present',['present',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#aaa2eb557772c1ddf7398b93b3e5fa6d4',1,'x64::recursive_paging::pte::present()'],['../d9/d2d/structx64_1_1recursive__paging_1_1pde.html#a7090279057017a1a596de0d77b527aff',1,'x64::recursive_paging::pde::present()'],['../dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#aa99c4fa0278ccaecfa3018fbc57a8513',1,'x64::recursive_paging::pdpte::present()'],['../de/dba/structx64_1_1recursive__paging_1_1pml4e.html#a1706e34c36c01adb06e55de17b2bd858',1,'x64::recursive_paging::pml4e::present()'],['../d7/d6d/structx86_1_1recursive__paging_1_1pde.html#a8d4fd0d4dbcf921aa13201db8df23811',1,'x86::recursive_paging::pde::present()'],['../df/deb/structx86_1_1recursive__paging_1_1pte.html#a50fb2c9ed38be2a6e4b320833b50cd9c',1,'x86::recursive_paging::pte::present()'],['../d5/dfe/structx86_1_1idt__entry.html#a7289ef46b9d6b59d3dd298f238bb8e1c',1,'x86::idt_entry::present()'],['../da/dd2/structx64_1_1idt__entry.html#a34eaefed789351ce4335c41f172a709a',1,'x64::idt_entry::present()']]],
   ['prev',['prev',['../d4/d48/structkernel_1_1HEAD.html#a74ef9ed0ee68c0f9e54547665fd7a634',1,'kernel::HEAD']]],
   ['priority',['priority',['../db/db7/structkernel_1_1thread__info.html#af6783c1abc64cd2f5d913ddc229711af',1,'kernel::thread_info']]],
   ['processer_5fid',['processer_ID',['../dd/d91/MADT_8h.html#afe77befccefe6559b4251aa0528d2a87',1,'MADT.h']]],
+  ['processor_5fstate_5fcontrol_5fvalue',['processor_state_control_value',['../d3/d94/namespaceacpi.html#a6e2df06b1b82802af1da6817cba7680e',1,'acpi']]],
   ['ptra',['ptra',['../de/daf/time_8cpp.html#a4df37f13e9fb76d595bc309900fb7408',1,'time.cpp']]]
 ];

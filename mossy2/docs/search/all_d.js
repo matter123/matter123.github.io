@@ -40,8 +40,8 @@ var searchData=
   ['memcmp',['memcmp',['../d3/df7/srcs_2c_2include_2string_8h.html#a1e7d61eb280250fb55dce370ba1a1709',1,'memcmp(const void *ptr1, const void *ptr2, size_t num):&#160;compare.cpp'],['../d8/d69/compare_8cpp.html#a1e7d61eb280250fb55dce370ba1a1709',1,'memcmp(const void *ptr1, const void *ptr2, size_t num):&#160;compare.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#a1e7d61eb280250fb55dce370ba1a1709',1,'memcmp(const void *ptr1, const void *ptr2, size_t num):&#160;compare.cpp']]],
   ['memcpy',['memcpy',['../d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1',1,'memcpy(void *dest, const void *src, size_t num):&#160;copy.cpp'],['../d9/d54/copy_8cpp.html#aeb83c95b0cdfdc603d71f23328f14cb1',1,'memcpy(void *dest, const void *src, size_t num):&#160;copy.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1',1,'memcpy(void *dest, const void *src, size_t num):&#160;copy.cpp']]],
   ['memmove',['memmove',['../d3/df7/srcs_2c_2include_2string_8h.html#ae8628c986b70205d34a160d2fb740680',1,'memmove(void *dest, const void *src, size_t num):&#160;copy.cpp'],['../d9/d54/copy_8cpp.html#ae8628c986b70205d34a160d2fb740680',1,'memmove(void *dest, const void *src, size_t num):&#160;copy.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#ae8628c986b70205d34a160d2fb740680',1,'memmove(void *dest, const void *src, size_t num):&#160;copy.cpp']]],
-  ['memory_2eh',['memory.h',['../dd/d13/srcs_2c_09_09_2include_2memory_8h.html',1,'']]],
   ['memory_2eh',['memory.h',['../d8/d64/sysroot_2usr_2include_2memory_8h.html',1,'']]],
+  ['memory_2eh',['memory.h',['../dd/d13/srcs_2c_09_09_2include_2memory_8h.html',1,'']]],
   ['memset',['memset',['../d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61',1,'memset(void *ptr, int value, size_t num):&#160;string.cpp'],['../d5/d24/string_8cpp.html#a4cb469bec7b722064b97a406346acb61',1,'memset(void *ptr, int value, size_t num):&#160;string.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61',1,'memset(void *ptr, int value, size_t num):&#160;string.cpp']]],
   ['memset16',['memset16',['../d3/df7/srcs_2c_2include_2string_8h.html#aaa76a766ec5f3c40cacc8901ec2d5b81',1,'memset16(uint16_t *ptr, uint16_t value, size_t num):&#160;string.cpp'],['../d5/d24/string_8cpp.html#aaa76a766ec5f3c40cacc8901ec2d5b81',1,'memset16(uint16_t *ptr, uint16_t value, size_t num):&#160;string.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#aaa76a766ec5f3c40cacc8901ec2d5b81',1,'memset16(uint16_t *ptr, uint16_t value, size_t num):&#160;string.cpp']]],
   ['memset32',['memset32',['../d3/df7/srcs_2c_2include_2string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b',1,'memset32(uint32_t *ptr, uint32_t value, size_t num):&#160;string.cpp'],['../d5/d24/string_8cpp.html#ae50df250eaf3831d5ce1b50d8c79604b',1,'memset32(uint32_t *ptr, uint32_t value, size_t num):&#160;string.cpp'],['../d9/dd1/sysroot_2usr_2include_2string_8h.html#ae50df250eaf3831d5ce1b50d8c79604b',1,'memset32(uint32_t *ptr, uint32_t value, size_t num):&#160;string.cpp']]],
@@ -52,6 +52,7 @@ var searchData=
   ['min_5fdigits',['min_digits',['../db/d9c/classhal_1_1ios__base.html#a5a46b3f64298ace043721544b8f0a0f2',1,'hal::ios_base']]],
   ['mmap_2eh',['mmap.h',['../d9/d5a/mmap_8h.html',1,'']]],
   ['mnemonic',['mnemonic',['../da/d9b/structcpu__state.html#a1e45c1630c1ce6248eee4d1fdac0ec05',1,'cpu_state']]],
+  ['mobile',['MOBILE',['../d3/d94/namespaceacpi.html#ab320746ab55bb1f73954eded29466172a62f4da8148c817b4f275898ff1a0832b',1,'acpi']]],
   ['mod_5fend',['mod_end',['../d9/d51/structhal_1_1multiboot__module.html#a87846fb9ef070811ac6e6abaed2cf768',1,'hal::multiboot_module::mod_end()'],['../d0/d99/structhal_1_1multiboot__module__int.html#a8210a2774f026150602234b71a8081b3',1,'hal::multiboot_module_int::mod_end()']]],
   ['mod_5fstart',['mod_start',['../d9/d51/structhal_1_1multiboot__module.html#a6d1029f3da9287ca3a5902255a641a69',1,'hal::multiboot_module::mod_start()'],['../d0/d99/structhal_1_1multiboot__module__int.html#a72eebc0305a621c900ff1247cc204c5c',1,'hal::multiboot_module_int::mod_start()']]],
   ['mods',['mods',['../d0/d7f/namespacehal.html#a296e618d3f553ca51a04b6f0a05b4ed1',1,'hal']]],
@@ -70,7 +71,7 @@ var searchData=
   ['multiboot_5fpalette',['multiboot_palette',['../d7/d10/structhal_1_1multiboot__palette.html',1,'hal']]],
   ['multiboot_5ftag',['multiboot_tag',['../d7/d20/structhal_1_1multiboot__tag.html',1,'hal']]],
   ['multiboot_5fvbe',['multiboot_vbe',['../d6/d74/structhal_1_1multiboot__vbe.html',1,'hal']]],
-  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]],
   ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html',1,'kernel']]],
+  ['mutex',['mutex',['../da/d9b/classkernel_1_1mutex.html#ac690a2b3246dee08f798b5f9493cc4c2',1,'kernel::mutex']]],
   ['mutex_2ecpp',['mutex.cpp',['../d0/dbb/mutex_8cpp.html',1,'']]]
 ];

@@ -14,6 +14,7 @@ var searchData=
   ['def_5fcolor',['def_color',['../d7/d79/classhal_1_1ostream.html#a7488513736240e2072fda9c85f1eb21c',1,'hal::ostream']]],
   ['def_5fcp_5fidx',['def_cp_idx',['../d3/da9/structkernel_1_1mbf__head.html#ad682ed42e1741c7d63b3ce9a5de81497',1,'kernel::mbf_head']]],
   ['depends',['depends',['../de/d97/classkernel_1_1test__module.html#a173e797a28c264e65e508af7717d41c9',1,'kernel::test_module']]],
+  ['desktop',['DESKTOP',['../d3/d94/namespaceacpi.html#ab320746ab55bb1f73954eded29466172ab76013258af173b10bcb287cf27e88d6',1,'acpi']]],
   ['detect_5fencoding',['detect_encoding',['../d9/df7/namespaceunicode.html#a9b86941d1be3e3c1694f090cc58a6db2',1,'unicode']]],
   ['dgray',['DGRAY',['../d3/d75/namespacestd_1_1TC.html#abc7951d5af9a517a6c608f51e36443a4',1,'std::TC']]],
   ['dgreen',['DGREEN',['../d3/d75/namespacestd_1_1TC.html#ad6666be821d858871051dbda7292591d',1,'std::TC']]],
@@ -32,7 +33,7 @@ var searchData=
   ['draw_5fstring_5fat',['draw_string_at',['../d7/da2/namespacekernel.html#ae359f5def3051aa2ac414c23250951dd',1,'kernel']]],
   ['dred',['DRED',['../d3/d75/namespacestd_1_1TC.html#acf842507bf13e9a5a60e6ab2a615f966',1,'std::TC']]],
   ['ds',['ds',['../da/d9b/structcpu__state.html#a43ff6e955efa9e891ed865172b97589b',1,'cpu_state']]],
-  ['dsdt',['DSDT',['../df/dee/structacpi_1_1acpi.html#aa140738be38f52534f3deb902d410500',1,'acpi::acpi']]],
+  ['dsdt',['DSDT',['../df/dee/structacpi_1_1acpi.html#aa140738be38f52534f3deb902d410500',1,'acpi::acpi::DSDT()'],['../d3/d94/namespaceacpi.html#abf952c4c43dcd681383f0d511c9b7dde',1,'acpi::DSDT()']]],
   ['dumb_5fmerge',['dumb_merge',['../d7/da2/namespacekernel.html#abda890eb0224f932543b2848fba64ffd',1,'kernel']]],
   ['dump_5fregs',['dump_regs',['../d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc',1,'hal']]],
   ['dyellow',['DYELLOW',['../d3/d75/namespacestd_1_1TC.html#a136bbfef387548148a7c742c4a892277',1,'std::TC']]]

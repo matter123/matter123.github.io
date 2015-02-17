@@ -1,8 +1,10 @@
 var searchData=
 [
   ['s',['s',['../d4/d6c/classkernel_1_1semaphore.html#ab2c5e46f96202165372f76cafcfa9deb',1,'kernel::semaphore::s()'],['../da/d9b/classkernel_1_1mutex.html#a6f767fef1e0f9f6289d5179e1b3d1acb',1,'kernel::mutex::s()']]],
+  ['s4bios_5frequest_5fvalue',['S4BIOS_request_value',['../d3/d94/namespaceacpi.html#aa9bef5fc917cbaa5d24c7709e8f931cc',1,'acpi']]],
   ['safe_5fmemcpy',['safe_memcpy',['../d4/de7/structkernel_1_1fb__info.html#ac03a67a71a256a9ae47808dbcf7161f3',1,'kernel::fb_info']]],
   ['save_5fon_5fhib',['save_on_hib',['../df/d4e/classhal_1_1mem__type.html#ae46f19011eb292ef6eff7bf7ccd0ebbe',1,'hal::mem_type']]],
+  ['sci_5finterrupt_5fnumber',['SCI_interrupt_number',['../d3/d94/namespaceacpi.html#a51550a6a03f41dfcbb9efd5e99c56254',1,'acpi']]],
   ['sdt_5flength',['SDT_length',['../df/dee/structacpi_1_1acpi.html#afe85c14bcaec4876ce7973d6a6be6ebd',1,'acpi::acpi']]],
   ['sdts',['SDTs',['../df/dee/structacpi_1_1acpi.html#ab54804ca2a37cbab8cc011d69c10e14f',1,'acpi::acpi']]],
   ['showbase',['showbase',['../db/d9c/classhal_1_1ios__base.html#a33fc34ba243c6a3f5622953819c3d284',1,'hal::ios_base']]],
@@ -11,6 +13,7 @@ var searchData=
   ['size',['size',['../d6/dc7/structhal_1_1multiboot__header.html#aa1a8741ee87a6a32ed35220bbbd87ff9',1,'hal::multiboot_header::size()'],['../d7/d20/structhal_1_1multiboot__tag.html#ab67f192ad59d26652056ea30192503b4',1,'hal::multiboot_tag::size()']]],
   ['sleep_5fticks',['sleep_ticks',['../db/db7/structkernel_1_1thread__info.html#acdc306223575402252afeae7dedc0e43',1,'kernel::thread_info']]],
   ['sleeping',['sleeping',['../db/db7/structkernel_1_1thread__info.html#a07f917fb34e17118ee9899d554d0f91e',1,'kernel::thread_info']]],
+  ['smi_5fcommand_5fport',['SMI_command_port',['../d3/d94/namespaceacpi.html#a10b4fb523494e5579cb5523b90f21a59',1,'acpi']]],
   ['ss',['ss',['../da/d9b/structcpu__state.html#a98b534a292d86f218e548900fbda49e7',1,'cpu_state']]],
   ['ssdt_5flength',['SSDT_length',['../df/dee/structacpi_1_1acpi.html#aecbc2cf0807584709c22b53b8792ef94',1,'acpi::acpi']]],
   ['ssdts',['SSDTs',['../df/dee/structacpi_1_1acpi.html#a651970156d9f9c9bb0887bcfc206c93e',1,'acpi::acpi']]],
