@@ -1,4 +1,6 @@
 <map id="acpi::FADT" name="acpi::FADT">
-<area shape="rect" id="node2" href="$dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="5,13,88,39"/>
-<area shape="rect" id="node3" href="$d9/d9d/structacpi_1_1generic__address__space.html" title="acpi::generic_address\l_space" alt="" coords="113,5,274,47"/>
+<area shape="rect" id="node2" href="$dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node4" href="$d9/dae/structacpi_1_1DSDT.html" title="acpi::DSDT" alt="" coords="55,89,147,115"/>
+<area shape="rect" id="node3" href="$d9/d9d/structacpi_1_1generic__address__space.html" title="acpi::generic_address\l_space" alt="" coords="171,81,333,123"/>
+<area shape="rect" id="node5" href="$da/d3e/structacpi_1_1FACS.html" title="acpi::FACS" alt="" coords="368,89,456,115"/>
 </map>

@@ -36,6 +36,8 @@ var searchData=
   ['dred',['DRED',['../d3/d75/namespacestd_1_1TC.html#acf842507bf13e9a5a60e6ab2a615f966',1,'std::TC']]],
   ['ds',['ds',['../da/d9b/structcpu__state.html#a43ff6e955efa9e891ed865172b97589b',1,'cpu_state']]],
   ['dsdt',['DSDT',['../d3/d53/structacpi_1_1FADT.html#ab42e0fe1d789aa1121110cf2b9f4285a',1,'acpi::FADT::DSDT()'],['../df/dee/structacpi_1_1acpi.html#aa140738be38f52534f3deb902d410500',1,'acpi::acpi::DSDT()']]],
+  ['dsdt',['DSDT',['../d9/dae/structacpi_1_1DSDT.html',1,'acpi']]],
+  ['dsdt_2eh',['DSDT.h',['../d8/d3b/DSDT_8h.html',1,'']]],
   ['dumb_5fmerge',['dumb_merge',['../d7/da2/namespacekernel.html#abda890eb0224f932543b2848fba64ffd',1,'kernel']]],
   ['dump_5fregs',['dump_regs',['../d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc',1,'hal']]],
   ['duty_5foffset',['duty_offset',['../d3/d53/structacpi_1_1FADT.html#acfe3f90d5cb2500406c00d3c09f5ee13',1,'acpi::FADT']]],

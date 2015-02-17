@@ -1,8 +1,12 @@
 var dir_22ba430d0329a07b31ac90f66bc307e8 =
 [
     [ "apic_tables.h", "d9/db6/apic__tables_8h.html", "d9/db6/apic__tables_8h" ],
+    [ "DSDT.h", "d8/d3b/DSDT_8h.html", [
+      [ "DSDT", "d9/dae/structacpi_1_1DSDT.html", "d9/dae/structacpi_1_1DSDT" ],
+      [ "SSDT", "d4/d08/structacpi_1_1SSDT.html", "d4/d08/structacpi_1_1SSDT" ]
+    ] ],
     [ "FACS.h", "dd/ddb/FACS_8h.html", [
-      [ "SDT", "dc/de0/structacpi_1_1SDT.html", "dc/de0/structacpi_1_1SDT" ]
+      [ "FACS", "da/d3e/structacpi_1_1FACS.html", "da/d3e/structacpi_1_1FACS" ]
     ] ],
     [ "FADT.h", "d2/d80/FADT_8h.html", [
       [ "FADT", "d3/d53/structacpi_1_1FADT.html", "d3/d53/structacpi_1_1FADT" ]

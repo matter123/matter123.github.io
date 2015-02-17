@@ -5,6 +5,7 @@ var searchData=
   ['scoot',['scoot',['../d7/da2/namespacekernel.html#a6e4897103f6c207a9c2531daf8634859',1,'kernel']]],
   ['scroll',['scroll',['../d0/d7f/namespacehal.html#ad49d2e8377a31906bc4dc84f255817f8',1,'hal::scroll()'],['../d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5',1,'hal::scroll(int lines)']]],
   ['semaphore',['semaphore',['../d4/d6c/classkernel_1_1semaphore.html#aeab884aeb097e2311953687d438f73c6',1,'kernel::semaphore']]],
+  ['set_5f64_5fbit_5fwake',['set_64_bit_wake',['../da/d3e/structacpi_1_1FACS.html#a540c005007e472c6470dda588348105d',1,'acpi::FACS']]],
   ['set_5fbackground',['set_background',['../d7/da2/namespacekernel.html#a962e91919c6c79029c5a57f917cdb72a',1,'kernel']]],
   ['set_5fmon',['set_mon',['../de/daf/time_8cpp.html#a92e17d55930effdd8b42ef998f1549fd',1,'time.cpp']]],
   ['set_5freg',['set_reg',['../d2/d2d/arch_8h.html#ad2a5fe557c248b09971b07873319494c',1,'arch.h']]],

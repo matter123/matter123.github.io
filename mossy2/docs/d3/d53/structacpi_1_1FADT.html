@@ -124,7 +124,7 @@ Collaboration diagram for acpi::FADT:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../db/d8d/structacpi_1_1FADT__coll__graph.png" border="0" usemap="#acpi_1_1FADT_coll__map" alt="Collaboration graph"/></div>
 <map name="acpi_1_1FADT_coll__map" id="acpi_1_1FADT_coll__map">
-<area shape="rect" id="node2" href="../../dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="5,13,88,39"/><area shape="rect" id="node3" href="../../d9/d9d/structacpi_1_1generic__address__space.html" title="acpi::generic_address\l_space" alt="" coords="113,5,274,47"/></map>
+<area shape="rect" id="node2" href="../../dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="5,5,88,32"/><area shape="rect" id="node4" href="../../d9/dae/structacpi_1_1DSDT.html" title="acpi::DSDT" alt="" coords="55,89,147,115"/><area shape="rect" id="node3" href="../../d9/d9d/structacpi_1_1generic__address__space.html" title="acpi::generic_address\l_space" alt="" coords="171,81,333,123"/><area shape="rect" id="node5" href="../../da/d3e/structacpi_1_1FACS.html" title="acpi::FACS" alt="" coords="368,89,456,115"/></map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
@@ -162,9 +162,9 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a312db5450c36ec8d9c6408eaa133174d"><td class="memItemLeft" align="right" valign="top">FACS *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#a312db5450c36ec8d9c6408eaa133174d">firmware_ctrl_addr</a></td></tr>
+<tr class="memitem:a312db5450c36ec8d9c6408eaa133174d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d3e/structacpi_1_1FACS.html">FACS</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#a312db5450c36ec8d9c6408eaa133174d">firmware_ctrl_addr</a></td></tr>
 <tr class="separator:a312db5450c36ec8d9c6408eaa133174d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab42e0fe1d789aa1121110cf2b9f4285a"><td class="memItemLeft" align="right" valign="top">DSDT *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#ab42e0fe1d789aa1121110cf2b9f4285a">DSDT</a></td></tr>
+<tr class="memitem:ab42e0fe1d789aa1121110cf2b9f4285a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dae/structacpi_1_1DSDT.html">DSDT</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#ab42e0fe1d789aa1121110cf2b9f4285a">DSDT</a></td></tr>
 <tr class="separator:ab42e0fe1d789aa1121110cf2b9f4285a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad8e52a405f2c8a2695614ec9fcf52947"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="../../d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56">acpi::FADT::power_profile</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#ad8e52a405f2c8a2695614ec9fcf52947">preferred_power_profile</a></td></tr>
 <tr class="separator:ad8e52a405f2c8a2695614ec9fcf52947"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -174,8 +174,10 @@ Public Attributes</h2></td></tr>
 <tr class="separator:ae5ab44a687ffb96ca2ee3bc3c92897d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7b7b57a57efdf598b7d32575cb3a915c"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#a7b7b57a57efdf598b7d32575cb3a915c">ACPI_enable_value</a></td></tr>
 <tr class="separator:a7b7b57a57efdf598b7d32575cb3a915c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abef2c66c5ff58fde047ea797b353233a"><td class="memItemLeft" align="right" valign="top">uint8_t ACPI_disable_value uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#abef2c66c5ff58fde047ea797b353233a">S4BIOS_request_value</a></td></tr>
-<tr class="separator:abef2c66c5ff58fde047ea797b353233a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a38ec4e2bcce7f7133e927d0c4950abc1"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#a38ec4e2bcce7f7133e927d0c4950abc1">ACPI_disable_value</a></td></tr>
+<tr class="separator:a38ec4e2bcce7f7133e927d0c4950abc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaae917f3b8cec18ee02bb0dded7d0b5e"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#aaae917f3b8cec18ee02bb0dded7d0b5e">S4BIOS_request_value</a></td></tr>
+<tr class="separator:aaae917f3b8cec18ee02bb0dded7d0b5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a12d858e70a1fed2519059e7aae45d3f7"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#a12d858e70a1fed2519059e7aae45d3f7">processor_state_control_value</a></td></tr>
 <tr class="separator:a12d858e70a1fed2519059e7aae45d3f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5b05b8e8426900fee2cfed1dd6c1c817"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d9d/structacpi_1_1generic__address__space.html">generic_address_space</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#a5b05b8e8426900fee2cfed1dd6c1c817">PM1a_event_block</a></td></tr>
@@ -279,14 +281,14 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:a0f9a2ea42ed08ad55831d9095473fa5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d9d/structacpi_1_1generic__address__space.html">generic_address_space</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html#a0f9a2ea42ed08ad55831d9095473fa5d">sleep_status_register</a></td></tr>
 <tr class="separator:a0f9a2ea42ed08ad55831d9095473fa5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_attribs_structacpi_1_1SDT"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_structacpi_1_1SDT')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../dc/de0/structacpi_1_1SDT.html">acpi::SDT</a></td></tr>
-<tr class="memitem:a1f1324a15cabf820574ec430031bf75c inherit pub_attribs_structacpi_1_1SDT"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html#a1f1324a15cabf820574ec430031bf75c">signature</a> [5]</td></tr>
-<tr class="separator:a1f1324a15cabf820574ec430031bf75c inherit pub_attribs_structacpi_1_1SDT"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e00aa68a54671c3e46965f64a938ceb inherit pub_attribs_structacpi_1_1SDT"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html#a1e00aa68a54671c3e46965f64a938ceb">signature</a> [5]</td></tr>
+<tr class="separator:a1e00aa68a54671c3e46965f64a938ceb inherit pub_attribs_structacpi_1_1SDT"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a143a9a1f84a03282ec2afe3e3d60c34f inherit pub_attribs_structacpi_1_1SDT"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html#a143a9a1f84a03282ec2afe3e3d60c34f">revision</a></td></tr>
 <tr class="separator:a143a9a1f84a03282ec2afe3e3d60c34f inherit pub_attribs_structacpi_1_1SDT"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af618147e76e19d85d9f12bc89f9cdf8e inherit pub_attribs_structacpi_1_1SDT"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html#af618147e76e19d85d9f12bc89f9cdf8e">OEM_ID</a> [7]</td></tr>
-<tr class="separator:af618147e76e19d85d9f12bc89f9cdf8e inherit pub_attribs_structacpi_1_1SDT"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2d0d742a3e2c6526d8d3db0ba40ca38c inherit pub_attribs_structacpi_1_1SDT"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html#a2d0d742a3e2c6526d8d3db0ba40ca38c">OEM_TABLE_ID</a> [9]</td></tr>
-<tr class="separator:a2d0d742a3e2c6526d8d3db0ba40ca38c inherit pub_attribs_structacpi_1_1SDT"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3af4c12ecf0545cc4c8e23c72c5d759a inherit pub_attribs_structacpi_1_1SDT"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html#a3af4c12ecf0545cc4c8e23c72c5d759a">OEM_ID</a> [7]</td></tr>
+<tr class="separator:a3af4c12ecf0545cc4c8e23c72c5d759a inherit pub_attribs_structacpi_1_1SDT"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ad7fad506129eeffa9121449d31a809 inherit pub_attribs_structacpi_1_1SDT"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html#a2ad7fad506129eeffa9121449d31a809">OEM_TABLE_ID</a> [9]</td></tr>
+<tr class="separator:a2ad7fad506129eeffa9121449d31a809 inherit pub_attribs_structacpi_1_1SDT"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a86bb10f0a2f1fa46f0be99ba090f3b42 inherit pub_attribs_structacpi_1_1SDT"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html#a86bb10f0a2f1fa46f0be99ba090f3b42">OEM_revision</a></td></tr>
 <tr class="separator:a86bb10f0a2f1fa46f0be99ba090f3b42 inherit pub_attribs_structacpi_1_1SDT"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9c1bf7d14cda91f3a9ac39bc0c397496 inherit pub_attribs_structacpi_1_1SDT"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de0/structacpi_1_1SDT.html#a9c1bf7d14cda91f3a9ac39bc0c397496">creator_ID</a></td></tr>
@@ -424,6 +426,18 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="a38ec4e2bcce7f7133e927d0c4950abc1"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t acpi::FADT::ACPI_disable_value</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a7b7b57a57efdf598b7d32575cb3a915c"></a>
 <div class="memitem">
 <div class="memproto">
@@ -561,7 +575,7 @@ Private Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">DSDT* acpi::FADT::DSDT</td>
+          <td class="memname"><a class="el" href="../../d9/dae/structacpi_1_1DSDT.html">DSDT</a>* acpi::FADT::DSDT</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -617,7 +631,7 @@ Private Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">FACS* acpi::FADT::firmware_ctrl_addr</td>
+          <td class="memname"><a class="el" href="../../da/d3e/structacpi_1_1FACS.html">FACS</a>* acpi::FADT::firmware_ctrl_addr</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1020,12 +1034,12 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="abef2c66c5ff58fde047ea797b353233a"></a>
+<a class="anchor" id="aaae917f3b8cec18ee02bb0dded7d0b5e"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">uint8_t ACPI_disable_value uint8_t acpi::FADT::S4BIOS_request_value</td>
+          <td class="memname">uint8_t acpi::FADT::S4BIOS_request_value</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1149,7 +1163,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d94/namespaceacpi.html">acpi</a></li><li class="navelem"><a class="el" href="../../d3/d53/structacpi_1_1FADT.html">FADT</a></li>
-    <li class="footer">Generated on Tue Feb 17 2015 07:00:02 for MOSSY by
+    <li class="footer">Generated on Tue Feb 17 2015 07:30:04 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

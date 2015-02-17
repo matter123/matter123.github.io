@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['test_5fmodule',['test_module',['../de/d97/classkernel_1_1test__module.html',1,'kernel']]],
-  ['thread_5finfo',['thread_info',['../db/db7/structkernel_1_1thread__info.html',1,'kernel']]],
-  ['tm',['tm',['../d8/d5a/structtm.html',1,'']]],
-  ['trampoline',['trampoline',['../d5/d00/structx86_1_1trampoline.html',1,'x86']]],
-  ['trampoline',['trampoline',['../d2/dde/structx64_1_1trampoline.html',1,'x64']]]
+  ['sdt',['SDT',['../dd/d4e/structacpi_1_1tables_1_1SDT.html',1,'acpi::tables']]],
+  ['sdt',['SDT',['../dc/de0/structacpi_1_1SDT.html',1,'acpi']]],
+  ['semaphore',['semaphore',['../d4/d6c/classkernel_1_1semaphore.html',1,'kernel']]],
+  ['shared_5fptr',['shared_ptr',['../df/ddb/classstd_1_1shared__ptr.html',1,'std']]],
+  ['spinlock',['spinlock',['../d7/dc6/classkernel_1_1spinlock.html',1,'kernel']]],
+  ['ssdt',['SSDT',['../d4/d08/structacpi_1_1SSDT.html',1,'acpi']]],
+  ['stack_5fframe',['stack_frame',['../d8/d36/structhal_1_1stack__frame.html',1,'hal']]]
 ];

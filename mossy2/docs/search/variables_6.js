@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['facs_5ffirmware_5faddr',['FACS_firmware_addr',['../da/d3e/structacpi_1_1FACS.html#aa83a8da5d001a2b0171461f1f08db889',1,'acpi::FACS']]],
   ['fadt',['FADT',['../df/dee/structacpi_1_1acpi.html#ad3482dacfa310840060b00cb7b43397e',1,'acpi::acpi']]],
   ['fadt_5ffirmware_5faddr',['FADT_firmware_addr',['../d3/d53/structacpi_1_1FADT.html#ad4854f65c763379973c06ddb7b3b7408',1,'acpi::FADT']]],
   ['fb',['fb',['../d7/da2/namespacekernel.html#a23978d28f56999e1726be40d2422e6f0',1,'kernel']]],

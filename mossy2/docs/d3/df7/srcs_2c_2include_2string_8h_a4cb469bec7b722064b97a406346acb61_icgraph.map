@@ -22,6 +22,6 @@
 <area shape="rect" id="node16" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="645,272,754,299"/>
 <area shape="rect" id="node13" href="$df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="831,319,993,345"/>
 <area shape="rect" id="node15" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="847,370,977,411"/>
-<area shape="rect" id="node14" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="1041,348,1163,375"/>
+<area shape="rect" id="node14" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="acpi::init_tables" alt="" coords="1041,348,1163,375"/>
 <area shape="rect" id="node18" href="$d1/d08/namespacex86.html#a10c082b8e1777d420325e9ac096278f1" title="x86::handle" alt="" coords="424,399,521,425"/>
 </map>

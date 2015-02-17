@@ -1,9 +1,9 @@
 var searchData=
 [
   ['oct',['oct',['../d0/d7f/namespacehal.html#ade3670a789fb868f47ec08438be616d7',1,'hal']]],
-  ['oem_5fid',['OEM_ID',['../dc/de0/structacpi_1_1SDT.html#af618147e76e19d85d9f12bc89f9cdf8e',1,'acpi::SDT']]],
+  ['oem_5fid',['OEM_ID',['../dc/de0/structacpi_1_1SDT.html#a3af4c12ecf0545cc4c8e23c72c5d759a',1,'acpi::SDT']]],
   ['oem_5frevision',['OEM_revision',['../dc/de0/structacpi_1_1SDT.html#a86bb10f0a2f1fa46f0be99ba090f3b42',1,'acpi::SDT']]],
-  ['oem_5ftable_5fid',['OEM_TABLE_ID',['../dc/de0/structacpi_1_1SDT.html#a2d0d742a3e2c6526d8d3db0ba40ca38c',1,'acpi::SDT']]],
+  ['oem_5ftable_5fid',['OEM_TABLE_ID',['../dc/de0/structacpi_1_1SDT.html#a2ad7fad506129eeffa9121449d31a809',1,'acpi::SDT']]],
   ['oemid',['OEMID',['../dd/d4e/structacpi_1_1tables_1_1SDT.html#aa019a24eccbad6069f3104475a236754',1,'acpi::tables::SDT::OEMID()'],['../d4/db4/structacpi_1_1tables_1_1RSDP.html#aefa195895d29a8bc0ce70845bcde03a4',1,'acpi::tables::RSDP::OEMID()']]],
   ['oemrevision',['OEMrevision',['../dd/d4e/structacpi_1_1tables_1_1SDT.html#ac71538412838877b5e3664bdf6290cc7',1,'acpi::tables::SDT']]],
   ['oemtableid',['OEMTableID',['../dd/d4e/structacpi_1_1tables_1_1SDT.html#ad7e17fe8b3ff9ccd0658eba3dd428bf8',1,'acpi::tables::SDT']]],
@@ -27,10 +27,12 @@ var searchData=
   ['operator_3e_3d',['operator&gt;=',['../d8/dcc/namespacestd.html#a14a08deb6c410673a76637022dde59b9',1,'std::operator&gt;=(const unique_ptr&lt; T1 &gt; &amp;x, const unique_ptr&lt; T2 &gt; &amp;y)'],['../d8/dcc/namespacestd.html#ae5543fc80eb1f50afe62f603cf773971',1,'std::operator&gt;=(const unique_ptr&lt; T &gt; &amp;x, nullptr_t)'],['../d8/dcc/namespacestd.html#a053162f87c1d051674e8ac47d49ab5d1',1,'std::operator&gt;=(nullptr_t, const unique_ptr&lt; T &gt; &amp;y)']]],
   ['operator_5b_5d',['operator[]',['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a1114d4638c9eceb8879d5a8684c761b0',1,'std::unique_ptr&lt; T[]&gt;::operator[](size_t i) const '],['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a1114d4638c9eceb8879d5a8684c761b0',1,'std::unique_ptr&lt; T[]&gt;::operator[](size_t i) const ']]],
   ['or',['OR',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a64096956ffd1516c88b7b5e26c9db4db',1,'kernel']]],
+  ['ospm_5fown_5fglobal_5flock',['OSPM_own_global_lock',['../da/d3e/structacpi_1_1FACS.html#af51cfb8ea328a8358ffbd1a697b4488f',1,'acpi::FACS']]],
   ['ostream',['ostream',['../d7/d79/classhal_1_1ostream.html',1,'hal']]],
   ['ostream',['ostream',['../d7/d79/classhal_1_1ostream.html#ace23587cede0306756b4f6610f49e3e9',1,'hal::ostream']]],
   ['outb',['outb',['../dc/dac/io_8h.html#aa37f5841c54156a4b14fc0d6f626b44f',1,'io.h']]],
   ['outl',['outl',['../dc/dac/io_8h.html#a6d6ba720cbd995ee57852a8f6dba937c',1,'io.h']]],
   ['outw',['outw',['../dc/dac/io_8h.html#aa4265e8a86864fa07906645dfb8b5152',1,'io.h']]],
+  ['own_5flock',['own_lock',['../da/d3e/structacpi_1_1FACS.html#a98d01b1ce9aa105b1e87c7cdbd00e770',1,'acpi::FACS']]],
   ['owner_5fbefore',['owner_before',['../df/ddb/classstd_1_1shared__ptr.html#a0939866914ebf655ac7699e6cc2e1036',1,'std::shared_ptr']]]
 ];

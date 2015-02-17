@@ -5,6 +5,7 @@ var hierarchy =
     [ "unicode::codepoints", "d4/da2/classunicode_1_1codepoints.html", null ],
     [ "unicode::codeunits", "d2/d47/classunicode_1_1codeunits.html", null ],
     [ "cpu_state", "da/d9b/structcpu__state.html", null ],
+    [ "acpi::FACS", "da/d3e/structacpi_1_1FACS.html", null ],
     [ "kernel::fb_info", "d4/de7/structkernel_1_1fb__info.html", null ],
     [ "acpi::generic_address_space", "d9/d9d/structacpi_1_1generic__address__space.html", null ],
     [ "kernel::glyph_int", "da/dcc/structkernel_1_1glyph__int.html", null ],
@@ -45,8 +46,8 @@ var hierarchy =
     [ "hal::page_opt", "df/db7/structhal_1_1page__opt.html", null ],
     [ "x86::recursive_paging::pd", "de/d6e/unionx86_1_1recursive__paging_1_1pd.html", null ],
     [ "x64::recursive_paging::pd", "df/d00/unionx64_1_1recursive__paging_1_1pd.html", null ],
-    [ "x64::recursive_paging::pde", "d9/d2d/structx64_1_1recursive__paging_1_1pde.html", null ],
     [ "x86::recursive_paging::pde", "d7/d6d/structx86_1_1recursive__paging_1_1pde.html", null ],
+    [ "x64::recursive_paging::pde", "d9/d2d/structx64_1_1recursive__paging_1_1pde.html", null ],
     [ "x64::recursive_paging::pdpt", "dd/dff/unionx64_1_1recursive__paging_1_1pdpt.html", null ],
     [ "x64::recursive_paging::pdpte", "dd/d42/structx64_1_1recursive__paging_1_1pdpte.html", null ],
     [ "x64::recursive_paging::pml4", "d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html", null ],
@@ -60,11 +61,13 @@ var hierarchy =
     [ "acpi::tables::RSDP", "d4/db4/structacpi_1_1tables_1_1RSDP.html", null ],
     [ "acpi::tables::RSDP20", "d3/de4/structacpi_1_1tables_1_1RSDP20.html", null ],
     [ "acpi::tables::RSDT", "d9/d9c/structacpi_1_1tables_1_1RSDT.html", null ],
-    [ "acpi::SDT", "dc/de0/structacpi_1_1SDT.html", [
-      [ "acpi::FADT", "d3/d53/structacpi_1_1FADT.html", null ],
-      [ "acpi::MADT", "d9/dd3/structacpi_1_1MADT.html", null ]
-    ] ],
     [ "acpi::tables::SDT", "dd/d4e/structacpi_1_1tables_1_1SDT.html", null ],
+    [ "acpi::SDT", "dc/de0/structacpi_1_1SDT.html", [
+      [ "acpi::DSDT", "d9/dae/structacpi_1_1DSDT.html", null ],
+      [ "acpi::FADT", "d3/d53/structacpi_1_1FADT.html", null ],
+      [ "acpi::MADT", "d9/dd3/structacpi_1_1MADT.html", null ],
+      [ "acpi::SSDT", "d4/d08/structacpi_1_1SSDT.html", null ]
+    ] ],
     [ "kernel::semaphore", "d4/d6c/classkernel_1_1semaphore.html", null ],
     [ "std::shared_ptr< T >", "df/ddb/classstd_1_1shared__ptr.html", null ],
     [ "kernel::spinlock", "d7/dc6/classkernel_1_1spinlock.html", null ],

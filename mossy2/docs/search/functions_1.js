@@ -1,6 +1,7 @@
 var searchData=
 [
   ['acquire',['acquire',['../d7/dc6/classkernel_1_1spinlock.html#a74df33e0f73a32b711c0a5bb22511ef7',1,'kernel::spinlock']]],
+  ['acquire_5fglobal_5flock',['acquire_global_lock',['../da/d3e/structacpi_1_1FACS.html#aea71c0fcc64268140ce0f0fc2a56e2e5',1,'acpi::FACS']]],
   ['add_5ffree_5fpage',['add_free_page',['../d8/de8/namespacex86__64.html#a3e9b29b52279e9b89a3fc07fce6eb4c6',1,'x86_64']]],
   ['add_5fphys_5fmem_5farch',['add_phys_mem_arch',['../d0/d7f/namespacehal.html#a3949c3c672c8731a6624f705dbe84cb9',1,'hal']]],
   ['add_5fphys_5fmem_5fvendor',['add_phys_mem_vendor',['../d0/d7f/namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc',1,'hal']]],
