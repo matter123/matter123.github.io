@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['workstation',['WORKSTATION',['../d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56ada6cb6b85a02604d85d9f2a92adcceb3',1,'acpi::FADT']]]
+  ['xor',['XOR',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a196032536dcb4ee500544e31b3ab408c',1,'kernel']]]
 ];

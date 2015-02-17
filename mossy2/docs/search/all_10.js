@@ -7,8 +7,8 @@ var searchData=
   ['page_5falign',['page_align',['../d0/d7f/namespacehal.html#ad8d37887f71f5ca1ff2440f2a97512c8',1,'hal']]],
   ['page_5fmap',['page_map',['../df/d77/structx86_1_1recursive__paging_1_1page__map.html',1,'x86::recursive_paging']]],
   ['page_5fopt',['page_opt',['../df/db7/structhal_1_1page__opt.html',1,'hal']]],
-  ['paging_2ecpp',['paging.cpp',['../d9/d32/x64_2paging_8cpp.html',1,'']]],
   ['paging_2ecpp',['paging.cpp',['../db/d6c/x86_2paging_8cpp.html',1,'']]],
+  ['paging_2ecpp',['paging.cpp',['../d9/d32/x64_2paging_8cpp.html',1,'']]],
   ['paging_2eh',['paging.h',['../de/d37/arch_2x64_2paging_8h.html',1,'']]],
   ['paging_2eh',['paging.h',['../df/df6/arch_2x86_2paging_8h.html',1,'']]],
   ['paging_2eh',['paging.h',['../d3/d20/hal_2hal_2paging_8h.html',1,'']]],
@@ -62,6 +62,7 @@ var searchData=
   ['pmmap_2ecpp',['pmmap.cpp',['../db/d52/pmmap_8cpp.html',1,'']]],
   ['pointer',['pointer',['../d2/d49/global_8h.html#acd057786f59efe7934fc1865979d0d63',1,'global.h']]],
   ['polarity',['polarity',['../d4/dd6/structacpi_1_1interrupt__override.html#a3ea75e2caea6cc18ab863882335cbddb',1,'acpi::interrupt_override::polarity()'],['../d4/dd6/structacpi_1_1interrupt__override.html#a1126836d834fc8e33912ef3f512be0a8',1,'acpi::interrupt_override::polarity()']]],
+  ['polarity_5fconforms',['POLARITY_CONFORMS',['../d4/dd6/structacpi_1_1interrupt__override.html#a3ea75e2caea6cc18ab863882335cbddba939423335d57f940277c153c767fab5e',1,'acpi::interrupt_override']]],
   ['power_5fbutton_5fcontrol_5fdevice',['power_button_control_device',['../d3/d53/structacpi_1_1FADT.html#ada6176e2dbd0ff937f6e9f910cf442d3',1,'acpi::FADT']]],
   ['power_5fprofile',['power_profile',['../d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56',1,'acpi::FADT']]],
   ['pre_5finit_5fhandle',['pre_init_handle',['../d7/db0/namespacex64.html#a7cd665b89942ad7e6f1b476afd9cad27',1,'x64::pre_init_handle()'],['../d1/d08/namespacex86.html#ab9e4d0e4571d9531648f20c875120f08',1,'x86::pre_init_handle()']]],
@@ -78,8 +79,8 @@ var searchData=
   ['pt',['pt',['../da/dce/unionx64_1_1recursive__paging_1_1pt.html',1,'x64::recursive_paging']]],
   ['pt',['pt',['../d6/d6d/unionx86_1_1recursive__paging_1_1pt.html',1,'x86::recursive_paging']]],
   ['pt_5foff',['PT_OFF',['../d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535',1,'x64']]],
-  ['pte',['pte',['../df/deb/structx86_1_1recursive__paging_1_1pte.html',1,'x86::recursive_paging']]],
   ['pte',['pte',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html',1,'x64::recursive_paging']]],
+  ['pte',['pte',['../df/deb/structx86_1_1recursive__paging_1_1pte.html',1,'x86::recursive_paging']]],
   ['ptra',['ptra',['../de/daf/time_8cpp.html#a4df37f13e9fb76d595bc309900fb7408',1,'time.cpp']]],
   ['put_5fpixel',['put_pixel',['../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75',1,'kernel']]]
 ];

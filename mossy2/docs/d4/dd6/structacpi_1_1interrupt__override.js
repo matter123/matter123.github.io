@@ -1,12 +1,12 @@
 var structacpi_1_1interrupt__override =
 [
     [ "polarity", "d4/dd6/structacpi_1_1interrupt__override.html#a3ea75e2caea6cc18ab863882335cbddb", [
-      [ "CONFORMS", "d4/dd6/structacpi_1_1interrupt__override.html#af2f7977216771658e6efc3e7cb942920acfaa4dd6ce43cfc4ff07085edaaa4cc2", null ],
+      [ "POLARITY_CONFORMS", "d4/dd6/structacpi_1_1interrupt__override.html#a3ea75e2caea6cc18ab863882335cbddba939423335d57f940277c153c767fab5e", null ],
       [ "ACTIVE_HIGH", "d4/dd6/structacpi_1_1interrupt__override.html#a3ea75e2caea6cc18ab863882335cbddba079e6d9161c7885ca323d93e95d70f5a", null ],
       [ "ACTIVE_LOW", "d4/dd6/structacpi_1_1interrupt__override.html#a3ea75e2caea6cc18ab863882335cbddba98e7ecd5fa030469d8eabd12b95222aa", null ]
     ] ],
     [ "trigger_mode", "d4/dd6/structacpi_1_1interrupt__override.html#af2f7977216771658e6efc3e7cb942920", [
-      [ "CONFORMS", "d4/dd6/structacpi_1_1interrupt__override.html#af2f7977216771658e6efc3e7cb942920acfaa4dd6ce43cfc4ff07085edaaa4cc2", null ],
+      [ "TRIGGER_MODE_CONFORMS", "d4/dd6/structacpi_1_1interrupt__override.html#af2f7977216771658e6efc3e7cb942920a9574f65cf63f4aaddbc75ffdf325e312", null ],
       [ "EDGE_TRIGGERED", "d4/dd6/structacpi_1_1interrupt__override.html#af2f7977216771658e6efc3e7cb942920a8c20dfbf8eac9d3e8e05cb6a796eb101", null ],
       [ "LEVEL_TRIGGERED", "d4/dd6/structacpi_1_1interrupt__override.html#af2f7977216771658e6efc3e7cb942920abaa042209caf52e928de33a75634b81e", null ]
     ] ],
