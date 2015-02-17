@@ -82,6 +82,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li class="current"><a href="functions.html"><span>All</span></a></li>
       <li><a href="functions_func.html"><span>Functions</span></a></li>
       <li><a href="functions_vars.html"><span>Variables</span></a></li>
+      <li><a href="functions_enum.html"><span>Enumerations</span></a></li>
+      <li><a href="functions_eval.html"><span>Enumerator</span></a></li>
     </ul>
   </div>
   <div id="navrow4" class="tabs3">
@@ -147,6 +149,12 @@ $(document).ready(function(){initNavTree('functions_l.html','');});
 <div class="textblock">Here is a list of all class members with links to the classes they belong to:</div>
 
 <h3><a class="anchor" id="index_l"></a>- l -</h3><ul>
+<li>legacy_devices_present
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#abaafafbc32a89e0e277684cb187b2813">acpi::FADT</a>
+</li>
+<li>legacy_VGA_not_present
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a55aa6167508ae42661d3a6184c5b235a">acpi::FADT</a>
+</li>
 <li>len
 : <a class="el" href="d4/de0/structhal_1_1idt__range.html#aa3ff6a18ce63ed3eb50334f2f0554879">hal::idt_range</a>
 , <a class="el" href="d1/d83/structhal_1_1multiboot__mmap__ent.html#ac9cff8f9a72cd3ea49408e297e278a8c">hal::multiboot_mmap_ent</a>
@@ -157,9 +165,21 @@ $(document).ready(function(){initNavTree('functions_l.html','');});
 , <a class="el" href="dd/d4e/structacpi_1_1tables_1_1SDT.html#abc0fbd0273a7edfa827d06f2de8d163d">acpi::tables::SDT</a>
 , <a class="el" href="d2/d93/structacpi_1_1unknown__MADT__entry.html#ad5c9be29346f3047ccf22a793fbf079c">acpi::unknown_MADT_entry</a>
 </li>
+<li>LEVEL_TRIGGERED
+: <a class="el" href="d4/dd6/structacpi_1_1interrupt__override.html#af2f7977216771658e6efc3e7cb942920abaa042209caf52e928de33a75634b81e">acpi::interrupt_override</a>
+</li>
 <li>limit
 : <a class="el" href="db/d2e/structx64_1_1IDTR.html#aa88c8f9ad005d310c0d356fe92c5ea42">x64::IDTR</a>
 , <a class="el" href="d3/de7/structx86_1_1IDTR.html#a3550e4bf11ef30f9fe39cb0413ff1cf4">x86::IDTR</a>
+</li>
+<li>local_APIC_physical_dest_mode
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#abf6d2c8c3050521c434c95833e486713">acpi::FADT</a>
+</li>
+<li>local_APIC_use_cluster
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a2020d24c6bf77063a9fe150311308269">acpi::FADT</a>
+</li>
+<li>local_controller_addr
+: <a class="el" href="d9/dd3/structacpi_1_1MADT.html#a36b7af0f0096c9460bdf32a9ec28d392">acpi::MADT</a>
 </li>
 <li>locate()
 : <a class="el" href="d2/d70/classx64_1_1recursive__paging.html#aa2d2b1f726c92101e1d7c65327fdc8ea">x64::recursive_paging</a>
@@ -169,13 +189,16 @@ $(document).ready(function(){initNavTree('functions_l.html','');});
 : <a class="el" href="da/d9b/classkernel_1_1mutex.html#ad7ad355feda8f07e72cac72b13bd220f">kernel::mutex</a>
 , <a class="el" href="d7/dc6/classkernel_1_1spinlock.html#a3f6443a5d549b79a725dc766e44ac684">kernel::spinlock</a>
 </li>
+<li>low_power_in_S0
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a42c70ba212914a0ab189ee95bb79b929">acpi::FADT</a>
+</li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Feb 17 2015 06:30:07 for MOSSY by
+    <li class="footer">Generated on Tue Feb 17 2015 07:00:03 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

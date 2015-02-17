@@ -1,3 +1,7 @@
 <map id="acpi::acpi" name="acpi::acpi">
-<area shape="rect" id="node2" href="$dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node2" href="$d9/dd3/structacpi_1_1MADT.html" title="acpi::MADT" alt="" coords="63,256,157,283"/>
+<area shape="rect" id="node3" href="$dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="165,13,247,39"/>
+<area shape="rect" id="node5" href="$d3/d53/structacpi_1_1FADT.html" title="acpi::FADT" alt="" coords="267,256,356,283"/>
+<area shape="rect" id="node4" href="$db/dcf/structacpi_1_1MADT__entry.html" title="acpi::MADT_entry" alt="" coords="5,13,140,39"/>
+<area shape="rect" id="node6" href="$d9/d9d/structacpi_1_1generic__address__space.html" title="acpi::generic_address\l_space" alt="" coords="272,5,433,47"/>
 </map>

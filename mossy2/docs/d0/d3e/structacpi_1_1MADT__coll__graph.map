@@ -1,0 +1,4 @@
+<map id="acpi::MADT" name="acpi::MADT">
+<area shape="rect" id="node2" href="$dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node3" href="$db/dcf/structacpi_1_1MADT__entry.html" title="acpi::MADT_entry" alt="" coords="113,5,247,32"/>
+</map>

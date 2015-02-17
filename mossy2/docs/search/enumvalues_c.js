@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['xor',['XOR',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a196032536dcb4ee500544e31b3ab408c',1,'kernel']]]
+  ['tablet',['TABLET',['../d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56acd00577cddfb9c87d8f56855d372d36e',1,'acpi::FADT']]]
 ];

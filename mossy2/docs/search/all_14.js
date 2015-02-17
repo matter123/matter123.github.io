@@ -22,12 +22,13 @@ var searchData=
   ['unmap_5fvirt_5fcur',['unmap_virt_cur',['../d0/d7f/namespacehal.html#a67121b06bc6c9240ae41d4aa574e9bfd',1,'hal']]],
   ['unmap_5fvirt_5fphys_5fcur',['unmap_virt_phys_cur',['../d0/d7f/namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9',1,'hal']]],
   ['unmask',['unmask',['../db/d1b/namespacepc.html#a8445c2a1aeac0014290f0ff95ae956ec',1,'pc']]],
-  ['unspecified',['UNSPECIFIED',['../d3/d94/namespaceacpi.html#ab320746ab55bb1f73954eded29466172a3d68fcdbd67284eb85d9502e29937f44',1,'acpi']]],
+  ['unspecified',['UNSPECIFIED',['../d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56a54c21808abab9d445512a30e2ed5af82',1,'acpi::FADT']]],
   ['unused',['unused',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a8be89ca3d3f7c7d00371c2b5b0c0f082',1,'x64::recursive_paging::pte::unused()'],['../d9/d2d/structx64_1_1recursive__paging_1_1pde.html#a613609600d2494c5206eb88764c524b0',1,'x64::recursive_paging::pde::unused()'],['../dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#af74726147989b1a211e12764076fd6f1',1,'x64::recursive_paging::pdpte::unused()'],['../de/dba/structx64_1_1recursive__paging_1_1pml4e.html#ae2ecdb1e6f74b699dcb62aec38edf91e',1,'x64::recursive_paging::pml4e::unused()'],['../d7/d6d/structx86_1_1recursive__paging_1_1pde.html#a7ffdf133275136bc9eaf2b08de01757e',1,'x86::recursive_paging::pde::unused()'],['../df/deb/structx86_1_1recursive__paging_1_1pte.html#af4c8e319b050e3ceed965461558cbafc',1,'x86::recursive_paging::pte::unused()']]],
   ['unused_5f1',['unused_1',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a95470f0ee749146d31840e45f9135bce',1,'x64::recursive_paging::pte::unused_1()'],['../d9/d2d/structx64_1_1recursive__paging_1_1pde.html#ad17a3f394efb1bc7f9d92e9c8bf4d8ac',1,'x64::recursive_paging::pde::unused_1()'],['../dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a60a7f17c5884680ebbb9237990a95f9c',1,'x64::recursive_paging::pdpte::unused_1()'],['../de/dba/structx64_1_1recursive__paging_1_1pml4e.html#aca3a8bff11022088b0e6f65998294338',1,'x64::recursive_paging::pml4e::unused_1()']]],
   ['uppercase',['uppercase',['../db/d9c/classhal_1_1ios__base.html#a5ac3b511d87973aeee4e9869d89b6194',1,'hal::ios_base']]],
   ['use_5fcount',['use_count',['../df/ddb/classstd_1_1shared__ptr.html#a2e98f4acdbc7988fd714d180877998bc',1,'std::shared_ptr']]],
   ['use_5firq',['use_irq',['../db/d1b/namespacepc.html#aa4e1730438b454c96e7a2256e74e399a',1,'pc']]],
+  ['use_5fplatform_5fclock',['use_platform_clock',['../d3/d53/structacpi_1_1FADT.html#ab1c0678d4eeb98929755678c2b77c194',1,'acpi::FADT']]],
   ['used',['used',['../d0/d7f/namespacehal.html#a9607a4fd1b14ec7277d8552fbecdb495',1,'hal']]],
   ['user',['user',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a1eeb87c2ce324562544bca81821dc5d3',1,'x64::recursive_paging::pte::user()'],['../d9/d2d/structx64_1_1recursive__paging_1_1pde.html#ac6cffd065b314f6b1d4d87b586d86bde',1,'x64::recursive_paging::pde::user()'],['../dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a745f39c6aa76a4127bcb3ad176d8f2bf',1,'x64::recursive_paging::pdpte::user()'],['../de/dba/structx64_1_1recursive__paging_1_1pml4e.html#a54a369df1499d95450efdcc6636f3fb6',1,'x64::recursive_paging::pml4e::user()'],['../d7/d6d/structx86_1_1recursive__paging_1_1pde.html#a6f75b376d4209661cdd615aae078453a',1,'x86::recursive_paging::pde::user()'],['../df/deb/structx86_1_1recursive__paging_1_1pte.html#aeff86255edd53938201f648d73774875',1,'x86::recursive_paging::pte::user()'],['../df/db7/structhal_1_1page__opt.html#a52e922dd76e0ea49189cb92fbfcefb87',1,'hal::page_opt::user()']]],
   ['user_5fstack',['user_stack',['../db/db7/structkernel_1_1thread__info.html#aab7eecafd33f2c336e6edc8789ab80ad',1,'kernel::thread_info']]],
@@ -41,7 +42,7 @@ var searchData=
   ['utf8',['UTF8',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fda6f4c8e5f8df72264874ec0325fe2cccb',1,'unicode']]],
   ['utf8',['utf8',['../dd/db0/namespaceunicode_1_1utf8.html',1,'unicode']]],
   ['utf8_2ecpp',['utf8.cpp',['../d2/db5/utf8_8cpp.html',1,'']]],
-  ['utf8_2eh',['utf8.h',['../db/d3e/srcs_2unicode_2include_2utf8_8h.html',1,'']]],
   ['utf8_2eh',['utf8.h',['../d9/d23/sysroot_2usr_2include_2utf8_8h.html',1,'']]],
+  ['utf8_2eh',['utf8.h',['../db/d3e/srcs_2unicode_2include_2utf8_8h.html',1,'']]],
   ['utoa',['utoa',['../da/d01/srcs_2c_2include_2stdlib_8h.html#a5a74d28d5863f08790d9457b84994276',1,'utoa(unsigned int value, char *str, int base):&#160;stdlib.cpp'],['../da/d5c/stdlib_8cpp.html#a5a74d28d5863f08790d9457b84994276',1,'utoa(unsigned int value, char *str, int base):&#160;stdlib.cpp'],['../db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a5a74d28d5863f08790d9457b84994276',1,'utoa(unsigned int value, char *str, int base):&#160;stdlib.cpp']]]
 ];

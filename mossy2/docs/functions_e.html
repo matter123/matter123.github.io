@@ -82,6 +82,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li class="current"><a href="functions.html"><span>All</span></a></li>
       <li><a href="functions_func.html"><span>Functions</span></a></li>
       <li><a href="functions_vars.html"><span>Variables</span></a></li>
+      <li><a href="functions_enum.html"><span>Enumerations</span></a></li>
+      <li><a href="functions_eval.html"><span>Enumerator</span></a></li>
     </ul>
   </div>
   <div id="navrow4" class="tabs3">
@@ -160,6 +162,9 @@ $(document).ready(function(){initNavTree('functions_e.html','');});
 <li>ecx
 : <a class="el" href="da/d9b/structcpu__state.html#a1b83aeaa5b2812e233286c2bbd405fde">cpu_state</a>
 </li>
+<li>EDGE_TRIGGERED
+: <a class="el" href="d4/dd6/structacpi_1_1interrupt__override.html#af2f7977216771658e6efc3e7cb942920a8c20dfbf8eac9d3e8e05cb6a796eb101">acpi::interrupt_override</a>
+</li>
 <li>edi
 : <a class="el" href="da/d9b/structcpu__state.html#ac0fbe20ac82a4924eb9d35f68a4552af">cpu_state</a>
 </li>
@@ -173,14 +178,24 @@ $(document).ready(function(){initNavTree('functions_e.html','');});
 : <a class="el" href="da/d9b/structcpu__state.html#a5d3398ffbd2cc636a8d2e25e2c5d871f">cpu_state</a>
 , <a class="el" href="d8/d36/structhal_1_1stack__frame.html#ae7e6f9ab109d231c66329312700f54e7">hal::stack_frame</a>
 </li>
+<li>EMBEDDED_CONTROLLER
+: <a class="el" href="d9/d9d/structacpi_1_1generic__address__space.html#aa4c8e0005f8ebc280f59c72529d9278da6b3793136a72bc9e0a73991e1bd4702e">acpi::generic_address_space</a>
+</li>
+<li>enabled
+: <a class="el" href="da/d8d/structacpi_1_1local__APIC.html#afd5526448c478a8e62b466aadc106de4">acpi::local_APIC</a>
+</li>
 <li>end
 : <a class="el" href="da/d29/structhal_1_1mem__region.html#acd9d0500872220fec037bdeb9119495e">hal::mem_region</a>
 , <a class="el" href="de/d03/classunicode_1_1bytes.html#aca756cfef860ffd8de3e0753f08e6963">unicode::bytes</a>
 , <a class="el" href="d4/da2/classunicode_1_1codepoints.html#a3fe2fac213152aca37563a5b7ea4d089">unicode::codepoints</a>
-, <a class="el" href="d2/d47/classunicode_1_1codeunits.html#ac76ce84e6a9d05015c0d1ac5218abea8">unicode::codeunits</a>
+, <a class="el" href="d2/d47/classunicode_1_1codeunits.html#ab1014cb1bc86836ebfaaf1a8e41f34ed">unicode::codeunits</a>
+</li>
+<li>ENTERPRISE_SERVER
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56a90e150bfb0a2b7e989d9dbd0ef41d135">acpi::FADT</a>
 </li>
 <li>entries
-: <a class="el" href="d3/d06/structhal_1_1multiboot__mmap.html#a89bf8cb48a6c4e7ec852af9d5ef65f96">hal::multiboot_mmap</a>
+: <a class="el" href="d9/dd3/structacpi_1_1MADT.html#a72521d0e1bc19a697294b2acd9d1ed44">acpi::MADT</a>
+, <a class="el" href="d3/d06/structhal_1_1multiboot__mmap.html#a89bf8cb48a6c4e7ec852af9d5ef65f96">hal::multiboot_mmap</a>
 , <a class="el" href="d2/d12/structx64_1_1IDT.html#a76d47a5f5882709a38ff3798aea1f363">x64::IDT</a>
 , <a class="el" href="df/d00/unionx64_1_1recursive__paging_1_1pd.html#aaea2f3e2e61e3853877196ca0aa6fa9b">x64::recursive_paging::pd</a>
 , <a class="el" href="dd/dff/unionx64_1_1recursive__paging_1_1pdpt.html#ae837eb16f5c5442c6dd0e5bb79550735">x64::recursive_paging::pdpt</a>
@@ -197,6 +212,9 @@ $(document).ready(function(){initNavTree('functions_e.html','');});
 , <a class="el" href="da/dce/unionx64_1_1recursive__paging_1_1pt.html#aae4ddb287fe4278a3d151376a36fc276">x64::recursive_paging::pt</a>
 , <a class="el" href="de/d6e/unionx86_1_1recursive__paging_1_1pd.html#a66ecfb258bc5431303685bf9ee75b834">x86::recursive_paging::pd</a>
 , <a class="el" href="d6/d6d/unionx86_1_1recursive__paging_1_1pt.html#a1f7cbcca260ab10920856d8caca416c2">x86::recursive_paging::pt</a>
+</li>
+<li>entry_length
+: <a class="el" href="d9/dd3/structacpi_1_1MADT.html#a8119b35336d40a5c8bfcbcfe6679aa07">acpi::MADT</a>
 </li>
 <li>entry_size
 : <a class="el" href="d3/d06/structhal_1_1multiboot__mmap.html#a9c50677d9497dddd4ad9b8fa5c5a0916">hal::multiboot_mmap</a>
@@ -225,7 +243,7 @@ $(document).ready(function(){initNavTree('functions_e.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Feb 17 2015 06:30:07 for MOSSY by
+    <li class="footer">Generated on Tue Feb 17 2015 07:00:03 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

@@ -82,6 +82,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="functions.html"><span>All</span></a></li>
       <li class="current"><a href="functions_func.html"><span>Functions</span></a></li>
       <li><a href="functions_vars.html"><span>Variables</span></a></li>
+      <li><a href="functions_enum.html"><span>Enumerations</span></a></li>
+      <li><a href="functions_eval.html"><span>Enumerator</span></a></li>
     </ul>
   </div>
   <div id="navrow4" class="tabs3">
@@ -202,7 +204,13 @@ $(document).ready(function(){initNavTree('functions_func.html','');});
 : <a class="el" href="d4/d6c/classkernel_1_1semaphore.html#a45ce3f43ab1e9254e47b58f69655c278">kernel::semaphore</a>
 </li>
 <li>get_next()
-: <a class="el" href="de/d97/classkernel_1_1test__module.html#a7ada663b028f68d749aef5a77d6b5e7a">kernel::test_module</a>
+: <a class="el" href="de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1">kernel::test_module</a>
+</li>
+<li>GPE0_block_length()
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a6878b342fb5e656cd74f32f60e8d49aa">acpi::FADT</a>
+</li>
+<li>GPE1_block_length()
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#aacbc6b3a1a3b27309a0ac9a3f7b78d4a">acpi::FADT</a>
 </li>
 </ul>
 
@@ -308,10 +316,22 @@ $(document).ready(function(){initNavTree('functions_func.html','');});
 
 
 <h3><a class="anchor" id="index_p"></a>- p -</h3><ul>
+<li>PM1_control_block_length()
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a2ad63c773141324b5241ba843bbefdbb">acpi::FADT</a>
+</li>
+<li>PM1_event_block_length()
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#adfe4627b0bd492e3f5c16f5b8c01179c">acpi::FADT</a>
+</li>
+<li>PM2_control_block_length()
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#ad62a620d116f103c96db345be611e454">acpi::FADT</a>
+</li>
+<li>PM_timer_block_length()
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a7b296a3389d6ced442e0b3a283751c99">acpi::FADT</a>
+</li>
 <li>prev()
 : <a class="el" href="de/d03/classunicode_1_1bytes.html#a3f038a8277faa1fac4ae9ebf1f26e3e6">unicode::bytes</a>
 , <a class="el" href="d4/da2/classunicode_1_1codepoints.html#a07b2b5655b10818fed503fb7831babef">unicode::codepoints</a>
-, <a class="el" href="d2/d47/classunicode_1_1codeunits.html#ab1dd18c6813df0d997c285a274975cce">unicode::codeunits</a>
+, <a class="el" href="d2/d47/classunicode_1_1codeunits.html#a856a48320d018f06d26f6fc622162855">unicode::codeunits</a>
 </li>
 <li>print()
 : <a class="el" href="d7/d79/classhal_1_1ostream.html#ae200f06ee6d8dc92b951febc0e736306">hal::ostream</a>
@@ -421,7 +441,7 @@ $(document).ready(function(){initNavTree('functions_func.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Feb 17 2015 06:30:07 for MOSSY by
+    <li class="footer">Generated on Tue Feb 17 2015 07:00:03 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

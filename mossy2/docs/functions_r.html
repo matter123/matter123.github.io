@@ -82,6 +82,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li class="current"><a href="functions.html"><span>All</span></a></li>
       <li><a href="functions_func.html"><span>Functions</span></a></li>
       <li><a href="functions_vars.html"><span>Variables</span></a></li>
+      <li><a href="functions_enum.html"><span>Enumerations</span></a></li>
+      <li><a href="functions_eval.html"><span>Enumerator</span></a></li>
     </ul>
   </div>
   <div id="navrow4" class="tabs3">
@@ -210,6 +212,12 @@ $(document).ready(function(){initNavTree('functions_r.html','');});
 <li>red_pos
 : <a class="el" href="d2/d2e/structhal_1_1multiboot__ci__1.html#a2fb9bff9faee3d2d919ceef7a2eb7c0d">hal::multiboot_ci_1</a>
 </li>
+<li>reg_bit_offset
+: <a class="el" href="d9/d9d/structacpi_1_1generic__address__space.html#a8b646dd1f83161c9f72ebd1b7b558821">acpi::generic_address_space</a>
+</li>
+<li>reg_bit_width
+: <a class="el" href="d9/d9d/structacpi_1_1generic__address__space.html#acb5957e55a9847ce0e9e2c228dc361e8">acpi::generic_address_space</a>
+</li>
 <li>regions
 : <a class="el" href="d4/d5d/structhal_1_1mem__regs.html#a518fa10f80b706948dff2548f7cc3047">hal::mem_regs</a>
 </li>
@@ -222,10 +230,22 @@ $(document).ready(function(){initNavTree('functions_r.html','');});
 , <a class="el" href="dd/def/classstd_1_1unique__ptr.html#aa929a03dc2ccff24bed14c413e160bc7">std::unique_ptr&lt; T &gt;</a>
 , <a class="el" href="d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a7b5417f5e3e98efb7b82c5556b3dce03">std::unique_ptr&lt; T[]&gt;</a>
 </li>
+<li>remote_power_on_capable
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a525bbf05862293b0712205f503e8c03a">acpi::FADT</a>
+</li>
 <li>reset()
 : <a class="el" href="df/ddb/classstd_1_1shared__ptr.html#a511a4302af30583224000bbd134cf5d6">std::shared_ptr&lt; T &gt;</a>
 , <a class="el" href="dd/def/classstd_1_1unique__ptr.html#a0722b8c83dbf86390b160cd33e2f55fe">std::unique_ptr&lt; T &gt;</a>
 , <a class="el" href="d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a85023d3902afcf6e3710807adba68311">std::unique_ptr&lt; T[]&gt;</a>
+</li>
+<li>reset_register
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a1508e029a8ec7ecbac3364fbd385d313">acpi::FADT</a>
+</li>
+<li>reset_register_supported
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a24477acc6e2b68870bbe2de061a662d8">acpi::FADT</a>
+</li>
+<li>reset_value
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a2f5e1321344abed624911cfe43096de0">acpi::FADT</a>
 </li>
 <li>resv
 : <a class="el" href="d3/de4/structacpi_1_1tables_1_1RSDP20.html#a8df80867c84c9ed1833a4df4db88e624">acpi::tables::RSDP20</a>
@@ -282,6 +302,15 @@ $(document).ready(function(){initNavTree('functions_r.html','');});
 <li>rsv
 : <a class="el" href="d1/d11/structhal_1_1multiboot__fb.html#abba9b2b1ecece905ee08f2d61b36c948">hal::multiboot_fb</a>
 </li>
+<li>RTC_STS_valid_from_S4
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#ad5194b36773abc4456775a71efc78df7">acpi::FADT</a>
+</li>
+<li>rtc_wake_fixed_not_supported
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a4cbc717ee4d496fa4772dd67a6df85f7">acpi::FADT</a>
+</li>
+<li>rtc_wake_from_S4
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a63bc27541d310339ef867b0e51597473">acpi::FADT</a>
+</li>
 <li>run_test()
 : <a class="el" href="de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d">kernel::test_module</a>
 </li>
@@ -294,7 +323,7 @@ $(document).ready(function(){initNavTree('functions_r.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Feb 17 2015 06:30:07 for MOSSY by
+    <li class="footer">Generated on Tue Feb 17 2015 07:00:03 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

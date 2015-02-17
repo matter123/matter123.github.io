@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['power_5fprofile',['power_profile',['../d3/d94/namespaceacpi.html#ab320746ab55bb1f73954eded29466172',1,'acpi']]]
+  ['encoding',['encoding',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd',1,'unicode::encoding()'],['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd',1,'unicode::encoding()']]]
 ];

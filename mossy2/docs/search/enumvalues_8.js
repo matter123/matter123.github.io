@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['soho_5fserver',['SOHO_SERVER',['../d3/d94/namespaceacpi.html#ab320746ab55bb1f73954eded29466172a2cf1bbc653e6e7cc10fb57100b908ea2',1,'acpi']]]
+  ['not',['NOT',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a0518c45de17d540abebce25c9afa5fa9',1,'kernel']]]
 ];

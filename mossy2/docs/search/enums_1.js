@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['debug_5flevel',['debug_level',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8aff',1,'std']]]
+  ['bit_5fblit_5fop',['bit_blit_op',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31',1,'kernel']]]
 ];

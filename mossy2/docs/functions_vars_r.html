@@ -82,6 +82,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="functions.html"><span>All</span></a></li>
       <li><a href="functions_func.html"><span>Functions</span></a></li>
       <li class="current"><a href="functions_vars.html"><span>Variables</span></a></li>
+      <li><a href="functions_enum.html"><span>Enumerations</span></a></li>
+      <li><a href="functions_eval.html"><span>Enumerator</span></a></li>
     </ul>
   </div>
   <div id="navrow4" class="tabs3">
@@ -209,12 +211,30 @@ $(document).ready(function(){initNavTree('functions_vars_r.html','');});
 <li>red_pos
 : <a class="el" href="d2/d2e/structhal_1_1multiboot__ci__1.html#a2fb9bff9faee3d2d919ceef7a2eb7c0d">hal::multiboot_ci_1</a>
 </li>
+<li>reg_bit_offset
+: <a class="el" href="d9/d9d/structacpi_1_1generic__address__space.html#a8b646dd1f83161c9f72ebd1b7b558821">acpi::generic_address_space</a>
+</li>
+<li>reg_bit_width
+: <a class="el" href="d9/d9d/structacpi_1_1generic__address__space.html#acb5957e55a9847ce0e9e2c228dc361e8">acpi::generic_address_space</a>
+</li>
 <li>regions
 : <a class="el" href="d4/d5d/structhal_1_1mem__regs.html#a518fa10f80b706948dff2548f7cc3047">hal::mem_regs</a>
 </li>
 <li>rel_jmp
 : <a class="el" href="d2/dde/structx64_1_1trampoline.html#a9b93e404787ee3d5c76bd621118d4ba5">x64::trampoline</a>
 , <a class="el" href="d5/d00/structx86_1_1trampoline.html#a4c3cac09ec1efe9fbd807989f3a01d44">x86::trampoline</a>
+</li>
+<li>remote_power_on_capable
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a525bbf05862293b0712205f503e8c03a">acpi::FADT</a>
+</li>
+<li>reset_register
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a1508e029a8ec7ecbac3364fbd385d313">acpi::FADT</a>
+</li>
+<li>reset_register_supported
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a24477acc6e2b68870bbe2de061a662d8">acpi::FADT</a>
+</li>
+<li>reset_value
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a2f5e1321344abed624911cfe43096de0">acpi::FADT</a>
 </li>
 <li>resv
 : <a class="el" href="d3/de4/structacpi_1_1tables_1_1RSDP20.html#a8df80867c84c9ed1833a4df4db88e624">acpi::tables::RSDP20</a>
@@ -271,6 +291,15 @@ $(document).ready(function(){initNavTree('functions_vars_r.html','');});
 <li>rsv
 : <a class="el" href="d1/d11/structhal_1_1multiboot__fb.html#abba9b2b1ecece905ee08f2d61b36c948">hal::multiboot_fb</a>
 </li>
+<li>RTC_STS_valid_from_S4
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#ad5194b36773abc4456775a71efc78df7">acpi::FADT</a>
+</li>
+<li>rtc_wake_fixed_not_supported
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a4cbc717ee4d496fa4772dd67a6df85f7">acpi::FADT</a>
+</li>
+<li>rtc_wake_from_S4
+: <a class="el" href="d3/d53/structacpi_1_1FADT.html#a63bc27541d310339ef867b0e51597473">acpi::FADT</a>
+</li>
 <li>running
 : <a class="el" href="db/db7/structkernel_1_1thread__info.html#a553f05dde5dda18663db4bfe99779441">kernel::thread_info</a>
 </li>
@@ -280,7 +309,7 @@ $(document).ready(function(){initNavTree('functions_vars_r.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Feb 17 2015 06:30:07 for MOSSY by
+    <li class="footer">Generated on Tue Feb 17 2015 07:00:03 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

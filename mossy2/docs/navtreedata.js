@@ -21,7 +21,9 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", "functions_vars" ]
+        [ "Variables", "functions_vars.html", "functions_vars" ],
+        [ "Enumerations", "functions_enum.html", null ],
+        [ "Enumerator", "functions_eval.html", null ]
       ] ]
     ] ],
     [ "Files", null, [
@@ -39,14 +41,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d2/d80/FADT_8h.html#ade259dad8fd4290f94d62846e7c40cbe",
-"d4/d9b/hal_2hal_2int_8h.html#a4b3daba30c28c10c98c462983bc9112a",
-"d7/da2/namespacekernel.html",
-"d9/dd1/sysroot_2usr_2include_2string_8h.html#a276c5d14b4ca8ffa447a0b30333074f1",
-"db/d6c/x86_2paging_8cpp.html#ab26f526f6f5608a0fd0b0a1339ed70e7",
-"dc/d34/arch_2x86__64_2int_8h.html#ab998f1c78e5da3bdf5d7da4c2fbfde4a",
-"dd/def/classstd_1_1unique__ptr.html#aa929a03dc2ccff24bed14c413e160bc7",
-"dir_473e2e101e88a3f228cbb0d58b8e653c.html"
+"d3/d20/hal_2hal_2paging_8h.html",
+"d4/d65/srcs_2c_2include_2typedef_8hpp.html",
+"d7/d6d/structx86_1_1recursive__paging_1_1pde.html#a2b28cd76b501a414ae56af2627898860",
+"d9/d6b/arch_2x86_2hal_8cpp.html#acdc9db0ec0f58a69573b97b1723866f2",
+"db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392",
+"dc/d34/arch_2x86__64_2int_8h.html#a8456e803e9b2365feeb6111637d53d4d",
+"dd/d9c/unicode_8cpp.html",
+"df/df6/arch_2x86_2paging_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
