@@ -17,6 +17,7 @@ var NAVTREE =
     [ "Classes", null, [
       [ "Class List", "annotated.html", "annotated" ],
       [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", null ],
@@ -38,14 +39,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d3/d20/hal_2hal_2paging_8h.html#aa6d7cec673e4a4ea06601327ba2642b9",
-"d5/d00/structx86_1_1trampoline.html#af4ade3cec75e8c5c5d8df7f5ced75a51",
-"d8/d5a/structtm.html#ab8d8904bad43b0c8b96e61941c5b5310",
-"da/d01/srcs_2c_2include_2stdlib_8h.html#ab42640268f26e065efd044cfe80591bd",
-"dc/d25/fb_8h.html#ac16b8ce9ceccaa627d2524ffdddbd46d",
-"dc/d34/arch_2x86__64_2int_8h.html#af58a06cd8908a9ff6a5ef6766713d59c",
-"de/daf/time_8cpp.html#aca5b3929941620e29066999b705754f4",
-"globals_l.html"
+"d3/d0e/x64_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f",
+"d4/de7/structkernel_1_1fb__info.html#a9882ac292323510bc992e9f90b951696",
+"d8/d4b/hal_8h.html#aaedd544c8d9fe4a3c4a5060a541186fe",
+"da/d01/srcs_2c_2include_2stdlib_8h.html#a53e8d1f366b7581b51b222c2e02aa765",
+"dc/d25/fb_8h.html#a25625eb5b8183007e48aaa158f20114f",
+"dc/d34/arch_2x86__64_2int_8h.html#aeb09520f0db11765d682060e123a737f",
+"de/d97/classkernel_1_1test__module.html#a8127161c7f6929c639a507d022a5c947",
+"globals.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

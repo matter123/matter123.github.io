@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['madt',['MADT',['../d3/d42/structMADT.html',1,'']]],
+  ['madt_5fentry',['MADT_entry',['../d4/d7f/structMADT__entry.html',1,'']]],
   ['mbf_5fhead',['mbf_head',['../d3/da9/structkernel_1_1mbf__head.html',1,'kernel']]],
   ['mem_5fregion',['mem_region',['../da/d29/structhal_1_1mem__region.html',1,'hal']]],
   ['mem_5fregs',['mem_regs',['../d4/d5d/structhal_1_1mem__regs.html',1,'hal']]],

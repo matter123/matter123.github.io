@@ -6,7 +6,7 @@ var searchData=
   ['sdts',['SDTs',['../df/dee/structacpi_1_1acpi.html#ab54804ca2a37cbab8cc011d69c10e14f',1,'acpi::acpi']]],
   ['showbase',['showbase',['../db/d9c/classhal_1_1ios__base.html#a33fc34ba243c6a3f5622953819c3d284',1,'hal::ios_base']]],
   ['sig',['sig',['../d4/db4/structacpi_1_1tables_1_1RSDP.html#a41a5584cb9e5df47283d7c16ccf562e8',1,'acpi::tables::RSDP']]],
-  ['signature',['Signature',['../dd/d4e/structacpi_1_1tables_1_1SDT.html#a449b5099507f7c5daf4b0b9f5c8e4e94',1,'acpi::tables::SDT']]],
+  ['signature',['signature',['../de/d91/structSDT.html#a378e47019ef1ebece7d3917678fa6c52',1,'SDT::signature()'],['../dd/d4e/structacpi_1_1tables_1_1SDT.html#a449b5099507f7c5daf4b0b9f5c8e4e94',1,'acpi::tables::SDT::Signature()']]],
   ['size',['size',['../d6/dc7/structhal_1_1multiboot__header.html#aa1a8741ee87a6a32ed35220bbbd87ff9',1,'hal::multiboot_header::size()'],['../d7/d20/structhal_1_1multiboot__tag.html#ab67f192ad59d26652056ea30192503b4',1,'hal::multiboot_tag::size()']]],
   ['sleep_5fticks',['sleep_ticks',['../db/db7/structkernel_1_1thread__info.html#acdc306223575402252afeae7dedc0e43',1,'kernel::thread_info']]],
   ['sleeping',['sleeping',['../db/db7/structkernel_1_1thread__info.html#a07f917fb34e17118ee9899d554d0f91e',1,'kernel::thread_info']]],

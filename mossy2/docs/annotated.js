@@ -8,5 +8,9 @@ var annotated =
     [ "x64", "d7/db0/namespacex64.html", "d7/db0/namespacex64" ],
     [ "x86", "d1/d08/namespacex86.html", "d1/d08/namespacex86" ],
     [ "cpu_state", "da/d9b/structcpu__state.html", "da/d9b/structcpu__state" ],
+    [ "IO_APIC", "d1/d36/structIO__APIC.html", "d1/d36/structIO__APIC" ],
+    [ "MADT", "d3/d42/structMADT.html", "d3/d42/structMADT" ],
+    [ "MADT_entry", "d4/d7f/structMADT__entry.html", "d4/d7f/structMADT__entry" ],
+    [ "SDT", "de/d91/structSDT.html", "de/d91/structSDT" ],
     [ "tm", "d8/d5a/structtm.html", "d8/d5a/structtm" ]
 ];
