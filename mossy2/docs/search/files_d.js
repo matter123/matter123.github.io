@@ -2,7 +2,6 @@ var searchData=
 [
   ['scheduler_2ecpp',['scheduler.cpp',['../db/d8b/scheduler_8cpp.html',1,'']]],
   ['scheduler_2eh',['scheduler.h',['../d2/dd8/scheduler_8h.html',1,'']]],
-  ['sdt_2ecpp',['sdt.cpp',['../db/de8/sdt_8cpp.html',1,'']]],
   ['sdt_2eh',['SDT.h',['../de/d5e/SDT_8h.html',1,'']]],
   ['semaphore_2ecpp',['semaphore.cpp',['../da/d20/semaphore_8cpp.html',1,'']]],
   ['shared_5fptr_2eh',['shared_ptr.h',['../df/d6a/shared__ptr_8h.html',1,'']]],

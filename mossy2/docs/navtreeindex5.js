@@ -1,5 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"db/d16/debug_8h.html#a129fdca2dd147eedc669fd7cd1e85fe1":[4,0,0,2,4,0,0,2],
+"db/d16/debug_8h.html#a25b422e2a18c02cd925f693e65550a18":[4,0,0,2,4,0,0,3],
+"db/d16/debug_8h.html#a5aa5422365f41125cf66691158bb8aff":[4,0,0,2,4,0,0,0],
+"db/d16/debug_8h.html#a5aa5422365f41125cf66691158bb8affa1df8f058c8148045000e126f8f6497d9":[4,0,0,2,4,0,0,0,1],
 "db/d16/debug_8h.html#a5aa5422365f41125cf66691158bb8affa1e85a42159cfcd33ae693ba8fd03ee80":[4,0,0,2,4,0,0,0,3],
 "db/d16/debug_8h.html#a5aa5422365f41125cf66691158bb8affa3ab0470f9edf976586f8f201aedd9a12":[4,0,0,2,4,0,0,0,2],
 "db/d16/debug_8h.html#a5aa5422365f41125cf66691158bb8affa887a9af51c015b27d5b627a232f76e7e":[4,0,0,2,4,0,0,0,4],
@@ -112,9 +116,6 @@ var NAVTREEINDEX5 =
 "db/db7/structkernel_1_1thread__info.html#afbb9ae3c7d61cce6a2ae83bced998101":[3,0,2,8,1],
 "db/dcf/structacpi_1_1MADT__entry.html":[3,0,0,10],
 "db/dcf/structacpi_1_1MADT__entry.html#ac346814819bf719e929a56e6ea5a55cc":[3,0,0,10,0],
-"db/de8/sdt_8cpp.html":[4,0,0,2,0,1,0,1],
-"db/de8/sdt_8cpp.html#a44e8d10bf85c67a19a09c5580a3fb0fd":[4,0,0,2,0,1,0,1,0],
-"db/de8/sdt_8cpp.html#ab2b9194a27401b570b1ac31df135eb2f":[4,0,0,2,0,1,0,1,1],
 "db/dec/vterm_8cpp.html":[4,0,0,2,5,10],
 "db/dec/vterm_8cpp.html#a0e4347fbf6da02162c9005900ad503b5":[4,0,0,2,5,10,7],
 "db/dec/vterm_8cpp.html#a3007f0b6b8976a4ca6d611ad4c3baa95":[4,0,0,2,5,10,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "dc/d34/arch_2x86__64_2int_8h.html#a67413777d28302dc141d737ab51bfa26":[4,0,0,2,1,2,1,146],
 "dc/d34/arch_2x86__64_2int_8h.html#a68410c7d0cda11c6f4c0fa05dee0844e":[4,0,0,2,1,2,1,133],
 "dc/d34/arch_2x86__64_2int_8h.html#a689f7e4e3609a3a472289478e86787f4":[4,0,0,2,1,2,1,168],
-"dc/d34/arch_2x86__64_2int_8h.html#a68a59de304ea3e870a9d37ae4810182a":[4,0,0,2,1,2,1,38],
-"dc/d34/arch_2x86__64_2int_8h.html#a69077846ba1577ecf0491d4e25d12518":[4,0,0,2,1,2,1,112]
+"dc/d34/arch_2x86__64_2int_8h.html#a68a59de304ea3e870a9d37ae4810182a":[4,0,0,2,1,2,1,38]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"dc/d34/arch_2x86__64_2int_8h.html#a69077846ba1577ecf0491d4e25d12518":[4,0,0,2,1,2,1,112],
 "dc/d34/arch_2x86__64_2int_8h.html#a692607adfc8289453a133bd88c0a308b":[4,0,0,2,1,2,1,234],
 "dc/d34/arch_2x86__64_2int_8h.html#a692ba221965b23e87a2a317defb9a443":[4,0,0,2,1,2,1,194],
 "dc/d34/arch_2x86__64_2int_8h.html#a6d38c64a21e80587195cfbe6eb231678":[4,0,0,2,1,2,1,70],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a664e0f5dec19dee2762ebdb12dc2b21c":[3,0,5,3,3,3],
 "dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a6878400b7fb81e88f26aac943129db02":[3,0,5,3,3,4],
 "dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a745f39c6aa76a4127bcb3ad176d8f2bf":[3,0,5,3,3,9],
-"dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a77f264847eedb39b8c967e0934a55243":[3,0,5,3,3,0],
-"dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a8375ae1baa8a7b9273759eece2307f22":[3,0,5,3,3,6]
+"dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a77f264847eedb39b8c967e0934a55243":[3,0,5,3,3,0]
 };

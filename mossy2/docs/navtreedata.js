@@ -42,13 +42,13 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d3/d0e/x64_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f",
-"d4/d48/structkernel_1_1HEAD.html#ae4bba89b1eed1907e3bb281ad4c584f4",
-"d7/d58/new_8h.html#a41d83e8020f1d841b254be6ebeda92d2",
-"d9/d6b/arch_2x86_2hal_8cpp.html#a59a7cd4b190f6f957e3ecfc0028485ca",
-"db/d16/debug_8h.html#a5aa5422365f41125cf66691158bb8affa1e85a42159cfcd33ae693ba8fd03ee80",
-"dc/d34/arch_2x86__64_2int_8h.html#a692607adfc8289453a133bd88c0a308b",
-"dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a83c1f15b4d59a32539b9d33ac80118ef",
-"df/deb/structx86_1_1recursive__paging_1_1pte.html#a1329b9e1091d4ff35ae382cc31b927c7"
+"d4/d48/structkernel_1_1HEAD.html#ab2bf2ae287b06c12787225971657a32b",
+"d7/d4e/sysroot_2usr_2include_2time_8h.html#a7f5991675a84025dc7c24754a9b257c0",
+"d9/d6b/arch_2x86_2hal_8cpp.html#a1b306056ca8456973d83e8852fd8f76a",
+"db/d16/debug_8h.html#a129fdca2dd147eedc669fd7cd1e85fe1",
+"dc/d34/arch_2x86__64_2int_8h.html#a69077846ba1577ecf0491d4e25d12518",
+"dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a8375ae1baa8a7b9273759eece2307f22",
+"df/deb/structx86_1_1recursive__paging_1_1pte.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

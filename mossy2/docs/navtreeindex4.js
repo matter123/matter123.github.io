@@ -1,5 +1,9 @@
 var NAVTREEINDEX4 =
 {
+"d9/d6b/arch_2x86_2hal_8cpp.html#a1b306056ca8456973d83e8852fd8f76a":[4,0,0,2,1,1,0,3],
+"d9/d6b/arch_2x86_2hal_8cpp.html#a2256b8dcfeb5985e49f21ed5e4794943":[4,0,0,2,1,1,0,10],
+"d9/d6b/arch_2x86_2hal_8cpp.html#a3949c3c672c8731a6624f705dbe84cb9":[4,0,0,2,1,1,0,0],
+"d9/d6b/arch_2x86_2hal_8cpp.html#a4cda54dff12b082b800005de462a5cfb":[4,0,0,2,1,1,0,18],
 "d9/d6b/arch_2x86_2hal_8cpp.html#a59a7cd4b190f6f957e3ecfc0028485ca":[4,0,0,2,1,1,0,2],
 "d9/d6b/arch_2x86_2hal_8cpp.html#a5da0fee39be6c7659d059d24765593b3":[4,0,0,2,1,1,0,12],
 "d9/d6b/arch_2x86_2hal_8cpp.html#a70da18acf65c837e4927ff9bbc5fb86b":[4,0,0,2,1,1,0,13],
@@ -245,9 +249,5 @@ var NAVTREEINDEX4 =
 "da/ddb/heap_8h.html":[4,0,0,2,5,0,1],
 "da/ddb/heap_8h.html#a66d256e4c43684a4f900aa4e6a83ed42":[4,0,0,2,5,0,1,0],
 "db/d16/debug_8h.html":[4,0,0,2,4,0,0],
-"db/d16/debug_8h.html#a0c72e3e140c77750bcf74174f57ef9c7":[4,0,0,2,4,0,0,4],
-"db/d16/debug_8h.html#a129fdca2dd147eedc669fd7cd1e85fe1":[4,0,0,2,4,0,0,2],
-"db/d16/debug_8h.html#a25b422e2a18c02cd925f693e65550a18":[4,0,0,2,4,0,0,3],
-"db/d16/debug_8h.html#a5aa5422365f41125cf66691158bb8aff":[4,0,0,2,4,0,0,0],
-"db/d16/debug_8h.html#a5aa5422365f41125cf66691158bb8affa1df8f058c8148045000e126f8f6497d9":[4,0,0,2,4,0,0,0,1]
+"db/d16/debug_8h.html#a0c72e3e140c77750bcf74174f57ef9c7":[4,0,0,2,4,0,0,4]
 };

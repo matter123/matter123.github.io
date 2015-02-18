@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"d4/d48/structkernel_1_1HEAD.html#ab2bf2ae287b06c12787225971657a32b":[3,0,2,2,0],
 "d4/d48/structkernel_1_1HEAD.html#ae4bba89b1eed1907e3bb281ad4c584f4":[3,0,2,2,3],
 "d4/d57/sysroot_2usr_2include_2typedef_8hpp.html":[4,0,1,0,0,9],
 "d4/d5d/structhal_1_1mem__regs.html":[3,0,1,3],
@@ -223,6 +224,9 @@ var NAVTREEINDEX2 =
 "d6/dcb/sysroot_2usr_2include_2math_8h.html#ab0aeb9c9537af5dbff41b34bf93874bc":[4,0,1,0,0,3,1],
 "d6/dcb/sysroot_2usr_2include_2math_8h.html#ac7a1183c29d9d3cd34e73d7cb2213b8a":[4,0,1,0,0,3,0],
 "d6/dcb/sysroot_2usr_2include_2math_8h.html#acd73fe35dc8b492a220065d0357c152c":[4,0,1,0,0,3,2],
+"d6/dd0/table_8cpp.html":[4,0,0,2,0,1,0,1],
+"d6/dd0/table_8cpp.html#a44e8d10bf85c67a19a09c5580a3fb0fd":[4,0,0,2,0,1,0,1,0],
+"d6/dd0/table_8cpp.html#ab2b9194a27401b570b1ac31df135eb2f":[4,0,0,2,0,1,0,1,1],
 "d6/ddf/structhal_1_1multiboot__command.html":[3,0,1,7],
 "d6/ddf/structhal_1_1multiboot__command.html#a47b62e8c7b462fc252a238ce214e8b9d":[3,0,1,7,1],
 "d6/ddf/structhal_1_1multiboot__command.html#a66f8ae240c7d485021502a50699b47ce":[3,0,1,7,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX2 =
 "d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html#a75a447630369e5d7ef3d829c0e1da154":[3,0,5,3,4,0],
 "d7/d4e/sysroot_2usr_2include_2time_8h.html":[4,0,1,0,0,8],
 "d7/d4e/sysroot_2usr_2include_2time_8h.html#a138035504d1935152ac0777510aa3801":[4,0,1,0,0,8,4],
-"d7/d4e/sysroot_2usr_2include_2time_8h.html#a68a0e9d22417dfcf9c0be64261352e64":[4,0,1,0,0,8,2],
-"d7/d4e/sysroot_2usr_2include_2time_8h.html#a7f5991675a84025dc7c24754a9b257c0":[4,0,1,0,0,8,1],
-"d7/d4e/sysroot_2usr_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07":[4,0,1,0,0,8,3],
-"d7/d58/new_8h.html":[4,0,0,2,4,0,3],
-"d7/d58/new_8h.html#a0a32ddebc54410cf59dec423c0b0791b":[4,0,0,2,4,0,3,2]
+"d7/d4e/sysroot_2usr_2include_2time_8h.html#a68a0e9d22417dfcf9c0be64261352e64":[4,0,1,0,0,8,2]
 };
