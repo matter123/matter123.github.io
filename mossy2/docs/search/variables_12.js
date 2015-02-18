@@ -10,7 +10,7 @@ var searchData=
   ['sdts',['SDTs',['../df/dee/structacpi_1_1acpi.html#ab54804ca2a37cbab8cc011d69c10e14f',1,'acpi::acpi']]],
   ['showbase',['showbase',['../db/d9c/classhal_1_1ios__base.html#a33fc34ba243c6a3f5622953819c3d284',1,'hal::ios_base']]],
   ['sig',['sig',['../d4/db4/structacpi_1_1tables_1_1RSDP.html#a41a5584cb9e5df47283d7c16ccf562e8',1,'acpi::tables::RSDP']]],
-  ['signature',['Signature',['../dd/d4e/structacpi_1_1tables_1_1SDT.html#a449b5099507f7c5daf4b0b9f5c8e4e94',1,'acpi::tables::SDT::Signature()'],['../da/d3e/structacpi_1_1FACS.html#aed525f35524fdc5590f1daaf425650c6',1,'acpi::FACS::signature()'],['../dc/de0/structacpi_1_1SDT.html#a1e00aa68a54671c3e46965f64a938ceb',1,'acpi::SDT::signature()']]],
+  ['signature',['Signature',['../d5/dd3/structacpi_1_1sdt.html#aa0c4da8d1dd8bd83f5a85630370d8ffb',1,'acpi::sdt::Signature()'],['../da/d3e/structacpi_1_1FACS.html#aed525f35524fdc5590f1daaf425650c6',1,'acpi::FACS::signature()'],['../dc/de0/structacpi_1_1SDT.html#a1e00aa68a54671c3e46965f64a938ceb',1,'acpi::SDT::signature()']]],
   ['size',['size',['../d6/dc7/structhal_1_1multiboot__header.html#aa1a8741ee87a6a32ed35220bbbd87ff9',1,'hal::multiboot_header::size()'],['../d7/d20/structhal_1_1multiboot__tag.html#ab67f192ad59d26652056ea30192503b4',1,'hal::multiboot_tag::size()']]],
   ['sleep_5fbutton_5fcontrol_5fdevice',['sleep_button_control_device',['../d3/d53/structacpi_1_1FADT.html#a9218a0d452f299b5288c1aad0977c65d',1,'acpi::FADT']]],
   ['sleep_5fcontrol_5fregister',['sleep_control_register',['../d3/d53/structacpi_1_1FADT.html#a1434b571e403867bf48621566f0cd6ac',1,'acpi::FADT']]],

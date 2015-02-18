@@ -11,7 +11,10 @@ var namespaceacpi =
     [ "local_APIC", "da/d8d/structacpi_1_1local__APIC.html", "da/d8d/structacpi_1_1local__APIC" ],
     [ "MADT", "d9/dd3/structacpi_1_1MADT.html", "d9/dd3/structacpi_1_1MADT" ],
     [ "MADT_entry", "db/dcf/structacpi_1_1MADT__entry.html", "db/dcf/structacpi_1_1MADT__entry" ],
+    [ "RSDT", "de/d11/structacpi_1_1RSDT.html", "de/d11/structacpi_1_1RSDT" ],
+    [ "sdt", "d5/dd3/structacpi_1_1sdt.html", "d5/dd3/structacpi_1_1sdt" ],
     [ "SDT", "dc/de0/structacpi_1_1SDT.html", "dc/de0/structacpi_1_1SDT" ],
     [ "SSDT", "d4/d08/structacpi_1_1SSDT.html", "d4/d08/structacpi_1_1SSDT" ],
-    [ "unknown_MADT_entry", "d2/d93/structacpi_1_1unknown__MADT__entry.html", "d2/d93/structacpi_1_1unknown__MADT__entry" ]
+    [ "unknown_MADT_entry", "d2/d93/structacpi_1_1unknown__MADT__entry.html", "d2/d93/structacpi_1_1unknown__MADT__entry" ],
+    [ "XSDT", "dc/dcf/structacpi_1_1XSDT.html", "dc/dcf/structacpi_1_1XSDT" ]
 ];

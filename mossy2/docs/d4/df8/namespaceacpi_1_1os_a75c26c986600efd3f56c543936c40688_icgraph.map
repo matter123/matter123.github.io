@@ -1,5 +1,5 @@
 <map id="acpi::os::get_virt_phys" name="acpi::os::get_virt_phys">
-<area shape="rect" id="node2" href="$df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e" title="acpi::tables::find_rsdp" alt="" coords="220,5,383,32"/>
-<area shape="rect" id="node4" href="$df/dc2/namespaceacpi_1_1tables.html#ab2b9194a27401b570b1ac31df135eb2f" title="acpi::tables::load\l_table" alt="" coords="236,57,367,98"/>
-<area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="acpi::init_tables" alt="" coords="431,35,552,61"/>
+<area shape="rect" id="node2" href="$d3/d94/namespaceacpi.html#a34b9d8570bfc87349961eafad48f9a5d" title="acpi::load_table" alt="" coords="220,5,343,32"/>
+<area shape="rect" id="node4" href="$d3/d94/namespaceacpi.html#a17706dc3ae3bc49d6babf753c67723ae" title="acpi::find_rsdp" alt="" coords="224,56,339,83"/>
+<area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="acpi::init_tables" alt="" coords="391,31,512,57"/>
 </map>

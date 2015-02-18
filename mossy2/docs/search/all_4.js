@@ -28,7 +28,7 @@ var searchData=
   ['dl_5fwarning',['dl_warning',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8affa3ab0470f9edf976586f8f201aedd9a12',1,'std']]],
   ['dma',['dma',['../df/d4e/classhal_1_1mem__type.html#a59d123703cee2eb048d031248506642d',1,'hal::mem_type']]],
   ['dmagenta',['DMAGENTA',['../d3/d75/namespacestd_1_1TC.html#a941f31212771f08291a099a2e564c6b9',1,'std::TC']]],
-  ['do_5fchecksum',['do_checksum',['../df/dc2/namespaceacpi_1_1tables.html#a44e8d10bf85c67a19a09c5580a3fb0fd',1,'acpi::tables::do_checksum(SDT *table)'],['../df/dc2/namespaceacpi_1_1tables.html#a00915672c26a495f941c8fa9c74879a6',1,'acpi::tables::do_checksum()']]],
+  ['do_5fchecksum',['do_checksum',['../d3/d94/namespaceacpi.html#a4f65b7adfc93cab5d22f02e80473cf4e',1,'acpi::do_checksum(sdt *table)'],['../d3/d94/namespaceacpi.html#a64abb34c99e33d43186d0f51bea1a6db',1,'acpi::do_checksum()']]],
   ['docking_5fsupported',['docking_supported',['../d3/d53/structacpi_1_1FADT.html#a9b8a175aa65d5726a7e357c5c5547cfe',1,'acpi::FADT']]],
   ['dpl',['DPL',['../d5/dfe/structx86_1_1idt__entry.html#a91be00c432196d1b720218548ed2d45b',1,'x86::idt_entry::DPL()'],['../da/dd2/structx64_1_1idt__entry.html#a62fcdab9b93fe80094127d9ad3ed6deb',1,'x64::idt_entry::DPL()']]],
   ['draw_5fchar_5fat',['draw_char_at',['../d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204',1,'kernel']]],

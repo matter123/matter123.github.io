@@ -1,0 +1,5 @@
+<map id="acpi::do_checksum" name="acpi::do_checksum">
+<area shape="rect" id="node2" href="$d3/d94/namespaceacpi.html#a34b9d8570bfc87349961eafad48f9a5d" title="acpi::load_table" alt="" coords="199,5,321,32"/>
+<area shape="rect" id="node4" href="$d3/d94/namespaceacpi.html#a17706dc3ae3bc49d6babf753c67723ae" title="acpi::find_rsdp" alt="" coords="203,56,317,83"/>
+<area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="acpi::init_tables" alt="" coords="369,31,491,57"/>
+</map>

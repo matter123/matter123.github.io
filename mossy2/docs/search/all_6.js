@@ -16,7 +16,7 @@ var searchData=
   ['fill_5fhline',['fill_hline',['../d7/da2/namespacekernel.html#a25625eb5b8183007e48aaa158f20114f',1,'kernel']]],
   ['fill_5frect',['fill_rect',['../d7/da2/namespacekernel.html#a4936d52cfed90d3a7f8a860a5c97ab67',1,'kernel']]],
   ['fill_5fvline',['fill_vline',['../d7/da2/namespacekernel.html#a2c0cd7e246bfc51d96c2cc9424e02ab7',1,'kernel']]],
-  ['find_5frsdp',['find_rsdp',['../df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e',1,'acpi::tables']]],
+  ['find_5frsdp',['find_rsdp',['../df/dc2/namespaceacpi_1_1tables.html#ad78c5772490b78fc49991c95c6b2c90e',1,'acpi::tables::find_rsdp()'],['../d3/d94/namespaceacpi.html#a17706dc3ae3bc49d6babf753c67723ae',1,'acpi::find_rsdp()']]],
   ['firmware',['firmware',['../df/d4e/classhal_1_1mem__type.html#ae22f51f1f76275a16f9eca84ba52fe29',1,'hal::mem_type']]],
   ['firmware_5fctrl_5faddr',['firmware_ctrl_addr',['../d3/d53/structacpi_1_1FADT.html#a312db5450c36ec8d9c6408eaa133174d',1,'acpi::FADT']]],
   ['first',['first',['../d7/da2/namespacekernel.html#ab8ce36169f7c1addbf9776552b044d60',1,'kernel']]],

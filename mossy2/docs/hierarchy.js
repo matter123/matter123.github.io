@@ -60,8 +60,8 @@ var hierarchy =
     [ "x64::recursive_paging", "d2/d70/classx64_1_1recursive__paging.html", null ],
     [ "acpi::tables::RSDP", "d4/db4/structacpi_1_1tables_1_1RSDP.html", null ],
     [ "acpi::tables::RSDP20", "d3/de4/structacpi_1_1tables_1_1RSDP20.html", null ],
-    [ "acpi::tables::RSDT", "d9/d9c/structacpi_1_1tables_1_1RSDT.html", null ],
-    [ "acpi::tables::SDT", "dd/d4e/structacpi_1_1tables_1_1SDT.html", null ],
+    [ "acpi::RSDT", "de/d11/structacpi_1_1RSDT.html", null ],
+    [ "acpi::sdt", "d5/dd3/structacpi_1_1sdt.html", null ],
     [ "acpi::SDT", "dc/de0/structacpi_1_1SDT.html", [
       [ "acpi::DSDT", "d9/dae/structacpi_1_1DSDT.html", null ],
       [ "acpi::FADT", "d3/d53/structacpi_1_1FADT.html", null ],
@@ -75,9 +75,9 @@ var hierarchy =
     [ "kernel::test_module", "de/d97/classkernel_1_1test__module.html", null ],
     [ "kernel::thread_info", "db/db7/structkernel_1_1thread__info.html", null ],
     [ "tm", "d8/d5a/structtm.html", null ],
-    [ "x86::trampoline", "d5/d00/structx86_1_1trampoline.html", null ],
     [ "x64::trampoline", "d2/dde/structx64_1_1trampoline.html", null ],
+    [ "x86::trampoline", "d5/d00/structx86_1_1trampoline.html", null ],
     [ "std::unique_ptr< T >", "dd/def/classstd_1_1unique__ptr.html", null ],
     [ "std::unique_ptr< T[]>", "d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html", null ],
-    [ "acpi::tables::XSDT", "db/d71/structacpi_1_1tables_1_1XSDT.html", null ]
+    [ "acpi::XSDT", "dc/dcf/structacpi_1_1XSDT.html", null ]
 ];
