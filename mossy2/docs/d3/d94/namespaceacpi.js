@@ -1,6 +1,5 @@
 var namespaceacpi =
 [
-    [ "tables", "df/dc2/namespaceacpi_1_1tables.html", "df/dc2/namespaceacpi_1_1tables" ],
     [ "acpi", "df/dee/structacpi_1_1acpi.html", "df/dee/structacpi_1_1acpi" ],
     [ "DSDT", "d9/dae/structacpi_1_1DSDT.html", "d9/dae/structacpi_1_1DSDT" ],
     [ "FACS", "da/d3e/structacpi_1_1FACS.html", "da/d3e/structacpi_1_1FACS" ],
@@ -11,6 +10,8 @@ var namespaceacpi =
     [ "local_APIC", "da/d8d/structacpi_1_1local__APIC.html", "da/d8d/structacpi_1_1local__APIC" ],
     [ "MADT", "d9/dd3/structacpi_1_1MADT.html", "d9/dd3/structacpi_1_1MADT" ],
     [ "MADT_entry", "db/dcf/structacpi_1_1MADT__entry.html", "db/dcf/structacpi_1_1MADT__entry" ],
+    [ "RSDP", "d3/d3d/structacpi_1_1RSDP.html", "d3/d3d/structacpi_1_1RSDP" ],
+    [ "RSDP20", "d9/dec/structacpi_1_1RSDP20.html", "d9/dec/structacpi_1_1RSDP20" ],
     [ "RSDT", "de/d11/structacpi_1_1RSDT.html", "de/d11/structacpi_1_1RSDT" ],
     [ "sdt", "d5/dd3/structacpi_1_1sdt.html", "d5/dd3/structacpi_1_1sdt" ],
     [ "SDT", "dc/de0/structacpi_1_1SDT.html", "dc/de0/structacpi_1_1SDT" ],

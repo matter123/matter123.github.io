@@ -1,7 +1,7 @@
 <map id="acpi::load_table" name="acpi::load_table">
 <area shape="rect" id="node2" href="$d4/df8/namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="176,109,343,136"/>
 <area shape="rect" id="node11" href="$d4/df8/namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="deallocates firmware memory " alt="" coords="182,161,337,188"/>
-<area shape="rect" id="node14" href="$d3/d94/namespaceacpi.html#a4f65b7adfc93cab5d22f02e80473cf4e" title="acpi::do_checksum" alt="" coords="187,212,332,239"/>
+<area shape="rect" id="node14" href="$d3/d94/namespaceacpi.html#a6ca97a9c61539ad0b92e1e2104bb131a" title="acpi::do_checksum" alt="" coords="187,212,332,239"/>
 <area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="391,108,581,135"/>
 <area shape="rect" id="node4" href="$d2/d70/classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="629,107,829,133"/>
 <area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="885,208,989,235"/>

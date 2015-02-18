@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$d4/df8/namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="168,109,335,136"/>
 <area shape="rect" id="node11" href="$d4/df8/namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="deallocates firmware memory " alt="" coords="174,161,329,188"/>
 <area shape="rect" id="node14" href="$d3/df7/srcs_2c_2include_2string_8h.html#a1e7d61eb280250fb55dce370ba1a1709" title="compares the bytes of ptr1 and ptr2 " alt="" coords="209,212,293,239"/>
-<area shape="rect" id="node15" href="$d3/d94/namespaceacpi.html#a4f65b7adfc93cab5d22f02e80473cf4e" title="acpi::do_checksum" alt="" coords="179,263,324,289"/>
+<area shape="rect" id="node15" href="$d3/d94/namespaceacpi.html#a6ca97a9c61539ad0b92e1e2104bb131a" title="acpi::do_checksum" alt="" coords="179,263,324,289"/>
 <area shape="rect" id="node16" href="$da/d01/srcs_2c_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="219,313,283,340"/>
 <area shape="rect" id="node17" href="$d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="212,364,291,391"/>
 <area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="383,108,573,135"/>

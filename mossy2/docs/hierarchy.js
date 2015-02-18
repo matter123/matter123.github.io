@@ -58,8 +58,8 @@ var hierarchy =
     [ "x64::recursive_paging::pte", "d3/d5e/structx64_1_1recursive__paging_1_1pte.html", null ],
     [ "x86::recursive_paging", "d4/db3/classx86_1_1recursive__paging.html", null ],
     [ "x64::recursive_paging", "d2/d70/classx64_1_1recursive__paging.html", null ],
-    [ "acpi::tables::RSDP", "d4/db4/structacpi_1_1tables_1_1RSDP.html", null ],
-    [ "acpi::tables::RSDP20", "d3/de4/structacpi_1_1tables_1_1RSDP20.html", null ],
+    [ "acpi::RSDP", "d3/d3d/structacpi_1_1RSDP.html", null ],
+    [ "acpi::RSDP20", "d9/dec/structacpi_1_1RSDP20.html", null ],
     [ "acpi::RSDT", "de/d11/structacpi_1_1RSDT.html", null ],
     [ "acpi::sdt", "d5/dd3/structacpi_1_1sdt.html", null ],
     [ "acpi::SDT", "dc/de0/structacpi_1_1SDT.html", [

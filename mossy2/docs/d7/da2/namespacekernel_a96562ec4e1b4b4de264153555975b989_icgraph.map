@@ -11,8 +11,8 @@
 <area shape="rect" id="node5" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="405,95,596,122"/>
 <area shape="rect" id="node6" href="$d4/df8/namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="647,146,814,173"/>
 <area shape="rect" id="node10" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="1070,95,1179,122"/>
-<area shape="rect" id="node7" href="$d3/d94/namespaceacpi.html#a34b9d8570bfc87349961eafad48f9a5d" title="acpi::load_table" alt="" coords="879,197,1002,223"/>
-<area shape="rect" id="node9" href="$d3/d94/namespaceacpi.html#a17706dc3ae3bc49d6babf753c67723ae" title="acpi::find_rsdp" alt="" coords="883,247,998,274"/>
+<area shape="rect" id="node7" href="$d3/d94/namespaceacpi.html#aa4d81533473a32af4e1b8d7a88917fa2" title="acpi::load_table" alt="" coords="879,197,1002,223"/>
+<area shape="rect" id="node9" href="$d3/d94/namespaceacpi.html#a108413631fd0c1ac59341f21f2542192" title="acpi::find_rsdp" alt="" coords="883,247,998,274"/>
 <area shape="rect" id="node8" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="acpi::init_tables" alt="" coords="1064,222,1185,249"/>
 <area shape="rect" id="node11" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1233,95,1360,122"/>
 <area shape="rect" id="node13" href="$d0/d7f/namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="407,399,594,426"/>

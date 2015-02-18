@@ -1,6 +1,5 @@
 var rsdp_8cpp =
 [
-    [ "do_checksum", "dd/d37/rsdp_8cpp.html#a64abb34c99e33d43186d0f51bea1a6db", null ],
-    [ "find_rsdp", "dd/d37/rsdp_8cpp.html#a17706dc3ae3bc49d6babf753c67723ae", null ],
-    [ "rsdp_ptr", "dd/d37/rsdp_8cpp.html#a1bcb9c4daca54c7632e48a84dbbe2336", null ]
+    [ "do_checksum", "dd/d37/rsdp_8cpp.html#aa515e71b7ed9c318bfe04073637a05f4", null ],
+    [ "find_rsdp", "dd/d37/rsdp_8cpp.html#a108413631fd0c1ac59341f21f2542192", null ]
 ];

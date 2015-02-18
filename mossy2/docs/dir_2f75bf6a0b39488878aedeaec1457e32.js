@@ -6,5 +6,7 @@ var dir_2f75bf6a0b39488878aedeaec1457e32 =
       [ "generic_address_space", "d9/d9d/structacpi_1_1generic__address__space.html", "d9/d9d/structacpi_1_1generic__address__space" ]
     ] ],
     [ "rsdp.h", "df/da9/rsdp_8h.html", "df/da9/rsdp_8h" ],
-    [ "sdt.h", "d8/d95/sdt_8h.html", "d8/d95/sdt_8h" ]
+    [ "sdt.h", "d8/d95/sdt_8h.html", [
+      [ "sdt", "d5/dd3/structacpi_1_1sdt.html", "d5/dd3/structacpi_1_1sdt" ]
+    ] ]
 ];

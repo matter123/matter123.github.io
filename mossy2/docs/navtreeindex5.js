@@ -1,6 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"da/ddb/heap_8h.html":[4,0,0,2,5,0,1],
 "da/ddb/heap_8h.html#a66d256e4c43684a4f900aa4e6a83ed42":[4,0,0,2,5,0,1,0],
 "db/d16/debug_8h.html":[4,0,0,2,4,0,0],
 "db/d16/debug_8h.html#a0c72e3e140c77750bcf74174f57ef9c7":[4,0,0,2,4,0,0,4],
@@ -115,8 +114,8 @@ var NAVTREEINDEX5 =
 "db/db7/structkernel_1_1thread__info.html#ada75ed9a6c1a8c6cabf9a0b3199e8614":[3,0,2,8,3],
 "db/db7/structkernel_1_1thread__info.html#af6783c1abc64cd2f5d913ddc229711af":[3,0,2,8,4],
 "db/db7/structkernel_1_1thread__info.html#afbb9ae3c7d61cce6a2ae83bced998101":[3,0,2,8,1],
-"db/dcf/structacpi_1_1MADT__entry.html":[3,0,0,10],
-"db/dcf/structacpi_1_1MADT__entry.html#ac346814819bf719e929a56e6ea5a55cc":[3,0,0,10,0],
+"db/dcf/structacpi_1_1MADT__entry.html":[3,0,0,9],
+"db/dcf/structacpi_1_1MADT__entry.html#ac346814819bf719e929a56e6ea5a55cc":[3,0,0,9,0],
 "db/dec/vterm_8cpp.html":[4,0,0,2,5,10],
 "db/dec/vterm_8cpp.html#a0e4347fbf6da02162c9005900ad503b5":[4,0,0,2,5,10,7],
 "db/dec/vterm_8cpp.html#a3007f0b6b8976a4ca6d611ad4c3baa95":[4,0,0,2,5,10,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX5 =
 "dc/d34/arch_2x86__64_2int_8h.html#a661eb88a26b28e4138a3ad5cc846e6fb":[4,0,0,2,1,2,1,197],
 "dc/d34/arch_2x86__64_2int_8h.html#a67413777d28302dc141d737ab51bfa26":[4,0,0,2,1,2,1,146],
 "dc/d34/arch_2x86__64_2int_8h.html#a68410c7d0cda11c6f4c0fa05dee0844e":[4,0,0,2,1,2,1,133],
-"dc/d34/arch_2x86__64_2int_8h.html#a689f7e4e3609a3a472289478e86787f4":[4,0,0,2,1,2,1,168]
+"dc/d34/arch_2x86__64_2int_8h.html#a689f7e4e3609a3a472289478e86787f4":[4,0,0,2,1,2,1,168],
+"dc/d34/arch_2x86__64_2int_8h.html#a68a59de304ea3e870a9d37ae4810182a":[4,0,0,2,1,2,1,38]
 };

@@ -1,13 +1,13 @@
 <map id="acpi::init_tables" name="acpi::init_tables">
 <area shape="rect" id="node2" href="$d4/df8/namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11" title="initalizes acpi os interface " alt="" coords="175,59,328,85"/>
-<area shape="rect" id="node5" href="$d3/d94/namespaceacpi.html#a17706dc3ae3bc49d6babf753c67723ae" title="acpi::find_rsdp" alt="" coords="194,211,309,237"/>
-<area shape="rect" id="node22" href="$d3/d94/namespaceacpi.html#a34b9d8570bfc87349961eafad48f9a5d" title="acpi::load_table" alt="" coords="190,160,313,187"/>
+<area shape="rect" id="node5" href="$d3/d94/namespaceacpi.html#a108413631fd0c1ac59341f21f2542192" title="acpi::find_rsdp" alt="" coords="194,211,309,237"/>
+<area shape="rect" id="node22" href="$d3/d94/namespaceacpi.html#aa4d81533473a32af4e1b8d7a88917fa2" title="acpi::load_table" alt="" coords="190,160,313,187"/>
 <area shape="rect" id="node3" href="$d0/d7f/namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="376,8,569,35"/>
 <area shape="rect" id="node4" href="$d0/d7f/namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="379,59,566,85"/>
 <area shape="rect" id="node6" href="$d4/df8/namespaceacpi_1_1os.html#a75c26c986600efd3f56c543936c40688" title="allocates firmware memory " alt="" coords="389,109,556,136"/>
 <area shape="rect" id="node15" href="$d4/df8/namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="deallocates firmware memory " alt="" coords="395,160,550,187"/>
 <area shape="rect" id="node18" href="$d3/df7/srcs_2c_2include_2string_8h.html#a1e7d61eb280250fb55dce370ba1a1709" title="compares the bytes of ptr1 and ptr2 " alt="" coords="431,261,515,288"/>
-<area shape="rect" id="node19" href="$d3/d94/namespaceacpi.html#a4f65b7adfc93cab5d22f02e80473cf4e" title="acpi::do_checksum" alt="" coords="400,211,545,237"/>
+<area shape="rect" id="node19" href="$d3/d94/namespaceacpi.html#a6ca97a9c61539ad0b92e1e2104bb131a" title="acpi::do_checksum" alt="" coords="400,211,545,237"/>
 <area shape="rect" id="node20" href="$da/d01/srcs_2c_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="441,312,505,339"/>
 <area shape="rect" id="node21" href="$d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="433,363,512,389"/>
 <area shape="rect" id="node7" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="617,109,808,136"/>

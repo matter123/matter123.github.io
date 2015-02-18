@@ -1,7 +1,7 @@
 <map id="kernel::malloc" name="kernel::malloc">
 <area shape="rect" id="node2" href="$d9/d63/cat_8cpp.html#a84c49de8678f498bf065033366ff85b8" title="test_strcat" alt="" coords="179,5,270,32"/>
 <area shape="rect" id="node3" href="$d9/d54/copy_8cpp.html#a74d26d42f0bed9ce97c8356c858492f6" title="test_strcpy" alt="" coords="177,56,272,83"/>
-<area shape="rect" id="node4" href="$d3/d94/namespaceacpi.html#a17706dc3ae3bc49d6babf753c67723ae" title="acpi::find_rsdp" alt="" coords="167,107,282,133"/>
+<area shape="rect" id="node4" href="$d3/d94/namespaceacpi.html#a108413631fd0c1ac59341f21f2542192" title="acpi::find_rsdp" alt="" coords="167,107,282,133"/>
 <area shape="rect" id="node6" href="$de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc" title="test_heap" alt="" coords="181,157,268,184"/>
 <area shape="rect" id="node7" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a7b3d8b7cea59b137b167878ec88eb8d6" title="calloc" alt="" coords="195,208,254,235"/>
 <area shape="rect" id="node8" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be" title="realloc" alt="" coords="193,283,257,309"/>

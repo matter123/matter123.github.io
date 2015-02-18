@@ -47,6 +47,5 @@ var searchData=
   ['atoll',['atoll',['../da/d01/srcs_2c_2include_2stdlib_8h.html#a53e8d1f366b7581b51b222c2e02aa765',1,'atoll(const char *str):&#160;stdlib.cpp'],['../da/d5c/stdlib_8cpp.html#a53e8d1f366b7581b51b222c2e02aa765',1,'atoll(const char *str):&#160;stdlib.cpp'],['../db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a53e8d1f366b7581b51b222c2e02aa765',1,'atoll(const char *str):&#160;stdlib.cpp']]],
   ['available',['available',['../df/dee/structacpi_1_1acpi.html#a2e360a9b7c332a125cefef95e8554767',1,'acpi::acpi']]],
   ['avil',['avil',['../df/d4e/classhal_1_1mem__type.html#a478c82ed5f0695e167d3b7ad78e7773e',1,'hal::mem_type']]],
-  ['os',['os',['../d4/df8/namespaceacpi_1_1os.html',1,'acpi']]],
-  ['tables',['tables',['../df/dc2/namespaceacpi_1_1tables.html',1,'acpi']]]
+  ['os',['os',['../d4/df8/namespaceacpi_1_1os.html',1,'acpi']]]
 ];
