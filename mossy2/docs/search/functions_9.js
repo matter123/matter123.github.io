@@ -15,7 +15,7 @@ var searchData=
   ['init_5fphys_5fmem',['init_phys_mem',['../d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff',1,'hal']]],
   ['init_5fpic',['init_pic',['../db/d1b/namespacepc.html#a37c2c289036e54bffc2cffa12758103b',1,'pc']]],
   ['init_5fscheduler',['init_scheduler',['../d7/da2/namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631',1,'kernel']]],
-  ['init_5ftables',['init_tables',['../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16',1,'acpi::init_tables()'],['../d3/d94/namespaceacpi.html#a2390b22ca44fe6e89e265b1cb0aa9a18',1,'acpi::init_tables(bool fail_on_4GB)']]],
+  ['init_5ftables',['init_tables',['../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16',1,'acpi']]],
   ['init_5ftr',['init_tr',['../d7/da2/namespacekernel.html#ad3347cac35eac3e3e6f58c17d0eef83f',1,'kernel']]],
   ['init_5ftype',['init_type',['../d0/d7f/namespacehal.html#a1aac65ed011c32ed5cab5baba89626a8',1,'hal']]],
   ['init_5fvendor',['init_vendor',['../d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c',1,'hal']]],

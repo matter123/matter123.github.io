@@ -3,6 +3,6 @@
 <area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="262,56,371,83"/>
 <area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42" title="kernel::heap_init" alt="" coords="253,107,381,133"/>
 <area shape="rect" id="node7" href="$d7/da2/namespacekernel.html#a5cd14b2c228f8729d0a91456f57e1d3e" title="kernel::init_kstacks" alt="" coords="243,157,390,184"/>
-<area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="acpi::init_tables" alt="" coords="444,5,565,32"/>
+<area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="444,5,565,32"/>
 <area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="441,81,568,108"/>
 </map>

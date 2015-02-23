@@ -8,7 +8,7 @@
 <area shape="rect" id="node10" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="1073,201,1182,228"/>
 <area shape="rect" id="node7" href="$d3/d94/namespaceacpi.html#aa4d81533473a32af4e1b8d7a88917fa2" title="acpi::load_table" alt="" coords="883,107,1005,133"/>
 <area shape="rect" id="node9" href="$d3/d94/namespaceacpi.html#a108413631fd0c1ac59341f21f2542192" title="acpi::find_rsdp" alt="" coords="887,157,1001,184"/>
-<area shape="rect" id="node8" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="acpi::init_tables" alt="" coords="1067,139,1188,165"/>
+<area shape="rect" id="node8" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="1067,139,1188,165"/>
 <area shape="rect" id="node11" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="1236,132,1363,159"/>
 <area shape="rect" id="node13" href="$d0/d7f/namespacehal.html#a85a993a5cd9bc0da107bd2147cc7f5f9" title="hal::unmap_virt_phys_cur" alt="" coords="411,107,598,133"/>
 <area shape="rect" id="node14" href="$d4/df8/namespaceacpi_1_1os.html#a0cdb498f84308d92c7dfb232638ca1c7" title="deallocates firmware memory " alt="" coords="657,107,812,133"/>
