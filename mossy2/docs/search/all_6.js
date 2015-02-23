@@ -4,7 +4,7 @@ var searchData=
   ['facs_2eh',['FACS.h',['../dd/ddb/FACS_8h.html',1,'']]],
   ['facs_5ffirmware_5faddr',['FACS_firmware_addr',['../da/d3e/structacpi_1_1FACS.html#aa83a8da5d001a2b0171461f1f08db889',1,'acpi::FACS']]],
   ['fadt',['FADT',['../d3/d53/structacpi_1_1FADT.html',1,'acpi']]],
-  ['fadt',['FADT',['../df/dee/structacpi_1_1acpi.html#ad3482dacfa310840060b00cb7b43397e',1,'acpi::acpi']]],
+  ['fadt',['FADT',['../d9/d66/structacpi_1_1ACPI.html#ad56251bc1b1e85fc2b2b09af55da696a',1,'acpi::ACPI']]],
   ['fadt_2eh',['FADT.h',['../d2/d80/FADT_8h.html',1,'']]],
   ['fadt_5ffirmware_5faddr',['FADT_firmware_addr',['../d3/d53/structacpi_1_1FADT.html#ad4854f65c763379973c06ddb7b3b7408',1,'acpi::FADT']]],
   ['fail_5ffast',['fail_fast',['../d0/d7f/namespacehal.html#a7a97308e3fdacd2f8240ba76e010e274',1,'hal']]],

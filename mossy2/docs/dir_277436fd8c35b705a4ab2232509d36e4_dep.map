@@ -1,6 +1,5 @@
 <map id="srcs/kernel/acpi" name="srcs/kernel/acpi">
-<area shape="rect" id="node2" href="dir_2f75bf6a0b39488878aedeaec1457e32.html" title="acpi" alt="" coords="133,63,205,111"/>
-<area shape="rect" id="node3" href="dir_59b24e39c41d2d2419770b94d59d4246.html" title="src" alt="" coords="37,63,109,111"/>
-<area shape="rect" id="clust2" href="dir_277436fd8c35b705a4ab2232509d36e4.html" alt="" coords="27,52,312,121"/>
-<area shape="rect" id="clust1" href="dir_1f80f978e8570a9696e0ce4baa91be7d.html" title="kernel" alt="" coords="16,16,323,132"/>
+<area shape="rect" id="node2" href="dir_2f75bf6a0b39488878aedeaec1457e32.html" title="acpi" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="clust2" href="dir_277436fd8c35b705a4ab2232509d36e4.html" alt="" coords="27,52,216,121"/>
+<area shape="rect" id="clust1" href="dir_1f80f978e8570a9696e0ce4baa91be7d.html" title="kernel" alt="" coords="16,16,227,132"/>
 </map>

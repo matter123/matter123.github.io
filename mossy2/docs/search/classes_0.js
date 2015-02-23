@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['acpi',['acpi',['../df/dee/structacpi_1_1acpi.html',1,'acpi']]]
+  ['acpi',['ACPI',['../d9/d66/structacpi_1_1ACPI.html',1,'acpi']]]
 ];

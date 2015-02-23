@@ -1,7 +1,7 @@
 var searchData=
 [
   ['madt',['MADT',['../d9/dd3/structacpi_1_1MADT.html',1,'acpi']]],
-  ['madt',['MADT',['../df/dee/structacpi_1_1acpi.html#a458cde43014d8d9971eb60e291cf49ab',1,'acpi::acpi']]],
+  ['madt',['MADT',['../d9/d66/structacpi_1_1ACPI.html#acd818e21a2d5a896ecf549c680fdee99',1,'acpi::ACPI']]],
   ['madt_2eh',['MADT.h',['../dd/d91/MADT_8h.html',1,'']]],
   ['madt_5fentry',['MADT_entry',['../db/dcf/structacpi_1_1MADT__entry.html',1,'acpi']]],
   ['magenta',['MAGENTA',['../d3/d75/namespacestd_1_1TC.html#a2f7c0f1615ecdc2fceb4adeb717ff960',1,'std::TC']]],

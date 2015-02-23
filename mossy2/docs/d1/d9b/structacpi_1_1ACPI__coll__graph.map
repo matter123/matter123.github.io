@@ -1,4 +1,4 @@
-<map id="acpi::acpi" name="acpi::acpi">
+<map id="acpi::ACPI" name="acpi::ACPI">
 <area shape="rect" id="node2" href="$d9/dd3/structacpi_1_1MADT.html" title="acpi::MADT" alt="" coords="43,102,137,129"/>
 <area shape="rect" id="node3" href="$dc/de0/structacpi_1_1SDT.html" title="acpi::SDT" alt="" coords="213,5,295,32"/>
 <area shape="rect" id="node5" href="$d4/d08/structacpi_1_1SSDT.html" title="acpi::SSDT" alt="" coords="218,227,309,254"/>

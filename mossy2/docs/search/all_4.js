@@ -35,7 +35,7 @@ var searchData=
   ['draw_5fstring_5fat',['draw_string_at',['../d7/da2/namespacekernel.html#ae359f5def3051aa2ac414c23250951dd',1,'kernel']]],
   ['dred',['DRED',['../d3/d75/namespacestd_1_1TC.html#acf842507bf13e9a5a60e6ab2a615f966',1,'std::TC']]],
   ['ds',['ds',['../da/d9b/structcpu__state.html#a43ff6e955efa9e891ed865172b97589b',1,'cpu_state']]],
-  ['dsdt',['DSDT',['../d3/d53/structacpi_1_1FADT.html#ab42e0fe1d789aa1121110cf2b9f4285a',1,'acpi::FADT::DSDT()'],['../df/dee/structacpi_1_1acpi.html#aa140738be38f52534f3deb902d410500',1,'acpi::acpi::DSDT()']]],
+  ['dsdt',['DSDT',['../d3/d53/structacpi_1_1FADT.html#ab42e0fe1d789aa1121110cf2b9f4285a',1,'acpi::FADT::DSDT()'],['../d9/d66/structacpi_1_1ACPI.html#a318be6b0e361a39c7b564f52be8d5805',1,'acpi::ACPI::DSDT()']]],
   ['dsdt',['DSDT',['../d9/dae/structacpi_1_1DSDT.html',1,'acpi']]],
   ['dsdt_2eh',['DSDT.h',['../d8/d3b/DSDT_8h.html',1,'']]],
   ['dumb_5fmerge',['dumb_merge',['../d7/da2/namespacekernel.html#abda890eb0224f932543b2848fba64ffd',1,'kernel']]],

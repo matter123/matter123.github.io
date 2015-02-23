@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['h_5facpi',['h_acpi',['../d3/d94/namespaceacpi.html#a4bf3f0e3c7c751ffadb7d9ffa49f1e0b',1,'acpi']]],
   ['hal',['hal',['../d0/d7f/namespacehal.html',1,'']]],
   ['hal_2ecpp',['hal.cpp',['../d9/d6b/arch_2x86_2hal_8cpp.html',1,'']]],
   ['hal_2ecpp',['hal.cpp',['../d3/dbe/vendor_2pc_2hal_8cpp.html',1,'']]],
@@ -13,7 +12,6 @@ var searchData=
   ['handle_5feoi',['handle_eoi',['../db/d1b/namespacepc.html#a8c1c62801253d1a3da00a8717dc1d205',1,'pc']]],
   ['hardware_5freduced_5facpi',['hardware_reduced_ACPI',['../d3/d53/structacpi_1_1FADT.html#a84b609cca628b81cb12a544e334a3bd1',1,'acpi::FADT']]],
   ['hardware_5fsignature',['hardware_signature',['../da/d3e/structacpi_1_1FACS.html#a18ab9b349e4f6d6a4f1e57cebb453cef',1,'acpi::FACS']]],
-  ['has_5facpi',['has_acpi',['../d3/d94/namespaceacpi.html#aff84c940b3dfda33065e022cd4335665',1,'acpi']]],
   ['has_5fnext',['has_next',['../de/d03/classunicode_1_1bytes.html#a871a1b20de0e90464134bd44cc0d2b4f',1,'unicode::bytes::has_next()'],['../d4/da2/classunicode_1_1codepoints.html#a2d4ea494ec159dcd83e3e29103c27b99',1,'unicode::codepoints::has_next()'],['../d2/d47/classunicode_1_1codeunits.html#a02dae54e3e75ff43145bf2ea0e5bde88',1,'unicode::codeunits::has_next()'],['../de/d03/classunicode_1_1bytes.html#a871a1b20de0e90464134bd44cc0d2b4f',1,'unicode::bytes::has_next()'],['../d4/da2/classunicode_1_1codepoints.html#a2d4ea494ec159dcd83e3e29103c27b99',1,'unicode::codepoints::has_next()'],['../d2/d47/classunicode_1_1codeunits.html#a02dae54e3e75ff43145bf2ea0e5bde88',1,'unicode::codeunits::has_next()']]],
   ['has_5fprev',['has_prev',['../de/d03/classunicode_1_1bytes.html#ab1316ca6480ca96ed7ad88db392888cb',1,'unicode::bytes::has_prev()'],['../d4/da2/classunicode_1_1codepoints.html#a0fd41910621090d9608663f526dea6b6',1,'unicode::codepoints::has_prev()'],['../d2/d47/classunicode_1_1codeunits.html#a512528243c4ac7f7b58bba2e72bde47b',1,'unicode::codeunits::has_prev()'],['../de/d03/classunicode_1_1bytes.html#ab1316ca6480ca96ed7ad88db392888cb',1,'unicode::bytes::has_prev()'],['../d4/da2/classunicode_1_1codepoints.html#a0fd41910621090d9608663f526dea6b6',1,'unicode::codepoints::has_prev()'],['../d2/d47/classunicode_1_1codeunits.html#a512528243c4ac7f7b58bba2e72bde47b',1,'unicode::codeunits::has_prev()']]],
   ['has_5fuser_5fstack',['has_user_stack',['../db/db7/structkernel_1_1thread__info.html#a2608735fd1cff360cb5abfb63bc28234',1,'kernel::thread_info']]],

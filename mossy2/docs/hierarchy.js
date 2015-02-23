@@ -1,6 +1,6 @@
 var hierarchy =
 [
-    [ "acpi::acpi", "df/dee/structacpi_1_1acpi.html", null ],
+    [ "acpi::ACPI", "d9/d66/structacpi_1_1ACPI.html", null ],
     [ "unicode::bytes", "de/d03/classunicode_1_1bytes.html", null ],
     [ "unicode::codepoints", "d4/da2/classunicode_1_1codepoints.html", null ],
     [ "unicode::codeunits", "d2/d47/classunicode_1_1codeunits.html", null ],
@@ -61,13 +61,13 @@ var hierarchy =
     [ "acpi::RSDP", "d3/d3d/structacpi_1_1RSDP.html", null ],
     [ "acpi::RSDP20", "d9/dec/structacpi_1_1RSDP20.html", null ],
     [ "acpi::RSDT", "de/d11/structacpi_1_1RSDT.html", null ],
-    [ "acpi::sdt", "d5/dd3/structacpi_1_1sdt.html", null ],
     [ "acpi::SDT", "dc/de0/structacpi_1_1SDT.html", [
       [ "acpi::DSDT", "d9/dae/structacpi_1_1DSDT.html", null ],
       [ "acpi::FADT", "d3/d53/structacpi_1_1FADT.html", null ],
       [ "acpi::MADT", "d9/dd3/structacpi_1_1MADT.html", null ],
       [ "acpi::SSDT", "d4/d08/structacpi_1_1SSDT.html", null ]
     ] ],
+    [ "acpi::sdt", "d5/dd3/structacpi_1_1sdt.html", null ],
     [ "kernel::semaphore", "d4/d6c/classkernel_1_1semaphore.html", null ],
     [ "std::shared_ptr< T >", "df/ddb/classstd_1_1shared__ptr.html", null ],
     [ "kernel::spinlock", "d7/dc6/classkernel_1_1spinlock.html", null ],

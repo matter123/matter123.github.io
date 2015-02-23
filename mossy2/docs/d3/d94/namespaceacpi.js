@@ -1,6 +1,6 @@
 var namespaceacpi =
 [
-    [ "acpi", "df/dee/structacpi_1_1acpi.html", "df/dee/structacpi_1_1acpi" ],
+    [ "ACPI", "d9/d66/structacpi_1_1ACPI.html", "d9/d66/structacpi_1_1ACPI" ],
     [ "DSDT", "d9/dae/structacpi_1_1DSDT.html", "d9/dae/structacpi_1_1DSDT" ],
     [ "FACS", "da/d3e/structacpi_1_1FACS.html", "da/d3e/structacpi_1_1FACS" ],
     [ "FADT", "d3/d53/structacpi_1_1FADT.html", "d3/d53/structacpi_1_1FADT" ],

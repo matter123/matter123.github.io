@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['h_5facpi',['h_acpi',['../d3/d94/namespaceacpi.html#a4bf3f0e3c7c751ffadb7d9ffa49f1e0b',1,'acpi']]],
   ['handle_5feoi',['handle_eoi',['../db/d1b/namespacepc.html#a8c1c62801253d1a3da00a8717dc1d205',1,'pc']]],
   ['hardware_5freduced_5facpi',['hardware_reduced_ACPI',['../d3/d53/structacpi_1_1FADT.html#a84b609cca628b81cb12a544e334a3bd1',1,'acpi::FADT']]],
   ['hardware_5fsignature',['hardware_signature',['../da/d3e/structacpi_1_1FACS.html#a18ab9b349e4f6d6a4f1e57cebb453cef',1,'acpi::FACS']]],
