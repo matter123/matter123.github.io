@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"d4/d48/structkernel_1_1HEAD.html#a7d954afd3dbc48bbc0afc840c5d7e12b":[3,0,2,2,5],
 "d4/d48/structkernel_1_1HEAD.html#a7f54da8fc20dca74a7a04a859427f139":[3,0,2,2,1],
 "d4/d48/structkernel_1_1HEAD.html#a9830aec9e696af31276ff66bbc20c991":[3,0,2,2,2],
 "d4/d48/structkernel_1_1HEAD.html#ab2bf2ae287b06c12787225971657a32b":[3,0,2,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "d7/d20/structhal_1_1multiboot__tag.html#a99dd1022ce626f22ce20513fe8847ae3":[3,0,1,15,1],
 "d7/d20/structhal_1_1multiboot__tag.html#ab67f192ad59d26652056ea30192503b4":[3,0,1,15,0],
 "d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html":[3,0,5,3,4],
-"d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html#a2530c5a3aec543f9dcdf5ce9d24d3d81":[3,0,5,3,4,1],
-"d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html#a75a447630369e5d7ef3d829c0e1da154":[3,0,5,3,4,0]
+"d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html#a2530c5a3aec543f9dcdf5ce9d24d3d81":[3,0,5,3,4,1]
 };

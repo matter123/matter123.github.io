@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"d9/d63/cat_8cpp.html#adb8723e585ed29f2370cddf90f6891bc":[4,0,0,0,1,0,0],
 "d9/d66/structacpi_1_1ACPI.html":[3,0,0,0],
 "d9/d66/structacpi_1_1ACPI.html#a23c5cefcb58e87b7c03e391a15c1b073":[3,0,0,0,4],
 "d9/d66/structacpi_1_1ACPI.html#a318be6b0e361a39c7b564f52be8d5805":[3,0,0,0,1],
@@ -230,12 +231,12 @@ var NAVTREEINDEX4 =
 "da/d9b/structcpu__state.html#aeb40d6b7fb70644873f1a6a63f275158":[3,0,7,19],
 "da/d9b/structcpu__state.html#aedf337188fd0e9d0e582287e10b8e4f1":[3,0,7,37],
 "da/d9b/structcpu__state.html#afbc6f6b2bbe2f3df55a57030e40d25d9":[3,0,7,27],
-"da/dc3/acpi__os_8cpp.html":[4,0,0,2,0,3],
-"da/dc3/acpi__os_8cpp.html#a0cdb498f84308d92c7dfb232638ca1c7":[4,0,0,2,0,3,2],
-"da/dc3/acpi__os_8cpp.html#a75c26c986600efd3f56c543936c40688":[4,0,0,2,0,3,0],
-"da/dc3/acpi__os_8cpp.html#a7fe890295fc09985e0dcf4d894e51a11":[4,0,0,2,0,3,1],
-"da/dc3/acpi__os_8cpp.html#aaa02bf3a23b409a4a56d7352f741288f":[4,0,0,2,0,3,3],
-"da/dc3/acpi__os_8cpp.html#adb6adf8b7cf6cdb1d1017d10e51a2760":[4,0,0,2,0,3,4],
+"da/dc3/acpi__os_8cpp.html":[4,0,0,2,0,4],
+"da/dc3/acpi__os_8cpp.html#a0cdb498f84308d92c7dfb232638ca1c7":[4,0,0,2,0,4,2],
+"da/dc3/acpi__os_8cpp.html#a75c26c986600efd3f56c543936c40688":[4,0,0,2,0,4,0],
+"da/dc3/acpi__os_8cpp.html#a7fe890295fc09985e0dcf4d894e51a11":[4,0,0,2,0,4,1],
+"da/dc3/acpi__os_8cpp.html#aaa02bf3a23b409a4a56d7352f741288f":[4,0,0,2,0,4,3],
+"da/dc3/acpi__os_8cpp.html#adb6adf8b7cf6cdb1d1017d10e51a2760":[4,0,0,2,0,4,4],
 "da/dcc/structkernel_1_1glyph__int.html":[3,0,2,1],
 "da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888":[3,0,2,1,1],
 "da/dcc/structkernel_1_1glyph__int.html#a7ff17dc60e213e5f8eacf97fb96f46a6":[3,0,2,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "da/dd2/structx64_1_1idt__entry.html#a052c5c66d3d1322502efb76d1bdb3301":[3,0,5,1,9],
 "da/dd2/structx64_1_1idt__entry.html#a211f1778f248c19fed1e3e7123c7cb90":[3,0,5,1,0],
 "da/dd2/structx64_1_1idt__entry.html#a29ece6fee6c7425b5c7c47a94eb1d090":[3,0,5,1,2],
-"da/dd2/structx64_1_1idt__entry.html#a34eaefed789351ce4335c41f172a709a":[3,0,5,1,6],
-"da/dd2/structx64_1_1idt__entry.html#a62fcdab9b93fe80094127d9ad3ed6deb":[3,0,5,1,1]
+"da/dd2/structx64_1_1idt__entry.html#a34eaefed789351ce4335c41f172a709a":[3,0,5,1,6]
 };

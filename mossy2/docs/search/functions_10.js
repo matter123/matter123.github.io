@@ -4,6 +4,7 @@ var searchData=
   ['schedule_5fint',['schedule_int',['../d7/da2/namespacekernel.html#a865bd2d3ec3c8114028c1e552cb852d3',1,'kernel']]],
   ['scoot',['scoot',['../d7/da2/namespacekernel.html#a6e4897103f6c207a9c2531daf8634859',1,'kernel']]],
   ['scroll',['scroll',['../d0/d7f/namespacehal.html#ad49d2e8377a31906bc4dc84f255817f8',1,'hal::scroll()'],['../d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5',1,'hal::scroll(int lines)']]],
+  ['sdt',['SDT',['../dc/de0/structacpi_1_1SDT.html#a1c5d5acc24380077b2a3b9a7be527941',1,'acpi::SDT']]],
   ['semaphore',['semaphore',['../d4/d6c/classkernel_1_1semaphore.html#aeab884aeb097e2311953687d438f73c6',1,'kernel::semaphore']]],
   ['set_5f64_5fbit_5fwake',['set_64_bit_wake',['../da/d3e/structacpi_1_1FACS.html#a540c005007e472c6470dda588348105d',1,'acpi::FACS']]],
   ['set_5fbackground',['set_background',['../d7/da2/namespacekernel.html#a962e91919c6c79029c5a57f917cdb72a',1,'kernel']]],

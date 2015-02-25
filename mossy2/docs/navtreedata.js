@@ -42,13 +42,13 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d3/d0e/x64_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f",
-"d4/d48/structkernel_1_1HEAD.html#a7f54da8fc20dca74a7a04a859427f139",
-"d7/d4e/sysroot_2usr_2include_2time_8h.html",
-"d9/d66/structacpi_1_1ACPI.html",
-"da/dd2/structx64_1_1idt__entry.html#a7bacd183b51347b94aba026cac6f1a93",
-"dc/d34/arch_2x86__64_2int_8h.html#a61efd73150b6e1ae56cfac8073c8aa31",
-"dd/d2d/math_8cpp.html#acd73fe35dc8b492a220065d0357c152c",
-"df/ddb/classstd_1_1shared__ptr.html#ae7272672573fbb55e91b89539ef03463"
+"d4/d48/structkernel_1_1HEAD.html#a7d954afd3dbc48bbc0afc840c5d7e12b",
+"d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html#a75a447630369e5d7ef3d829c0e1da154",
+"d9/d63/cat_8cpp.html#adb8723e585ed29f2370cddf90f6891bc",
+"da/dd2/structx64_1_1idt__entry.html#a62fcdab9b93fe80094127d9ad3ed6deb",
+"dc/d34/arch_2x86__64_2int_8h.html#a60df3aa4eba3a4849add5d42e832829c",
+"dd/d2d/math_8cpp.html#ab0aeb9c9537af5dbff41b34bf93874bc",
+"df/ddb/classstd_1_1shared__ptr.html#ac83851289b4ad49263ce429bfc30948c"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

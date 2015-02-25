@@ -1,5 +1,7 @@
 var NAVTREEINDEX8 =
 {
+"df/ddb/classstd_1_1shared__ptr.html#ac83851289b4ad49263ce429bfc30948c":[3,0,3,0,17],
+"df/ddb/classstd_1_1shared__ptr.html#ac8e6f9231a0d739c9eee9f57deaa6678":[3,0,3,0,8],
 "df/ddb/classstd_1_1shared__ptr.html#ae7272672573fbb55e91b89539ef03463":[3,0,3,0,18],
 "df/ddb/classstd_1_1shared__ptr.html#afe68a753c0d5eb3da0efb2292b80e137":[3,0,3,0,9],
 "df/deb/structx86_1_1recursive__paging_1_1pte.html":[3,0,6,3,4],
@@ -56,6 +58,7 @@ var NAVTREEINDEX8 =
 "dir_68c6ba8739c03abd297c3ca384c2bd8b.html":[4,0,0],
 "dir_697145fb6079f00e042f0080cb466ad2.html":[4,0,0,4,0],
 "dir_6aeb174bf5e2fef0d5210718fd24879f.html":[4,0,0,2,6,0],
+"dir_75a41fd72ecb951d211e7594fc42b292.html":[4,0,0,2,0,1],
 "dir_7cea4f9a462f3b9cadbecb3558f48f55.html":[4,0,0,2,3,0],
 "dir_919b172d8d90006560a023f2422fb594.html":[4,0,0,0,1],
 "dir_957ef1b33632b7318dd00b491b65b52e.html":[4,0,1],
@@ -94,8 +97,8 @@ var NAVTREEINDEX8 =
 "functions_t.html":[3,3,0,19],
 "functions_u.html":[3,3,0,20],
 "functions_v.html":[3,3,0,21],
-"functions_vars.html":[3,3,2,0],
 "functions_vars.html":[3,3,2],
+"functions_vars.html":[3,3,2,0],
 "functions_vars_a.html":[3,3,2,1],
 "functions_vars_b.html":[3,3,2,2],
 "functions_vars_c.html":[3,3,2,3],
