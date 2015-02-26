@@ -1,3 +1,4 @@
 <map id="acpi::find_rsdp" name="acpi::find_rsdp">
 <area shape="rect" id="node2" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="168,5,289,32"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="337,5,464,32"/>
 </map>
