@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.9.1"/>
-<title>MOSSY: Style and coding guidelines</title>
+<title>MOSSY: Mossy Recommended Coding Guidelines</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -100,76 +100,53 @@ $(document).ready(function(){initNavTree('de/d75/md_docs_style.html','../../');}
 
 <div class="header">
   <div class="headertitle">
-<div class="title">Style and coding guidelines </div>  </div>
+<div class="title">Mossy Recommended Coding Guidelines </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><h2>Style guidelines </h2>
-<h3>indentation</h3>
-<p>Indentation should <b>ALWAYS</b> be done with tabs. Alignment after indentation to the corect level should <b>ALWAYS</b> be done with spaces. ex: </p><div class="image">
-<img src="http://matter123.github.io/mossy2/indent-align.png"  alt="Indent &amp; Align" title="Indent &amp; Align"/>
-</div>
- <h3>curly braces</h3>
-<p>The start curly brace is <b>ALWAYS</b> a attached to the first line of a block. The end curly brace is <b>ALWAYS</b> on its own line and at the same indentation level as the start of the block. ex: </p><div class="image">
-<img src="http://matter123.github.io/mossy2/curly.png"  alt="curly" title="proper Curly brace"/>
-</div>
-<p> Braceless while and for loops are acceptable as long as both the loop and the condition fit on a single line. Braceless if and else blocks are <b>NEVER</b> okay. <b>bad:</b> </p><div class="image">
-<img src="http://matter123.github.io/mossy2/no-brace-bad.png"  alt="bad braceless" title="braceless if not allowed"/>
-</div>
-<p> <b>good:</b> </p><div class="image">
-<img src="http://matter123.github.io/mossy2/no-brace-good.png"  alt="good braceles" title="no extra whitespace"/>
-</div>
- <h3>spaces</h3>
-<p>Extra spaces around operators and parenthases should be removed whenever possiable. <b>bad:</b> </p><div class="image">
-<img src="http://matter123.github.io/mossy2/space-bad.png"  alt="bad spaces" title="extra whitespace"/>
-</div>
-<p> <b>good:</b> </p><div class="image">
-<img src="http://matter123.github.io/mossy2/space-good.png"  alt="good spaces" title="no extra whitespace"/>
-</div>
-<p> Space to the right of commas when declaring or defining a function is okay. There should be a single space between the last ')' and the opening brace of a block. </p><h3>blank lines</h3>
-<p>Blank lines are acceptable whenever their purpose is to provide seperation of unrelated items or in an implementation file sepration of varibles and functions. <b>not ok:</b> </p><div class="image">
-<img src="http://matter123.github.io/mossy2/blank-bad.png"  alt="bad blank" title="an unacceptable use of blank lines"/>
-</div>
-<p> <b>ok:</b> </p><div class="image">
-<img src="http://matter123.github.io/mossy2/blank-good.png"  alt="good blank" title="an acceptable use of blank lines"/>
-</div>
- <h2>Coding guidelines </h2>
-<h3>symbol names</h3>
-<p>All symbols are to be in <em>underscore_case</em>. Systems Hungarian is forbidden, Apps Hungarian is acceptable. Symbol names in global, namespace, file, class, struct, union, or function scope should be descriptive and only use full words and common acronyms and abbreviations. Symbols named tmp and its derivatives are only acceptable when in block scope. One character symbols are reserved and not available for normal use. A list of uses for each letter is listed below.</p>
-<h3>explanation of reserved variables names</h3>
-<h4>a</h4>
-<p>an accumulator, acceleration </p><h4>b</h4>
-<p>a byte </p><h4>c</h4>
-<p>a color, or a count, or a single UTF-8 character </p><h4>d</h4>
-<p>time delta (td is preferred) </p><h4>e</h4>
-<p>no known use at this time </p><h4>f</h4>
-<p>a function pointer </p><h4>g</h4>
-<p>no known use at this time </p><h4>h</h4>
-<p>a hash </p><h4>i</h4>
-<p>index the first </p><h4>j</h4>
-<p>index the second </p><h4>k</h4>
-<p>index the third </p><h4>l</h4>
-<p>a location, a lambada </p><h4>m</h4>
-<p>no known use at this time </p><h4>n</h4>
-<p>no known use at this time </p><h4>o</h4>
-<p>no known use at this time </p><h4>p</h4>
-<p>a pointer </p><h4>q</h4>
-<p>no known use at this time </p><h4>r</h4>
-<p>rotation </p><h4>s</h4>
-<p>speed, size_t index </p><h4>t</h4>
-<p>time, a token </p><h4>u</h4>
-<p>no known use at this time </p><h4>v</h4>
-<p>version </p><h4>w</h4>
-<p>no known use at this time </p><h4>x</h4>
-<p>axis the first </p><h4>y</h4>
-<p>axis the second </p><h4>y</h4>
-<p>axis the third</p>
-<p>One character symbols should only be used in a minimized scope. You may not suffix a one character symbol with a number to notate another symbol representing a similar concept, for example you may not have p and p2 together. You may have a one character symbol suffixed with a number in a scope but it must consume the allowance for said symbol </p>
+<div class="textblock"><p>This document aims to describe the recommended coding guidelines for the C and C++ code on the Mossy operating system. As these guidelines are recommendations, you may choose to ignore one or more of the recommendations, if you do, point out the violation and provide rationale for you violation in the source file. However for both rules and violations rationales <em>MUST</em> be provided so maintainers can recognize when a rule or violation is either not relevant and can be ignored or a rule that no longer serves a purpose so the rule can be rewritten/evicted.</p>
+<h1>File Guidelines </h1>
+<p>File names and directories should always be written so they they can be typed on a standard US-104 keyboard without any modifiers with the exception of shift.</p>
+<p>All files should start off with Apache 2.0 license header. The name field should contain the full name of the appropriate person, the appropriate person depends on the file type, If the file is a header the name field should be filled in with the maintainer, otherwise the author should be filled in. The year field should be the four digit creation year with a hyphen and the two digit year of the last major modification. For example if a file was created in the year 2013 and last majorly modified in 2015 the year field should be 2013-15. The indentation can be with either tabs or spaces, however the URL must be indented twice as much as the rest of text. If tabs are used the indentation should be 1 tab stop. if spaces are used the indentation may be 1, 2, or 4 spaces.</p>
+<h4>rationale</h4>
+<p>By ensuring that all file begin with a legal header, we allow anyone who views a single file without context to be aware of the license of the file without having to find to find the original file project. It also allows an easy place to put who to contact about an inquiries about the file.</p>
+<p>Header files meant for inclusion by arbitrary files should use an extension of <code>.h</code> or <code>.hpp</code> The correct extension to use depends on weather there is code in the header file. If there is code in the header file use <code>.hpp</code> otherwise use <code>.h</code>. If you are unsure if your header contains code the test to use is, if you just include the file in a source file does the resultant <code>.o</code> file's <code>.text</code> section grow in size, if it does the header is considered to have code.</p>
+<h4>rationale</h4>
+<p>Separation of code including and non code including header files allows for the includer of the header to recognize that this file increases code size.</p>
+<h3>Partial Include Headers</h3>
+<p>If the header file is not meant for inclusion by arbitrary files and is instead meant for inclusion by only one, or a small subset of header files the extension should be <code>.hinc</code>. These header should only ever be included by other header. If you need to include a <code>.hinc</code> file outside of libc or libc++ the include should be commented with saying that it is intentional. ex </p><div class="fragment"><div class="line"><span class="preprocessor">#include &lt;blah.hinc&gt;</span> <span class="comment">//style-check: intentional include</span></div>
+</div><!-- fragment --><p> As the comment is parsed by the style checker the comment should be in that format.</p>
+<h4>rationale</h4>
+<p>Partial Include Headers improve the maintainability of a complex codebase. As most often they will be used in the standard library an exemption to the documented inclusion helps keep the noise down while still providing security against accidental inclusion in most cases.</p>
+<p>After the <a href="../../#LeaglHeader">Legal Header</a> A header file should contain exactly one blank line then <code>#pragma once</code>, then the headers includes and macros, see <a href="../../#IncludeOrdering">Include Ordering</a> for guidelines on ordering includes and macros. If the header has a namespace there should be another blank line then the namespace deceleration.</p>
+<h4>rationale</h4>
+<p>Consistent Header beginnings create a more uniform and familiar working environment</p>
+<p>C source files should always have the extension <code>.c</code> and C++ source files should always have the extension <code>.cpp</code>. Source files should usually have an associated header file. After the <a href="../../#LeaglHeader">Legal Header</a> A source file should contain exactly one blank line then the headers includes and macros, see <a href="../../#IncludeOrdering">Include Ordering</a> for guidelines on ordering includes and macros. If the header has a namespace there should be another blank line then the namespace deceleration. C++ source files are required to be in a namespace</p>
+<h4>rationale</h4>
+<p>Consistent file beginnings create a more uniform and familiar working environment. Namespaced Source files reduce the chance of symbol collisions</p>
+<p>Includes in files should follow the 'Include What You Use' principle, in that if you require the definition of function or type, you should include the header that exports that. One exception to the principle is that a source file that includes an associated header file does not need to re include the headers included by the associated header.</p>
+<h4>rationale</h4>
+<p>By removing extraneous includes, compile time can be kept to a minimum, and by not relying on headers to have a particular file included, refactors can happen smoother and quicker.</p>
+<p>The ordering of includes should be as follows</p><ol type="1">
+<li>associated header file</li>
+<li>libc headers (math.h, string.h, ...)</li>
+<li>libc++ headers (memory.h, <a class="el" href="../../d5/d47/utility_8h.html">utility.h</a>, ...)</li>
+<li>unicode headers (unicode.h, iterators.h, ...)</li>
+<li>test headers (test.h, ...)</li>
+<li>hal headers (<a class="el" href="../../d8/d4b/hal_8h.html">hal/hal.h</a>, <a class="el" href="../../d3/d20/hal_2hal_2paging_8h.html">hal/paging.h</a>, ...)</li>
+<li>sys headers (<a class="el" href="../../dc/d25/fb_8h.html">sys/fb.h</a>, <a class="el" href="../../d2/dd8/scheduler_8h.html">sys/scheduler.h</a>, ...)</li>
+<li>arch headers (<a class="el" href="../../d4/d2b/x86_2idt_8h.html">x86/idt.h</a>, <a class="el" href="../../d3/d0e/x64_2idt_8h.html">x64/idt.h</a>, ...)</li>
+<li>vendor headers (pc/pit.h, ...)</li>
+<li>acpi headers (<a class="el" href="../../d3/d61/acpi_8h.html">acpi.h</a>, <a class="el" href="../../dd/d91/MADT_8h.html">acpi/tables/MADT.h</a>, ...)</li>
+<li>other includes ("blah.h", ...) When you have two or more includes from the same group they should be in alphabetical order. Macros should, whenever possible, follow the includes, and should not be intermixed.</li>
+</ol>
+<h4>rationale</h4>
+<p>Having a consistent location for each header allows you to quickly determine if a header is or is not present, much like a dictionary. </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Wed Feb 25 2015 16:00:11 for MOSSY by
+    <li class="footer">Generated on Mon Mar 2 2015 19:00:10 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

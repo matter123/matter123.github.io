@@ -1,8 +1,9 @@
 <map id="kernel::split" name="kernel::split">
-<area shape="rect" id="node2" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="149,132,213,159"/>
-<area shape="rect" id="node5" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be" title="realloc" alt="" coords="289,232,353,259"/>
-<area shape="rect" id="node3" href="$de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc" title="test_heap" alt="" coords="277,5,364,32"/>
-<area shape="rect" id="node4" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a7b3d8b7cea59b137b167878ec88eb8d6" title="calloc" alt="" coords="291,56,350,83"/>
-<area shape="rect" id="node6" href="$de/d90/heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719" title="operator new" alt="" coords="267,107,375,133"/>
-<area shape="rect" id="node7" href="$de/d90/heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f" title="operator new[]" alt="" coords="261,157,380,184"/>
+<area shape="rect" id="node2" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="149,157,213,184"/>
+<area shape="rect" id="node6" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be" title="realloc" alt="" coords="293,283,357,309"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="261,5,388,32"/>
+<area shape="rect" id="node4" href="$de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc" title="test_heap" alt="" coords="281,56,368,83"/>
+<area shape="rect" id="node5" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a7b3d8b7cea59b137b167878ec88eb8d6" title="calloc" alt="" coords="295,107,354,133"/>
+<area shape="rect" id="node7" href="$de/d90/heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719" title="operator new" alt="" coords="271,157,379,184"/>
+<area shape="rect" id="node8" href="$de/d90/heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f" title="operator new[]" alt="" coords="265,208,384,235"/>
 </map>

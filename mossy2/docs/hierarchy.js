@@ -44,6 +44,7 @@ var hierarchy =
     [ "hal::ostream", "d7/d79/classhal_1_1ostream.html", null ],
     [ "x86::recursive_paging::page_map", "df/d77/structx86_1_1recursive__paging_1_1page__map.html", null ],
     [ "hal::page_opt", "df/db7/structhal_1_1page__opt.html", null ],
+    [ "std::pair< T1, T2 >", "d8/d71/structstd_1_1pair.html", null ],
     [ "x86::recursive_paging::pd", "de/d6e/unionx86_1_1recursive__paging_1_1pd.html", null ],
     [ "x64::recursive_paging::pd", "df/d00/unionx64_1_1recursive__paging_1_1pd.html", null ],
     [ "x86::recursive_paging::pde", "d7/d6d/structx86_1_1recursive__paging_1_1pde.html", null ],
@@ -61,13 +62,13 @@ var hierarchy =
     [ "acpi::RSDP", "d3/d3d/structacpi_1_1RSDP.html", null ],
     [ "acpi::RSDP20", "d9/dec/structacpi_1_1RSDP20.html", null ],
     [ "acpi::RSDT", "de/d11/structacpi_1_1RSDT.html", null ],
+    [ "acpi::sdt", "d5/dd3/structacpi_1_1sdt.html", null ],
     [ "acpi::SDT", "dc/de0/structacpi_1_1SDT.html", [
       [ "acpi::DSDT", "d9/dae/structacpi_1_1DSDT.html", null ],
       [ "acpi::FADT", "d3/d53/structacpi_1_1FADT.html", null ],
       [ "acpi::MADT", "d9/dd3/structacpi_1_1MADT.html", null ],
       [ "acpi::SSDT", "d4/d08/structacpi_1_1SSDT.html", null ]
     ] ],
-    [ "acpi::sdt", "d5/dd3/structacpi_1_1sdt.html", null ],
     [ "kernel::semaphore", "d4/d6c/classkernel_1_1semaphore.html", null ],
     [ "std::shared_ptr< T >", "df/ddb/classstd_1_1shared__ptr.html", null ],
     [ "kernel::spinlock", "d7/dc6/classkernel_1_1spinlock.html", null ],
@@ -75,8 +76,8 @@ var hierarchy =
     [ "kernel::test_module", "de/d97/classkernel_1_1test__module.html", null ],
     [ "kernel::thread_info", "db/db7/structkernel_1_1thread__info.html", null ],
     [ "tm", "d8/d5a/structtm.html", null ],
-    [ "x64::trampoline", "d2/dde/structx64_1_1trampoline.html", null ],
     [ "x86::trampoline", "d5/d00/structx86_1_1trampoline.html", null ],
+    [ "x64::trampoline", "d2/dde/structx64_1_1trampoline.html", null ],
     [ "std::unique_ptr< T >", "dd/def/classstd_1_1unique__ptr.html", null ],
     [ "std::unique_ptr< T[]>", "d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html", null ],
     [ "acpi::XSDT", "dc/dcf/structacpi_1_1XSDT.html", null ]

@@ -1,7 +1,8 @@
 <map id="malloc" name="malloc">
-<area shape="rect" id="node2" href="$de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc" title="test_heap" alt="" coords="133,5,220,32"/>
-<area shape="rect" id="node3" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a7b3d8b7cea59b137b167878ec88eb8d6" title="calloc" alt="" coords="147,56,206,83"/>
-<area shape="rect" id="node4" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be" title="realloc" alt="" coords="145,131,209,157"/>
-<area shape="rect" id="node5" href="$de/d90/heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719" title="operator new" alt="" coords="123,181,231,208"/>
-<area shape="rect" id="node6" href="$de/d90/heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f" title="operator new[]" alt="" coords="117,232,236,259"/>
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="117,5,244,32"/>
+<area shape="rect" id="node3" href="$de/d90/heap_8cpp.html#aa949370812ad153a46881d35cd42bfdc" title="test_heap" alt="" coords="137,56,224,83"/>
+<area shape="rect" id="node4" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a7b3d8b7cea59b137b167878ec88eb8d6" title="calloc" alt="" coords="151,107,210,133"/>
+<area shape="rect" id="node5" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be" title="realloc" alt="" coords="149,181,213,208"/>
+<area shape="rect" id="node6" href="$de/d90/heap_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719" title="operator new" alt="" coords="127,232,235,259"/>
+<area shape="rect" id="node7" href="$de/d90/heap_8cpp.html#a63ce4f64887b9307317aee5baae6b18f" title="operator new[]" alt="" coords="121,283,240,309"/>
 </map>

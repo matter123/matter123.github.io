@@ -1,5 +1,13 @@
 var NAVTREEINDEX4 =
 {
+"d9/d5a/mmap_8h.html#ae3ecd6da3e8134ff0ec94adbae29f8ff":[4,0,0,2,3,0,5,8],
+"d9/d5a/mmap_8h.html#ae59f8e43c6f3610cf0df5deb2bfcd449":[4,0,0,2,3,0,5,9],
+"d9/d5a/mmap_8h.html#af8c5fec085a04b661ba95ff255cc8254":[4,0,0,2,3,0,5,0],
+"d9/d63/cat_8cpp.html":[4,0,0,0,1,0],
+"d9/d63/cat_8cpp.html#a0753d089ed3c8e792534abd5806c492b":[4,0,0,0,1,0,4],
+"d9/d63/cat_8cpp.html#a3d33779e4ffa5fea2b086ceed5fa1fd7":[4,0,0,0,1,0,1],
+"d9/d63/cat_8cpp.html#a432f1999d4aafec2886b29ab93b31b16":[4,0,0,0,1,0,2],
+"d9/d63/cat_8cpp.html#a84c49de8678f498bf065033366ff85b8":[4,0,0,0,1,0,3],
 "d9/d63/cat_8cpp.html#adb8723e585ed29f2370cddf90f6891bc":[4,0,0,0,1,0,0],
 "d9/d66/structacpi_1_1ACPI.html":[3,0,0,0],
 "d9/d66/structacpi_1_1ACPI.html#a23c5cefcb58e87b7c03e391a15c1b073":[3,0,0,0,4],
@@ -121,7 +129,7 @@ var NAVTREEINDEX4 =
 "d9/dec/structacpi_1_1RSDP20.html#ad784363876d560c0f9639eed6f2fc680":[3,0,0,11,0],
 "d9/dec/structacpi_1_1RSDP20.html#af46027cf5da497d3e16b5fee8decd004":[3,0,0,11,1],
 "d9/df7/namespaceunicode.html":[3,0,4],
-"d9/df7/namespaceunicode.html":[2,0,5],
+"d9/df7/namespaceunicode.html":[2,0,9],
 "da/d01/srcs_2c_2include_2stdlib_8h.html":[4,0,0,0,0,3],
 "da/d01/srcs_2c_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be":[4,0,0,0,0,3,11],
 "da/d01/srcs_2c_2include_2stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42":[4,0,0,0,0,3,10],
@@ -241,13 +249,5 @@ var NAVTREEINDEX4 =
 "da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888":[3,0,2,1,1],
 "da/dcc/structkernel_1_1glyph__int.html#a7ff17dc60e213e5f8eacf97fb96f46a6":[3,0,2,1,2],
 "da/dcc/structkernel_1_1glyph__int.html#ac4fd6536177aefaa71b4b9c3d8299ddf":[3,0,2,1,0],
-"da/dcc/structkernel_1_1glyph__int.html#ac54ba0d4dbf235b020b1f7bf9032d2b3":[3,0,2,1,3],
-"da/dce/unionx64_1_1recursive__paging_1_1pt.html":[3,0,5,3,6],
-"da/dce/unionx64_1_1recursive__paging_1_1pt.html#a71e70801f1beb196defd1e1c7203201e":[3,0,5,3,6,0],
-"da/dce/unionx64_1_1recursive__paging_1_1pt.html#aae4ddb287fe4278a3d151376a36fc276":[3,0,5,3,6,1],
-"da/dd2/structx64_1_1idt__entry.html":[3,0,5,1],
-"da/dd2/structx64_1_1idt__entry.html#a052c5c66d3d1322502efb76d1bdb3301":[3,0,5,1,9],
-"da/dd2/structx64_1_1idt__entry.html#a211f1778f248c19fed1e3e7123c7cb90":[3,0,5,1,0],
-"da/dd2/structx64_1_1idt__entry.html#a29ece6fee6c7425b5c7c47a94eb1d090":[3,0,5,1,2],
-"da/dd2/structx64_1_1idt__entry.html#a34eaefed789351ce4335c41f172a709a":[3,0,5,1,6]
+"da/dcc/structkernel_1_1glyph__int.html#ac54ba0d4dbf235b020b1f7bf9032d2b3":[3,0,2,1,3]
 };

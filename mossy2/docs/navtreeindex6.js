@@ -1,5 +1,13 @@
 var NAVTREEINDEX6 =
 {
+"dc/d34/arch_2x86__64_2int_8h.html#a58713759f0a464c5eb77f9d1b2477bca":[4,0,0,2,1,2,1,261],
+"dc/d34/arch_2x86__64_2int_8h.html#a58e3afa5c12113b94bcf7e204ed77f22":[4,0,0,2,1,2,1,58],
+"dc/d34/arch_2x86__64_2int_8h.html#a59252116f3ea96007aa5870c79d97e51":[4,0,0,2,1,2,1,147],
+"dc/d34/arch_2x86__64_2int_8h.html#a5a097531255c8ce04341b604c30ad1e2":[4,0,0,2,1,2,1,253],
+"dc/d34/arch_2x86__64_2int_8h.html#a5c315507f001385d865451ff5fd83e35":[4,0,0,2,1,2,1,73],
+"dc/d34/arch_2x86__64_2int_8h.html#a5cfc6ba3eb85c1d3a6f22a2efd1bc3d9":[4,0,0,2,1,2,1,257],
+"dc/d34/arch_2x86__64_2int_8h.html#a5f1844e35036ac4ce2e41c0fd8bea3fe":[4,0,0,2,1,2,1,239],
+"dc/d34/arch_2x86__64_2int_8h.html#a60d5fde6a39e19169422fa346f6877fa":[4,0,0,2,1,2,1,264],
 "dc/d34/arch_2x86__64_2int_8h.html#a60df3aa4eba3a4849add5d42e832829c":[4,0,0,2,1,2,1,207],
 "dc/d34/arch_2x86__64_2int_8h.html#a61efd73150b6e1ae56cfac8073c8aa31":[4,0,0,2,1,2,1,123],
 "dc/d34/arch_2x86__64_2int_8h.html#a65a565e3c5a573ca9f073b6e6f042e59":[4,0,0,2,1,2,1,242],
@@ -241,13 +249,5 @@ var NAVTREEINDEX6 =
 "dc/de0/structacpi_1_1SDT.html#a551785cf8dcc9d586028b9d97f3fb680":[3,0,0,14,6],
 "dc/de0/structacpi_1_1SDT.html#a86bb10f0a2f1fa46f0be99ba090f3b42":[3,0,0,14,4],
 "dc/de0/structacpi_1_1SDT.html#a9c1bf7d14cda91f3a9ac39bc0c397496":[3,0,0,14,1],
-"dd/d0d/arch_2x64_2tasks_8cpp.html":[4,0,0,2,1,0,6],
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a05a5fbbc4ad9f43b9b6b7ddafaf6e021":[4,0,0,2,1,0,6,3],
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a2b4bca1424e526f1921046272e173be2":[4,0,0,2,1,0,6,1],
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a2e167daad9888ab7dcc6c5f642817cc4":[4,0,0,2,1,0,6,0],
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a5fc0a2351d2c5635a733a5210abff18c":[4,0,0,2,1,0,6,2],
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a6ed756e4fb1b3ebdc6ecc489957a679a":[4,0,0,2,1,0,6,4],
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a9912e716207b08f893a31b24cf33e826":[4,0,0,2,1,0,6,5],
-"dd/d13/srcs_2c_09_09_2include_2memory_8h.html":[4,0,0,1,0,0],
-"dd/d2d/math_8cpp.html":[4,0,0,0,3]
+"dd/d0d/arch_2x64_2tasks_8cpp.html":[4,0,0,2,1,0,6]
 };

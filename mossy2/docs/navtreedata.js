@@ -1,7 +1,7 @@
 var NAVTREE =
 [
   [ "MOSSY", "index.html", [
-    [ "Style and coding guidelines", "de/d75/md_docs_style.html", null ],
+    [ "Mossy Recommended Coding Guidelines", "de/d75/md_docs_style.html", null ],
     [ "mossy2", "d0/d30/md_README.html", null ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ],
@@ -42,13 +42,13 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d3/d0e/x64_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f",
-"d4/d48/structkernel_1_1HEAD.html#a7d954afd3dbc48bbc0afc840c5d7e12b",
-"d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html#a75a447630369e5d7ef3d829c0e1da154",
-"d9/d63/cat_8cpp.html#adb8723e585ed29f2370cddf90f6891bc",
-"da/dd2/structx64_1_1idt__entry.html#a62fcdab9b93fe80094127d9ad3ed6deb",
-"dc/d34/arch_2x86__64_2int_8h.html#a60df3aa4eba3a4849add5d42e832829c",
-"dd/d2d/math_8cpp.html#ab0aeb9c9537af5dbff41b34bf93874bc",
-"df/ddb/classstd_1_1shared__ptr.html#ac83851289b4ad49263ce429bfc30948c"
+"d4/d48/structkernel_1_1HEAD.html#a74ef9ed0ee68c0f9e54547665fd7a634",
+"d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html",
+"d9/d5a/mmap_8h.html#ae3ecd6da3e8134ff0ec94adbae29f8ff",
+"da/dce/unionx64_1_1recursive__paging_1_1pt.html",
+"dc/d34/arch_2x86__64_2int_8h.html#a58713759f0a464c5eb77f9d1b2477bca",
+"dd/d0d/arch_2x64_2tasks_8cpp.html#a05a5fbbc4ad9f43b9b6b7ddafaf6e021",
+"df/ddb/classstd_1_1shared__ptr.html#a34727c5f715c78bfd7c0c882f53e352a"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
