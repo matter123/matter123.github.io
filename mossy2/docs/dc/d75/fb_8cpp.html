@@ -137,9 +137,11 @@ Functions</h2></td></tr>
 <tr class="separator:a7339fb7bafea6a0c27b18ffdbd528251"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a355d8850e9f616d4df16325d54f05a75"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75">kernel::put_pixel</a> (int x, int y, uint32_t color)</td></tr>
 <tr class="separator:a355d8850e9f616d4df16325d54f05a75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2c053e24139ec5dd3d85f481a8df6be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be">kernel::copy_rect</a> (int x, int y, int w, int h, void *rect_buf)</td></tr>
-<tr class="separator:af2c053e24139ec5dd3d85f481a8df6be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afbe66915e4138451ea4d0ce37a5de7e4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4">kernel::copy_rect</a> (int dest_x, int dest_y, int w, int h, void *rect_buf)</td></tr>
+<tr class="memdesc:afbe66915e4138451ea4d0ce37a5de7e4"><td class="mdescLeft">&#160;</td><td class="mdescRight">copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x, y src_buf must be packed pixels and in R1R1R1R1R2R2R2R2R3R3R3R3 form  <a href="#afbe66915e4138451ea4d0ce37a5de7e4">More...</a><br /></td></tr>
+<tr class="separator:afbe66915e4138451ea4d0ce37a5de7e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe9157b4d21ba4a63432f0a7844890af"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#afe9157b4d21ba4a63432f0a7844890af">kernel::copy_rect</a> (int src_x, int src_y, int w, int h, int dest_x, int dest_y)</td></tr>
+<tr class="memdesc:afe9157b4d21ba4a63432f0a7844890af"><td class="mdescLeft">&#160;</td><td class="mdescRight">copies one part of the screen to another copies video memory from <em>src_x</em>, <em>src_y</em> to <em>dest_x</em>, <em>dest_y</em> in a rectangle the size of <em>w</em> x <em>h</em>  <a href="#afe9157b4d21ba4a63432f0a7844890af">More...</a><br /></td></tr>
 <tr class="separator:afe9157b4d21ba4a63432f0a7844890af"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abd8a6f1757294d943ed6eda6905b5bbe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe">kernel::bit_blit</a> (int w, int h, void *dest_buf, void *src_buf, bit_blit_op op)</td></tr>
 <tr class="separator:abd8a6f1757294d943ed6eda6905b5bbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -181,7 +183,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_68c6ba8739c03abd297c3ca384c2bd8b.html">srcs</a></li><li class="navelem"><a class="el" href="../../dir_1f80f978e8570a9696e0ce4baa91be7d.html">kernel</a></li><li class="navelem"><a class="el" href="../../dir_a8f4e402b6565304b6beca09b763da7b.html">sys</a></li><li class="navelem"><a class="el" href="../../dc/d75/fb_8cpp.html">fb.cpp</a></li>
-    <li class="footer">Generated on Mon Mar 2 2015 19:00:10 for MOSSY by
+    <li class="footer">Generated on Sat Mar 7 2015 11:00:10 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

@@ -3,7 +3,7 @@ var fb_8cpp =
     [ "fb_info", "d4/de7/structkernel_1_1fb__info.html", "d4/de7/structkernel_1_1fb__info" ],
     [ "bit_blit", "dc/d75/fb_8cpp.html#abd8a6f1757294d943ed6eda6905b5bbe", null ],
     [ "bit_blit", "dc/d75/fb_8cpp.html#ae14f904e1f7c47b66fb0b79faf529d0d", null ],
-    [ "copy_rect", "dc/d75/fb_8cpp.html#af2c053e24139ec5dd3d85f481a8df6be", null ],
+    [ "copy_rect", "dc/d75/fb_8cpp.html#afbe66915e4138451ea4d0ce37a5de7e4", null ],
     [ "copy_rect", "dc/d75/fb_8cpp.html#afe9157b4d21ba4a63432f0a7844890af", null ],
     [ "fill_hline", "dc/d75/fb_8cpp.html#a25625eb5b8183007e48aaa158f20114f", null ],
     [ "fill_rect", "dc/d75/fb_8cpp.html#a4936d52cfed90d3a7f8a860a5c97ab67", null ],

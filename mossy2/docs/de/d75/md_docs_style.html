@@ -106,9 +106,11 @@ $(document).ready(function(){initNavTree('de/d75/md_docs_style.html','../../');}
 <div class="textblock"><p>This document aims to describe the recommended coding guidelines for the C and C++ code on the Mossy operating system. As these guidelines are recommendations, you may choose to ignore one or more of the recommendations, if you do, point out the violation and provide rationale for you violation in the source file. However for both rules and violations rationales <em>MUST</em> be provided so maintainers can recognize when a rule or violation is either not relevant and can be ignored or a rule that no longer serves a purpose so the rule can be rewritten/evicted.</p>
 <h1>File Guidelines </h1>
 <p>File names and directories should always be written so they they can be typed on a standard US-104 keyboard without any modifiers with the exception of shift.</p>
+<h2>Legal Header</h2>
 <p>All files should start off with Apache 2.0 license header. The name field should contain the full name of the appropriate person, the appropriate person depends on the file type, If the file is a header the name field should be filled in with the maintainer, otherwise the author should be filled in. The year field should be the four digit creation year with a hyphen and the two digit year of the last major modification. For example if a file was created in the year 2013 and last majorly modified in 2015 the year field should be 2013-15. The indentation can be with either tabs or spaces, however the URL must be indented twice as much as the rest of text. If tabs are used the indentation should be 1 tab stop. if spaces are used the indentation may be 1, 2, or 4 spaces.</p>
 <h4>rationale</h4>
 <p>By ensuring that all file begin with a legal header, we allow anyone who views a single file without context to be aware of the license of the file without having to find to find the original file project. It also allows an easy place to put who to contact about an inquiries about the file.</p>
+<h2>Header Files</h2>
 <p>Header files meant for inclusion by arbitrary files should use an extension of <code>.h</code> or <code>.hpp</code> The correct extension to use depends on weather there is code in the header file. If there is code in the header file use <code>.hpp</code> otherwise use <code>.h</code>. If you are unsure if your header contains code the test to use is, if you just include the file in a source file does the resultant <code>.o</code> file's <code>.text</code> section grow in size, if it does the header is considered to have code.</p>
 <h4>rationale</h4>
 <p>Separation of code including and non code including header files allows for the includer of the header to recognize that this file increases code size.</p>
@@ -117,19 +119,21 @@ $(document).ready(function(){initNavTree('de/d75/md_docs_style.html','../../');}
 </div><!-- fragment --><p> As the comment is parsed by the style checker the comment should be in that format.</p>
 <h4>rationale</h4>
 <p>Partial Include Headers improve the maintainability of a complex codebase. As most often they will be used in the standard library an exemption to the documented inclusion helps keep the noise down while still providing security against accidental inclusion in most cases.</p>
-<p>After the <a href="../../#LeaglHeader">Legal Header</a> A header file should contain exactly one blank line then <code>#pragma once</code>, then the headers includes and macros, see <a href="../../#IncludeOrdering">Include Ordering</a> for guidelines on ordering includes and macros. If the header has a namespace there should be another blank line then the namespace deceleration.</p>
+<p>After the Legal Header a header file should contain exactly one blank line then <code>#pragma once</code>, then the headers includes and macros, see Include Ordering for guidelines on ordering includes and macros. If the header has a namespace there should be another blank line then the namespace deceleration.</p>
 <h4>rationale</h4>
 <p>Consistent Header beginnings create a more uniform and familiar working environment</p>
-<p>C source files should always have the extension <code>.c</code> and C++ source files should always have the extension <code>.cpp</code>. Source files should usually have an associated header file. After the <a href="../../#LeaglHeader">Legal Header</a> A source file should contain exactly one blank line then the headers includes and macros, see <a href="../../#IncludeOrdering">Include Ordering</a> for guidelines on ordering includes and macros. If the header has a namespace there should be another blank line then the namespace deceleration. C++ source files are required to be in a namespace</p>
+<h2>Source Files</h2>
+<p>C source files should always have the extension <code>.c</code> and C++ source files should always have the extension <code>.cpp</code>. Source files should usually have an associated header file. After the Legal Header a source file should contain exactly one blank line then the headers includes and macros, see Include Ordering for guidelines on ordering includes and macros. If the header has a namespace there should be another blank line then the namespace deceleration. C++ source files are required to be in a namespace</p>
 <h4>rationale</h4>
 <p>Consistent file beginnings create a more uniform and familiar working environment. Namespaced Source files reduce the chance of symbol collisions</p>
+<h2>Include Ordering</h2>
 <p>Includes in files should follow the 'Include What You Use' principle, in that if you require the definition of function or type, you should include the header that exports that. One exception to the principle is that a source file that includes an associated header file does not need to re include the headers included by the associated header.</p>
 <h4>rationale</h4>
 <p>By removing extraneous includes, compile time can be kept to a minimum, and by not relying on headers to have a particular file included, refactors can happen smoother and quicker.</p>
 <p>The ordering of includes should be as follows</p><ol type="1">
 <li>associated header file</li>
 <li>libc headers (math.h, string.h, ...)</li>
-<li>libc++ headers (memory.h, <a class="el" href="../../d5/d47/utility_8h.html">utility.h</a>, ...)</li>
+<li>libc++ headers (memory.h, utility.h, ...)</li>
 <li>unicode headers (unicode.h, iterators.h, ...)</li>
 <li>test headers (test.h, ...)</li>
 <li>hal headers (<a class="el" href="../../d8/d4b/hal_8h.html">hal/hal.h</a>, <a class="el" href="../../d3/d20/hal_2hal_2paging_8h.html">hal/paging.h</a>, ...)</li>
@@ -140,13 +144,15 @@ $(document).ready(function(){initNavTree('de/d75/md_docs_style.html','../../');}
 <li>other includes ("blah.h", ...) When you have two or more includes from the same group they should be in alphabetical order. Macros should, whenever possible, follow the includes, and should not be intermixed.</li>
 </ol>
 <h4>rationale</h4>
-<p>Having a consistent location for each header allows you to quickly determine if a header is or is not present, much like a dictionary. </p>
+<p>Having a consistent location for each header allows you to quickly determine if a header is or is not present, much like a dictionary. </p><hr/>
+ <h1>Style Guidelines </h1>
+<p>This portion is for changes that should, after symbol renaming, result in no changes to the resulat object files. </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Mar 2 2015 19:00:10 for MOSSY by
+    <li class="footer">Generated on Sat Mar 7 2015 11:00:10 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

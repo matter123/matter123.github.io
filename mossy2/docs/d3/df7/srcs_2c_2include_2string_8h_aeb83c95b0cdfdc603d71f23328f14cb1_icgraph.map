@@ -9,7 +9,7 @@
 <area shape="rect" id="node15" href="$d0/d7f/namespacehal.html#a999cca0fe332310d9926a431173149f9" title="hal::add_phys_region" alt="" coords="132,360,291,387"/>
 <area shape="rect" id="node16" href="$d0/d7f/namespacehal.html#a640002963c71b7f311ddf99f187a5db7" title="hal::add_virt_region" alt="" coords="137,411,285,437"/>
 <area shape="rect" id="node17" href="$d7/da2/namespacekernel.html#a7339fb7bafea6a0c27b18ffdbd528251" title="kernel::reset_fb" alt="" coords="150,461,273,488"/>
-<area shape="rect" id="node18" href="$d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="339,461,472,488"/>
+<area shape="rect" id="node18" href="$d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4" title="copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x..." alt="" coords="339,461,472,488"/>
 <area shape="rect" id="node23" href="$db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a1a6b5e8d2f1c37e5b43e4345586075be" title="realloc" alt="" coords="179,587,243,613"/>
 <area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="345,81,466,108"/>
 <area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="880,259,1007,285"/>

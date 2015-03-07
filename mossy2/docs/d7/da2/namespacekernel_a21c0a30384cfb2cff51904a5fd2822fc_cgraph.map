@@ -7,12 +7,12 @@
 <area shape="rect" id="node24" href="$d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="223,921,333,947"/>
 <area shape="rect" id="node28" href="$d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0" title="kernel::reset_fb" alt="" coords="458,1098,581,1125"/>
 <area shape="rect" id="node30" href="$d7/da2/namespacekernel.html#ad3347cac35eac3e3e6f58c17d0eef83f" title="kernel::init_tr" alt="" coords="225,389,331,415"/>
-<area shape="rect" id="node31" href="$d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="222,1237,334,1263"/>
-<area shape="rect" id="node33" href="$da/d01/srcs_2c_2include_2stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42" title="rand" alt="" coords="253,1287,303,1314"/>
-<area shape="rect" id="node34" href="$d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe" title="kernel::bit_blit" alt="" coords="222,1338,334,1365"/>
-<area shape="rect" id="node35" href="$d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b" title="hal::ready" alt="" coords="235,845,321,871"/>
-<area shape="rect" id="node36" href="$dd/db0/namespaceunicode_1_1utf8.html#a6ea6cdd47d517d9f5135f67f00348d18" title="turns code_point into a char " alt="" coords="180,1389,376,1415"/>
-<area shape="rect" id="node37" href="$d7/da2/namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42" title="kernel::heap_init" alt="" coords="455,997,583,1023"/>
+<area shape="rect" id="node31" href="$d7/da2/namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42" title="kernel::heap_init" alt="" coords="455,997,583,1023"/>
+<area shape="rect" id="node32" href="$d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="222,1237,334,1263"/>
+<area shape="rect" id="node34" href="$da/d01/srcs_2c_2include_2stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42" title="rand" alt="" coords="253,1287,303,1314"/>
+<area shape="rect" id="node35" href="$d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe" title="kernel::bit_blit" alt="" coords="222,1338,334,1365"/>
+<area shape="rect" id="node36" href="$d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b" title="hal::ready" alt="" coords="235,845,321,871"/>
+<area shape="rect" id="node37" href="$dd/db0/namespaceunicode_1_1utf8.html#a6ea6cdd47d517d9f5135f67f00348d18" title="turns code_point into a char " alt="" coords="180,1389,376,1415"/>
 <area shape="rect" id="node38" href="$d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="runs all tests " alt="" coords="231,1439,325,1466"/>
 <area shape="rect" id="node41" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="217,1135,339,1162"/>
 <area shape="rect" id="node46" href="$d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="218,1186,338,1213"/>
@@ -38,8 +38,8 @@
 <area shape="rect" id="node25" href="$d0/d7f/namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="668,997,861,1023"/>
 <area shape="rect" id="node26" href="$d0/d7f/namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="671,1047,858,1074"/>
 <area shape="rect" id="node27" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="424,895,615,922"/>
-<area shape="rect" id="node29" href="$d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="698,1098,831,1125"/>
-<area shape="rect" id="node32" href="$d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="471,1453,567,1479"/>
+<area shape="rect" id="node29" href="$d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4" title="copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x..." alt="" coords="698,1098,831,1125"/>
+<area shape="rect" id="node33" href="$d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="471,1453,567,1479"/>
 <area shape="rect" id="node39" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="runs the tests " alt="" coords="444,1528,595,1569"/>
 <area shape="rect" id="node40" href="$de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="gets the next test_module in the linked list " alt="" coords="444,1593,595,1635"/>
 <area shape="rect" id="node42" href="$d4/df8/namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11" title="initalizes acpi os interface " alt="" coords="443,1149,596,1175"/>

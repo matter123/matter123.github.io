@@ -1,5 +1,5 @@
 <map id="hal::scroll" name="hal::scroll">
-<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="307,52,440,79"/>
+<area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4" title="copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x..." alt="" coords="307,52,440,79"/>
 <area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#ac16b8ce9ceccaa627d2524ffdddbd46d" title="kernel::get_w" alt="" coords="143,27,252,54"/>
 <area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#ad8873c419f1177672f1ea967a10961e0" title="kernel::get_h" alt="" coords="144,78,251,104"/>
 <area shape="rect" id="node6" href="$d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0" title="kernel::reset_fb" alt="" coords="136,128,259,155"/>

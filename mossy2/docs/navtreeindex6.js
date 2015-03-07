@@ -1,5 +1,9 @@
 var NAVTREEINDEX6 =
 {
+"dc/d34/arch_2x86__64_2int_8h.html#a5263267258247b6f1a2d0188262011fb":[4,0,0,2,1,2,1,191],
+"dc/d34/arch_2x86__64_2int_8h.html#a538ee2e53a803c5f4826235fab46bab0":[4,0,0,2,1,2,1,158],
+"dc/d34/arch_2x86__64_2int_8h.html#a5488f116cf2625b8f0c2d9a0439fbfef":[4,0,0,2,1,2,1,173],
+"dc/d34/arch_2x86__64_2int_8h.html#a54d0daed4fd534f20347d1615e93f51b":[4,0,0,2,1,2,1,202],
 "dc/d34/arch_2x86__64_2int_8h.html#a58713759f0a464c5eb77f9d1b2477bca":[4,0,0,2,1,2,1,261],
 "dc/d34/arch_2x86__64_2int_8h.html#a58e3afa5c12113b94bcf7e204ed77f22":[4,0,0,2,1,2,1,58],
 "dc/d34/arch_2x86__64_2int_8h.html#a59252116f3ea96007aa5870c79d97e51":[4,0,0,2,1,2,1,147],
@@ -199,8 +203,8 @@ var NAVTREEINDEX6 =
 "dc/d75/fb_8cpp.html#ad8873c419f1177672f1ea967a10961e0":[4,0,0,2,5,1,9],
 "dc/d75/fb_8cpp.html#ae14f904e1f7c47b66fb0b79faf529d0d":[4,0,0,2,5,1,2],
 "dc/d75/fb_8cpp.html#aeab472bd5fe16cebe9acb54c67969563":[4,0,0,2,5,1,12],
-"dc/d75/fb_8cpp.html#af2c053e24139ec5dd3d85f481a8df6be":[4,0,0,2,5,1,3],
 "dc/d75/fb_8cpp.html#af37f81d7fed238d964c9db1625c36f20":[4,0,0,2,5,1,20],
+"dc/d75/fb_8cpp.html#afbe66915e4138451ea4d0ce37a5de7e4":[4,0,0,2,5,1,3],
 "dc/d75/fb_8cpp.html#afe9157b4d21ba4a63432f0a7844890af":[4,0,0,2,5,1,4],
 "dc/d75/text__render_8h.html":[4,0,0,2,5,0,7],
 "dc/d75/text__render_8h.html#abcad2fae21958f0ef6e756765594f204":[4,0,0,2,5,0,7,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX6 =
 "dc/de0/structacpi_1_1SDT.html#a1e00aa68a54671c3e46965f64a938ceb":[3,0,0,14,8],
 "dc/de0/structacpi_1_1SDT.html#a1ff5fa333cf733a2b8ccd1ee232f8356":[3,0,0,14,2],
 "dc/de0/structacpi_1_1SDT.html#a2ad7fad506129eeffa9121449d31a809":[3,0,0,14,5],
-"dc/de0/structacpi_1_1SDT.html#a3af4c12ecf0545cc4c8e23c72c5d759a":[3,0,0,14,3],
-"dc/de0/structacpi_1_1SDT.html#a551785cf8dcc9d586028b9d97f3fb680":[3,0,0,14,6],
-"dc/de0/structacpi_1_1SDT.html#a86bb10f0a2f1fa46f0be99ba090f3b42":[3,0,0,14,4],
-"dc/de0/structacpi_1_1SDT.html#a9c1bf7d14cda91f3a9ac39bc0c397496":[3,0,0,14,1],
-"dd/d0d/arch_2x64_2tasks_8cpp.html":[4,0,0,2,1,0,6]
+"dc/de0/structacpi_1_1SDT.html#a3af4c12ecf0545cc4c8e23c72c5d759a":[3,0,0,14,3]
 };

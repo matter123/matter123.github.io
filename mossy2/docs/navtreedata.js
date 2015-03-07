@@ -20,7 +20,7 @@ var NAVTREE =
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", null ],
+        [ "Functions", "functions_func.html", "functions_func" ],
         [ "Variables", "functions_vars.html", "functions_vars" ],
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ]
@@ -42,13 +42,14 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d3/d0e/x64_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f",
-"d4/d48/structkernel_1_1HEAD.html#a74ef9ed0ee68c0f9e54547665fd7a634",
-"d7/d2b/unionx64_1_1recursive__paging_1_1pml4.html",
-"d9/d5a/mmap_8h.html#ae3ecd6da3e8134ff0ec94adbae29f8ff",
-"da/dce/unionx64_1_1recursive__paging_1_1pt.html",
-"dc/d34/arch_2x86__64_2int_8h.html#a58713759f0a464c5eb77f9d1b2477bca",
-"dd/d0d/arch_2x64_2tasks_8cpp.html#a05a5fbbc4ad9f43b9b6b7ddafaf6e021",
-"df/ddb/classstd_1_1shared__ptr.html#a34727c5f715c78bfd7c0c882f53e352a"
+"d4/d48/structkernel_1_1HEAD.html",
+"d7/d20/structhal_1_1multiboot__tag.html#ab67f192ad59d26652056ea30192503b4",
+"d9/d5a/mmap_8h.html#a7ceccbcb8b467634743c0c74731f2ac1",
+"da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888",
+"dc/d34/arch_2x86__64_2int_8h.html#a5263267258247b6f1a2d0188262011fb",
+"dc/de0/structacpi_1_1SDT.html#a551785cf8dcc9d586028b9d97f3fb680",
+"df/ddb/classstd_1_1shared__ptr.html#a2e98f4acdbc7988fd714d180877998bc",
+"namespacemembers_w.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
