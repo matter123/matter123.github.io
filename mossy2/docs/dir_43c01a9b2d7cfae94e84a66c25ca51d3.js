@@ -11,5 +11,6 @@ var dir_43c01a9b2d7cfae94e84a66c25ca51d3 =
     ] ],
     [ "syscall.h", "de/ddf/syscall_8h.html", null ],
     [ "tasks.h", "de/dd7/sys_2sys_2tasks_8h.html", "de/dd7/sys_2sys_2tasks_8h" ],
+    [ "text_color.h", "d7/df6/text__color_8h.html", "d7/df6/text__color_8h" ],
     [ "text_render.h", "dc/d75/text__render_8h.html", "dc/d75/text__render_8h" ]
 ];

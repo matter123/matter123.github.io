@@ -5,6 +5,7 @@ var searchData=
   ['tags',['tags',['../d0/d7f/namespacehal.html#a7b854378277fe7cd46e642ec5e7331bb',1,'hal']]],
   ['tasks',['tasks',['../d7/db0/namespacex64.html#a9912e716207b08f893a31b24cf33e826',1,'x64::tasks()'],['../d1/d08/namespacex86.html#a21ab1c9329e6764a80872379e722aefe',1,'x86::tasks()']]],
   ['test_5ffunc',['test_func',['../de/d97/classkernel_1_1test__module.html#a6ce59b68fe786efa144a7fb06771aea2',1,'kernel::test_module']]],
+  ['test_5fmod',['test_mod',['../d8/d69/compare_8cpp.html#a3c3dba2d662c09b52d8be72a57a832f9',1,'compare.cpp']]],
   ['test_5fmodule',['test_module',['../d9/d63/cat_8cpp.html#a0753d089ed3c8e792534abd5806c492b',1,'test_module():&#160;cat.cpp'],['../d8/d69/compare_8cpp.html#a0753d089ed3c8e792534abd5806c492b',1,'test_module():&#160;compare.cpp'],['../d9/d54/copy_8cpp.html#a0753d089ed3c8e792534abd5806c492b',1,'test_module():&#160;copy.cpp'],['../de/d90/heap_8cpp.html#a0753d089ed3c8e792534abd5806c492b',1,'test_module():&#160;heap.cpp'],['../d2/db5/utf8_8cpp.html#a0753d089ed3c8e792534abd5806c492b',1,'test_module():&#160;utf8.cpp']]],
   ['timer_5fvalue_5f32_5fbit',['timer_value_32_bit',['../d3/d53/structacpi_1_1FADT.html#aad5bf1b2ac931cafdf3faf3eb3e0e881',1,'acpi::FADT']]],
   ['timers',['timers',['../d0/d7f/namespacehal.html#acdb82900cdc508dca4b957f6eb1ccb31',1,'hal']]],

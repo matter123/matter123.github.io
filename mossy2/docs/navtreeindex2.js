@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"d4/d38/sys_2tasks_8cpp.html#aa60b33805708791a7818c26c2b87fcdc":[4,0,0,2,5,8,0],
 "d4/d48/structkernel_1_1HEAD.html":[3,0,2,2],
 "d4/d48/structkernel_1_1HEAD.html#a74ef9ed0ee68c0f9e54547665fd7a634":[3,0,2,2,4],
 "d4/d48/structkernel_1_1HEAD.html#a7d954afd3dbc48bbc0afc840c5d7e12b":[3,0,2,2,5],
@@ -150,13 +151,13 @@ var NAVTREEINDEX2 =
 "d5/dd3/structacpi_1_1sdt.html#ad395255351a04ab441584b5ed220604e":[3,0,0,13,6],
 "d5/dd3/structacpi_1_1sdt.html#aeaffa9b51b38e259fb4f807f8c3ebffd":[3,0,0,13,0],
 "d5/de5/synchronization_8h.html":[4,0,0,2,5,0,4],
-"d5/de5/text__render_8cpp.html":[4,0,0,2,5,9],
-"d5/de5/text__render_8cpp.html#a4dd5cbbc603f43acf1cdbb84c4a454d5":[4,0,0,2,5,9,7],
-"d5/de5/text__render_8cpp.html#abcad2fae21958f0ef6e756765594f204":[4,0,0,2,5,9,2],
-"d5/de5/text__render_8cpp.html#ad25a050d6254afd7637c5f7a22977d41":[4,0,0,2,5,9,6],
-"d5/de5/text__render_8cpp.html#ad3347cac35eac3e3e6f58c17d0eef83f":[4,0,0,2,5,9,5],
-"d5/de5/text__render_8cpp.html#adcdf9dd78a49464915f2e53613b67c7b":[4,0,0,2,5,9,4],
-"d5/de5/text__render_8cpp.html#ae359f5def3051aa2ac414c23250951dd":[4,0,0,2,5,9,3],
+"d5/de5/text__render_8cpp.html":[4,0,0,2,5,10],
+"d5/de5/text__render_8cpp.html#a4dd5cbbc603f43acf1cdbb84c4a454d5":[4,0,0,2,5,10,7],
+"d5/de5/text__render_8cpp.html#abcad2fae21958f0ef6e756765594f204":[4,0,0,2,5,10,2],
+"d5/de5/text__render_8cpp.html#ad25a050d6254afd7637c5f7a22977d41":[4,0,0,2,5,10,6],
+"d5/de5/text__render_8cpp.html#ad3347cac35eac3e3e6f58c17d0eef83f":[4,0,0,2,5,10,5],
+"d5/de5/text__render_8cpp.html#adcdf9dd78a49464915f2e53613b67c7b":[4,0,0,2,5,10,4],
+"d5/de5/text__render_8cpp.html#ae359f5def3051aa2ac414c23250951dd":[4,0,0,2,5,10,3],
 "d5/def/pit_8cpp.html":[4,0,0,2,6,0,3],
 "d5/def/pit_8cpp.html#a296e618d3f553ca51a04b6f0a05b4ed1":[4,0,0,2,6,0,3,8],
 "d5/def/pit_8cpp.html#a3a422c7db9a3bb0b20872f402e7acb76":[4,0,0,2,6,0,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "d7/d10/structhal_1_1multiboot__palette.html#a40672fa8f46fe87247de770d391d03e1":[3,0,1,14,1],
 "d7/d10/structhal_1_1multiboot__palette.html#ac549343151cf31d9f2a2178085f60502":[3,0,1,14,2],
 "d7/d10/structhal_1_1multiboot__palette.html#ae0affb38d3c27f754196171a35104a6f":[3,0,1,14,0],
-"d7/d20/structhal_1_1multiboot__tag.html":[3,0,1,15],
-"d7/d20/structhal_1_1multiboot__tag.html#a99dd1022ce626f22ce20513fe8847ae3":[3,0,1,15,1]
+"d7/d20/structhal_1_1multiboot__tag.html":[3,0,1,15]
 };

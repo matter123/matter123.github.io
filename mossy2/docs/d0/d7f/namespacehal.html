@@ -183,6 +183,8 @@ Functions</h2></td></tr>
 <tr class="separator:a3949c3c672c8731a6624f705dbe84cb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaedd544c8d9fe4a3c4a5060a541186fe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#aaedd544c8d9fe4a3c4a5060a541186fe">add_virt_mem_arch</a> ()</td></tr>
 <tr class="separator:aaedd544c8d9fe4a3c4a5060a541186fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9d131f3b4d65c8694a31ee401dcddfc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc">dump_regs</a> (<a class="el" href="../../da/d9b/structcpu__state.html">cpu_state</a> *s)</td></tr>
+<tr class="separator:aa9d131f3b4d65c8694a31ee401dcddfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afc7c86db5f36388e59b4c16a84b3316f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f">init_idt</a> ()</td></tr>
 <tr class="separator:afc7c86db5f36388e59b4c16a84b3316f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acf368f22e14933f89937e01f35ee68a4"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#acf368f22e14933f89937e01f35ee68a4">get_max_interrupt</a> ()</td></tr>
@@ -230,8 +232,6 @@ Functions</h2></td></tr>
 <tr class="separator:ae21f395a9732aff65b70f56dc8a7ed8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7854e96165a7643b4d804d9b779e822a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a7854e96165a7643b4d804d9b779e822a">print_boot_msg</a> (const char *msg, bool ok, bool hlt)</td></tr>
 <tr class="separator:a7854e96165a7643b4d804d9b779e822a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9d131f3b4d65c8694a31ee401dcddfc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#aa9d131f3b4d65c8694a31ee401dcddfc">dump_regs</a> (<a class="el" href="../../da/d9b/structcpu__state.html">cpu_state</a> *s)</td></tr>
-<tr class="separator:aa9d131f3b4d65c8694a31ee401dcddfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a258f820d70dea931e306f3c2047d5531"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:a258f820d70dea931e306f3c2047d5531"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a258f820d70dea931e306f3c2047d5531">toLSB</a> (T num)</td></tr>
 <tr class="separator:a258f820d70dea931e306f3c2047d5531"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -394,12 +394,12 @@ Variables</h2></td></tr>
 <tr class="separator:aa29d4f2aea2bd41826baa9bac072b0cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a96989da9fb154287870c3b834cdfe8af"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a96989da9fb154287870c3b834cdfe8af">wy</a> =0</td></tr>
 <tr class="separator:a96989da9fb154287870c3b834cdfe8af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad913b13d647a98989984e8d621b16a63"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#ad913b13d647a98989984e8d621b16a63">state_begin</a> =0</td></tr>
-<tr class="separator:ad913b13d647a98989984e8d621b16a63"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afcbc607a4377f9f9d60ebaa2cc52ef46"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#afcbc607a4377f9f9d60ebaa2cc52ef46">is_ready</a> =false</td></tr>
 <tr class="separator:afcbc607a4377f9f9d60ebaa2cc52ef46"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5f1fc2439c5d7827a7c2867aaa9a60ad"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a5f1fc2439c5d7827a7c2867aaa9a60ad">last_back</a> =0</td></tr>
 <tr class="separator:a5f1fc2439c5d7827a7c2867aaa9a60ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad913b13d647a98989984e8d621b16a63"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#ad913b13d647a98989984e8d621b16a63">state_begin</a> =0</td></tr>
+<tr class="separator:ad913b13d647a98989984e8d621b16a63"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a237b1f423463b7ea9b815092982295ea"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../df/d4e/classhal_1_1mem__type.html">mem_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a237b1f423463b7ea9b815092982295ea">a</a></td></tr>
 <tr class="separator:a237b1f423463b7ea9b815092982295ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4fed10c299a524bd601f718c8fabf46b"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../df/d4e/classhal_1_1mem__type.html">mem_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/namespacehal.html#a4fed10c299a524bd601f718c8fabf46b">b</a></td></tr>
@@ -3359,7 +3359,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d7f/namespacehal.html">hal</a></li>
-    <li class="footer">Generated on Sat Mar 7 2015 11:00:10 for MOSSY by
+    <li class="footer">Generated on Tue Mar 17 2015 06:30:21 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

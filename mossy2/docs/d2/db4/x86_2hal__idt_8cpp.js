@@ -1,6 +1,7 @@
 var x86_2hal__idt_8cpp =
 [
     [ "call_handle", "d2/db4/x86_2hal__idt_8cpp.html#a02550387ade2b6f824ab5c7b0a8a4807", null ],
+    [ "dump_regs", "d2/db4/x86_2hal__idt_8cpp.html#aa9d131f3b4d65c8694a31ee401dcddfc", null ],
     [ "exc_stub_sched", "d2/db4/x86_2hal__idt_8cpp.html#a0ad5965fbe70c123dea28c1c1f3fb839", null ],
     [ "fail_fast", "d2/db4/x86_2hal__idt_8cpp.html#a7a97308e3fdacd2f8240ba76e010e274", null ],
     [ "get_max_interrupt", "d2/db4/x86_2hal__idt_8cpp.html#acf368f22e14933f89937e01f35ee68a4", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"d3/d0e/x64_2idt_8h.html":[4,0,0,2,1,0,2],
 "d3/d0e/x64_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f":[4,0,0,2,1,0,2,0],
 "d3/d20/hal_2hal_2paging_8h.html":[4,0,0,2,3,0,7],
 "d3/d20/hal_2hal_2paging_8h.html#a67121b06bc6c9240ae41d4aa574e9bfd":[4,0,0,2,3,0,7,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "d4/d08/structacpi_1_1SSDT.html#ad537faa8eebbc55930c6f76fa3a5b9c5":[3,0,0,15,0],
 "d4/d2b/x86_2idt_8h.html":[4,0,0,2,1,1,2],
 "d4/d2b/x86_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f":[4,0,0,2,1,1,2,0],
-"d4/d38/sys_2tasks_8cpp.html":[4,0,0,2,5,8],
-"d4/d38/sys_2tasks_8cpp.html#aa60b33805708791a7818c26c2b87fcdc":[4,0,0,2,5,8,0]
+"d4/d38/sys_2tasks_8cpp.html":[4,0,0,2,5,8]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX6 =
 {
+"dc/d34/arch_2x86__64_2int_8h.html#a50119b73e8b7e2f916c72ebc6ef32c28":[4,0,0,2,1,2,1,108],
+"dc/d34/arch_2x86__64_2int_8h.html#a5014fba88e9ab6bb7bb8ed476a5357e8":[4,0,0,2,1,2,1,31],
+"dc/d34/arch_2x86__64_2int_8h.html#a51b6c7144eb3e0e3ea67ae624af1705e":[4,0,0,2,1,2,1,204],
 "dc/d34/arch_2x86__64_2int_8h.html#a5263267258247b6f1a2d0188262011fb":[4,0,0,2,1,2,1,191],
 "dc/d34/arch_2x86__64_2int_8h.html#a538ee2e53a803c5f4826235fab46bab0":[4,0,0,2,1,2,1,158],
 "dc/d34/arch_2x86__64_2int_8h.html#a5488f116cf2625b8f0c2d9a0439fbfef":[4,0,0,2,1,2,1,173],
@@ -206,10 +209,10 @@ var NAVTREEINDEX6 =
 "dc/d75/fb_8cpp.html#af37f81d7fed238d964c9db1625c36f20":[4,0,0,2,5,1,20],
 "dc/d75/fb_8cpp.html#afbe66915e4138451ea4d0ce37a5de7e4":[4,0,0,2,5,1,3],
 "dc/d75/fb_8cpp.html#afe9157b4d21ba4a63432f0a7844890af":[4,0,0,2,5,1,4],
-"dc/d75/text__render_8h.html":[4,0,0,2,5,0,7],
-"dc/d75/text__render_8h.html#abcad2fae21958f0ef6e756765594f204":[4,0,0,2,5,0,7,0],
-"dc/d75/text__render_8h.html#ad3347cac35eac3e3e6f58c17d0eef83f":[4,0,0,2,5,0,7,2],
-"dc/d75/text__render_8h.html#ae359f5def3051aa2ac414c23250951dd":[4,0,0,2,5,0,7,1],
+"dc/d75/text__render_8h.html":[4,0,0,2,5,0,8],
+"dc/d75/text__render_8h.html#abcad2fae21958f0ef6e756765594f204":[4,0,0,2,5,0,8,0],
+"dc/d75/text__render_8h.html#ad3347cac35eac3e3e6f58c17d0eef83f":[4,0,0,2,5,0,8,2],
+"dc/d75/text__render_8h.html#ae359f5def3051aa2ac414c23250951dd":[4,0,0,2,5,0,8,1],
 "dc/d7a/pic_8h.html":[4,0,0,2,6,0,2],
 "dc/d7a/pic_8h.html#a37c2c289036e54bffc2cffa12758103b":[4,0,0,2,6,0,2,0],
 "dc/d7a/pic_8h.html#aa4e1730438b454c96e7a2256e74e399a":[4,0,0,2,6,0,2,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX6 =
 "dc/de0/structacpi_1_1SDT.html":[3,0,0,14],
 "dc/de0/structacpi_1_1SDT.html#a143a9a1f84a03282ec2afe3e3d60c34f":[3,0,0,14,7],
 "dc/de0/structacpi_1_1SDT.html#a1c5d5acc24380077b2a3b9a7be527941":[3,0,0,14,0],
-"dc/de0/structacpi_1_1SDT.html#a1e00aa68a54671c3e46965f64a938ceb":[3,0,0,14,8],
-"dc/de0/structacpi_1_1SDT.html#a1ff5fa333cf733a2b8ccd1ee232f8356":[3,0,0,14,2],
-"dc/de0/structacpi_1_1SDT.html#a2ad7fad506129eeffa9121449d31a809":[3,0,0,14,5],
-"dc/de0/structacpi_1_1SDT.html#a3af4c12ecf0545cc4c8e23c72c5d759a":[3,0,0,14,3]
+"dc/de0/structacpi_1_1SDT.html#a1e00aa68a54671c3e46965f64a938ceb":[3,0,0,14,8]
 };

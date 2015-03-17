@@ -1,5 +1,8 @@
 var NAVTREEINDEX4 =
 {
+"d9/d5a/mmap_8h.html#a0ab13b6200ad0bd5ddb3d2ffab78c717":[4,0,0,2,3,0,5,7],
+"d9/d5a/mmap_8h.html#a2cf30f5cd953ae5539089abc3007fbbd":[4,0,0,2,3,0,5,2],
+"d9/d5a/mmap_8h.html#a640002963c71b7f311ddf99f187a5db7":[4,0,0,2,3,0,5,3],
 "d9/d5a/mmap_8h.html#a7ceccbcb8b467634743c0c74731f2ac1":[4,0,0,2,3,0,5,6],
 "d9/d5a/mmap_8h.html#a9427442fe04656ce29bdcc40c004d87a":[4,0,0,2,3,0,5,4],
 "d9/d5a/mmap_8h.html#a999cca0fe332310d9926a431173149f9":[4,0,0,2,3,0,5,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX4 =
 "da/dc3/acpi__os_8cpp.html":[4,0,0,2,0,4],
 "da/dc3/acpi__os_8cpp.html#a0cdb498f84308d92c7dfb232638ca1c7":[4,0,0,2,0,4,2],
 "da/dc3/acpi__os_8cpp.html#a75c26c986600efd3f56c543936c40688":[4,0,0,2,0,4,0],
-"da/dc3/acpi__os_8cpp.html#a7fe890295fc09985e0dcf4d894e51a11":[4,0,0,2,0,4,1],
-"da/dc3/acpi__os_8cpp.html#aaa02bf3a23b409a4a56d7352f741288f":[4,0,0,2,0,4,3],
-"da/dc3/acpi__os_8cpp.html#adb6adf8b7cf6cdb1d1017d10e51a2760":[4,0,0,2,0,4,4],
-"da/dcc/structkernel_1_1glyph__int.html":[3,0,2,1]
+"da/dc3/acpi__os_8cpp.html#a7fe890295fc09985e0dcf4d894e51a11":[4,0,0,2,0,4,1]
 };

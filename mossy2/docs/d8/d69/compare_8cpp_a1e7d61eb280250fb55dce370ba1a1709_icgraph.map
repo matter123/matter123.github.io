@@ -1,5 +1,6 @@
 <map id="memcmp" name="memcmp">
-<area shape="rect" id="node2" href="$d3/d94/namespaceacpi.html#a108413631fd0c1ac59341f21f2542192" title="acpi::find_rsdp" alt="" coords="137,5,252,32"/>
-<area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="300,5,421,32"/>
-<area shape="rect" id="node4" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="469,5,596,32"/>
+<area shape="rect" id="node2" href="$d8/d69/compare_8cpp.html#af1f51e9f4ef9784d9a3fba339b2f2578" title="test_strcmp" alt="" coords="145,5,244,32"/>
+<area shape="rect" id="node3" href="$d3/d94/namespaceacpi.html#a108413631fd0c1ac59341f21f2542192" title="acpi::find_rsdp" alt="" coords="137,56,252,83"/>
+<area shape="rect" id="node4" href="$d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="300,56,421,83"/>
+<area shape="rect" id="node5" href="$d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="469,56,596,83"/>
 </map>

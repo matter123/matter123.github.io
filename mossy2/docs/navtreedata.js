@@ -41,15 +41,15 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d3/d0e/x64_2idt_8h.html#afc7c86db5f36388e59b4c16a84b3316f",
-"d4/d48/structkernel_1_1HEAD.html",
-"d7/d20/structhal_1_1multiboot__tag.html#ab67f192ad59d26652056ea30192503b4",
-"d9/d5a/mmap_8h.html#a7ceccbcb8b467634743c0c74731f2ac1",
-"da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888",
-"dc/d34/arch_2x86__64_2int_8h.html#a5263267258247b6f1a2d0188262011fb",
-"dc/de0/structacpi_1_1SDT.html#a551785cf8dcc9d586028b9d97f3fb680",
-"df/ddb/classstd_1_1shared__ptr.html#a2e98f4acdbc7988fd714d180877998bc",
-"namespacemembers_w.html"
+"d3/d0e/x64_2idt_8h.html",
+"d4/d38/sys_2tasks_8cpp.html#aa60b33805708791a7818c26c2b87fcdc",
+"d7/d20/structhal_1_1multiboot__tag.html#a99dd1022ce626f22ce20513fe8847ae3",
+"d9/d5a/mmap_8h.html#a0ab13b6200ad0bd5ddb3d2ffab78c717",
+"da/dc3/acpi__os_8cpp.html#aaa02bf3a23b409a4a56d7352f741288f",
+"dc/d34/arch_2x86__64_2int_8h.html#a50119b73e8b7e2f916c72ebc6ef32c28",
+"dc/de0/structacpi_1_1SDT.html#a1ff5fa333cf733a2b8ccd1ee232f8356",
+"df/ddb/classstd_1_1shared__ptr.html#a05cb418f2a11ef7a6d0b5429dd228fbc",
+"namespacemembers_type.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
