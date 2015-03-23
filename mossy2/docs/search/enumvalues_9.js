@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['pci',['PCI',['../d9/d9d/structacpi_1_1generic__address__space.html#aa4c8e0005f8ebc280f59c72529d9278dad0f8199655b8e1eea097f5b6260df136',1,'acpi::generic_address_space']]],
-  ['performance_5fserver',['PERFORMANCE_SERVER',['../d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56abbe0d63cb83c4c908b10795cc844c985',1,'acpi::FADT']]],
-  ['platform_5fcommunication_5fchannel',['PLATFORM_COMMUNICATION_CHANNEL',['../d9/d9d/structacpi_1_1generic__address__space.html#aa4c8e0005f8ebc280f59c72529d9278da3803561a7d8ae4cf2f68b8932d673645',1,'acpi::generic_address_space']]],
-  ['polarity_5fconforms',['POLARITY_CONFORMS',['../d4/dd6/structacpi_1_1interrupt__override.html#a3ea75e2caea6cc18ab863882335cbddba939423335d57f940277c153c767fab5e',1,'acpi::interrupt_override']]]
+  ['read_5fonly',['READ_ONLY',['../d7/ddb/structkernel_1_1buffer__param.html#aed0bd8ea3c8ea64e2694eadb0ddf25b8a6b8c9156529192c6787fcc238e005b4c',1,'kernel::buffer_param']]],
+  ['read_5fwrite',['READ_WRITE',['../d7/ddb/structkernel_1_1buffer__param.html#aed0bd8ea3c8ea64e2694eadb0ddf25b8ac0ed2fa0b67c3512e63d957f318b2e2f',1,'kernel::buffer_param']]],
+  ['rgb',['RGB',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07baae2df3555788393944fb5c5a67863fb3',1,'kernel::buffer_param']]],
+  ['rgb_5f16',['RGB_16',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07bab5c289b3d406287b54ffd855211d5171',1,'kernel::buffer_param']]]
 ];

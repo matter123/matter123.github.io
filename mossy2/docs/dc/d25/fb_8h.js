@@ -1,25 +1,9 @@
 var fb_8h =
 [
-    [ "bit_blit_op", "dc/d25/fb_8h.html#ad74843b9e0bb697065c4ec567b98ce31", [
-      [ "AND", "dc/d25/fb_8h.html#ad74843b9e0bb697065c4ec567b98ce31ac12d9237207eecf2239bbdd4f96a5c00", null ],
-      [ "OR", "dc/d25/fb_8h.html#ad74843b9e0bb697065c4ec567b98ce31a64096956ffd1516c88b7b5e26c9db4db", null ],
-      [ "NOT", "dc/d25/fb_8h.html#ad74843b9e0bb697065c4ec567b98ce31a0518c45de17d540abebce25c9afa5fa9", null ],
-      [ "XOR", "dc/d25/fb_8h.html#ad74843b9e0bb697065c4ec567b98ce31a196032536dcb4ee500544e31b3ab408c", null ]
-    ] ],
-    [ "bit_blit", "dc/d25/fb_8h.html#abd8a6f1757294d943ed6eda6905b5bbe", null ],
-    [ "bit_blit", "dc/d25/fb_8h.html#ae14f904e1f7c47b66fb0b79faf529d0d", null ],
-    [ "copy_rect", "dc/d25/fb_8h.html#afbe66915e4138451ea4d0ce37a5de7e4", null ],
-    [ "copy_rect", "dc/d25/fb_8h.html#afe9157b4d21ba4a63432f0a7844890af", null ],
-    [ "fill_hline", "dc/d25/fb_8h.html#a25625eb5b8183007e48aaa158f20114f", null ],
-    [ "fill_rect", "dc/d25/fb_8h.html#a4936d52cfed90d3a7f8a860a5c97ab67", null ],
-    [ "fill_vline", "dc/d25/fb_8h.html#a2c0cd7e246bfc51d96c2cc9424e02ab7", null ],
-    [ "get_bpp", "dc/d25/fb_8h.html#a66c8fc01f728b890ae3743974c43a187", null ],
-    [ "get_h", "dc/d25/fb_8h.html#ad8873c419f1177672f1ea967a10961e0", null ],
-    [ "get_w", "dc/d25/fb_8h.html#ac16b8ce9ceccaa627d2524ffdddbd46d", null ],
-    [ "init_fb", "dc/d25/fb_8h.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf", null ],
-    [ "pack_rgb", "dc/d25/fb_8h.html#a61f0eed7275e2ba7829bf649d880f91f", null ],
-    [ "put_pixel", "dc/d25/fb_8h.html#a355d8850e9f616d4df16325d54f05a75", null ],
-    [ "reset_fb", "dc/d25/fb_8h.html#aafc4f8f375f470d51684cc6f155df326", null ],
-    [ "reset_fb", "dc/d25/fb_8h.html#ad0d14b76602f710c46cbc4ea768e18d0", null ],
-    [ "reset_fb", "dc/d25/fb_8h.html#a7339fb7bafea6a0c27b18ffdbd528251", null ]
+    [ "buffer_param", "d7/ddb/structkernel_1_1buffer__param.html", "d7/ddb/structkernel_1_1buffer__param" ],
+    [ "buffer_addr", "dc/d25/fb_8h.html#ad6ee0f9516c4104a21768effa4c19413", null ],
+    [ "buffer_param", "dc/d25/fb_8h.html#a92aa3ce1a605aa3a06f67e4ee28565d9", null ],
+    [ "height", "dc/d25/fb_8h.html#ada8a67f334c346e024db0d9d14697b9c", null ],
+    [ "stride", "dc/d25/fb_8h.html#a1e33bd7971213bf9b36c16ed8a4f48b8", null ],
+    [ "width", "dc/d25/fb_8h.html#aac025f9c0356efe4bfed38f657075b07", null ]
 ];

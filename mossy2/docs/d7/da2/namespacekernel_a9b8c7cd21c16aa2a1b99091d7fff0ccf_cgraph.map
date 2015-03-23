@@ -15,6 +15,6 @@
 <area shape="rect" id="node14" href="$d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="661,208,762,235"/>
 <area shape="rect" id="node15" href="$d7/db0/namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="657,259,765,285"/>
 <area shape="rect" id="node16" href="$d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="673,309,749,336"/>
-<area shape="rect" id="node18" href="$d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4" title="copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x..." alt="" coords="437,347,571,373"/>
+<area shape="rect" id="node18" href="$d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="437,347,571,373"/>
 <area shape="rect" id="node19" href="$d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="672,360,751,387"/>
 </map>

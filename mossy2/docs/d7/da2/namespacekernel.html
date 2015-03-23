@@ -107,7 +107,6 @@ $(document).ready(function(){initNavTree('d7/da2/namespacekernel.html','../../')
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
@@ -117,6 +116,8 @@ $(document).ready(function(){initNavTree('d7/da2/namespacekernel.html','../../')
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddb/structkernel_1_1buffer__param.html">buffer_param</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/structkernel_1_1fb__info.html">fb_info</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcc/structkernel_1_1glyph__int.html">glyph_int</a></td></tr>
@@ -136,15 +137,6 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db7/structkernel_1_1thread__info.html">thread_info</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:ad74843b9e0bb697065c4ec567b98ce31"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31">bit_blit_op</a> { <a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31ac12d9237207eecf2239bbdd4f96a5c00">AND</a>, 
-<a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a64096956ffd1516c88b7b5e26c9db4db">OR</a>, 
-<a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a0518c45de17d540abebce25c9afa5fa9">NOT</a>, 
-<a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31a196032536dcb4ee500544e31b3ab408c">XOR</a>
- }</td></tr>
-<tr class="separator:ad74843b9e0bb697065c4ec567b98ce31"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
@@ -168,15 +160,13 @@ Functions</h2></td></tr>
 <tr class="separator:a7339fb7bafea6a0c27b18ffdbd528251"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a355d8850e9f616d4df16325d54f05a75"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75">put_pixel</a> (int x, int y, uint32_t color)</td></tr>
 <tr class="separator:a355d8850e9f616d4df16325d54f05a75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afbe66915e4138451ea4d0ce37a5de7e4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4">copy_rect</a> (int dest_x, int dest_y, int w, int h, void *rect_buf)</td></tr>
-<tr class="memdesc:afbe66915e4138451ea4d0ce37a5de7e4"><td class="mdescLeft">&#160;</td><td class="mdescRight">copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x, y src_buf must be packed pixels and in R1R1R1R1R2R2R2R2R3R3R3R3 form  <a href="#afbe66915e4138451ea4d0ce37a5de7e4">More...</a><br /></td></tr>
-<tr class="separator:afbe66915e4138451ea4d0ce37a5de7e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2c053e24139ec5dd3d85f481a8df6be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be">copy_rect</a> (int x, int y, int w, int h, void *rect_buf)</td></tr>
+<tr class="separator:af2c053e24139ec5dd3d85f481a8df6be"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe9157b4d21ba4a63432f0a7844890af"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#afe9157b4d21ba4a63432f0a7844890af">copy_rect</a> (int src_x, int src_y, int w, int h, int dest_x, int dest_y)</td></tr>
-<tr class="memdesc:afe9157b4d21ba4a63432f0a7844890af"><td class="mdescLeft">&#160;</td><td class="mdescRight">copies one part of the screen to another copies video memory from <em>src_x</em>, <em>src_y</em> to <em>dest_x</em>, <em>dest_y</em> in a rectangle the size of <em>w</em> x <em>h</em>  <a href="#afe9157b4d21ba4a63432f0a7844890af">More...</a><br /></td></tr>
 <tr class="separator:afe9157b4d21ba4a63432f0a7844890af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd8a6f1757294d943ed6eda6905b5bbe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe">bit_blit</a> (int w, int h, void *dest_buf, void *src_buf, <a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31">bit_blit_op</a> op)</td></tr>
+<tr class="memitem:abd8a6f1757294d943ed6eda6905b5bbe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe">bit_blit</a> (int w, int h, void *dest_buf, void *src_buf, bit_blit_op op)</td></tr>
 <tr class="separator:abd8a6f1757294d943ed6eda6905b5bbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae14f904e1f7c47b66fb0b79faf529d0d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ae14f904e1f7c47b66fb0b79faf529d0d">bit_blit</a> (int dest_x, int dest_y, int w, int h, void *src_buf, <a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31">bit_blit_op</a> op)</td></tr>
+<tr class="memitem:ae14f904e1f7c47b66fb0b79faf529d0d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ae14f904e1f7c47b66fb0b79faf529d0d">bit_blit</a> (int dest_x, int dest_y, int w, int h, void *src_buf, bit_blit_op op)</td></tr>
 <tr class="separator:ae14f904e1f7c47b66fb0b79faf529d0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a61f0eed7275e2ba7829bf649d880f91f"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a61f0eed7275e2ba7829bf649d880f91f">pack_rgb</a> (uint8_t r, uint8_t g, uint8_t b)</td></tr>
 <tr class="separator:a61f0eed7275e2ba7829bf649d880f91f"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -230,8 +220,6 @@ Functions</h2></td></tr>
 <tr class="separator:a42aa075aa1bf373faef12862f3035d3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa8ee887a1b33655631a3f66d6be3a631"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631">init_scheduler</a> (<a class="el" href="../../db/db7/structkernel_1_1thread__info.html">thread_info</a> *cur_task)</td></tr>
 <tr class="separator:aa8ee887a1b33655631a3f66d6be3a631"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aafc4f8f375f470d51684cc6f155df326"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#aafc4f8f375f470d51684cc6f155df326">reset_fb</a> (int x, int y, int w, int h)</td></tr>
-<tr class="separator:aafc4f8f375f470d51684cc6f155df326"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa60b33805708791a7818c26c2b87fcdc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/db7/structkernel_1_1thread__info.html">thread_info</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#aa60b33805708791a7818c26c2b87fcdc">create_task</a> (uintptr_t stack, void *func, bool kernel, uint32_t PID)</td></tr>
 <tr class="separator:aa60b33805708791a7818c26c2b87fcdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3347cac35eac3e3e6f58c17d0eef83f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad3347cac35eac3e3e6f58c17d0eef83f">init_tr</a> ()</td></tr>
@@ -270,6 +258,16 @@ Variables</h2></td></tr>
 <tr class="separator:a6be8a41112d379cb44810ec132f56966"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afa148d05e51d7847edb108cf991d3b17"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#afa148d05e51d7847edb108cf991d3b17">init</a> =false</td></tr>
 <tr class="separator:afa148d05e51d7847edb108cf991d3b17"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac025f9c0356efe4bfed38f657075b07"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../d7/ddb/structkernel_1_1buffer__param.html">kernel::buffer_param</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#aac025f9c0356efe4bfed38f657075b07">width</a></td></tr>
+<tr class="separator:aac025f9c0356efe4bfed38f657075b07"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada8a67f334c346e024db0d9d14697b9c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ada8a67f334c346e024db0d9d14697b9c">height</a></td></tr>
+<tr class="separator:ada8a67f334c346e024db0d9d14697b9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e33bd7971213bf9b36c16ed8a4f48b8"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a1e33bd7971213bf9b36c16ed8a4f48b8">stride</a></td></tr>
+<tr class="separator:a1e33bd7971213bf9b36c16ed8a4f48b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6ee0f9516c4104a21768effa4c19413"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad6ee0f9516c4104a21768effa4c19413">buffer_addr</a></td></tr>
+<tr class="separator:ad6ee0f9516c4104a21768effa4c19413"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92aa3ce1a605aa3a06f67e4ee28565d9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/ddb/structkernel_1_1buffer__param.html">buffer_param</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a92aa3ce1a605aa3a06f67e4ee28565d9">buffer_param</a></td></tr>
+<tr class="separator:a92aa3ce1a605aa3a06f67e4ee28565d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad25a050d6254afd7637c5f7a22977d41"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../da/dcc/structkernel_1_1glyph__int.html">kernel::glyph_int</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad25a050d6254afd7637c5f7a22977d41">glyphs</a></td></tr>
 <tr class="separator:ad25a050d6254afd7637c5f7a22977d41"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4dd5cbbc603f43acf1cdbb84c4a454d5"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../d3/da9/structkernel_1_1mbf__head.html">kernel::mbf_head</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a4dd5cbbc603f43acf1cdbb84c4a454d5">head</a></td></tr>
@@ -277,29 +275,6 @@ Variables</h2></td></tr>
 <tr class="memitem:ab8ce36169f7c1addbf9776552b044d60"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../de/d97/classkernel_1_1test__module.html">test_module</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ab8ce36169f7c1addbf9776552b044d60">first</a> =NULL</td></tr>
 <tr class="separator:ab8ce36169f7c1addbf9776552b044d60"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a class="anchor" id="ad74843b9e0bb697065c4ec567b98ce31"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31">kernel::bit_blit_op</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a class="anchor" id="ad74843b9e0bb697065c4ec567b98ce31ac12d9237207eecf2239bbdd4f96a5c00"></a>AND&#160;</td><td class="fielddoc">
-</td></tr>
-<tr><td class="fieldname"><a class="anchor" id="ad74843b9e0bb697065c4ec567b98ce31a64096956ffd1516c88b7b5e26c9db4db"></a>OR&#160;</td><td class="fielddoc">
-</td></tr>
-<tr><td class="fieldname"><a class="anchor" id="ad74843b9e0bb697065c4ec567b98ce31a0518c45de17d540abebce25c9afa5fa9"></a>NOT&#160;</td><td class="fielddoc">
-</td></tr>
-<tr><td class="fieldname"><a class="anchor" id="ad74843b9e0bb697065c4ec567b98ce31a196032536dcb4ee500544e31b3ab408c"></a>XOR&#160;</td><td class="fielddoc">
-</td></tr>
-</table>
-
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
 <a class="anchor" id="a42aa075aa1bf373faef12862f3035d3f"></a>
 <div class="memitem">
@@ -357,7 +332,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31">bit_blit_op</a>&#160;</td>
+          <td class="paramtype">bit_blit_op&#160;</td>
           <td class="paramname"><em>op</em>&#160;</td>
         </tr>
         <tr>
@@ -367,16 +342,6 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>perorms a bit blit operation over a rectangle and onto another src_buf and dest_buf must be packed pixels and in R1R1R1R1R2R2R2R2R3R3R3R3 form </p><dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">w</td><td>width of rectangle </td></tr>
-    <tr><td class="paramname">h</td><td>height of rectangle </td></tr>
-    <tr><td class="paramname">dest_buf</td><td>location of start of destionation buffer x*y*bpp bytes big </td></tr>
-    <tr><td class="paramname">src_buf</td><td>location of start of source buffer x*y*bpp bytes big </td></tr>
-    <tr><td class="paramname">op</td><td>bit blit operation to perform </td></tr>
-  </table>
-  </dd>
-</dl>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -426,7 +391,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31">bit_blit_op</a>&#160;</td>
+          <td class="paramtype">bit_blit_op&#160;</td>
           <td class="paramname"><em>op</em>&#160;</td>
         </tr>
         <tr>
@@ -436,17 +401,6 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>performs a bit blit operation over a rectangle onto the screen src_buf must be packed pixels and in R1R1R1R1R2R2R2R2R3R3R3R3 form </p><dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">dest_x</td><td>x of the destionation rectangle </td></tr>
-    <tr><td class="paramname">dest_y</td><td>y of the destionation rectangle </td></tr>
-    <tr><td class="paramname">w</td><td>width of rectangle </td></tr>
-    <tr><td class="paramname">h</td><td>height of rectangle </td></tr>
-    <tr><td class="paramname">src_buf</td><td>location of start of source buffer x*y*bpp bytes big </td></tr>
-    <tr><td class="paramname">op</td><td>bit_blit operation to perform </td></tr>
-  </table>
-  </dd>
-</dl>
 
 </div>
 </div>
@@ -485,7 +439,7 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="afbe66915e4138451ea4d0ce37a5de7e4"></a>
+<a class="anchor" id="af2c053e24139ec5dd3d85f481a8df6be"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
@@ -493,13 +447,13 @@ Here is the call graph for this function:</div>
           <td class="memname">void kernel::copy_rect </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>dest_x</em>, </td>
+          <td class="paramname"><em>x</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>dest_y</em>, </td>
+          <td class="paramname"><em>y</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -527,23 +481,11 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x, y src_buf must be packed pixels and in R1R1R1R1R2R2R2R2R3R3R3R3 form </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">dest_x</td><td>destionation x location </td></tr>
-    <tr><td class="paramname">dest_y</td><td>destionation y location </td></tr>
-    <tr><td class="paramname">w</td><td>width of rectangle </td></tr>
-    <tr><td class="paramname">h</td><td>height of rectangle </td></tr>
-    <tr><td class="paramname">rect_buf</td><td>location of start of source buffer x*y*bpp bytes big </td></tr>
-  </table>
-  </dd>
-</dl>
-
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="../../d7/da2/namespacekernel_afbe66915e4138451ea4d0ce37a5de7e4_cgraph.png" border="0" usemap="#d7/da2/namespacekernel_afbe66915e4138451ea4d0ce37a5de7e4_cgraph" alt=""/></div>
-<map name="d7/da2/namespacekernel_afbe66915e4138451ea4d0ce37a5de7e4_cgraph" id="d7/da2/namespacekernel_afbe66915e4138451ea4d0ce37a5de7e4_cgraph">
+<div class="center"><img src="../../d7/da2/namespacekernel_af2c053e24139ec5dd3d85f481a8df6be_cgraph.png" border="0" usemap="#d7/da2/namespacekernel_af2c053e24139ec5dd3d85f481a8df6be_cgraph" alt=""/></div>
+<map name="d7/da2/namespacekernel_af2c053e24139ec5dd3d85f481a8df6be_cgraph" id="d7/da2/namespacekernel_af2c053e24139ec5dd3d85f481a8df6be_cgraph">
 <area shape="rect" id="node2" href="../../d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="187,5,265,32"/></map>
 </div>
 </p>
@@ -551,8 +493,8 @@ Here is the call graph for this function:</div>
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="../../d7/da2/namespacekernel_afbe66915e4138451ea4d0ce37a5de7e4_icgraph.png" border="0" usemap="#d7/da2/namespacekernel_afbe66915e4138451ea4d0ce37a5de7e4_icgraph" alt=""/></div>
-<map name="d7/da2/namespacekernel_afbe66915e4138451ea4d0ce37a5de7e4_icgraph" id="d7/da2/namespacekernel_afbe66915e4138451ea4d0ce37a5de7e4_icgraph">
+<div class="center"><img src="../../d7/da2/namespacekernel_af2c053e24139ec5dd3d85f481a8df6be_icgraph.png" border="0" usemap="#d7/da2/namespacekernel_af2c053e24139ec5dd3d85f481a8df6be_icgraph" alt=""/></div>
+<map name="d7/da2/namespacekernel_af2c053e24139ec5dd3d85f481a8df6be_icgraph" id="d7/da2/namespacekernel_af2c053e24139ec5dd3d85f481a8df6be_icgraph">
 <area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0" title="kernel::reset_fb" alt="" coords="187,82,309,108"/><area shape="rect" id="node5" href="../../d0/d7f/namespacehal.html#a0e4347fbf6da02162c9005900ad503b5" title="hal::scroll" alt="" coords="371,132,453,159"/><area shape="rect" id="node3" href="../../d7/da2/namespacekernel.html#a21c0a30384cfb2cff51904a5fd2822fc" title="kernel::init_exec" alt="" coords="515,6,641,32"/><area shape="rect" id="node4" href="../../d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="357,31,467,58"/><area shape="rect" id="node6" href="../../d8/dcc/namespacestd.html#a129fdca2dd147eedc669fd7cd1e85fe1" title="std::cls" alt="" coords="379,82,445,108"/></map>
 </div>
 </p>
@@ -606,19 +548,6 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p>copies one part of the screen to another copies video memory from <em>src_x</em>, <em>src_y</em> to <em>dest_x</em>, <em>dest_y</em> in a rectangle the size of <em>w</em> x <em>h</em> </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">src_x</td><td>x of the source rectangle </td></tr>
-    <tr><td class="paramname">src_y</td><td>y of the source rectangle </td></tr>
-    <tr><td class="paramname">w</td><td>width of the rectangle being copied </td></tr>
-    <tr><td class="paramname">h</td><td>height of the rectangle being copied </td></tr>
-    <tr><td class="paramname">dest_x</td><td>x of the destionation rectangle </td></tr>
-    <tr><td class="paramname">dest_y</td><td>y of the destionation rectangle </td></tr>
-  </table>
-  </dd>
-</dl>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1207,7 +1136,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d7/da2/namespacekernel_a21c0a30384cfb2cff51904a5fd2822fc_cgraph.png" border="0" usemap="#d7/da2/namespacekernel_a21c0a30384cfb2cff51904a5fd2822fc_cgraph" alt=""/></div>
 <map name="d7/da2/namespacekernel_a21c0a30384cfb2cff51904a5fd2822fc_cgraph" id="d7/da2/namespacekernel_a21c0a30384cfb2cff51904a5fd2822fc_cgraph">
-<area shape="rect" id="node2" href="../../da/d01/srcs_2c_2include_2stdlib_8h.html#a83a727cc697aea22e24cad5f39198dd2" title="srand" alt="" coords="249,211,307,238"/><area shape="rect" id="node3" href="../../d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="219,262,337,289"/><area shape="rect" id="node5" href="../../d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="445,743,594,770"/><area shape="rect" id="node17" href="../../d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="227,642,329,669"/><area shape="rect" id="node19" href="../../d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="727,642,803,669"/><area shape="rect" id="node24" href="../../d7/da2/namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42" title="kernel::heap_init" alt="" coords="455,997,583,1023"/><area shape="rect" id="node27" href="../../d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="223,921,333,947"/><area shape="rect" id="node29" href="../../d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0" title="kernel::reset_fb" alt="" coords="458,1098,581,1125"/><area shape="rect" id="node31" href="../../d7/da2/namespacekernel.html#ad3347cac35eac3e3e6f58c17d0eef83f" title="kernel::init_tr" alt="" coords="225,389,331,415"/><area shape="rect" id="node32" href="../../d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="222,1237,334,1263"/><area shape="rect" id="node34" href="../../da/d01/srcs_2c_2include_2stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42" title="rand" alt="" coords="253,1287,303,1314"/><area shape="rect" id="node35" href="../../d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe" title="kernel::bit_blit" alt="" coords="222,1338,334,1365"/><area shape="rect" id="node36" href="../../d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b" title="hal::ready" alt="" coords="235,845,321,871"/><area shape="rect" id="node37" href="../../dd/db0/namespaceunicode_1_1utf8.html#a6ea6cdd47d517d9f5135f67f00348d18" title="turns code_point into a char " alt="" coords="180,1389,376,1415"/><area shape="rect" id="node38" href="../../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="runs all tests " alt="" coords="231,1439,325,1466"/><area shape="rect" id="node41" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="217,1135,339,1162"/><area shape="rect" id="node46" href="../../d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="218,1186,338,1213"/><area shape="rect" id="node49" href="../../d2/d70/srcs_2c_2include_2time_8h.html#a68a0e9d22417dfcf9c0be64261352e64" title="asctime" alt="" coords="241,1490,315,1517"/><area shape="rect" id="node50" href="../../d2/d70/srcs_2c_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07" title="gmtime" alt="" coords="242,1541,314,1567"/><area shape="rect" id="node4" href="../../d0/d7f/namespacehal.html#a70f151d3bf2b559ed7e4045be1c76171" title="hal::w_malloc" alt="" coords="710,186,819,213"/><area shape="rect" id="node8" href="../../d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="955,1098,1033,1125"/><area shape="rect" id="node9" href="../../d0/d7f/namespacehal.html#abea6f4be3270077bbff27c081d400527" title="hal::get_tag" alt="" coords="715,313,814,339"/><area shape="rect" id="node10" href="../../d3/df7/srcs_2c_2include_2string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="473,186,566,213"/><area shape="rect" id="node11" href="../../d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="446,85,593,111"/><area shape="rect" id="node6" href="../../d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="722,718,807,745"/><area shape="rect" id="node7" href="../../d3/df7/srcs_2c_2include_2string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="731,769,798,795"/><area shape="rect" id="node12" href="../../d0/d7f/namespacehal.html#a1aac65ed011c32ed5cab5baba89626a8" title="hal::init_type" alt="" coords="713,85,817,111"/><area shape="rect" id="node13" href="../../d0/d7f/namespacehal.html#aa2b7786b42bd5908466754e21839b89e" title="hal::get_tag_count" alt="" coords="694,389,835,415"/><area shape="rect" id="node14" href="../../d0/d7f/namespacehal.html#a3949c3c672c8731a6624f705dbe84cb9" title="hal::add_phys_mem_arch" alt="" coords="671,135,858,162"/><area shape="rect" id="node15" href="../../d0/d7f/namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc" title="hal::add_phys_mem_vendor" alt="" coords="663,34,867,61"/><area shape="rect" id="node16" href="../../d0/d7f/namespacehal.html#af8c5fec085a04b661ba95ff255cc8254" title="hal::add_phys_region" alt="" coords="915,9,1073,35"/><area shape="rect" id="node18" href="../../d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="474,642,565,669"/><area shape="rect" id="node20" href="../../d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="458,591,581,618"/><area shape="rect" id="node21" href="../../d8/de8/namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="457,693,581,719"/><area shape="rect" id="node22" href="../../d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="451,490,588,517"/><area shape="rect" id="node23" href="../../d7/db0/namespacex64.html#ab3f41b6c905fa03a19be14e0a5f000a0" title="x64::paging_ready" alt="" coords="449,541,590,567"/><area shape="rect" id="node25" href="../../d0/d7f/namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="668,997,861,1023"/><area shape="rect" id="node26" href="../../d0/d7f/namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="671,1047,858,1074"/><area shape="rect" id="node28" href="../../d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="424,895,615,922"/><area shape="rect" id="node30" href="../../d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4" title="copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x..." alt="" coords="698,1098,831,1125"/><area shape="rect" id="node33" href="../../d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="471,1453,567,1479"/><area shape="rect" id="node39" href="../../de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="runs the tests " alt="" coords="444,1528,595,1569"/><area shape="rect" id="node40" href="../../de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="gets the next test_module in the linked list " alt="" coords="444,1593,595,1635"/><area shape="rect" id="node42" href="../../d4/df8/namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11" title="initalizes acpi os interface " alt="" coords="443,1149,596,1175"/><area shape="rect" id="node43" href="../../d3/d94/namespaceacpi.html#a108413631fd0c1ac59341f21f2542192" title="acpi::find_rsdp" alt="" coords="462,1199,577,1226"/><area shape="rect" id="node44" href="../../da/d01/srcs_2c_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="733,1263,797,1290"/><area shape="rect" id="node45" href="../../d3/d94/namespaceacpi.html#aa4d81533473a32af4e1b8d7a88917fa2" title="acpi::load_table" alt="" coords="458,1250,581,1277"/><area shape="rect" id="node47" href="../../db/d1b/namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="475,1351,564,1378"/><area shape="rect" id="node48" href="../../d0/d7f/namespacehal.html#ac062d1cf22c32480482c2b42fad48791" title="hal::timer_init" alt="" coords="465,1402,574,1429"/></map>
+<area shape="rect" id="node2" href="../../da/d01/srcs_2c_2include_2stdlib_8h.html#a83a727cc697aea22e24cad5f39198dd2" title="srand" alt="" coords="249,211,307,238"/><area shape="rect" id="node3" href="../../d0/d7f/namespacehal.html#ab5df4c291aee732f3af421bb6cdc619a" title="hal::init_mboot" alt="" coords="219,262,337,289"/><area shape="rect" id="node5" href="../../d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="445,743,594,770"/><area shape="rect" id="node17" href="../../d0/d7f/namespacehal.html#a04d71c4fc51d9524effc72614e0d72a1" title="hal::init_arch" alt="" coords="227,642,329,669"/><area shape="rect" id="node19" href="../../d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="727,642,803,669"/><area shape="rect" id="node24" href="../../d7/da2/namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42" title="kernel::heap_init" alt="" coords="455,997,583,1023"/><area shape="rect" id="node27" href="../../d7/da2/namespacekernel.html#a9b8c7cd21c16aa2a1b99091d7fff0ccf" title="kernel::init_fb" alt="" coords="223,921,333,947"/><area shape="rect" id="node29" href="../../d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0" title="kernel::reset_fb" alt="" coords="458,1098,581,1125"/><area shape="rect" id="node31" href="../../d7/da2/namespacekernel.html#ad3347cac35eac3e3e6f58c17d0eef83f" title="kernel::init_tr" alt="" coords="225,389,331,415"/><area shape="rect" id="node32" href="../../d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867" title="kernel::malloc" alt="" coords="222,1237,334,1263"/><area shape="rect" id="node34" href="../../da/d01/srcs_2c_2include_2stdlib_8h.html#a20e50ab9d6b10af0e2940d9419448f42" title="rand" alt="" coords="253,1287,303,1314"/><area shape="rect" id="node35" href="../../d7/da2/namespacekernel.html#abd8a6f1757294d943ed6eda6905b5bbe" title="kernel::bit_blit" alt="" coords="222,1338,334,1365"/><area shape="rect" id="node36" href="../../d0/d7f/namespacehal.html#a79b97ba68d19fbbcb86eb92643b6de0b" title="hal::ready" alt="" coords="235,845,321,871"/><area shape="rect" id="node37" href="../../dd/db0/namespaceunicode_1_1utf8.html#a6ea6cdd47d517d9f5135f67f00348d18" title="turns code_point into a char " alt="" coords="180,1389,376,1415"/><area shape="rect" id="node38" href="../../d7/da2/namespacekernel.html#ae448c0863b01a45ee5afbb927b4a2a8d" title="runs all tests " alt="" coords="231,1439,325,1466"/><area shape="rect" id="node41" href="../../d3/d94/namespaceacpi.html#abd187dd7a26eb81cc468e49987d15c16" title="initalizes the static table portion of acpi " alt="" coords="217,1135,339,1162"/><area shape="rect" id="node46" href="../../d0/d7f/namespacehal.html#a97343ef7c03081ee4ccab69625ab607c" title="hal::init_vendor" alt="" coords="218,1186,338,1213"/><area shape="rect" id="node49" href="../../d2/d70/srcs_2c_2include_2time_8h.html#a68a0e9d22417dfcf9c0be64261352e64" title="asctime" alt="" coords="241,1490,315,1517"/><area shape="rect" id="node50" href="../../d2/d70/srcs_2c_2include_2time_8h.html#ae897ee7729bae1675853975fd5327a07" title="gmtime" alt="" coords="242,1541,314,1567"/><area shape="rect" id="node4" href="../../d0/d7f/namespacehal.html#a70f151d3bf2b559ed7e4045be1c76171" title="hal::w_malloc" alt="" coords="710,186,819,213"/><area shape="rect" id="node8" href="../../d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="955,1098,1033,1125"/><area shape="rect" id="node9" href="../../d0/d7f/namespacehal.html#abea6f4be3270077bbff27c081d400527" title="hal::get_tag" alt="" coords="715,313,814,339"/><area shape="rect" id="node10" href="../../d3/df7/srcs_2c_2include_2string_8h.html#ae8628c986b70205d34a160d2fb740680" title="copies potentially overlapping memory " alt="" coords="473,186,566,213"/><area shape="rect" id="node11" href="../../d0/d7f/namespacehal.html#ae3ecd6da3e8134ff0ec94adbae29f8ff" title="hal::init_phys_mem" alt="" coords="446,85,593,111"/><area shape="rect" id="node6" href="../../d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="722,718,807,745"/><area shape="rect" id="node7" href="../../d3/df7/srcs_2c_2include_2string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="731,769,798,795"/><area shape="rect" id="node12" href="../../d0/d7f/namespacehal.html#a1aac65ed011c32ed5cab5baba89626a8" title="hal::init_type" alt="" coords="713,85,817,111"/><area shape="rect" id="node13" href="../../d0/d7f/namespacehal.html#aa2b7786b42bd5908466754e21839b89e" title="hal::get_tag_count" alt="" coords="694,389,835,415"/><area shape="rect" id="node14" href="../../d0/d7f/namespacehal.html#a3949c3c672c8731a6624f705dbe84cb9" title="hal::add_phys_mem_arch" alt="" coords="671,135,858,162"/><area shape="rect" id="node15" href="../../d0/d7f/namespacehal.html#a8a6f92fb933e2fa576ef55ee7fa571fc" title="hal::add_phys_mem_vendor" alt="" coords="663,34,867,61"/><area shape="rect" id="node16" href="../../d0/d7f/namespacehal.html#af8c5fec085a04b661ba95ff255cc8254" title="hal::add_phys_region" alt="" coords="915,9,1073,35"/><area shape="rect" id="node18" href="../../d0/d7f/namespacehal.html#afc7c86db5f36388e59b4c16a84b3316f" title="hal::init_idt" alt="" coords="474,642,565,669"/><area shape="rect" id="node20" href="../../d7/db0/namespacex64.html#a05a40f22e24c6f83aa17e767776a39ee" title="x64::init_paging" alt="" coords="458,591,581,618"/><area shape="rect" id="node21" href="../../d8/de8/namespacex86__64.html#aaa1cb5ebdd32d87922afd76197d9b978" title="x86_64::init_pfa" alt="" coords="457,693,581,719"/><area shape="rect" id="node22" href="../../d0/d7f/namespacehal.html#ae59f8e43c6f3610cf0df5deb2bfcd449" title="hal::init_virt_mem" alt="" coords="451,490,588,517"/><area shape="rect" id="node23" href="../../d7/db0/namespacex64.html#ab3f41b6c905fa03a19be14e0a5f000a0" title="x64::paging_ready" alt="" coords="449,541,590,567"/><area shape="rect" id="node25" href="../../d0/d7f/namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="668,997,861,1023"/><area shape="rect" id="node26" href="../../d0/d7f/namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="671,1047,858,1074"/><area shape="rect" id="node28" href="../../d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="424,895,615,922"/><area shape="rect" id="node30" href="../../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="698,1098,831,1125"/><area shape="rect" id="node33" href="../../d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="471,1453,567,1479"/><area shape="rect" id="node39" href="../../de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="runs the tests " alt="" coords="444,1528,595,1569"/><area shape="rect" id="node40" href="../../de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="gets the next test_module in the linked list " alt="" coords="444,1593,595,1635"/><area shape="rect" id="node42" href="../../d4/df8/namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11" title="initalizes acpi os interface " alt="" coords="443,1149,596,1175"/><area shape="rect" id="node43" href="../../d3/d94/namespaceacpi.html#a108413631fd0c1ac59341f21f2542192" title="acpi::find_rsdp" alt="" coords="462,1199,577,1226"/><area shape="rect" id="node44" href="../../da/d01/srcs_2c_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392" title="malloc" alt="" coords="733,1263,797,1290"/><area shape="rect" id="node45" href="../../d3/d94/namespaceacpi.html#aa4d81533473a32af4e1b8d7a88917fa2" title="acpi::load_table" alt="" coords="458,1250,581,1277"/><area shape="rect" id="node47" href="../../db/d1b/namespacepc.html#a37c2c289036e54bffc2cffa12758103b" title="pc::init_pic" alt="" coords="475,1351,564,1378"/><area shape="rect" id="node48" href="../../d0/d7f/namespacehal.html#ac062d1cf22c32480482c2b42fad48791" title="hal::timer_init" alt="" coords="465,1402,574,1429"/></map>
 </div>
 </p>
 
@@ -1231,7 +1160,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d7/da2/namespacekernel_a9b8c7cd21c16aa2a1b99091d7fff0ccf_cgraph.png" border="0" usemap="#d7/da2/namespacekernel_a9b8c7cd21c16aa2a1b99091d7fff0ccf_cgraph" alt=""/></div>
 <map name="d7/da2/namespacekernel_a9b8c7cd21c16aa2a1b99091d7fff0ccf_cgraph" id="d7/da2/namespacekernel_a9b8c7cd21c16aa2a1b99091d7fff0ccf_cgraph">
-<area shape="rect" id="node2" href="../../d0/d7f/namespacehal.html#aa2b7786b42bd5908466754e21839b89e" title="hal::get_tag_count" alt="" coords="189,5,330,32"/><area shape="rect" id="node3" href="../../d0/d7f/namespacehal.html#abea6f4be3270077bbff27c081d400527" title="hal::get_tag" alt="" coords="210,56,309,83"/><area shape="rect" id="node4" href="../../d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="185,107,334,133"/><area shape="rect" id="node7" href="../../d0/d7f/namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="163,157,356,184"/><area shape="rect" id="node8" href="../../d0/d7f/namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="166,208,353,235"/><area shape="rect" id="node9" href="../../d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="164,259,355,285"/><area shape="rect" id="node17" href="../../d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0" title="kernel::reset_fb" alt="" coords="198,335,321,361"/><area shape="rect" id="node5" href="../../d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="461,81,547,108"/><area shape="rect" id="node6" href="../../d3/df7/srcs_2c_2include_2string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="471,132,537,159"/><area shape="rect" id="node10" href="../../d2/d70/classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="404,208,604,235"/><area shape="rect" id="node11" href="../../d7/da2/namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="659,56,763,83"/><area shape="rect" id="node12" href="../../d7/db0/namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="652,107,771,133"/><area shape="rect" id="node13" href="../../d7/db0/namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="660,157,763,184"/><area shape="rect" id="node14" href="../../d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="661,208,762,235"/><area shape="rect" id="node15" href="../../d7/db0/namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="657,259,765,285"/><area shape="rect" id="node16" href="../../d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="673,309,749,336"/><area shape="rect" id="node18" href="../../d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4" title="copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x..." alt="" coords="437,347,571,373"/><area shape="rect" id="node19" href="../../d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="672,360,751,387"/></map>
+<area shape="rect" id="node2" href="../../d0/d7f/namespacehal.html#aa2b7786b42bd5908466754e21839b89e" title="hal::get_tag_count" alt="" coords="189,5,330,32"/><area shape="rect" id="node3" href="../../d0/d7f/namespacehal.html#abea6f4be3270077bbff27c081d400527" title="hal::get_tag" alt="" coords="210,56,309,83"/><area shape="rect" id="node4" href="../../d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b" title="hal::print_boot_msg" alt="" coords="185,107,334,133"/><area shape="rect" id="node7" href="../../d0/d7f/namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="163,157,356,184"/><area shape="rect" id="node8" href="../../d0/d7f/namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="166,208,353,235"/><area shape="rect" id="node9" href="../../d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="164,259,355,285"/><area shape="rect" id="node17" href="../../d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0" title="kernel::reset_fb" alt="" coords="198,335,321,361"/><area shape="rect" id="node5" href="../../d0/d7f/namespacehal.html#a34772573cabcacc96a7bba54a50d05ef" title="hal::get_x" alt="" coords="461,81,547,108"/><area shape="rect" id="node6" href="../../d3/df7/srcs_2c_2include_2string_8h.html#a6f3dcb20ff11ff9db5904c3cfb61a38c" title="compares str1 and str2 " alt="" coords="471,132,537,159"/><area shape="rect" id="node10" href="../../d2/d70/classx64_1_1recursive__paging.html#a12e2278c3f62a3d8b8ccb7e39d4095af" title="x64::recursive_paging::map" alt="" coords="404,208,604,235"/><area shape="rect" id="node11" href="../../d7/da2/namespacekernel.html#a96562ec4e1b4b4de264153555975b989" title="kernel::panic" alt="" coords="659,56,763,83"/><area shape="rect" id="node12" href="../../d7/db0/namespacex64.html#af05bdba8caec9bdd104d08dbce354941" title="x64::PDPT_OFF" alt="" coords="652,107,771,133"/><area shape="rect" id="node13" href="../../d7/db0/namespacex64.html#a00c8a9f318395cc325de125463652976" title="x64::PD_OFF" alt="" coords="660,157,763,184"/><area shape="rect" id="node14" href="../../d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535" title="x64::PT_OFF" alt="" coords="661,208,762,235"/><area shape="rect" id="node15" href="../../d7/db0/namespacex64.html#ab55b9bca1afee2ba44e0aba755572c3c" title="x64::invlpage" alt="" coords="657,259,765,285"/><area shape="rect" id="node16" href="../../d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="673,309,749,336"/><area shape="rect" id="node18" href="../../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="437,347,571,373"/><area shape="rect" id="node19" href="../../d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="672,360,751,387"/></map>
 </div>
 </p>
 
@@ -1602,14 +1531,6 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>put a single pixel onto the screen, not reccomended for normal operation </p><dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">x</td><td>x coordinate of pixel </td></tr>
-    <tr><td class="paramname">y</td><td>y coordinate of pixel </td></tr>
-    <tr><td class="paramname">color</td><td>packed color for pixel </td></tr>
-  </table>
-  </dd>
-</dl>
 
 </div>
 </div>
@@ -1657,44 +1578,6 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="aafc4f8f375f470d51684cc6f155df326"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void kernel::reset_fb </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>y</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>w</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>h</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a class="anchor" id="ad0d14b76602f710c46cbc4ea768e18d0"></a>
 <div class="memitem">
 <div class="memproto">
@@ -1713,7 +1596,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d7/da2/namespacekernel_ad0d14b76602f710c46cbc4ea768e18d0_cgraph.png" border="0" usemap="#d7/da2/namespacekernel_ad0d14b76602f710c46cbc4ea768e18d0_cgraph" alt=""/></div>
 <map name="d7/da2/namespacekernel_ad0d14b76602f710c46cbc4ea768e18d0_cgraph" id="d7/da2/namespacekernel_ad0d14b76602f710c46cbc4ea768e18d0_cgraph">
-<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4" title="copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x..." alt="" coords="176,5,309,32"/><area shape="rect" id="node3" href="../../d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="357,5,436,32"/></map>
+<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="176,5,309,32"/><area shape="rect" id="node3" href="../../d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="357,5,436,32"/></map>
 </div>
 </p>
 
@@ -2041,6 +1924,30 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
+<a class="anchor" id="ad6ee0f9516c4104a21768effa4c19413"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int kernel::buffer_addr</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a92aa3ce1a605aa3a06f67e4ee28565d9"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/ddb/structkernel_1_1buffer__param.html">buffer_param</a> <a class="el" href="../../d7/ddb/structkernel_1_1buffer__param.html">kernel::buffer_param</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="af37f81d7fed238d964c9db1625c36f20"></a>
 <div class="memitem">
 <div class="memproto">
@@ -2103,6 +2010,18 @@ Here is the caller graph for this function:</div>
       <table class="memname">
         <tr>
           <td class="memname">struct <a class="el" href="../../d3/da9/structkernel_1_1mbf__head.html">kernel::mbf_head</a> * kernel::head</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="ada8a67f334c346e024db0d9d14697b9c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int kernel::height</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2185,6 +2104,18 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
+<a class="anchor" id="a1e33bd7971213bf9b36c16ed8a4f48b8"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int kernel::stride</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a2f1574c6da833f803022d7206ffb2e00"></a>
 <div class="memitem">
 <div class="memproto">
@@ -2217,13 +2148,25 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
+<a class="anchor" id="aac025f9c0356efe4bfed38f657075b07"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="../../d7/ddb/structkernel_1_1buffer__param.html">kernel::buffer_param</a> kernel::width</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/da2/namespacekernel.html">kernel</a></li>
-    <li class="footer">Generated on Sun Mar 22 2015 15:30:11 for MOSSY by
+    <li class="footer">Generated on Sun Mar 22 2015 18:00:13 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>

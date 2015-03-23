@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['debug_5flevel',['debug_level',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8aff',1,'std']]]
+  ['encoding',['encoding',['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd',1,'unicode::encoding()'],['../d9/df7/namespaceunicode.html#a6db0bb929719ee226bd7bf7d0915c1fd',1,'unicode::encoding()']]]
 ];

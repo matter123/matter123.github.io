@@ -1,5 +1,5 @@
 <map id="std::cls" name="std::cls">
 <area shape="rect" id="node2" href="$d7/da2/namespacekernel.html#ad0d14b76602f710c46cbc4ea768e18d0" title="kernel::reset_fb" alt="" coords="120,5,243,32"/>
-<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4" title="copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x..." alt="" coords="291,5,424,32"/>
+<area shape="rect" id="node3" href="$d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="291,5,424,32"/>
 <area shape="rect" id="node4" href="$d3/df7/srcs_2c_2include_2string_8h.html#aeb83c95b0cdfdc603d71f23328f14cb1" title="copies memory " alt="" coords="472,5,551,32"/>
 </map>

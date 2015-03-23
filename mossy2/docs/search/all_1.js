@@ -34,7 +34,6 @@ var searchData=
   ['alloc_5ffunc',['alloc_func',['../d2/d70/classx64_1_1recursive__paging.html#a70db1e461aeb1272d650c2021ce09175',1,'x64::recursive_paging::alloc_func()'],['../d4/db3/classx86_1_1recursive__paging.html#a10ce6da8550b6e30cfdbfb3fba6af2e3',1,'x86::recursive_paging::alloc_func()']]],
   ['aml_5flength',['aml_length',['../d9/dae/structacpi_1_1DSDT.html#af767c89474f7e7c8c0c84968fd63dfd1',1,'acpi::DSDT::aml_length()'],['../d4/d08/structacpi_1_1SSDT.html#ad537faa8eebbc55930c6f76fa3a5b9c5',1,'acpi::SSDT::aml_length()']]],
   ['aml_5flocation',['aml_location',['../d9/dae/structacpi_1_1DSDT.html#ad3aa727df12e1e45bed679e6f72edd26',1,'acpi::DSDT::aml_location()'],['../d4/d08/structacpi_1_1SSDT.html#a83116800a4353704f2e1ae2b655a7f90',1,'acpi::SSDT::aml_location()']]],
-  ['and',['AND',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31ac12d9237207eecf2239bbdd4f96a5c00',1,'kernel']]],
   ['apic_5fid',['APIC_ID',['../da/d8d/structacpi_1_1local__APIC.html#a988da9438f99771d1fc1f0b1677acadd',1,'acpi::local_APIC::APIC_ID()'],['../df/d27/structacpi_1_1IO__APIC.html#ad1845836974ae7f7ebcf2c764132ad6c',1,'acpi::IO_APIC::APIC_ID()']]],
   ['appliance_5fpc',['APPLIANCE_PC',['../d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56ad137addd101b8af084bfc3159a54e1f5',1,'acpi::FADT']]],
   ['arch_2eh',['arch.h',['../d2/d2d/arch_8h.html',1,'']]],

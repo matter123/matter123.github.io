@@ -1,9 +1,7 @@
 var searchData=
 [
-  ['desktop',['DESKTOP',['../d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56ab949c85fd3634b7858cac8f0ea80fee8',1,'acpi::FADT']]],
-  ['dl_5fcritical',['dl_critical',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8affac25085a53b4762533b9d88d44f3727c4',1,'std']]],
-  ['dl_5ferror',['dl_error',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8affa1df8f058c8148045000e126f8f6497d9',1,'std']]],
-  ['dl_5finfo',['dl_info',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8affa1e85a42159cfcd33ae693ba8fd03ee80',1,'std']]],
-  ['dl_5foff',['dl_off',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8affa887a9af51c015b27d5b627a232f76e7e',1,'std']]],
-  ['dl_5fwarning',['dl_warning',['../d8/dcc/namespacestd.html#a5aa5422365f41125cf66691158bb8affa3ab0470f9edf976586f8f201aedd9a12',1,'std']]]
+  ['bgr',['BGR',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07ba192038bf20cb3ec4ece1394c48d1da86',1,'kernel::buffer_param']]],
+  ['bgr_5f16',['BGR_16',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07ba8e2393dde4d9ce211e8f89007623afe9',1,'kernel::buffer_param']]],
+  ['bgrx',['BGRX',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07bab6dc5eb6330f6dec6e4af4aaa5e4a0f1',1,'kernel::buffer_param']]],
+  ['bgrx_5f16',['BGRX_16',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07ba7cd0b375a222981238fbdd7242f4c2d6',1,'kernel::buffer_param']]]
 ];

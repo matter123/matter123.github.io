@@ -38,7 +38,7 @@
 <area shape="rect" id="node25" href="$d0/d7f/namespacehal.html#a0ab13b6200ad0bd5ddb3d2ffab78c717" title="hal::get_virt_mem_regions" alt="" coords="668,997,861,1023"/>
 <area shape="rect" id="node26" href="$d0/d7f/namespacehal.html#a7ceccbcb8b467634743c0c74731f2ac1" title="hal::get_virt_mem_region" alt="" coords="671,1047,858,1074"/>
 <area shape="rect" id="node28" href="$d0/d7f/namespacehal.html#afd0e8bfc17958bfc4b9d0f33244f3dd7" title="hal::map_phys_to_virt_cur" alt="" coords="424,895,615,922"/>
-<area shape="rect" id="node30" href="$d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4" title="copies rect_buf onto the screen at x, y copies the pixels from src_buf onto the screen at x..." alt="" coords="698,1098,831,1125"/>
+<area shape="rect" id="node30" href="$d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be" title="kernel::copy_rect" alt="" coords="698,1098,831,1125"/>
 <area shape="rect" id="node33" href="$d7/da2/namespacekernel.html#a35990e81f3e169a134faf78ae35ddc70" title="kernel::split" alt="" coords="471,1453,567,1479"/>
 <area shape="rect" id="node39" href="$de/d97/classkernel_1_1test__module.html#ad4254a2cf875130f774b17c0f7f4053d" title="runs the tests " alt="" coords="444,1528,595,1569"/>
 <area shape="rect" id="node40" href="$de/d97/classkernel_1_1test__module.html#a75098c2329bfb5926adf5fb09601e7b1" title="gets the next test_module in the linked list " alt="" coords="444,1593,595,1635"/>

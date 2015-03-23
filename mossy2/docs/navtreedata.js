@@ -44,12 +44,12 @@ var NAVTREEINDEX =
 "d3/d0e/x64_2idt_8h.html",
 "d4/d38/sys_2tasks_8cpp.html#aa60b33805708791a7818c26c2b87fcdc",
 "d7/d20/structhal_1_1multiboot__tag.html#a99dd1022ce626f22ce20513fe8847ae3",
-"d9/d5a/mmap_8h.html#a0ab13b6200ad0bd5ddb3d2ffab78c717",
-"da/dc3/acpi__os_8cpp.html#aaa02bf3a23b409a4a56d7352f741288f",
-"dc/d34/arch_2x86__64_2int_8h.html#a50119b73e8b7e2f916c72ebc6ef32c28",
-"dc/de0/structacpi_1_1SDT.html#a1ff5fa333cf733a2b8ccd1ee232f8356",
-"df/ddb/classstd_1_1shared__ptr.html#a05cb418f2a11ef7a6d0b5429dd228fbc",
-"namespacemembers_type.html"
+"d9/d51/structhal_1_1multiboot__module.html#a2c940d511d9d7d44c2f92f2d72593915",
+"da/d9b/structcpu__state.html#ab77bc752139b91a10554451d1da5e27d",
+"dc/d34/arch_2x86__64_2int_8h.html#a51b6c7144eb3e0e3ea67ae624af1705e",
+"dc/de0/structacpi_1_1SDT.html#a3af4c12ecf0545cc4c8e23c72c5d759a",
+"df/ddb/classstd_1_1shared__ptr.html#a1a7e1c3ab5154e771577d2f4ad974a4b",
+"namespacemembers_vars.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

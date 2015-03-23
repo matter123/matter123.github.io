@@ -42,7 +42,7 @@ var searchData=
   ['convert',['convert',['../d9/df7/namespaceunicode.html#ab0250a3e635f90d069330c00bf9474cf',1,'unicode']]],
   ['copy_2ecpp',['copy.cpp',['../d9/d54/copy_8cpp.html',1,'']]],
   ['copy_5fcodeunit',['copy_codeunit',['../d9/df7/namespaceunicode.html#ae529271be7b5e635f3a560fe2171b375',1,'unicode']]],
-  ['copy_5frect',['copy_rect',['../d7/da2/namespacekernel.html#afbe66915e4138451ea4d0ce37a5de7e4',1,'kernel::copy_rect(int dest_x, int dest_y, int w, int h, void *rect_buf)'],['../d7/da2/namespacekernel.html#afe9157b4d21ba4a63432f0a7844890af',1,'kernel::copy_rect(int src_x, int src_y, int w, int h, int dest_x, int dest_y)']]],
+  ['copy_5frect',['copy_rect',['../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be',1,'kernel::copy_rect(int x, int y, int w, int h, void *rect_buf)'],['../d7/da2/namespacekernel.html#afe9157b4d21ba4a63432f0a7844890af',1,'kernel::copy_rect(int src_x, int src_y, int w, int h, int dest_x, int dest_y)']]],
   ['cos',['cos',['../d2/def/srcs_2c_2include_2math_8h.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp'],['../dd/d2d/math_8cpp.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp'],['../d6/dcb/sysroot_2usr_2include_2math_8h.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp']]],
   ['count',['count',['../df/ddb/classstd_1_1shared__ptr.html#a05cb418f2a11ef7a6d0b5429dd228fbc',1,'std::shared_ptr::count()'],['../d8/de8/namespacex86__64.html#a400047baf98b949833df227c907d7a1e',1,'x86_64::count()'],['../d0/d7f/namespacehal.html#a5480a292d2e7a8631d1c4712058078a9',1,'hal::count()']]],
   ['cout',['cout',['../d0/d7f/namespacehal.html#a313e0ab6d0735538fa42c52df5b947b8',1,'hal']]],
