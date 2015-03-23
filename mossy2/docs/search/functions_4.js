@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['darken',['darken',['../d7/da2/namespacekernel.html#a336fb54f1e8fa98a32288bbfcb85b89c',1,'kernel']]],
   ['debug',['debug',['../d8/dcc/namespacestd.html#a25b422e2a18c02cd925f693e65550a18',1,'std']]],
   ['debug_5freport_5flevel',['debug_report_level',['../d8/dcc/namespacestd.html#a0c72e3e140c77750bcf74174f57ef9c7',1,'std']]],
   ['decode_5fchar',['decode_char',['../dd/db0/namespaceunicode_1_1utf8.html#a62dace2fd119e006a2016990ea24fc46',1,'unicode::utf8']]],

@@ -9,14 +9,13 @@ var searchData=
   ['big',['big',['../d7/d6d/structx86_1_1recursive__paging_1_1pde.html#a37fc2b3130542c3a3331563ad7a6e6ff',1,'x86::recursive_paging::pde']]],
   ['bin',['bin',['../d0/d7f/namespacehal.html#afc2d55fad65f51740246f2324b5a843a',1,'hal']]],
   ['bitmap',['bitmap',['../d4/df8/namespaceacpi_1_1os.html#aaa02bf3a23b409a4a56d7352f741288f',1,'acpi::os::bitmap()'],['../d7/da2/namespacekernel.html#ac2785caed558fc14275ab3bc3ec84ddb',1,'kernel::bitmap()']]],
-  ['black',['BLACK',['../d3/d75/namespacestd_1_1TC.html#a368e55b3e3649ec56d2598e7366f98fa',1,'std::TC']]],
-  ['blue',['blue',['../d7/d10/structhal_1_1multiboot__palette.html#ae0affb38d3c27f754196171a35104a6f',1,'hal::multiboot_palette::blue()'],['../d3/d75/namespacestd_1_1TC.html#a4c6b5b12ed2c662a5ac79437c62f3ad8',1,'std::TC::BLUE()']]],
+  ['black',['black',['../d9/d0d/namespacekernel_1_1colors.html#a2bb13a829a5931e112bceebced85f410',1,'kernel::colors::black()'],['../d3/d75/namespacestd_1_1TC.html#a368e55b3e3649ec56d2598e7366f98fa',1,'std::TC::BLACK()']]],
+  ['blue',['blue',['../d7/d10/structhal_1_1multiboot__palette.html#ae0affb38d3c27f754196171a35104a6f',1,'hal::multiboot_palette::blue()'],['../d7/da2/namespacekernel.html#a8eb815061cb5ebe942b6547295a995e8',1,'kernel::blue()'],['../d9/d0d/namespacekernel_1_1colors.html#a09a5bd7b5249a6dcd4be5d8c142d95b0',1,'kernel::colors::blue()'],['../d3/d75/namespacestd_1_1TC.html#a4c6b5b12ed2c662a5ac79437c62f3ad8',1,'std::TC::BLUE()']]],
   ['blue_5fmask',['blue_mask',['../d2/d2e/structhal_1_1multiboot__ci__1.html#a381104e218061f1e62c33e7da7cc08cf',1,'hal::multiboot_ci_1']]],
   ['blue_5fpos',['blue_pos',['../d2/d2e/structhal_1_1multiboot__ci__1.html#af068765927bba819bc6735b443adf63a',1,'hal::multiboot_ci_1']]],
   ['bootinfo',['bootinfo',['../df/d4e/classhal_1_1mem__type.html#a101fab5aa776135084026642be8511cb',1,'hal::mem_type']]],
   ['bpp',['bpp',['../d1/d11/structhal_1_1multiboot__fb.html#a93653682ea0eb51497760c31f99dabdc',1,'hal::multiboot_fb::bpp()'],['../d4/de7/structkernel_1_1fb__info.html#a900e53c7d4d512c1c18248e1cb74e568',1,'kernel::fb_info::bpp()']]],
   ['buf',['buf',['../d3/d75/namespacestd_1_1TC.html#a6bb6f38882ea438ca58b0e352899b8a1',1,'std::TC']]],
-  ['buffer_5faddr',['buffer_addr',['../d7/da2/namespacekernel.html#ad6ee0f9516c4104a21768effa4c19413',1,'kernel']]],
-  ['buffer_5fparam',['buffer_param',['../d7/da2/namespacekernel.html#a92aa3ce1a605aa3a06f67e4ee28565d9',1,'kernel']]],
+  ['buffer_5faddr',['buffer_addr',['../d0/d93/classkernel_1_1buffer.html#a03af7ada0b6dd50057f0f6c275c2cc07',1,'kernel::buffer::buffer_addr()'],['../dc/d25/fb_8h.html#a293660d1a02add45564ddf3f449ef9a0',1,'buffer_addr():&#160;fb.h']]],
   ['byte_5forder',['byte_order',['../d0/d7f/namespacehal.html#af25009464e4501d3c509c87f19dbb842',1,'hal']]]
 ];

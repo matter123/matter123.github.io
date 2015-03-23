@@ -1,6 +1,6 @@
 var namespacekernel =
 [
-    [ "buffer_param", "d7/ddb/structkernel_1_1buffer__param.html", "d7/ddb/structkernel_1_1buffer__param" ],
+    [ "buffer", "d0/d93/classkernel_1_1buffer.html", "d0/d93/classkernel_1_1buffer" ],
     [ "fb_info", "d4/de7/structkernel_1_1fb__info.html", "d4/de7/structkernel_1_1fb__info" ],
     [ "glyph_int", "da/dcc/structkernel_1_1glyph__int.html", "da/dcc/structkernel_1_1glyph__int" ],
     [ "HEAD", "d4/d48/structkernel_1_1HEAD.html", "d4/d48/structkernel_1_1HEAD" ],

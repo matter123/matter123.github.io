@@ -4,7 +4,7 @@ var searchData=
   ['madt',['MADT',['../d9/d66/structacpi_1_1ACPI.html#acd818e21a2d5a896ecf549c680fdee99',1,'acpi::ACPI']]],
   ['madt_2eh',['MADT.h',['../dd/d91/MADT_8h.html',1,'']]],
   ['madt_5fentry',['MADT_entry',['../db/dcf/structacpi_1_1MADT__entry.html',1,'acpi']]],
-  ['magenta',['MAGENTA',['../d3/d75/namespacestd_1_1TC.html#a2f7c0f1615ecdc2fceb4adeb717ff960',1,'std::TC']]],
+  ['magenta',['magenta',['../d9/d0d/namespacekernel_1_1colors.html#a830e259c3cf07e3fb3f82d6fbe201961',1,'kernel::colors::magenta()'],['../d3/d75/namespacestd_1_1TC.html#a2f7c0f1615ecdc2fceb4adeb717ff960',1,'std::TC::MAGENTA()']]],
   ['magic',['magic',['../d4/d48/structkernel_1_1HEAD.html#a9830aec9e696af31276ff66bbc20c991',1,'kernel::HEAD::magic()'],['../d3/da9/structkernel_1_1mbf__head.html#a16f3b33591a5208ef0451da956914560',1,'kernel::mbf_head::magic()']]],
   ['magic_5fbreak',['magic_break',['../d0/d7f/namespacehal.html#a19733e5a1a5319869f72f44774aeac1e',1,'hal']]],
   ['malloc',['malloc',['../da/d01/srcs_2c_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392',1,'malloc():&#160;heap.cpp'],['../d7/da2/namespacekernel.html#a458d07569731e28b3d9a25c046150867',1,'kernel::malloc()'],['../db/d3c/sysroot_2usr_2include_2stdlib_8h.html#a7ac38fce3243a7dcf448301ee9ffd392',1,'malloc():&#160;heap.cpp']]],

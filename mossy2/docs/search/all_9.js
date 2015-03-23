@@ -13,6 +13,7 @@ var searchData=
   ['idtr',['IDTR',['../db/d2e/structx64_1_1IDTR.html',1,'x64']]],
   ['idtr',['idtr',['../d0/d7f/namespacehal.html#a4601cbebb9f7feab2ff11156c37326c2',1,'hal']]],
   ['ign',['ign',['../d9/d2d/structx64_1_1recursive__paging_1_1pde.html#a71d3027db1770299759cade949405a53',1,'x64::recursive_paging::pde::ign()'],['../dd/d42/structx64_1_1recursive__paging_1_1pdpte.html#a83c1f15b4d59a32539b9d33ac80118ef',1,'x64::recursive_paging::pdpte::ign()'],['../de/dba/structx64_1_1recursive__paging_1_1pml4e.html#a286d313695d44316ddfa9a2db95a3c35',1,'x64::recursive_paging::pml4e::ign()']]],
+  ['ignore',['IGNORE',['../d7/da2/namespacekernel.html#a609f4f38382975bf71ebdc05ec3a40f9a8b8750d626cc1f200629da73bb52c9da',1,'kernel']]],
   ['inb',['inb',['../dc/dac/io_8h.html#a0223c8898dfec29069879dc51076e28a',1,'io.h']]],
   ['init',['init',['../d2/d70/classx64_1_1recursive__paging.html#a07f9bd82d5fd0539276c175f3f596350',1,'x64::recursive_paging::init()'],['../d4/db3/classx86_1_1recursive__paging.html#ae08058ef5695ad6402c2df7afe858cea',1,'x86::recursive_paging::init()'],['../d7/db0/namespacex64.html#a575557386534fb9cd595d7427a71e225',1,'x64::init()'],['../d1/d08/namespacex86.html#a097f25f0a93b122e21ab7ebf7115434d',1,'x86::init()'],['../d7/da2/namespacekernel.html#afa148d05e51d7847edb108cf991d3b17',1,'kernel::init()']]],
   ['init_5facpi_5fos',['init_acpi_os',['../d4/df8/namespaceacpi_1_1os.html#a7fe890295fc09985e0dcf4d894e51a11',1,'acpi::os']]],
@@ -70,7 +71,7 @@ var searchData=
   ['ist',['IST',['../da/dd2/structx64_1_1idt__entry.html#a29ece6fee6c7425b5c7c47a94eb1d090',1,'x64::idt_entry']]],
   ['isupper',['isupper',['../d3/d7c/ctype_8cpp.html#adadd6582d46775aab6a51e29d16d9f77',1,'isupper(int c):&#160;ctype.cpp'],['../dc/d92/srcs_2c_2include_2ctype_8h.html#adadd6582d46775aab6a51e29d16d9f77',1,'isupper(int c):&#160;ctype.cpp'],['../d6/d72/sysroot_2usr_2include_2ctype_8h.html#adadd6582d46775aab6a51e29d16d9f77',1,'isupper(int c):&#160;ctype.cpp']]],
   ['isxdigit',['isxdigit',['../d3/d7c/ctype_8cpp.html#adaf3aadefe3fc4fb07b6be0d7b880f53',1,'isxdigit(int c):&#160;ctype.cpp'],['../dc/d92/srcs_2c_2include_2ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53',1,'isxdigit(int c):&#160;ctype.cpp'],['../d6/d72/sysroot_2usr_2include_2ctype_8h.html#adaf3aadefe3fc4fb07b6be0d7b880f53',1,'isxdigit(int c):&#160;ctype.cpp']]],
-  ['iterators_2eh',['iterators.h',['../d2/dca/srcs_2unicode_2include_2iterators_8h.html',1,'']]],
   ['iterators_2eh',['iterators.h',['../d2/d54/sysroot_2usr_2include_2iterators_8h.html',1,'']]],
+  ['iterators_2eh',['iterators.h',['../d2/dca/srcs_2unicode_2include_2iterators_8h.html',1,'']]],
   ['itoa',['itoa',['../da/d01/srcs_2c_2include_2stdlib_8h.html#ab42640268f26e065efd044cfe80591bd',1,'itoa(int value, char *str, int base):&#160;stdlib.cpp'],['../da/d5c/stdlib_8cpp.html#ab42640268f26e065efd044cfe80591bd',1,'itoa(int value, char *str, int base):&#160;stdlib.cpp'],['../db/d3c/sysroot_2usr_2include_2stdlib_8h.html#ab42640268f26e065efd044cfe80591bd',1,'itoa(int value, char *str, int base):&#160;stdlib.cpp']]]
 ];

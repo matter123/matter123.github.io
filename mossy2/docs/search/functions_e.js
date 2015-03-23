@@ -5,6 +5,7 @@ var searchData=
   ['paging_5fready',['paging_ready',['../d7/db0/namespacex64.html#ab3f41b6c905fa03a19be14e0a5f000a0',1,'x64::paging_ready()'],['../d1/d08/namespacex86.html#ae66fdff887eb0aa5c239781f52e83906',1,'x86::paging_ready()']]],
   ['pair',['pair',['../d8/d71/structstd_1_1pair.html#a11f27f5b1fcaaa9727e21713dbcf6397',1,'std::pair::pair()'],['../d8/d71/structstd_1_1pair.html#ad1e477b2e6998daf57f9e5c871841422',1,'std::pair::pair(const T1 &amp;first, const T2 &amp;second)'],['../d8/d71/structstd_1_1pair.html#a567d5c9e1f4168e38efc94c1dafa045a',1,'std::pair::pair(U1 &amp;&amp;x, U2 &amp;&amp;)'],['../d8/d71/structstd_1_1pair.html#a11f27f5b1fcaaa9727e21713dbcf6397',1,'std::pair::pair()'],['../d8/d71/structstd_1_1pair.html#ad1e477b2e6998daf57f9e5c871841422',1,'std::pair::pair(const T1 &amp;first, const T2 &amp;second)'],['../d8/d71/structstd_1_1pair.html#a567d5c9e1f4168e38efc94c1dafa045a',1,'std::pair::pair(U1 &amp;&amp;x, U2 &amp;&amp;)']]],
   ['panic',['panic',['../d7/da2/namespacekernel.html#a96562ec4e1b4b4de264153555975b989',1,'kernel::panic() __attribute__((noreturn))'],['../d7/da2/namespacekernel.html#aa38f4bf0908256f59d09f52a167625bd',1,'kernel::panic(uint32_t code) __attribute__((noreturn))'],['../d7/da2/namespacekernel.html#a06e4bb2a4c3c1b84eb40150ee3268f41',1,'kernel::panic(const char *msg) __attribute__((noreturn))'],['../d7/da2/namespacekernel.html#ab5cf9b81e08d7fe019f846f38ce94424',1,'kernel::panic(const char *file, uint32_t line) __attribute__((noreturn))']]],
+  ['pastel',['pastel',['../d7/da2/namespacekernel.html#a1666886d7dfaf8d85ec4440d44d72649',1,'kernel']]],
   ['pd_5foff',['PD_OFF',['../d7/db0/namespacex64.html#a00c8a9f318395cc325de125463652976',1,'x64']]],
   ['pdpt_5foff',['PDPT_OFF',['../d7/db0/namespacex64.html#af05bdba8caec9bdd104d08dbce354941',1,'x64']]],
   ['phys_5ffrom_5fvirt',['phys_from_virt',['../d0/d7f/namespacehal.html#aa6d7cec673e4a4ea06601327ba2642b9',1,'hal']]],
@@ -19,5 +20,6 @@ var searchData=
   ['print_5fboot_5fmsg',['print_boot_msg',['../d0/d7f/namespacehal.html#ae21f395a9732aff65b70f56dc8a7ed8b',1,'hal::print_boot_msg(const char *level, const char *app, const char *msg)'],['../d0/d7f/namespacehal.html#a7854e96165a7643b4d804d9b779e822a',1,'hal::print_boot_msg(const char *msg, bool ok, bool hlt)']]],
   ['printc',['printc',['../d0/d7f/namespacehal.html#a3007f0b6b8976a4ca6d611ad4c3baa95',1,'hal']]],
   ['pt_5foff',['PT_OFF',['../d7/db0/namespacex64.html#af20e210d736078ef94fe38662edf4535',1,'x64']]],
+  ['pure',['pure',['../d7/da2/namespacekernel.html#a2e69ea4b3ef93380cc3742362ccf9ceb',1,'kernel']]],
   ['put_5fpixel',['put_pixel',['../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75',1,'kernel']]]
 ];

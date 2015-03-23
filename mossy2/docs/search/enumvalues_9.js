@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['read_5fonly',['READ_ONLY',['../d7/ddb/structkernel_1_1buffer__param.html#aed0bd8ea3c8ea64e2694eadb0ddf25b8a6b8c9156529192c6787fcc238e005b4c',1,'kernel::buffer_param']]],
-  ['read_5fwrite',['READ_WRITE',['../d7/ddb/structkernel_1_1buffer__param.html#aed0bd8ea3c8ea64e2694eadb0ddf25b8ac0ed2fa0b67c3512e63d957f318b2e2f',1,'kernel::buffer_param']]],
-  ['rgb',['RGB',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07baae2df3555788393944fb5c5a67863fb3',1,'kernel::buffer_param']]],
-  ['rgb_5f16',['RGB_16',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07bab5c289b3d406287b54ffd855211d5171',1,'kernel::buffer_param']]]
+  ['read_5fonly',['READ_ONLY',['../d7/da2/namespacekernel.html#a1e864bc4ad2cfc62539a22b35c549059ad35ac5458b512b0ec60faa390febad88',1,'kernel']]],
+  ['read_5fwrite',['READ_WRITE',['../d7/da2/namespacekernel.html#a1e864bc4ad2cfc62539a22b35c549059a29f68473b1ba7afcc78c32d04d8f8683',1,'kernel']]],
+  ['rgb',['RGB',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9a5a3455ceaccf52b67ce59a9ee9d170c1',1,'kernel']]],
+  ['rgb_5f16',['RGB_16',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9a22cccce7b0549febc1e01856e1e6bc7b',1,'kernel']]]
 ];

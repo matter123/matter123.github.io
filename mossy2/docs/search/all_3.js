@@ -32,7 +32,7 @@ var searchData=
   ['codeunits',['codeunits',['../d2/d47/classunicode_1_1codeunits.html#a6f911153a736ac4258e1ee42d8fbb8be',1,'unicode::codeunits::codeunits(char *string)'],['../d2/d47/classunicode_1_1codeunits.html#a6f911153a736ac4258e1ee42d8fbb8be',1,'unicode::codeunits::codeunits(char *string)']]],
   ['codeunits_2ecpp',['codeunits.cpp',['../d9/d37/codeunits_8cpp.html',1,'']]],
   ['col',['col',['../da/dcc/structkernel_1_1glyph__int.html#a11e6edcc34213666803572890109f888',1,'kernel::glyph_int']]],
-  ['color',['color',['../d7/d79/classhal_1_1ostream.html#a022f5ed3efa9e73768eb77be6c7e9eac',1,'hal::ostream']]],
+  ['color',['color',['../d7/d79/classhal_1_1ostream.html#a022f5ed3efa9e73768eb77be6c7e9eac',1,'hal::ostream::color()'],['../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3',1,'kernel::color()']]],
   ['combine',['combine',['../db/d9c/classhal_1_1ios__base.html#aaf2aeba0ba7971c7fc7dc07c6bdbf705',1,'hal::ios_base']]],
   ['compare_2ecpp',['compare.cpp',['../d8/d69/compare_8cpp.html',1,'']]],
   ['console_2ecpp',['console.cpp',['../d9/dda/console_8cpp.html',1,'']]],
@@ -42,10 +42,13 @@ var searchData=
   ['convert',['convert',['../d9/df7/namespaceunicode.html#ab0250a3e635f90d069330c00bf9474cf',1,'unicode']]],
   ['copy_2ecpp',['copy.cpp',['../d9/d54/copy_8cpp.html',1,'']]],
   ['copy_5fcodeunit',['copy_codeunit',['../d9/df7/namespaceunicode.html#ae529271be7b5e635f3a560fe2171b375',1,'unicode']]],
+  ['copy_5ffrom',['copy_from',['../d0/d93/classkernel_1_1buffer.html#a80a6692dc81cadb12ef51a430618282b',1,'kernel::buffer::copy_from()'],['../dc/d25/fb_8h.html#ac885c82b0fde076f773d01a1246d550c',1,'copy_from():&#160;fb.h']]],
+  ['copy_5fmode',['copy_mode',['../d7/da2/namespacekernel.html#a609f4f38382975bf71ebdc05ec3a40f9',1,'kernel']]],
   ['copy_5frect',['copy_rect',['../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be',1,'kernel::copy_rect(int x, int y, int w, int h, void *rect_buf)'],['../d7/da2/namespacekernel.html#afe9157b4d21ba4a63432f0a7844890af',1,'kernel::copy_rect(int src_x, int src_y, int w, int h, int dest_x, int dest_y)']]],
   ['cos',['cos',['../d2/def/srcs_2c_2include_2math_8h.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp'],['../dd/d2d/math_8cpp.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp'],['../d6/dcb/sysroot_2usr_2include_2math_8h.html#ac7a1183c29d9d3cd34e73d7cb2213b8a',1,'cos(double angle):&#160;math.cpp']]],
   ['count',['count',['../df/ddb/classstd_1_1shared__ptr.html#a05cb418f2a11ef7a6d0b5429dd228fbc',1,'std::shared_ptr::count()'],['../d8/de8/namespacex86__64.html#a400047baf98b949833df227c907d7a1e',1,'x86_64::count()'],['../d0/d7f/namespacehal.html#a5480a292d2e7a8631d1c4712058078a9',1,'hal::count()']]],
   ['cout',['cout',['../d0/d7f/namespacehal.html#a313e0ab6d0735538fa42c52df5b947b8',1,'hal']]],
+  ['cow',['cow',['../d0/d93/classkernel_1_1buffer.html#af0dc110d1847a914b2f1367b876e5e15',1,'kernel::buffer::cow()'],['../dc/d25/fb_8h.html#a34601acd654ad832cf35c0957c01282a',1,'cow():&#160;fb.h']]],
   ['cpu_5fstate',['cpu_state',['../da/d9b/structcpu__state.html',1,'cpu_state'],['../db/db7/structkernel_1_1thread__info.html#afbb9ae3c7d61cce6a2ae83bced998101',1,'kernel::thread_info::cpu_state()']]],
   ['cpu_5fstuff_2eh',['cpu_stuff.h',['../d7/da4/cpu__stuff_8h.html',1,'']]],
   ['cpuid',['cpuid',['../d7/da4/cpu__stuff_8h.html#ae95c9bac436fc0c33204e878437fba46',1,'cpu_stuff.h']]],
@@ -60,7 +63,7 @@ var searchData=
   ['cs',['cs',['../da/d9b/structcpu__state.html#aa7a7ee085e6d2fc267857d8147d6cb61',1,'cpu_state']]],
   ['cst_5fcontrol_5fvalue',['CST_control_value',['../d3/d53/structacpi_1_1FADT.html#aa0fcad1c3cda46ee86fbca1501919a93',1,'acpi::FADT']]],
   ['ctype_2ecpp',['ctype.cpp',['../d3/d7c/ctype_8cpp.html',1,'']]],
-  ['ctype_2eh',['ctype.h',['../d6/d72/sysroot_2usr_2include_2ctype_8h.html',1,'']]],
   ['ctype_2eh',['ctype.h',['../dc/d92/srcs_2c_2include_2ctype_8h.html',1,'']]],
-  ['cyan',['CYAN',['../d3/d75/namespacestd_1_1TC.html#ae18f558965edbeefd106f1c9e58d06eb',1,'std::TC']]]
+  ['ctype_2eh',['ctype.h',['../d6/d72/sysroot_2usr_2include_2ctype_8h.html',1,'']]],
+  ['cyan',['cyan',['../d9/d0d/namespacekernel_1_1colors.html#ad79a7421f6f105b5330b692c6d206f81',1,'kernel::colors::cyan()'],['../d3/d75/namespacestd_1_1TC.html#ae18f558965edbeefd106f1c9e58d06eb',1,'std::TC::CYAN()']]]
 ];

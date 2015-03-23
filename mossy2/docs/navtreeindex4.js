@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"d9/d51/structhal_1_1multiboot__module.html":[3,0,1,12],
 "d9/d51/structhal_1_1multiboot__module.html#a2c940d511d9d7d44c2f92f2d72593915":[3,0,1,12,0],
 "d9/d51/structhal_1_1multiboot__module.html#a6744e433dba2e86a71ab23c3359a276c":[3,0,1,12,3],
 "d9/d51/structhal_1_1multiboot__module.html#a6d1029f3da9287ca3a5902255a641a69":[3,0,1,12,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "da/d9b/structcpu__state.html#a9c36d2825cb0a67536558fef801de6da":[3,0,7,31],
 "da/d9b/structcpu__state.html#a9dc303e99da1986d981297d6acdbd79e":[3,0,7,15],
 "da/d9b/structcpu__state.html#aa7a7ee085e6d2fc267857d8147d6cb61":[3,0,7,5],
-"da/d9b/structcpu__state.html#ab05344fbb0edbab9ad475438bc7f855a":[3,0,7,2],
-"da/d9b/structcpu__state.html#ab2cdafb7d8d85e2c251ceff7dc48353a":[3,0,7,36]
+"da/d9b/structcpu__state.html#ab05344fbb0edbab9ad475438bc7f855a":[3,0,7,2]
 };

@@ -23,6 +23,6 @@ var searchData=
   ['heap_2ecpp',['heap.cpp',['../de/d90/heap_8cpp.html',1,'']]],
   ['heap_2eh',['heap.h',['../da/ddb/heap_8h.html',1,'']]],
   ['heap_5finit',['heap_init',['../d7/da2/namespacekernel.html#a66d256e4c43684a4f900aa4e6a83ed42',1,'kernel']]],
-  ['height',['height',['../d1/d11/structhal_1_1multiboot__fb.html#acd06880abba9a16e9d9856c8970a2cb9',1,'hal::multiboot_fb::height()'],['../d4/de7/structkernel_1_1fb__info.html#a9882ac292323510bc992e9f90b951696',1,'kernel::fb_info::height()'],['../d7/da2/namespacekernel.html#ada8a67f334c346e024db0d9d14697b9c',1,'kernel::height()'],['../d0/d7f/namespacehal.html#a601082757b3228e73d4f45d8cad38530',1,'hal::height()']]],
+  ['height',['height',['../d1/d11/structhal_1_1multiboot__fb.html#acd06880abba9a16e9d9856c8970a2cb9',1,'hal::multiboot_fb::height()'],['../d4/de7/structkernel_1_1fb__info.html#a9882ac292323510bc992e9f90b951696',1,'kernel::fb_info::height()'],['../d0/d93/classkernel_1_1buffer.html#aa9bffd159599f1a285a29fab497a4bf8',1,'kernel::buffer::height()'],['../dc/d25/fb_8h.html#ad12fc34ce789bce6c8a05d8a17138534',1,'height():&#160;fb.h'],['../d0/d7f/namespacehal.html#a601082757b3228e73d4f45d8cad38530',1,'hal::height()']]],
   ['hex',['hex',['../d0/d7f/namespacehal.html#a71680689792d94c46dba554dfd816d18',1,'hal']]]
 ];

@@ -1,7 +1,7 @@
 var hierarchy =
 [
     [ "acpi::ACPI", "d9/d66/structacpi_1_1ACPI.html", null ],
-    [ "kernel::buffer_param", "d7/ddb/structkernel_1_1buffer__param.html", null ],
+    [ "kernel::buffer", "d0/d93/classkernel_1_1buffer.html", null ],
     [ "unicode::bytes", "de/d03/classunicode_1_1bytes.html", null ],
     [ "unicode::codepoints", "d4/da2/classunicode_1_1codepoints.html", null ],
     [ "unicode::codeunits", "d2/d47/classunicode_1_1codeunits.html", null ],

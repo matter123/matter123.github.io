@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['bgr',['BGR',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07ba192038bf20cb3ec4ece1394c48d1da86',1,'kernel::buffer_param']]],
-  ['bgr_5f16',['BGR_16',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07ba8e2393dde4d9ce211e8f89007623afe9',1,'kernel::buffer_param']]],
-  ['bgrx',['BGRX',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07bab6dc5eb6330f6dec6e4af4aaa5e4a0f1',1,'kernel::buffer_param']]],
-  ['bgrx_5f16',['BGRX_16',['../d7/ddb/structkernel_1_1buffer__param.html#a030031fb932443952f17a033f6d3e07ba7cd0b375a222981238fbdd7242f4c2d6',1,'kernel::buffer_param']]]
+  ['bgr',['BGR',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9a431a9365679b7f89b12acc409ba47ebe',1,'kernel']]],
+  ['bgr_5f16',['BGR_16',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9a74328b728a09bc0dd070061c474c1fd1',1,'kernel']]],
+  ['bgrx',['BGRX',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9a6b23a4b670fcdca27c245e143f956826',1,'kernel']]],
+  ['bgrx_5f16',['BGRX_16',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9a2cb09002e0ff52d94e4bf34b648b043c',1,'kernel']]]
 ];
