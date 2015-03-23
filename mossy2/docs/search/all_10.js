@@ -1,7 +1,7 @@
 var searchData=
 [
   ['p',['p',['../dd/def/classstd_1_1unique__ptr.html#a3c0c18b20882a1cb817cd5d24e1e93f6',1,'std::unique_ptr::p()'],['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a151045742102c418238fac3e6ece51df',1,'std::unique_ptr&lt; T[]&gt;::p()'],['../df/ddb/classstd_1_1shared__ptr.html#ac073d90b3d2686328e4042b82ef3f0da',1,'std::shared_ptr::p()'],['../d7/db0/namespacex64.html#a223d142bd01d3237b7ab42de070244d4',1,'x64::p()'],['../d1/d08/namespacex86.html#ad2376b6cc590cb280b190c1af710e40a',1,'x86::p()']]],
-  ['pack',['pack',['../d0/d93/classkernel_1_1buffer.html#a16a798015b5e2353a11cf520c4cb9420',1,'kernel::buffer::pack()'],['../dc/d25/fb_8h.html#a7b0a4e79161f4d71a0740992ca9e013d',1,'pack():&#160;fb.h']]],
+  ['pack',['pack',['../d0/d93/classkernel_1_1buffer.html#a16a798015b5e2353a11cf520c4cb9420',1,'kernel::buffer']]],
   ['pack_5frgb',['pack_rgb',['../d7/da2/namespacekernel.html#a61f0eed7275e2ba7829bf649d880f91f',1,'kernel']]],
   ['packed',['PACKED',['../d2/d70/classx64_1_1recursive__paging.html#aa1b1fac5f0a2d2802065a4b6756d356c',1,'x64::recursive_paging::PACKED()'],['../d2/d70/classx64_1_1recursive__paging.html#afd86ea79b5a7c7bccbeb776098c3c248',1,'x64::recursive_paging::PACKED()'],['../d2/d70/classx64_1_1recursive__paging.html#ab7c99cf11b4c3143c7a3b1f797e9c855',1,'x64::recursive_paging::PACKED()'],['../d2/d70/classx64_1_1recursive__paging.html#adf478e68e0265fd07dd05f2c5ba3329e',1,'x64::recursive_paging::PACKED()'],['../d2/d70/classx64_1_1recursive__paging.html#a42155ec3e8fb036fed2832dd9f26436b',1,'x64::recursive_paging::PACKED()'],['../d2/d70/classx64_1_1recursive__paging.html#acb85d2b259df22975b48b06cf8648d59',1,'x64::recursive_paging::PACKED()'],['../d2/d70/classx64_1_1recursive__paging.html#ad9e1d3e6c59c1f2c5a5414ec3e5b3c0e',1,'x64::recursive_paging::PACKED()'],['../d2/d70/classx64_1_1recursive__paging.html#abec65aa27571fcb3d1ebc2b098374441',1,'x64::recursive_paging::PACKED()'],['../d4/db3/classx86_1_1recursive__paging.html#ac3830c9a4857506d1312cdf05a23f10b',1,'x86::recursive_paging::PACKED()'],['../d4/db3/classx86_1_1recursive__paging.html#a8c07f72a7a39b3dd05bc2032d612c7a6',1,'x86::recursive_paging::PACKED()'],['../d4/db3/classx86_1_1recursive__paging.html#a327c963f8423ebff798f8390a4614afe',1,'x86::recursive_paging::PACKED()'],['../d4/db3/classx86_1_1recursive__paging.html#ad2d9acee7de613bc113f37dcad288d6f',1,'x86::recursive_paging::PACKED()'],['../d4/db3/classx86_1_1recursive__paging.html#a598cd38802924a3c575bfe84a7ae6df1',1,'x86::recursive_paging::PACKED()'],['../d3/d94/namespaceacpi.html#a2fe36ce0b364050a3b16218af104e91a',1,'acpi::PACKED()'],['../d1/d08/namespacex86.html#a60d5fde6a39e19169422fa346f6877fa',1,'x86::PACKED()'],['../d7/db0/namespacex64.html#ab02bc0b6c2f0ca4c6cd5bc7521f84387',1,'x64::PACKED()'],['../d0/d7f/namespacehal.html#a2923aadaf0802295854388d962a0a518',1,'hal::PACKED()']]],
   ['packing',['packing',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9',1,'kernel']]],
@@ -26,7 +26,7 @@ var searchData=
   ['panic_2eh',['panic.h',['../df/d1f/panic_8h.html',1,'']]],
   ['passed',['passed',['../de/d97/classkernel_1_1test__module.html#a0d9e6da38152c610636bfa2332faa178',1,'kernel::test_module']]],
   ['passthrough',['PASSTHROUGH',['../d7/da2/namespacekernel.html#a609f4f38382975bf71ebdc05ec3a40f9a053ade4977bbdf07e5e8cc9419bc465e',1,'kernel']]],
-  ['pastel',['pastel',['../d7/da2/namespacekernel.html#a1666886d7dfaf8d85ec4440d44d72649',1,'kernel']]],
+  ['pastel',['pastel',['../d4/da8/structkernel_1_1color.html#a12aa40f3b4f4a96fc09c37fb15e2945f',1,'kernel::color']]],
   ['pat',['pat',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a91773d598e4c9202e9c4c0687d8f2b82',1,'x64::recursive_paging::pte']]],
   ['pc',['pc',['../db/d1b/namespacepc.html',1,'']]],
   ['pc_5fcompatibile',['pc_compatibile',['../d9/dd3/structacpi_1_1MADT.html#ac1de5b997861a86e17f158b850e3b749',1,'acpi::MADT']]],
@@ -91,6 +91,6 @@ var searchData=
   ['pte',['pte',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html',1,'x64::recursive_paging']]],
   ['pte',['pte',['../df/deb/structx86_1_1recursive__paging_1_1pte.html',1,'x86::recursive_paging']]],
   ['ptra',['ptra',['../de/daf/time_8cpp.html#a4df37f13e9fb76d595bc309900fb7408',1,'time.cpp']]],
-  ['pure',['pure',['../d7/da2/namespacekernel.html#a2e69ea4b3ef93380cc3742362ccf9ceb',1,'kernel']]],
+  ['pure',['pure',['../d4/da8/structkernel_1_1color.html#aad75ebe47b806fb2b3ce3b04e547bc04',1,'kernel::color']]],
   ['put_5fpixel',['put_pixel',['../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75',1,'kernel']]]
 ];

@@ -1,6 +1,7 @@
 var namespacekernel =
 [
     [ "buffer", "d0/d93/classkernel_1_1buffer.html", "d0/d93/classkernel_1_1buffer" ],
+    [ "color", "d4/da8/structkernel_1_1color.html", "d4/da8/structkernel_1_1color" ],
     [ "fb_info", "d4/de7/structkernel_1_1fb__info.html", "d4/de7/structkernel_1_1fb__info" ],
     [ "glyph_int", "da/dcc/structkernel_1_1glyph__int.html", "da/dcc/structkernel_1_1glyph__int" ],
     [ "HEAD", "d4/d48/structkernel_1_1HEAD.html", "d4/d48/structkernel_1_1HEAD" ],

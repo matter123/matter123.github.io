@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['_7ebuffer',['~buffer',['../d0/d93/classkernel_1_1buffer.html#a479b17179a0ef09dfd872f8e718b057b',1,'kernel::buffer::~buffer()'],['../dc/d25/fb_8h.html#a1ad44175ea303454220799befb317eaa',1,'~buffer():&#160;fb.h']]],
+  ['_7ebuffer',['~buffer',['../d0/d93/classkernel_1_1buffer.html#a479b17179a0ef09dfd872f8e718b057b',1,'kernel::buffer']]],
   ['_7emutex',['~mutex',['../da/d9b/classkernel_1_1mutex.html#a30d76ef8033b9ee0e2c92cb633126870',1,'kernel::mutex']]],
   ['_7esemaphore',['~semaphore',['../d4/d6c/classkernel_1_1semaphore.html#ad11859b0bf0af7ec71ecc20ca6f45d97',1,'kernel::semaphore']]],
   ['_7eshared_5fptr',['~shared_ptr',['../df/ddb/classstd_1_1shared__ptr.html#a34727c5f715c78bfd7c0c882f53e352a',1,'std::shared_ptr']]],

@@ -19,7 +19,7 @@ var searchData=
   ['color',['color',['../d7/d79/classhal_1_1ostream.html#a022f5ed3efa9e73768eb77be6c7e9eac',1,'hal::ostream']]],
   ['count',['count',['../df/ddb/classstd_1_1shared__ptr.html#a05cb418f2a11ef7a6d0b5429dd228fbc',1,'std::shared_ptr::count()'],['../d8/de8/namespacex86__64.html#a400047baf98b949833df227c907d7a1e',1,'x86_64::count()'],['../d0/d7f/namespacehal.html#a5480a292d2e7a8631d1c4712058078a9',1,'hal::count()']]],
   ['cout',['cout',['../d0/d7f/namespacehal.html#a313e0ab6d0735538fa42c52df5b947b8',1,'hal']]],
-  ['cow',['cow',['../d0/d93/classkernel_1_1buffer.html#af0dc110d1847a914b2f1367b876e5e15',1,'kernel::buffer::cow()'],['../dc/d25/fb_8h.html#a34601acd654ad832cf35c0957c01282a',1,'cow():&#160;fb.h']]],
+  ['cow',['cow',['../d0/d93/classkernel_1_1buffer.html#af0dc110d1847a914b2f1367b876e5e15',1,'kernel::buffer']]],
   ['cpu_5fstate',['cpu_state',['../db/db7/structkernel_1_1thread__info.html#afbb9ae3c7d61cce6a2ae83bced998101',1,'kernel::thread_info']]],
   ['cr0',['cr0',['../da/d9b/structcpu__state.html#a6cb22fcc7c0ef7c1e23c2118e728a476',1,'cpu_state']]],
   ['cr2',['cr2',['../da/d9b/structcpu__state.html#ab05344fbb0edbab9ad475438bc7f855a',1,'cpu_state']]],

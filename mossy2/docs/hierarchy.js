@@ -5,6 +5,7 @@ var hierarchy =
     [ "unicode::bytes", "de/d03/classunicode_1_1bytes.html", null ],
     [ "unicode::codepoints", "d4/da2/classunicode_1_1codepoints.html", null ],
     [ "unicode::codeunits", "d2/d47/classunicode_1_1codeunits.html", null ],
+    [ "kernel::color", "d4/da8/structkernel_1_1color.html", null ],
     [ "cpu_state", "da/d9b/structcpu__state.html", null ],
     [ "acpi::FACS", "da/d3e/structacpi_1_1FACS.html", null ],
     [ "kernel::fb_info", "d4/de7/structkernel_1_1fb__info.html", null ],

@@ -37,7 +37,7 @@ var searchData=
   ['get_5frbp',['get_rbp',['../d5/d45/x64_2stackframe_8cpp.html#a005c3482b92a828cd688d714fe706183',1,'stackframe.cpp']]],
   ['get_5freg',['get_reg',['../d2/d2d/arch_8h.html#a70da18acf65c837e4927ff9bbc5fb86b',1,'get_reg(cpu_state *s, uint8_t reg):&#160;hal.cpp'],['../d3/d55/arch_2x64_2hal_8cpp.html#a70da18acf65c837e4927ff9bbc5fb86b',1,'get_reg(cpu_state *s, uint8_t reg):&#160;hal.cpp'],['../d9/d6b/arch_2x86_2hal_8cpp.html#a70da18acf65c837e4927ff9bbc5fb86b',1,'get_reg(cpu_state *s, uint8_t reg):&#160;hal.cpp']]],
   ['get_5freg_5fcount',['get_reg_count',['../d2/d2d/arch_8h.html#af3db02628c42460e4a97d7b9bac92c05',1,'get_reg_count():&#160;hal.cpp'],['../d3/d55/arch_2x64_2hal_8cpp.html#af3db02628c42460e4a97d7b9bac92c05',1,'get_reg_count():&#160;hal.cpp'],['../d9/d6b/arch_2x86_2hal_8cpp.html#af3db02628c42460e4a97d7b9bac92c05',1,'get_reg_count():&#160;hal.cpp']]],
-  ['get_5fscreen',['get_screen',['../d7/da2/namespacekernel.html#ad63013647f3e79cc0db709cdf99de84e',1,'kernel::get_screen()'],['../d7/da2/namespacekernel.html#a8f1b6d36092d4a26ec9f31ef1408162b',1,'kernel::get_screen()']]],
+  ['get_5fscreen',['get_screen',['../d7/da2/namespacekernel.html#a6eaf3f63f13d31e1dfc27dfcf36d0375',1,'kernel']]],
   ['get_5fstack',['get_stack',['../d7/da2/namespacekernel.html#a06a8e1bc1b0d7a650aba26bd76f95a4e',1,'kernel']]],
   ['get_5fstack_5fpointer',['get_stack_pointer',['../d2/d2d/arch_8h.html#aedd9619fc6862b9952567bbe5b1bd5d3',1,'arch.h']]],
   ['get_5ftag',['get_tag',['../d0/d7f/namespacehal.html#abea6f4be3270077bbff27c081d400527',1,'hal']]],
@@ -63,7 +63,7 @@ var searchData=
   ['gpe1_5fbase',['GPE1_base',['../d3/d53/structacpi_1_1FADT.html#aaef2b8d11433dde11900279c1c020410',1,'acpi::FADT']]],
   ['gpe1_5fblock',['GPE1_block',['../d3/d53/structacpi_1_1FADT.html#a29b09223eb022e1c77729365dd88bc62',1,'acpi::FADT']]],
   ['gpe1_5fblock_5flength',['GPE1_block_length',['../d3/d53/structacpi_1_1FADT.html#aacbc6b3a1a3b27309a0ac9a3f7b78d4a',1,'acpi::FADT']]],
-  ['green',['green',['../d7/d10/structhal_1_1multiboot__palette.html#a40672fa8f46fe87247de770d391d03e1',1,'hal::multiboot_palette::green()'],['../d7/da2/namespacekernel.html#a545b450d2b9afcdee2c7975a827280f6',1,'kernel::green()'],['../d9/d0d/namespacekernel_1_1colors.html#a11dbb46e1073fa740481d0451cf99bca',1,'kernel::colors::green()'],['../d3/d75/namespacestd_1_1TC.html#a279c81dcd0d56697a90b52cd46daf6f2',1,'std::TC::GREEN()']]],
+  ['green',['green',['../d7/d10/structhal_1_1multiboot__palette.html#a40672fa8f46fe87247de770d391d03e1',1,'hal::multiboot_palette::green()'],['../d4/da8/structkernel_1_1color.html#ad7981e481c6aa578b6765af8145b25b3',1,'kernel::color::green()'],['../d9/d0d/namespacekernel_1_1colors.html#a11dbb46e1073fa740481d0451cf99bca',1,'kernel::colors::green()'],['../d3/d75/namespacestd_1_1TC.html#a279c81dcd0d56697a90b52cd46daf6f2',1,'std::TC::GREEN()']]],
   ['green_5fmask',['green_mask',['../d2/d2e/structhal_1_1multiboot__ci__1.html#ad63dcac068d1fb6508f4f6e990b19a71',1,'hal::multiboot_ci_1']]],
   ['green_5fpos',['green_pos',['../d2/d2e/structhal_1_1multiboot__ci__1.html#a40b3b5546e1ac5bf40bae8308f064b6b',1,'hal::multiboot_ci_1']]],
   ['gs',['gs',['../da/d9b/structcpu__state.html#aeb40d6b7fb70644873f1a6a63f275158',1,'cpu_state']]]

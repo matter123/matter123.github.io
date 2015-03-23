@@ -125,6 +125,8 @@ Namespaces</h2></td></tr>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d93/classkernel_1_1buffer.html">buffer</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da8/structkernel_1_1color.html">color</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/structkernel_1_1fb__info.html">fb_info</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcc/structkernel_1_1glyph__int.html">glyph_int</a></td></tr>
@@ -198,7 +200,7 @@ Functions</h2></td></tr>
 <tr class="separator:ad0d14b76602f710c46cbc4ea768e18d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7339fb7bafea6a0c27b18ffdbd528251"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a7339fb7bafea6a0c27b18ffdbd528251">reset_fb</a> (int x, int y, int w, int h, int img_x, int img_y)</td></tr>
 <tr class="separator:a7339fb7bafea6a0c27b18ffdbd528251"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a355d8850e9f616d4df16325d54f05a75"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75">put_pixel</a> (int x, int y, uint32_t <a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a>)</td></tr>
+<tr class="memitem:a355d8850e9f616d4df16325d54f05a75"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75">put_pixel</a> (int x, int y, uint32_t <a class="el" href="../../d4/da8/structkernel_1_1color.html">color</a>)</td></tr>
 <tr class="separator:a355d8850e9f616d4df16325d54f05a75"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af2c053e24139ec5dd3d85f481a8df6be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#af2c053e24139ec5dd3d85f481a8df6be">copy_rect</a> (int x, int y, int w, int h, void *rect_buf)</td></tr>
 <tr class="separator:af2c053e24139ec5dd3d85f481a8df6be"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -260,18 +262,8 @@ Functions</h2></td></tr>
 <tr class="separator:a42aa075aa1bf373faef12862f3035d3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa8ee887a1b33655631a3f66d6be3a631"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#aa8ee887a1b33655631a3f66d6be3a631">init_scheduler</a> (<a class="el" href="../../db/db7/structkernel_1_1thread__info.html">thread_info</a> *cur_task)</td></tr>
 <tr class="separator:aa8ee887a1b33655631a3f66d6be3a631"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d70a35fb00cd7c3209e75d5e9b84f05"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a6d70a35fb00cd7c3209e75d5e9b84f05">whiten</a> ()</td></tr>
-<tr class="separator:a6d70a35fb00cd7c3209e75d5e9b84f05"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a336fb54f1e8fa98a32288bbfcb85b89c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a336fb54f1e8fa98a32288bbfcb85b89c">darken</a> ()</td></tr>
-<tr class="separator:a336fb54f1e8fa98a32288bbfcb85b89c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a608440e67c020bdf61f5e59704349cc3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a> (int <a class="el" href="../../d7/da2/namespacekernel.html#a05571cd9be22b87266652aead533a7ce">red</a>, int <a class="el" href="../../d7/da2/namespacekernel.html#a545b450d2b9afcdee2c7975a827280f6">green</a>, int <a class="el" href="../../d7/da2/namespacekernel.html#a8eb815061cb5ebe942b6547295a995e8">blue</a>, bool <a class="el" href="../../d7/da2/namespacekernel.html#a2e2b771f6bfb40e65f63a0bb7fb4f930">transparent</a>=false)</td></tr>
-<tr class="separator:a608440e67c020bdf61f5e59704349cc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1666886d7dfaf8d85ec4440d44d72649"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a1666886d7dfaf8d85ec4440d44d72649">pastel</a> (<a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a> <a class="el" href="../../d6/df4/rand_8c.html#a6ce17b018c47d0f1d0e53a458f741ad3">c</a>)</td></tr>
-<tr class="separator:a1666886d7dfaf8d85ec4440d44d72649"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e69ea4b3ef93380cc3742362ccf9ceb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a2e69ea4b3ef93380cc3742362ccf9ceb">pure</a> (<a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a> <a class="el" href="../../d6/df4/rand_8c.html#a6ce17b018c47d0f1d0e53a458f741ad3">c</a>)</td></tr>
-<tr class="separator:a2e69ea4b3ef93380cc3742362ccf9ceb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f1b6d36092d4a26ec9f31ef1408162b"><td class="memItemLeft" align="right" valign="top">class <a class="el" href="../../d0/d93/classkernel_1_1buffer.html">kernel::buffer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a8f1b6d36092d4a26ec9f31ef1408162b">get_screen</a> ()</td></tr>
-<tr class="separator:a8f1b6d36092d4a26ec9f31ef1408162b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6eaf3f63f13d31e1dfc27dfcf36d0375"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d93/classkernel_1_1buffer.html">buffer</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a6eaf3f63f13d31e1dfc27dfcf36d0375">get_screen</a> ()</td></tr>
+<tr class="separator:a6eaf3f63f13d31e1dfc27dfcf36d0375"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae1ddd30f8843ef8403a3156f1f08763b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d93/classkernel_1_1buffer.html">buffer</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ae1ddd30f8843ef8403a3156f1f08763b">get_front_buffer</a> ()</td></tr>
 <tr class="separator:ae1ddd30f8843ef8403a3156f1f08763b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4066a7e727a25f3d68ecb3970260d9f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d93/classkernel_1_1buffer.html">buffer</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a4066a7e727a25f3d68ecb3970260d9f3">get_background</a> ()</td></tr>
@@ -282,9 +274,9 @@ Functions</h2></td></tr>
 <tr class="separator:aa60b33805708791a7818c26c2b87fcdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3347cac35eac3e3e6f58c17d0eef83f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad3347cac35eac3e3e6f58c17d0eef83f">init_tr</a> ()</td></tr>
 <tr class="separator:ad3347cac35eac3e3e6f58c17d0eef83f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abcad2fae21958f0ef6e756765594f204"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204">draw_char_at</a> (int x, int y, uint32_t codepint, uint32_t <a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a>)</td></tr>
+<tr class="memitem:abcad2fae21958f0ef6e756765594f204"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#abcad2fae21958f0ef6e756765594f204">draw_char_at</a> (int x, int y, uint32_t codepint, uint32_t <a class="el" href="../../d4/da8/structkernel_1_1color.html">color</a>)</td></tr>
 <tr class="separator:abcad2fae21958f0ef6e756765594f204"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae359f5def3051aa2ac414c23250951dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ae359f5def3051aa2ac414c23250951dd">draw_string_at</a> (int x, int y, const char *string, uint32_t <a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a>)</td></tr>
+<tr class="memitem:ae359f5def3051aa2ac414c23250951dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ae359f5def3051aa2ac414c23250951dd">draw_string_at</a> (int x, int y, const char *string, uint32_t <a class="el" href="../../d4/da8/structkernel_1_1color.html">color</a>)</td></tr>
 <tr class="separator:ae359f5def3051aa2ac414c23250951dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adcdf9dd78a49464915f2e53613b67c7b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/dcc/structkernel_1_1glyph__int.html">glyph_int</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#adcdf9dd78a49464915f2e53613b67c7b">get_glyph</a> (uint32_t codepoint)</td></tr>
 <tr class="separator:adcdf9dd78a49464915f2e53613b67c7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -316,16 +308,6 @@ Variables</h2></td></tr>
 <tr class="separator:a6be8a41112d379cb44810ec132f56966"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afa148d05e51d7847edb108cf991d3b17"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#afa148d05e51d7847edb108cf991d3b17">init</a> =false</td></tr>
 <tr class="separator:afa148d05e51d7847edb108cf991d3b17"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05571cd9be22b87266652aead533a7ce"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="../../d7/da2/namespacekernel.html#a609f4f38382975bf71ebdc05ec3a40f9">kernel::copy_mode</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a05571cd9be22b87266652aead533a7ce">red</a></td></tr>
-<tr class="separator:a05571cd9be22b87266652aead533a7ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a545b450d2b9afcdee2c7975a827280f6"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a545b450d2b9afcdee2c7975a827280f6">green</a></td></tr>
-<tr class="separator:a545b450d2b9afcdee2c7975a827280f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8eb815061cb5ebe942b6547295a995e8"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a8eb815061cb5ebe942b6547295a995e8">blue</a></td></tr>
-<tr class="separator:a8eb815061cb5ebe942b6547295a995e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e2b771f6bfb40e65f63a0bb7fb4f930"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a2e2b771f6bfb40e65f63a0bb7fb4f930">transparent</a></td></tr>
-<tr class="separator:a2e2b771f6bfb40e65f63a0bb7fb4f930"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad63013647f3e79cc0db709cdf99de84e"><td class="memItemLeft" align="right" valign="top">class <a class="el" href="../../d7/dc6/classkernel_1_1spinlock.html">kernel::spinlock</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad63013647f3e79cc0db709cdf99de84e">get_screen</a></td></tr>
-<tr class="separator:ad63013647f3e79cc0db709cdf99de84e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad25a050d6254afd7637c5f7a22977d41"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../da/dcc/structkernel_1_1glyph__int.html">kernel::glyph_int</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#ad25a050d6254afd7637c5f7a22977d41">glyphs</a></td></tr>
 <tr class="separator:ad25a050d6254afd7637c5f7a22977d41"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4dd5cbbc603f43acf1cdbb84c4a454d5"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../d3/da9/structkernel_1_1mbf__head.html">kernel::mbf_head</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da2/namespacekernel.html#a4dd5cbbc603f43acf1cdbb84c4a454d5">head</a></td></tr>
@@ -574,53 +556,6 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="a608440e67c020bdf61f5e59704349cc3"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">kernel::color </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>red</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>green</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>blue</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>transparent</em> = <code>false</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p><div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../d7/da2/namespacekernel_a608440e67c020bdf61f5e59704349cc3_icgraph.png" border="0" usemap="#d7/da2/namespacekernel_a608440e67c020bdf61f5e59704349cc3_icgraph" alt=""/></div>
-<map name="d7/da2/namespacekernel_a608440e67c020bdf61f5e59704349cc3_icgraph" id="d7/da2/namespacekernel_a608440e67c020bdf61f5e59704349cc3_icgraph">
-<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75" title="kernel::put_pixel" alt="" coords="155,5,283,32"/></map>
-</div>
-</p>
-
-</div>
-</div>
 <a class="anchor" id="af2c053e24139ec5dd3d85f481a8df6be"></a>
 <div class="memitem">
 <div class="memproto">
@@ -786,21 +721,6 @@ Here is the call graph for this function:</div>
 <area shape="rect" id="node2" href="../../d3/df7/srcs_2c_2include_2string_8h.html#a4cb469bec7b722064b97a406346acb61" title="memset" alt="" coords="379,23,455,50"/><area shape="rect" id="node3" href="../../d7/db0/namespacex64.html#a2b4bca1424e526f1921046272e173be2" title="x64::create_task" alt="" coords="200,23,331,50"/><area shape="rect" id="node4" href="../../d1/d08/namespacex86.html#abb449662ba632eb50509ed2a7021bade" title="x86::create_task" alt="" coords="200,74,331,100"/></map>
 </div>
 </p>
-
-</div>
-</div>
-<a class="anchor" id="a336fb54f1e8fa98a32288bbfcb85b89c"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a> kernel::darken </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
 
 </div>
 </div>
@@ -1286,12 +1206,12 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="a8f1b6d36092d4a26ec9f31ef1408162b"></a>
+<a class="anchor" id="a6eaf3f63f13d31e1dfc27dfcf36d0375"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">class <a class="el" href="../../d0/d93/classkernel_1_1buffer.html">kernel::buffer</a> kernel::get_screen </td>
+          <td class="memname"><a class="el" href="../../d0/d93/classkernel_1_1buffer.html">buffer</a>* kernel::get_screen </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1759,38 +1679,6 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="a1666886d7dfaf8d85ec4440d44d72649"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a> kernel::pastel </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a>&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a2e69ea4b3ef93380cc3742362ccf9ceb"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a> kernel::pure </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a>&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a class="anchor" id="a355d8850e9f616d4df16325d54f05a75"></a>
 <div class="memitem">
 <div class="memproto">
@@ -1820,15 +1708,6 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../d7/da2/namespacekernel_a355d8850e9f616d4df16325d54f05a75_cgraph.png" border="0" usemap="#d7/da2/namespacekernel_a355d8850e9f616d4df16325d54f05a75_cgraph" alt=""/></div>
-<map name="d7/da2/namespacekernel_a355d8850e9f616d4df16325d54f05a75_cgraph" id="d7/da2/namespacekernel_a355d8850e9f616d4df16325d54f05a75_cgraph">
-<area shape="rect" id="node2" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3" title="kernel::color" alt="" coords="181,5,283,32"/></map>
-</div>
-</p>
 
 </div>
 </div>
@@ -2189,21 +2068,6 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="a6d70a35fb00cd7c3209e75d5e9b84f05"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/da2/namespacekernel.html#a608440e67c020bdf61f5e59704349cc3">color</a> kernel::whiten </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Variable Documentation</h2>
 <a class="anchor" id="a6f5cf47ff1a7ef4fb1702e6fba39b04a"></a>
 <div class="memitem">
@@ -2233,18 +2097,6 @@ Here is the caller graph for this function:</div>
 <span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a8eb815061cb5ebe942b6547295a995e8"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const int kernel::blue</td>
-        </tr>
-      </table>
 </div><div class="memdoc">
 
 </div>
@@ -2293,36 +2145,12 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="ad63013647f3e79cc0db709cdf99de84e"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">class <a class="el" href="../../d7/dc6/classkernel_1_1spinlock.html">kernel::spinlock</a>* kernel::get_screen</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a class="anchor" id="ad25a050d6254afd7637c5f7a22977d41"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">struct <a class="el" href="../../da/dcc/structkernel_1_1glyph__int.html">kernel::glyph_int</a>* kernel::glyphs</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a545b450d2b9afcdee2c7975a827280f6"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const int kernel::green</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2367,18 +2195,6 @@ Here is the caller graph for this function:</div>
       <table class="memname">
         <tr>
           <td class="memname">uint32_t kernel::light[] = {0xDDDB97,0xDCDA9C,0xDBD9A0,0xDAD7A3,0xD9D6A7,0xD7D4AB,0xD6D3AF,0xD6D2B3}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a05571cd9be22b87266652aead533a7ce"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d7/da2/namespacekernel.html#a609f4f38382975bf71ebdc05ec3a40f9">kernel::copy_mode</a> kernel::red</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2461,25 +2277,13 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="a2e2b771f6bfb40e65f63a0bb7fb4f930"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool kernel::transparent</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/da2/namespacekernel.html">kernel</a></li>
-    <li class="footer">Generated on Sun Mar 22 2015 18:30:13 for MOSSY by
+    <li class="footer">Generated on Sun Mar 22 2015 18:38:41 for MOSSY by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>
