@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['screen',['SCREEN',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9a22ecdf515eefb9f970e45cae6edb172f',1,'kernel']]],
-  ['smbus',['SMBUS',['../d9/d9d/structacpi_1_1generic__address__space.html#aa4c8e0005f8ebc280f59c72529d9278dad0eff6f227887cadf2178a6837881ded',1,'acpi::generic_address_space']]],
-  ['soho_5fserver',['SOHO_SERVER',['../d3/d53/structacpi_1_1FADT.html#a394c99ae12f7b0028ae5a1a289c7ea56adcf3608785eca917662c7e94eae86266',1,'acpi::FADT']]],
-  ['stretch',['STRETCH',['../d7/da2/namespacekernel.html#a609f4f38382975bf71ebdc05ec3a40f9aef2a719c391774c3c1028b23cf408e8b',1,'kernel']]]
+  ['read_5fonly',['READ_ONLY',['../d7/da2/namespacekernel.html#a1e864bc4ad2cfc62539a22b35c549059ad35ac5458b512b0ec60faa390febad88',1,'kernel']]],
+  ['read_5fwrite',['READ_WRITE',['../d7/da2/namespacekernel.html#a1e864bc4ad2cfc62539a22b35c549059a29f68473b1ba7afcc78c32d04d8f8683',1,'kernel']]],
+  ['rgb',['RGB',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9a5a3455ceaccf52b67ce59a9ee9d170c1',1,'kernel']]],
+  ['rgb_5f16',['RGB_16',['../d7/da2/namespacekernel.html#ae6e342ea0d828fe88a1377e125428fd9a22cccce7b0549febc1e01856e1e6bc7b',1,'kernel']]]
 ];

@@ -1,6 +1,7 @@
 var dir_a8f4e402b6565304b6beca09b763da7b =
 [
     [ "sys", "dir_43c01a9b2d7cfae94e84a66c25ca51d3.html", "dir_43c01a9b2d7cfae94e84a66c25ca51d3" ],
+    [ "fast_sqrt.cpp", "da/dec/fast__sqrt_8cpp.html", null ],
     [ "fb.cpp", "dc/d75/fb_8cpp.html", "dc/d75/fb_8cpp" ],
     [ "heap.cpp", "de/d90/heap_8cpp.html", "de/d90/heap_8cpp" ],
     [ "kstacks.cpp", "d8/d8b/kstacks_8cpp.html", "d8/d8b/kstacks_8cpp" ],

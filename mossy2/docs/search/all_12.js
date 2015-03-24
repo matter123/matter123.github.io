@@ -102,6 +102,7 @@ var searchData=
   ['strtonum',['strtonum',['../d8/dcc/namespacestd.html#a0c9af6d56d382dd024287f009ab1e13d',1,'std']]],
   ['struct_2eh',['struct.h',['../df/dec/struct_8h.html',1,'']]],
   ['style_2emd',['style.md',['../d4/d54/style_8md.html',1,'']]],
+  ['sub',['SUB',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31adb811c59d3c9db78320fba2e10743b79',1,'kernel']]],
   ['subtract_5fleap',['subtract_leap',['../de/daf/time_8cpp.html#ab144c07538190318db1f1eacb9eeec26',1,'time.cpp']]],
   ['swap',['swap',['../dd/def/classstd_1_1unique__ptr.html#a7cbaafed0c1539c258013f6b51160cdf',1,'std::unique_ptr::swap()'],['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a32bcf39b1231e76709985bccac5493a9',1,'std::unique_ptr&lt; T[]&gt;::swap()'],['../df/ddb/classstd_1_1shared__ptr.html#ac83851289b4ad49263ce429bfc30948c',1,'std::shared_ptr::swap()'],['../dd/def/classstd_1_1unique__ptr.html#a7cbaafed0c1539c258013f6b51160cdf',1,'std::unique_ptr::swap()'],['../d3/d66/classstd_1_1unique__ptr_3_01T[]_4.html#a32bcf39b1231e76709985bccac5493a9',1,'std::unique_ptr&lt; T[]&gt;::swap()']]],
   ['swap_5fbyte_5forder',['swap_byte_order',['../d0/d7f/namespacehal.html#aa445d3ada0aa6545228b18c031982422',1,'hal']]],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['copy_5fmode',['copy_mode',['../d7/da2/namespacekernel.html#a609f4f38382975bf71ebdc05ec3a40f9',1,'kernel']]]
+  ['bit_5fblit_5fop',['bit_blit_op',['../d7/da2/namespacekernel.html#ad74843b9e0bb697065c4ec567b98ce31',1,'kernel']]]
 ];

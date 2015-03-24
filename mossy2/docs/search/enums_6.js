@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['write_5fpolicy',['write_policy',['../d7/da2/namespacekernel.html#a1e864bc4ad2cfc62539a22b35c549059',1,'kernel']]]
+  ['trigger_5fmode',['trigger_mode',['../d4/dd6/structacpi_1_1interrupt__override.html#af2f7977216771658e6efc3e7cb942920',1,'acpi::interrupt_override']]]
 ];

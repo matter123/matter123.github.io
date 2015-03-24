@@ -26,7 +26,7 @@ var searchData=
   ['panic_2eh',['panic.h',['../df/d1f/panic_8h.html',1,'']]],
   ['passed',['passed',['../de/d97/classkernel_1_1test__module.html#a0d9e6da38152c610636bfa2332faa178',1,'kernel::test_module']]],
   ['passthrough',['PASSTHROUGH',['../d7/da2/namespacekernel.html#a609f4f38382975bf71ebdc05ec3a40f9a053ade4977bbdf07e5e8cc9419bc465e',1,'kernel']]],
-  ['pastel',['pastel',['../d4/da8/structkernel_1_1color.html#a12aa40f3b4f4a96fc09c37fb15e2945f',1,'kernel::color']]],
+  ['pastel',['pastel',['../d7/da2/namespacekernel.html#a1666886d7dfaf8d85ec4440d44d72649',1,'kernel']]],
   ['pat',['pat',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html#a91773d598e4c9202e9c4c0687d8f2b82',1,'x64::recursive_paging::pte']]],
   ['pc',['pc',['../db/d1b/namespacepc.html',1,'']]],
   ['pc_5fcompatibile',['pc_compatibile',['../d9/dd3/structacpi_1_1MADT.html#ac1de5b997861a86e17f158b850e3b749',1,'acpi::MADT']]],
@@ -91,6 +91,6 @@ var searchData=
   ['pte',['pte',['../d3/d5e/structx64_1_1recursive__paging_1_1pte.html',1,'x64::recursive_paging']]],
   ['pte',['pte',['../df/deb/structx86_1_1recursive__paging_1_1pte.html',1,'x86::recursive_paging']]],
   ['ptra',['ptra',['../de/daf/time_8cpp.html#a4df37f13e9fb76d595bc309900fb7408',1,'time.cpp']]],
-  ['pure',['pure',['../d4/da8/structkernel_1_1color.html#aad75ebe47b806fb2b3ce3b04e547bc04',1,'kernel::color']]],
+  ['pure',['pure',['../d7/da2/namespacekernel.html#a2e69ea4b3ef93380cc3742362ccf9ceb',1,'kernel']]],
   ['put_5fpixel',['put_pixel',['../d7/da2/namespacekernel.html#a355d8850e9f616d4df16325d54f05a75',1,'kernel']]]
 ];
